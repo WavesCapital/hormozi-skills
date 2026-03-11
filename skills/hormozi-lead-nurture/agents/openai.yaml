@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi Lead Nurture"
+  short_description: "Improve follow-up and show rate"
+  default_prompt: "Use $hormozi-lead-nurture to improve this follow-up and show-rate system."
+
+policy:
+  allow_implicit_invocation: true

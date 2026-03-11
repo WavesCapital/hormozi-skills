@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi Closing"
+  short_description: "Improve closing and objections"
+  default_prompt: "Use $hormozi-closing to improve this sales message or objection flow."
+
+policy:
+  allow_implicit_invocation: true

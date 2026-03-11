@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi Branding"
+  short_description: "Build fame and brand demand"
+  default_prompt: "Use $hormozi-branding to make this brand more memorable and dominant."
+
+policy:
+  allow_implicit_invocation: true

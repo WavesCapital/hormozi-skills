@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi Scaling Roadmap"
+  short_description: "Diagnose stage and next priorities"
+  default_prompt: "Use $hormozi-scaling-roadmap to identify the current stage and bottleneck."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi Skills"
+  short_description: "Route to the right Hormozi skill"
+  default_prompt: "Use $hormoziskills to choose the right Hormozi skill or combination of skills for this task."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi GOATed Ads"
+  short_description: "Create scalable direct-response ads"
+  default_prompt: "Use $hormozi-goated-ads to turn this offer into a set of ad concepts."
+
+policy:
+  allow_implicit_invocation: true

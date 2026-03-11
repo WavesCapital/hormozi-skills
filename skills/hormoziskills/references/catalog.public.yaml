@@ -1,0 +1,183 @@
+skills:
+  - id: hormozi-offers
+    alias: /hormozi-offers
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Diagnose and strengthen offers using Hormozi's value equation, grand slam offer, and enhancement frameworks."
+    use_when:
+      - "Improve this offer"
+      - "Rewrite this package so it feels irresistible"
+      - "What guarantee or bonus should we add?"
+    do_not_use_for:
+      - "Get me more cold traffic"
+      - "Write 20 ad concepts"
+  - id: hormozi-leads
+    alias: /hormozi-leads
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Diagnose acquisition bottlenecks and recommend lead-generation channels, lead magnets, CTAs, and lead-getter systems."
+    use_when:
+      - "We need more qualified leads"
+      - "Which acquisition channels should we use first?"
+      - "Why did our lead flow stall?"
+    do_not_use_for:
+      - "Fix our close rate"
+      - "Improve show rate after booking"
+  - id: hormozi-money-models
+    alias: /hormozi-money-models
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Map and improve money models using attraction, upsell, downsell, and continuity architecture."
+    use_when:
+      - "How do we get customers to spend more money faster?"
+      - "Redesign our monetization stack"
+      - "What back-end offers should follow this front end?"
+    do_not_use_for:
+      - "Write a price increase email"
+      - "What stage is this business in?"
+  - id: hormozi-hooks
+    alias: /hormozi-hooks
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Generate, score, and adapt hooks across channels using Hormozi hook frameworks."
+    use_when:
+      - "Give me 30 hooks for this offer"
+      - "Improve these opening lines"
+      - "Adapt these hooks for email and YouTube"
+    do_not_use_for:
+      - "Write the whole ad campaign"
+      - "Diagnose our pricing model"
+  - id: hormozi-goated-ads
+    alias: /hormozi-goated-ads
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Turn offers into ad concepts and creative testing plans using GOATed Ads structure."
+    use_when:
+      - "Turn this offer into 12 ad concepts"
+      - "Make paid social ads that can scale"
+      - "Generate hook/meat/CTA variants"
+    do_not_use_for:
+      - "Which lead channel should we choose?"
+      - "Build a VSL launch funnel"
+  - id: hormozi-lead-nurture
+    alias: /hormozi-lead-nurture
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Improve response, scheduling, follow-up, and show-rate systems."
+    use_when:
+      - "Booked leads are ghosting us"
+      - "Improve our show rate"
+      - "Write a 7-touch follow-up"
+    do_not_use_for:
+      - "Get us more cold leads"
+      - "Rewrite the core offer"
+  - id: hormozi-closing
+    alias: /hormozi-closing
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Improve objection handling, call structure, and closer messaging."
+    use_when:
+      - "Our prospects keep objecting on price"
+      - "Give me closes for indecisive leads"
+      - "Fix this sales call script"
+    do_not_use_for:
+      - "Improve booked-call show rate"
+      - "Create ad hooks for Instagram"
+  - id: hormozi-pricing
+    alias: /hormozi-pricing
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Set prices, restructure packages, and plan safe price raises."
+    use_when:
+      - "What should we charge for this?"
+      - "How do we raise prices safely?"
+      - "Compare monthly vs annual pricing"
+    do_not_use_for:
+      - "Get us more leads"
+      - "Map our whole monetization ladder"
+  - id: hormozi-customer-value
+    alias: /hormozi-customer-value
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Increase post-purchase customer value through retention, expansion, and fast-cash moves."
+    use_when:
+      - "How do we make each customer worth more?"
+      - "Churn is killing us"
+      - "We need cash in 30 days without new acquisition"
+    do_not_use_for:
+      - "Write cold ad concepts"
+      - "Stage this company on the roadmap"
+  - id: hormozi-proof
+    alias: /hormozi-proof
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Audit and improve proof, trust, and credibility systems."
+    use_when:
+      - "What proof are we missing?"
+      - "Help organize testimonials for this sales page"
+      - "Why don't prospects believe this claim?"
+    do_not_use_for:
+      - "Raise prices without churn"
+      - "Build a launch calendar"
+  - id: hormozi-branding
+    alias: /hormozi-branding
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Build fame, authority, association, and brand-driven demand."
+    use_when:
+      - "Make this brand more memorable"
+      - "How do we become the obvious name in this category?"
+      - "What associations should our brand build?"
+    do_not_use_for:
+      - "Write 20 direct-response ads"
+      - "Fix our close script"
+  - id: hormozi-scaling-roadmap
+    alias: /hormozi-scaling-roadmap
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Diagnose business stage, bottleneck, priorities, and anti-priorities."
+    use_when:
+      - "What stage is this business in?"
+      - "What should we stop doing right now?"
+      - "What is our next bottleneck?"
+    do_not_use_for:
+      - "Write launch ads for this webinar"
+      - "Draft a price increase letter"
+  - id: hormozi-team-scaling
+    alias: /hormozi-team-scaling
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Install team communication, service, and operating-system frameworks for scale."
+    use_when:
+      - "Install a better weekly management cadence"
+      - "Service quality is slipping as we scale"
+      - "How should raises work on this team?"
+    do_not_use_for:
+      - "What stage is the company in?"
+      - "Create a lead nurture sequence"
+  - id: hormozi-launch-campaigns
+    alias: /hormozi-launch-campaigns
+    implementation_status: available
+    distribution_status: public
+    public_handling: user-supplied
+    job: "Design launches, affiliate systems, VSL funnels, and page-flow orchestration."
+    use_when:
+      - "Plan a live launch funnel for this product"
+      - "Build the affiliate rollout and prize structure"
+      - "Map the registration-to-upsell page flow"
+    do_not_use_for:
+      - "Improve evergreen churn"
+      - "Diagnose what stage our business is in"

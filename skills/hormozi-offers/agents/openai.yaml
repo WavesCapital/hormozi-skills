@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hormozi Offers"
+  short_description: "Improve offer structure and value"
+  default_prompt: "Use $hormozi-offers to diagnose and strengthen this offer."
+
+policy:
+  allow_implicit_invocation: true
