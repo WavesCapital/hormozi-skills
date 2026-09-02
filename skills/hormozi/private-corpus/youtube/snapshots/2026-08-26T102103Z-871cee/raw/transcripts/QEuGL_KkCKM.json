@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3439",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "You could have the best business"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "1199",
+      "startTimeText": "0:01",
+      "text": "strategy in the world, but if you have"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "3439",
+      "startTimeText": "0:03",
+      "text": "low tolerance, if you have low"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "fortitude, if you have low resilience,"
+    },
+    {
+      "endMs": "13120",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "if you have low adaptability, you will"
+    },
+    {
+      "endMs": "15920",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "fail. So many people are looking for the"
+    },
+    {
+      "endMs": "17600",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "latest tactic when most of the time they"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "15920",
+      "startTimeText": "0:15",
+      "text": "can't execute anything for a consistent"
+    },
+    {
+      "endMs": "21279",
+      "startMs": "17600",
+      "startTimeText": "0:17",
+      "text": "period of time because they get in their"
+    },
+    {
+      "endMs": "23680",
+      "startMs": "18880",
+      "startTimeText": "0:18",
+      "text": "own way. They allow the world to dictate"
+    },
+    {
+      "endMs": "23680",
+      "startMs": "21279",
+      "startTimeText": "0:21",
+      "text": "how they"
+    }
+  ],
+  "transcript_only_text": " You  could  have  the  best  business \n strategy  in  the  world,  but  if  you  have \n low  tolerance,  if  you  have  low \n fortitude,  if  you  have  low  resilience, \n if  you  have  low  adaptability,  you  will \n fail.  So  many  people  are  looking  for  the \n latest  tactic  when  most  of  the  time  they \n can't  execute  anything  for  a  consistent \n period  of  time  because  they  get  in  their \n own  way.  They  allow  the  world  to  dictate \n how  they",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=QEuGL_KkCKM",
+  "videoId": "QEuGL_KkCKM"
+}

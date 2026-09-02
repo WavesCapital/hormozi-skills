@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Why do people stay broke? Bad spending"
+    },
+    {
+      "endMs": "6520",
+      "startMs": "2840",
+      "startTimeText": "0:02",
+      "text": "or no skills? No skills."
+    },
+    {
+      "endMs": "7440",
+      "startMs": "4720",
+      "startTimeText": "0:04",
+      "text": "No skills or no college degree? No"
+    },
+    {
+      "endMs": "9920",
+      "startMs": "6520",
+      "startTimeText": "0:06",
+      "text": "skills."
+    },
+    {
+      "endMs": "12600",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "No skills or stupid habits? No skills."
+    },
+    {
+      "endMs": "15400",
+      "startMs": "9920",
+      "startTimeText": "0:09",
+      "text": "No skills or bad influences? No skills."
+    },
+    {
+      "endMs": "18400",
+      "startMs": "12600",
+      "startTimeText": "0:12",
+      "text": "No skills or zero ambition?"
+    },
+    {
+      "endMs": "22240",
+      "startMs": "15400",
+      "startTimeText": "0:15",
+      "text": "No skills. No skills or no discipline?"
+    },
+    {
+      "endMs": "24880",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "No skills. No skills or fear of trying?"
+    },
+    {
+      "endMs": "24880",
+      "startMs": "22240",
+      "startTimeText": "0:22",
+      "text": "No skills."
+    },
+    {
+      "endMs": "30130",
+      "startMs": "26360",
+      "startTimeText": "0:26",
+      "text": "Yeah, if you suck at"
+    },
+    {
+      "endMs": "32150",
+      "startMs": "28320",
+      "startTimeText": "0:28",
+      "text": "nothing else really matters."
+    },
+    {
+      "endMs": "32150",
+      "startMs": "30130",
+      "startTimeText": "0:30",
+      "text": ">> [laughter]"
+    }
+  ],
+  "transcript_only_text": " Why  do  people  stay  broke?  Bad  spending \n or  no  skills?  No  skills. \n No  skills  or  no  college  degree?  No \n skills. \n No  skills  or  stupid  habits?  No  skills. \n No  skills  or  bad  influences?  No  skills. \n No  skills  or  zero  ambition? \n No  skills.  No  skills  or  no  discipline? \n No  skills.  No  skills  or  fear  of  trying? \n No  skills. \n Yeah,  if  you  suck  at \n nothing  else  really  matters. \n >> [laughter]",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=EkiMUs1_MFo",
+  "videoId": "EkiMUs1_MFo"
+}

@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I'm sure this is going to piss off the"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "exact same people that we think it's"
+    },
+    {
+      "endMs": "6550",
+      "startMs": "2880",
+      "startTimeText": "0:02",
+      "text": "going to piss off. You don't need a"
+    },
+    {
+      "endMs": "7600",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "weekend. Like the concept is barely 100"
+    },
+    {
+      "endMs": "9160",
+      "startMs": "6550",
+      "startTimeText": "0:06",
+      "text": "[music] years old. It's a modern"
+    },
+    {
+      "endMs": "10280",
+      "startMs": "7600",
+      "startTimeText": "0:07",
+      "text": "invention. Right? What you really need"
+    },
+    {
+      "endMs": "12120",
+      "startMs": "9160",
+      "startTimeText": "0:09",
+      "text": "is work that you don't need a weekend"
+    },
+    {
+      "endMs": "14360",
+      "startMs": "10280",
+      "startTimeText": "0:10",
+      "text": "from. Like there are seasons of work and"
+    },
+    {
+      "endMs": "15920",
+      "startMs": "12120",
+      "startTimeText": "0:12",
+      "text": "there are seasons of less work. My goal"
+    },
+    {
+      "endMs": "19320",
+      "startMs": "14360",
+      "startTimeText": "0:14",
+      "text": "would always be that I just never have"
+    },
+    {
+      "endMs": "19320",
+      "startMs": "15920",
+      "startTimeText": "0:15",
+      "text": "something I want to retire from."
+    }
+  ],
+  "transcript_only_text": " I'm  sure  this  is  going  to  piss  off  the \n exact  same  people  that  we  think  it's \n going  to  piss  off.  You  don't  need  a \n weekend.  Like  the  concept  is  barely  100 \n [music]  years  old.  It's  a  modern \n invention.  Right?  What  you  really  need \n is  work  that  you  don't  need  a  weekend \n from.  Like  there  are  seasons  of  work  and \n there  are  seasons  of  less  work.  My  goal \n would  always  be  that  I  just  never  have \n something  I  want  to  retire  from.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=lXVmm9BfwtE",
+  "videoId": "lXVmm9BfwtE"
+}

@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is the once in a generation move"
+    },
+    {
+      "endMs": "5560",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "right now. The next 5 years will be"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "nuts. 25 years ago cloud computing came"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "5560",
+      "startTimeText": "0:05",
+      "text": "out and all the billionaires were made."
+    },
+    {
+      "endMs": "10960",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": "The next boom is this. And so the hard"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "of this is like, well, the pieces don't"
+    },
+    {
+      "endMs": "13760",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "all fit together perfectly yet. And it's"
+    },
+    {
+      "endMs": "16800",
+      "startMs": "12520",
+      "startTimeText": "0:12",
+      "text": "like, well, that's the figure out that"
+    },
+    {
+      "endMs": "16800",
+      "startMs": "13760",
+      "startTimeText": "0:13",
+      "text": "we make lots of money from."
+    }
+  ],
+  "transcript_only_text": " This  is  the  once  in  a  generation  move \n right  now.  The  next  5  years  will  be \n nuts.  25  years  ago  cloud  computing  came \n out  and  all  the  billionaires  were  made. \n The  next  boom  is  this.  And  so  the  hard \n of  this  is  like,  well,  the  pieces  don't \n all  fit  together  perfectly  yet.  And  it's \n like,  well,  that's  the  figure  out  that \n we  make  lots  of  money  from.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YtGTJbTkJ1s",
+  "videoId": "YtGTJbTkJ1s"
+}

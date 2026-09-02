@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you don't have the life you want, you"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "can change one of six things. Stick to"
+    },
+    {
+      "endMs": "7800",
+      "startMs": "3240",
+      "startTimeText": "0:03",
+      "text": "anything daily for an entire year. Move"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "cities. Upgrade romantic partners."
+    },
+    {
+      "endMs": "12080",
+      "startMs": "7800",
+      "startTimeText": "0:07",
+      "text": "Eliminate drinking and say no to shiny"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "objects, anything that's not what you're"
+    },
+    {
+      "endMs": "16080",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "currently working on. And you can go to"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": "bed every day at 9:00 p.m. If you don't"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "16080",
+      "startTimeText": "0:16",
+      "text": "like where you're at, just try one."
+    }
+  ],
+  "transcript_only_text": " If  you  don't  have  the  life  you  want,  you \n can  change  one  of  six  things.  Stick  to \n anything  daily  for  an  entire  year.  Move \n cities.  Upgrade  romantic  partners. \n Eliminate  drinking  and  say  no  to  shiny \n objects,  anything  that's  not  what  you're \n currently  working  on.  And  you  can  go  to \n bed  every  day  at  9:00  p.m.  If  you  don't \n like  where  you're  at,  just  try  one.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=o9h1kqT9MEA",
+  "videoId": "o9h1kqT9MEA"
+}

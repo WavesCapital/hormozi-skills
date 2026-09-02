@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you sell really complicated stuff, itcan be really tough to set up an"
+    },
+    {
+      "endMs": "8560",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "appointment if you're not the expert.Here's what you can say when someone"
+    },
+    {
+      "endMs": "11640",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "starts asking you really specificquestions. Totally hear where you're"
+    },
+    {
+      "endMs": "14880",
+      "startMs": "9640",
+      "startTimeText": "0:09",
+      "text": "coming from, but just like you wouldn'task the secretary what the heart"
+    },
+    {
+      "endMs": "17800",
+      "startMs": "13080",
+      "startTimeText": "0:13",
+      "text": "surgeon's going to do, I'm here just tomake sure that you're a good fit and"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "16160",
+      "startTimeText": "0:16",
+      "text": "that that heart surgeon can help you.So, I'm just going to ask you a couple"
+    },
+    {
+      "endMs": "22840",
+      "startMs": "18680",
+      "startTimeText": "0:18",
+      "text": "more questions to make sure that it'sthe right thing, and then I'll pass you"
+    },
+    {
+      "endMs": "26200",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "to the person who really is the expert.Sound good? Done."
+    }
+  ],
+  "transcript_only_text": " If you sell really complicated stuff, it\ncan be really tough to set up an appointment if you're not the expert.\nHere's what you can say when someone starts asking you really specific\nquestions. Totally hear where you're coming from, but just like you wouldn't\nask the secretary what the heart surgeon's going to do, I'm here just to\nmake sure that you're a good fit and that that heart surgeon can help you.\nSo, I'm just going to ask you a couple more questions to make sure that it's\nthe right thing, and then I'll pass you to the person who really is the expert.\nSound good? Done.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wwFSdKvNIo0",
+  "videoId": "wwFSdKvNIo0"
+}

@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people simply by"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "continuing to work without needing"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "6440",
+      "startTimeText": "0:06",
+      "text": "immediate reward. Cuz listen, until you"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "win, effort always goes unnoticed. And"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "even when you do win, effort still goes"
+    },
+    {
+      "endMs": "20840",
+      "startMs": "15440",
+      "startTimeText": "0:15",
+      "text": "unnoticed. You just get the benefits of"
+    },
+    {
+      "endMs": "23280",
+      "startMs": "18000",
+      "startTimeText": "0:18",
+      "text": "winning. And so stop needing the credit"
+    },
+    {
+      "endMs": "25120",
+      "startMs": "20840",
+      "startTimeText": "0:20",
+      "text": "for the work you do because it demands"
+    },
+    {
+      "endMs": "26560",
+      "startMs": "23280",
+      "startTimeText": "0:23",
+      "text": "that you need someone else's approval."
+    },
+    {
+      "endMs": "29880",
+      "startMs": "25120",
+      "startTimeText": "0:25",
+      "text": "And so if you're going to need approval,"
+    },
+    {
+      "endMs": "29880",
+      "startMs": "26560",
+      "startTimeText": "0:26",
+      "text": "you might as well start with your own."
+    }
+  ],
+  "transcript_only_text": " You  can  beat  99%  of  people  simply  by \n continuing  to  work  without  needing \n immediate  reward.  Cuz  listen,  until  you \n win,  effort  always  goes  unnoticed.  And \n even  when  you  do  win,  effort  still  goes \n unnoticed.  You  just  get  the  benefits  of \n winning.  And  so  stop  needing  the  credit \n for  the  work  you  do  because  it  demands \n that  you  need  someone  else's  approval. \n And  so  if  you're  going  to  need  approval, \n you  might  as  well  start  with  your  own.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=S3eMY6nGW6k",
+  "videoId": "S3eMY6nGW6k"
+}

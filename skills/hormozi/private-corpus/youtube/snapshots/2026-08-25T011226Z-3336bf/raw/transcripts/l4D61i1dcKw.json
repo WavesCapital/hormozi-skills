@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3280",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "If you're working leads and you get"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "ghosted at any part in the sales cycle,"
+    },
+    {
+      "endMs": "6720",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "just send them a meme. Like there's the"
+    },
+    {
+      "endMs": "7919",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "Kevin Hart meme where he's like, \"Where"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": "you at?\" It actually has the highest"
+    },
+    {
+      "endMs": "10719",
+      "startMs": "7919",
+      "startTimeText": "0:07",
+      "text": "response rate out of any messages that"
+    },
+    {
+      "endMs": "13040",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "we've sent. You can just send that to"
+    },
+    {
+      "endMs": "14880",
+      "startMs": "10719",
+      "startTimeText": "0:10",
+      "text": "your cold pipeline, send it to 200 guys,"
+    },
+    {
+      "endMs": "18240",
+      "startMs": "13040",
+      "startTimeText": "0:13",
+      "text": "uh, and you'll probably get five to 10"
+    },
+    {
+      "endMs": "18240",
+      "startMs": "14880",
+      "startTimeText": "0:14",
+      "text": "that just re-engage off of that."
+    }
+  ],
+  "transcript_only_text": " If  you're  working  leads  and  you  get \n ghosted  at  any  part  in  the  sales  cycle, \n just  send  them  a  meme.  Like  there's  the \n Kevin  Hart  meme  where  he's  like,  \"Where \n you  at?\"  It  actually  has  the  highest \n response  rate  out  of  any  messages  that \n we've  sent.  You  can  just  send  that  to \n your  cold  pipeline,  send  it  to  200  guys, \n uh,  and  you'll  probably  get  five  to  10 \n that  just  re-engage  off  of  that.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=l4D61i1dcKw",
+  "videoId": "l4D61i1dcKw"
+}

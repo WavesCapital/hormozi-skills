@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There's an investor saying, which is"
+    },
+    {
+      "endMs": "4320",
+      "startMs": "1080",
+      "startTimeText": "0:01",
+      "text": "hire one to hire 10."
+    },
+    {
+      "endMs": "5440",
+      "startMs": "2600",
+      "startTimeText": "0:02",
+      "text": "It's far higher leverage to find one"
+    },
+    {
+      "endMs": "6880",
+      "startMs": "4320",
+      "startTimeText": "0:04",
+      "text": "person"
+    },
+    {
+      "endMs": "8200",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "and then have that person hire 10 people"
+    },
+    {
+      "endMs": "9680",
+      "startMs": "6880",
+      "startTimeText": "0:06",
+      "text": "than it is to try and hire 10 people and"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "8200",
+      "startTimeText": "0:08",
+      "text": "then find someone to lead them. Because"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "9680",
+      "startTimeText": "0:09",
+      "text": "it also it gives you way more leverage,"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "too. Because like I just need to find"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "one savage. And then once I find that"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "savage, he will find other savages."
+    }
+  ],
+  "transcript_only_text": " There's  an  investor  saying,  which  is \n hire  one  to  hire  10. \n It's  far  higher  leverage  to  find  one \n person \n and  then  have  that  person  hire  10  people \n than  it  is  to  try  and  hire  10  people  and \n then  find  someone  to  lead  them.  Because \n it  also  it  gives  you  way  more  leverage, \n too.  Because  like  I  just  need  to  find \n one  savage.  And  then  once  I  find  that \n savage,  he  will  find  other  savages.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=QWZeNBw8Glc",
+  "videoId": "QWZeNBw8Glc"
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Pick one priority. This is more"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "important than everything else. If you"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "4800",
+      "startTimeText": "0:04",
+      "text": "haven't been able to decide that one"
+    },
+    {
+      "endMs": "9560",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "thing is more important, then you still"
+    },
+    {
+      "endMs": "11320",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "need to go back, lock yourself in the"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "9560",
+      "startTimeText": "0:09",
+      "text": "room, drink more coffee, and stare at it"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "11320",
+      "startTimeText": "0:11",
+      "text": "until you can actually decide to make"
+    },
+    {
+      "endMs": "15600",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "the trade-off saying, \"If all we"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "accomplish were this by the end of the"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "15600",
+      "startTimeText": "0:15",
+      "text": "year, that would be an amazing win.\" And"
+    },
+    {
+      "endMs": "22240",
+      "startMs": "18000",
+      "startTimeText": "0:18",
+      "text": "if that's true, then why accomplish"
+    },
+    {
+      "endMs": "22240",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "anything else?"
+    }
+  ],
+  "transcript_only_text": " Pick  one  priority.  This  is  more \n important  than  everything  else.  If  you \n haven't  been  able  to  decide  that  one \n thing  is  more  important,  then  you  still \n need  to  go  back,  lock  yourself  in  the \n room,  drink  more  coffee,  and  stare  at  it \n until  you  can  actually  decide  to  make \n the  trade-off  saying,  \"If  all  we \n accomplish  were  this  by  the  end  of  the \n year,  that  would  be  an  amazing  win.\"  And \n if  that's  true,  then  why  accomplish \n anything  else?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ejIraeE8TBc",
+  "videoId": "ejIraeE8TBc"
+}

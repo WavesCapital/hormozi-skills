@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When I started my gym, I used to pretend"
+    },
+    {
+      "endMs": "5400",
+      "startMs": "2320",
+      "startTimeText": "0:02",
+      "text": "that either were multiple employees that"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3880",
+      "startTimeText": "0:03",
+      "text": "worked at my gym. I would be like, \"This"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "is John. You're going to love Alex. Alex"
+    },
+    {
+      "endMs": "9560",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "is amazing. He's totally going to help"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "you out. He's helped out so many people"
+    },
+    {
+      "endMs": "13320",
+      "startMs": "9560",
+      "startTimeText": "0:09",
+      "text": "just like you.\" It's same same"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "edification script. They come in and"
+    },
+    {
+      "endMs": "15360",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "they'd be like, \"You sound a lot like"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "John.\" I'd be like, \"Get it all the"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "15360",
+      "startTimeText": "0:15",
+      "text": "time.\" And then you go into [laughter]"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "16720",
+      "startTimeText": "0:16",
+      "text": "it."
+    }
+  ],
+  "transcript_only_text": " When  I  started  my  gym,  I  used  to  pretend \n that  either  were  multiple  employees  that \n worked  at  my  gym.  I  would  be  like,  \"This \n is  John.  You're  going  to  love  Alex.  Alex \n is  amazing.  He's  totally  going  to  help \n you  out.  He's  helped  out  so  many  people \n just  like  you.\"  It's  same  same \n edification  script.  They  come  in  and \n they'd  be  like,  \"You  sound  a  lot  like \n John.\"  I'd  be  like,  \"Get  it  all  the \n time.\"  And  then  you  go  into  [laughter] \n it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=qrNc276etLQ",
+  "videoId": "qrNc276etLQ"
+}

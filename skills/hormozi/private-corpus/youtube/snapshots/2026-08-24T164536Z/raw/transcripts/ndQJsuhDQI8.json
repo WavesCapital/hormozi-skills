@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Education alone is not a recurring"
+    },
+    {
+      "endMs": "5160",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "product. Community is a recurring"
+    },
+    {
+      "endMs": "7080",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "product. Services are recurring"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "5160",
+      "startTimeText": "0:05",
+      "text": "products. We have to break apart our"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "7080",
+      "startTimeText": "0:07",
+      "text": "product offering into what are things"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "that are consumable and what are things"
+    },
+    {
+      "endMs": "13800",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "that are one-time. And so, I would"
+    },
+    {
+      "endMs": "15160",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "suggest probably raising the price or"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "13800",
+      "startTimeText": "0:13",
+      "text": "doing some sort of annual thing so that"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "15160",
+      "startTimeText": "0:15",
+      "text": "you can appropriately value the"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "16440",
+      "startTimeText": "0:16",
+      "text": "information or the education, and then"
+    },
+    {
+      "endMs": "23440",
+      "startMs": "18880",
+      "startTimeText": "0:18",
+      "text": "have a much smaller uh back end for the"
+    },
+    {
+      "endMs": "25080",
+      "startMs": "21680",
+      "startTimeText": "0:21",
+      "text": "access to the community and, you know,"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "23440",
+      "startTimeText": "0:23",
+      "text": "maybe other services or calls or"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "25080",
+      "startTimeText": "0:25",
+      "text": "whatever else that you do."
+    }
+  ],
+  "transcript_only_text": " Education  alone  is  not  a  recurring \n product.  Community  is  a  recurring \n product.  Services  are  recurring \n products.  We  have  to  break  apart  our \n product  offering  into  what  are  things \n that  are  consumable  and  what  are  things \n that  are  one-time.  And  so,  I  would \n suggest  probably  raising  the  price  or \n doing  some  sort  of  annual  thing  so  that \n you  can  appropriately  value  the \n information  or  the  education,  and  then \n have  a  much  smaller  uh  back  end  for  the \n access  to  the  community  and,  you  know, \n maybe  other  services  or  calls  or \n whatever  else  that  you  do.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ndQJsuhDQI8",
+  "videoId": "ndQJsuhDQI8"
+}

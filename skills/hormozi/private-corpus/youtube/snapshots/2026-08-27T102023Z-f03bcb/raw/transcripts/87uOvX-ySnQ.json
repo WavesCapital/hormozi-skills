@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Friendly reminder that feeling lost,"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1309",
+      "startTimeText": "0:01",
+      "text": "[music] anxious, and uncertain are good"
+    },
+    {
+      "endMs": "5760",
+      "startMs": "3040",
+      "startTimeText": "0:03",
+      "text": "signs. It means you're pushing past"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "where you know."
+    },
+    {
+      "endMs": "8240",
+      "startMs": "5760",
+      "startTimeText": "0:05",
+      "text": "They're called growing pains for a"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "reason. [music] Fastest way to change"
+    },
+    {
+      "endMs": "11040",
+      "startMs": "8240",
+      "startTimeText": "0:08",
+      "text": "your life is to get around people whose"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "minimum standards are your life goals."
+    },
+    {
+      "endMs": "14410",
+      "startMs": "11040",
+      "startTimeText": "0:11",
+      "text": "Avoiding people who make it harder for"
+    },
+    {
+      "endMs": "17680",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "you to achieve your goals is the highest"
+    },
+    {
+      "endMs": "17680",
+      "startMs": "14410",
+      "startTimeText": "0:14",
+      "text": "[music] form of self-care."
+    }
+  ],
+  "transcript_only_text": " Friendly  reminder  that  feeling  lost, \n [music]  anxious,  and  uncertain  are  good \n signs.  It  means  you're  pushing  past \n where  you  know. \n They're  called  growing  pains  for  a \n reason.  [music]  Fastest  way  to  change \n your  life  is  to  get  around  people  whose \n minimum  standards  are  your  life  goals. \n Avoiding  people  who  make  it  harder  for \n you  to  achieve  your  goals  is  the  highest \n [music]  form  of  self-care.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=87uOvX-ySnQ",
+  "videoId": "87uOvX-ySnQ"
+}

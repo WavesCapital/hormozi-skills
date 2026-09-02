@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Researchers actually had people try a"
+    },
+    {
+      "endMs": "6720",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "small price wine, a medium price wine,"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "an expensive wine, and rate them. And"
+    },
+    {
+      "endMs": "9920",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": "people said this was the worst, this was"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "the middle, and this was the best. But"
+    },
+    {
+      "endMs": "14600",
+      "startMs": "9920",
+      "startTimeText": "0:09",
+      "text": "the crazy part is is that the expensive"
+    },
+    {
+      "endMs": "16120",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "wine and the cheap wine were the exact"
+    },
+    {
+      "endMs": "17880",
+      "startMs": "14600",
+      "startTimeText": "0:14",
+      "text": "same wine. They just put them in a"
+    },
+    {
+      "endMs": "19680",
+      "startMs": "16120",
+      "startTimeText": "0:16",
+      "text": "different sleeve. That means that for"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "17880",
+      "startTimeText": "0:17",
+      "text": "us, if you just want people to like your"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "19680",
+      "startTimeText": "0:19",
+      "text": "stuff more, maybe just raise your price."
+    }
+  ],
+  "transcript_only_text": " Researchers  actually  had  people  try  a \n small  price  wine,  a  medium  price  wine, \n an  expensive  wine,  and  rate  them.  And \n people  said  this  was  the  worst,  this  was \n the  middle,  and  this  was  the  best.  But \n the  crazy  part  is  is  that  the  expensive \n wine  and  the  cheap  wine  were  the  exact \n same  wine.  They  just  put  them  in  a \n different  sleeve.  That  means  that  for \n us,  if  you  just  want  people  to  like  your \n stuff  more,  maybe  just  raise  your  price.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=a4QjgIwRXNY",
+  "videoId": "a4QjgIwRXNY"
+}

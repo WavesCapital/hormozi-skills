@@ -1,0 +1,287 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 87,
+  "commentCountText": "87",
+  "credits_charged": 1,
+  "description": "In my experience, people buy because of how crisply you articulate their problems to them, not, the benefits of your solution.\n\nThe goal is for them to feel understood more than to understand your products/services.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:02:06",
+  "durationMs": 126000,
+  "genre": "Education",
+  "id": "6FBdeH2hBcc",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 8941,
+  "likeCountText": "8941",
+  "most_replayed": null,
+  "publishDate": "2026-08-20T00:01:13-07:00",
+  "publishDateText": "Aug 20, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/6FBdeH2hBcc/maxresdefault.jpg",
+  "title": "People Believe Nothing You Say and Everything They Say",
+  "type": "video",
+  "viewCountInt": 113033,
+  "viewCountText": "113,033",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T18:30:10.316Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-22T18:30:10.316Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 89000,
+      "viewCountText": "89K views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": "2025-12-24T18:30:10.316Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2025-12-24T18:30:10.316Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_e8ed2ER_fNywLf4iQ_HJogacAQ",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 3900000,
+      "viewCountText": "3.9M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T18:30:10.316Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-19T18:30:10.316Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 395000,
+      "viewCountText": "395K views"
+    },
+    {
+      "channel": {
+        "handle": "JeremyMiner",
+        "id": "UCQ5mWx_XYGRbpcV8zjGhorg",
+        "title": "Jeremy Miner",
+        "url": "https://www.youtube.com/@JeremyMiner"
+      },
+      "id": "YNfvoLr4Ezk",
+      "lengthInSeconds": 1017,
+      "lengthText": "16:57",
+      "publishDate": "2026-03-24T18:30:10.316Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:30:10.316Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/YNfvoLr4Ezk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBOED_Ev0iMOZeUqwxRUYSmFBHy9Q",
+      "title": "7 Subtle Behaviors That Make You Look Weak (Without Realizing It)",
+      "videoUrl": "https://www.youtube.com/watch?v=YNfvoLr4Ezk",
+      "viewCountInt": 450000,
+      "viewCountText": "450K views"
+    },
+    {
+      "channel": {
+        "handle": "MadeMen-Official",
+        "id": "UCNHWYKzsHMCbxdypkirSoNg",
+        "title": "Made Men Official",
+        "url": "https://www.youtube.com/@MadeMen-Official"
+      },
+      "id": "99j3Km55MME",
+      "lengthInSeconds": 960,
+      "lengthText": "16:00",
+      "publishDate": "2026-08-19T18:30:10.316Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-19T18:30:10.316Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/99j3Km55MME/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAzMIB4Yz6xIolwDApJXmKkUAXHEQ",
+      "title": "The Psychology of Becoming Impossible to Embarrass! | Chase Hughes",
+      "videoUrl": "https://www.youtube.com/watch?v=99j3Km55MME",
+      "viewCountInt": 5800,
+      "viewCountText": "5.8K views"
+    },
+    {
+      "channel": {
+        "title": "Big Think Clips and 2 more",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "KHd-luu3M8s",
+      "lengthInSeconds": 2005,
+      "lengthText": "33:25",
+      "publishDate": "2026-08-13T18:30:10.316Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-13T18:30:10.316Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/KHd-luu3M8s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCDEl8rV6bwjLjXbdlPVBZTk4dKIg",
+      "title": "Your phone addiction is keeping you from achieving flow state | Arthur Brooks",
+      "videoUrl": "https://www.youtube.com/watch?v=KHd-luu3M8s",
+      "viewCountInt": 648000,
+      "viewCountText": "648K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Alex Hormozi",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "HwmwyBgzj8c",
+      "lengthInSeconds": 8558,
+      "lengthText": "2:22:38",
+      "publishDate": "2026-07-24T18:30:10.316Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-24T18:30:10.316Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/HwmwyBgzj8c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChLnGf79sTsn9sq8TA5-fVrvA0fQ",
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "videoUrl": "https://www.youtube.com/watch?v=HwmwyBgzj8c",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "JayShettyPodcast.",
+        "id": "UCbk_QsfaFZG6PdQeCvaYXJQ",
+        "title": "Jay Shetty Podcast",
+        "url": "https://www.youtube.com/@JayShettyPodcast."
+      },
+      "id": "vs6x8VUGXCw",
+      "lengthInSeconds": 7450,
+      "lengthText": "2:04:10",
+      "publishDate": "2026-05-24T18:30:10.316Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-24T18:30:10.316Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/vs6x8VUGXCw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDEFzSqVqdqLKjJyli1BrtIVgVexw",
+      "title": "HAYDEN PANETTIERE Tells Her Truth For The First Time Ever (Custody, Addiction, Fame, Hollywood)",
+      "videoUrl": "https://www.youtube.com/watch?v=vs6x8VUGXCw",
+      "viewCountInt": 5100000,
+      "viewCountText": "5.1M views"
+    },
+    {
+      "channel": {
+        "title": "Jung Unlocked and Soul Lens",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "epvvlxg11pM",
+      "lengthInSeconds": 1643,
+      "lengthText": "27:23",
+      "publishDate": "2026-07-24T18:30:10.316Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-24T18:30:10.316Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/epvvlxg11pM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDIyHHghePrRrYXRVqqtyWP_RcoZw",
+      "title": "Why Having No Friends Is the Final Stage of the Rarest Personality Type — Carl Jung",
+      "videoUrl": "https://www.youtube.com/watch?v=epvvlxg11pM",
+      "viewCountInt": 235000,
+      "viewCountText": "235K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "ZuJryiwxjDw",
+      "lengthInSeconds": 2257,
+      "lengthText": "37:37",
+      "publishDate": "2026-02-24T18:30:10.316Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-02-24T18:30:10.316Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/ZuJryiwxjDw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2l9akkTYt-IT57f3Oz7wiY9L3Fw",
+      "title": "Why you aren't making as much money as you want",
+      "videoUrl": "https://www.youtube.com/watch?v=ZuJryiwxjDw",
+      "viewCountInt": 367000,
+      "viewCountText": "367K views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "QZnY5-NZTes",
+      "lengthInSeconds": 1187,
+      "lengthText": "19:47",
+      "publishDate": "2026-02-24T18:30:10.316Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-02-24T18:30:10.316Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/QZnY5-NZTes/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjGQEHxfceyiUVSQlSUy-EORox5g",
+      "title": "Stop Over-Explaining: The 3 S’s Rule For Projecting Authority",
+      "videoUrl": "https://www.youtube.com/watch?v=QZnY5-NZTes",
+      "viewCountInt": 1400000,
+      "viewCountText": "1.4M views"
+    },
+    {
+      "channel": {
+        "handle": "JaidenForrest",
+        "id": "UCNToxykgME2TEqBExxbhYZA",
+        "title": "Jaiden Forrest",
+        "url": "https://www.youtube.com/@JaidenForrest"
+      },
+      "id": "vF5httsvKog",
+      "lengthInSeconds": 1040,
+      "lengthText": "17:20",
+      "publishDate": "2026-03-24T18:30:10.316Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:30:10.316Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/vF5httsvKog/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBr2prVl9Wt3IDHWPPvvr0V2XY14Q",
+      "title": "Bill Maher Says There’s No Proof for God... Then THIS Happens",
+      "videoUrl": "https://www.youtube.com/watch?v=vF5httsvKog",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5279",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "The past doesn't exist except for in"
+    },
+    {
+      "endMs": "7120",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "your mind. It's like it's gone. [music]"
+    },
+    {
+      "endMs": "8480",
+      "startMs": "5279",
+      "startTimeText": "0:05",
+      "text": "It's gone. We only have this moment and"
+    },
+    {
+      "endMs": "9920",
+      "startMs": "7120",
+      "startTimeText": "0:07",
+      "text": "then this will be gone, right? And it's"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "only exists in our memory. And [music]"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "9920",
+      "startTimeText": "0:09",
+      "text": "so I have this this mental idea where"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "what if I woke up one day, I got hit"
+    },
+    {
+      "endMs": "20480",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "with a shovel and I all these things I"
+    },
+    {
+      "endMs": "20480",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "forgot about them. What does it change?"
+    }
+  ],
+  "transcript_only_text": " The  past  doesn't  exist  except  for  in \n your  mind.  It's  like  it's  gone.  [music] \n It's  gone.  We  only  have  this  moment  and \n then  this  will  be  gone,  right?  And  it's \n only  exists  in  our  memory.  And  [music] \n so  I  have  this  this  mental  idea  where \n what  if  I  woke  up  one  day,  I  got  hit \n with  a  shovel  and  I  all  these  things  I \n forgot  about  them.  What  does  it  change?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=uKSsupz6q7M",
+  "videoId": "uKSsupz6q7M"
+}

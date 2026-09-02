@@ -1,0 +1,293 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 40,
+  "commentCountText": "40",
+  "credits_charged": 1,
+  "description": "Regular people will never understand just how many times champions practice in private before they perform in public.\n\nOnce they do, they stop being regular people and become champions too.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:00:23",
+  "durationMs": 23000,
+  "genre": "Education",
+  "id": "w3AF12o-fAk",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 3062,
+  "likeCountText": "3062",
+  "most_replayed": null,
+  "publishDate": "2026-06-19T16:01:22-07:00",
+  "publishDateText": "Jun 19, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/w3AF12o-fAk/maxresdefault.jpg",
+  "title": "Winners Are Relieved, Losers Are Excited",
+  "type": "video",
+  "viewCountInt": 99304,
+  "viewCountText": "99,304",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "simplelucas",
+        "id": "UCtVr-DLQ4xAKpk9d7MOYPLg",
+        "title": "Simple Lucas",
+        "url": "https://www.youtube.com/@simplelucas"
+      },
+      "id": "NZD5IFpyDcE",
+      "lengthInSeconds": 1764,
+      "lengthText": "29:24",
+      "publishDate": "2026-02-24T18:46:40.905Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-02-24T18:46:40.905Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/NZD5IFpyDcE/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLC-T1xx5igWJfQ8Kjk_YubhzUekUg",
+      "title": "I Tried the World's Simplest Productivity Trick (it worked)",
+      "videoUrl": "https://www.youtube.com/watch?v=NZD5IFpyDcE",
+      "viewCountInt": 2000000,
+      "viewCountText": "2M views"
+    },
+    {
+      "channel": {
+        "handle": "CoinAiLyzer",
+        "id": "UCr6aAN_xAEN8ePUdXP_6tWg",
+        "title": "CoinAiLyzer",
+        "url": "https://www.youtube.com/@CoinAiLyzer"
+      },
+      "id": "ifXnoDHoZBM",
+      "lengthInSeconds": 478,
+      "lengthText": "7:58",
+      "publishDate": "2026-08-23T21:46:40.905Z",
+      "publishDateText": "21 hours ago",
+      "publishedTime": "2026-08-23T21:46:40.905Z",
+      "publishedTimeText": "21 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/ifXnoDHoZBM/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLA8HX9CG6oTcTXH0wZM8DDg5ME6HQ",
+      "title": "There's Something About PCGS and NGC Coin Grading Most People Don't Know",
+      "videoUrl": "https://www.youtube.com/watch?v=ifXnoDHoZBM",
+      "viewCountInt": 207,
+      "viewCountText": "207 views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T18:46:40.905Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-22T18:46:40.905Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBs_NyzFlDxXea57Dma-xL6gVkOFQ",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 89000,
+      "viewCountText": "89K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "sL16tsGafcQ",
+      "lengthInSeconds": 1513,
+      "lengthText": "25:13",
+      "publishDate": "2026-06-24T18:46:40.905Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-24T18:46:40.905Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/sL16tsGafcQ/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDL0UIQIWvjwcXr9kT-VF9Be-My6Q",
+      "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
+      "videoUrl": "https://www.youtube.com/watch?v=sL16tsGafcQ",
+      "viewCountInt": 690000,
+      "viewCountText": "690K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-24T18:46:40.905Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:46:40.905Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLA7Y0YtPW3mF55_ovH7pljzcHIVEQ",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "ScreenPuff",
+        "id": "UC6qAABOkwaI1ImYY6oDbi-A",
+        "title": "ScreenPuff",
+        "url": "https://www.youtube.com/@ScreenPuff"
+      },
+      "id": "rLkYpK43VF4",
+      "lengthInSeconds": 1184,
+      "lengthText": "19:44",
+      "publishDate": "2026-05-24T18:46:40.905Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-24T18:46:40.905Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/rLkYpK43VF4/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLD1_dFKeFB3zxciMtq3Q7kazIECDA",
+      "title": "When an audition changed TV forever",
+      "videoUrl": "https://www.youtube.com/watch?v=rLkYpK43VF4",
+      "viewCountInt": 4900000,
+      "viewCountText": "4.9M views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "VeB_Odr91Js",
+      "lengthInSeconds": 363,
+      "lengthText": "6:03",
+      "publishDate": "2026-07-27T18:46:40.905Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-27T18:46:40.905Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/VeB_Odr91Js/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCpQ5VPE818igpcPnaQtK2OG38SVA",
+      "title": "The Moment You Stop Caring, Everything Changes! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=VeB_Odr91Js",
+      "viewCountInt": 600,
+      "viewCountText": "600 views"
+    },
+    {
+      "channel": {
+        "handle": "redfilechannel",
+        "id": "UCNpjH9MosivtBOa45Hbu39g",
+        "title": "Red File",
+        "url": "https://www.youtube.com/@redfilechannel"
+      },
+      "id": "rJYy0pHZDxA",
+      "lengthInSeconds": 2500,
+      "lengthText": "41:40",
+      "publishDate": "2026-08-13T18:46:40.905Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-13T18:46:40.905Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/rJYy0pHZDxA/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLAolyar_bKQOL1sCs8eZnB-QRsB8g",
+      "title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+      "videoUrl": "https://www.youtube.com/watch?v=rJYy0pHZDxA",
+      "viewCountInt": 6000000,
+      "viewCountText": "6M views"
+    },
+    {
+      "channel": {
+        "handle": "AlphaMentorsYT",
+        "id": "UCvPialDBJK97omec_xreo-w",
+        "title": "Alpha Mentors",
+        "url": "https://www.youtube.com/@AlphaMentorsYT"
+      },
+      "id": "VjVSXJBdlNU",
+      "lengthInSeconds": 1629,
+      "lengthText": "27:09",
+      "publishDate": "2025-08-24T18:46:40.905Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-24T18:46:40.905Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/VjVSXJBdlNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLD6zUlAWogqzLpqw088YE0zb4CbiA",
+      "title": "Alex Hormozi's 27 Minutes of Life-Changing Advice",
+      "videoUrl": "https://www.youtube.com/watch?v=VjVSXJBdlNU",
+      "viewCountInt": 386000,
+      "viewCountText": "386K views"
+    },
+    {
+      "channel": {
+        "handle": "MovieGasm",
+        "id": "UCwBV-eg1dAkzrdjqJfyEj0w",
+        "title": "MovieGasm‍․com",
+        "url": "https://www.youtube.com/@MovieGasm"
+      },
+      "id": "80bkVen5CJI",
+      "lengthInSeconds": 238,
+      "lengthText": "3:58",
+      "publishDate": "2026-08-17T18:46:40.905Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-08-17T18:46:40.905Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/80bkVen5CJI/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBFsZG6llnRxmzO2JriIIzQBRCzNA",
+      "title": "AVENGERS: DOOMSDAY Trailer (2024) Extended | 4K UHD",
+      "videoUrl": "https://www.youtube.com/watch?v=80bkVen5CJI",
+      "viewCountInt": 893000,
+      "viewCountText": "893K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "nIk3DedjxJM",
+      "lengthInSeconds": 1483,
+      "lengthText": "24:43",
+      "publishDate": "2024-08-24T18:46:40.905Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-08-24T18:46:40.905Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/nIk3DedjxJM/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLC5dPN5BKIVIroKXrk6benFG-Buog",
+      "title": "\"I'm Broke, What Business Do I Start?\"",
+      "videoUrl": "https://www.youtube.com/watch?v=nIk3DedjxJM",
+      "viewCountInt": 1900000,
+      "viewCountText": "1.9M views"
+    },
+    {
+      "channel": {
+        "handle": "BoxofficeMoviesScenes",
+        "id": "UCfk4Df9QxO267wlFbStSyAw",
+        "title": "Boxoffice Movie Scenes",
+        "url": "https://www.youtube.com/@BoxofficeMoviesScenes"
+      },
+      "id": "8UG4bp3vXGM",
+      "lengthInSeconds": 307,
+      "lengthText": "5:07",
+      "publishDate": "2023-08-24T18:46:40.905Z",
+      "publishDateText": "3 years ago",
+      "publishedTime": "2023-08-24T18:46:40.905Z",
+      "publishedTimeText": "3 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/8UG4bp3vXGM/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBbKP0J6oLdjQDiBqOjv3HQ0wCBQQ",
+      "title": "The Knock Knock Scene",
+      "videoUrl": "https://www.youtube.com/watch?v=8UG4bp3vXGM",
+      "viewCountInt": 2800000,
+      "viewCountText": "2.8M views"
+    }
+  ]
+}

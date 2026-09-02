@@ -1,0 +1,317 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I talked to a billionaire mentor"
+    },
+    {
+      "endMs": "5480",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "yesterday and he told me this story of a"
+    },
+    {
+      "endMs": "7320",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "study [music] that was just done on"
+    },
+    {
+      "endMs": "9320",
+      "startMs": "5480",
+      "startTimeText": "0:05",
+      "text": "Princeton Seminary students. They're"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "7320",
+      "startTimeText": "0:07",
+      "text": "studying good Samaritanism. And so they"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "had them give this speech at the"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "auditorium which was across campus and"
+    },
+    {
+      "endMs": "15240",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "they separated seminary students into"
+    },
+    {
+      "endMs": "16680",
+      "startMs": "13920",
+      "startTimeText": "0:13",
+      "text": "three groups. And before they started"
+    },
+    {
+      "endMs": "18120",
+      "startMs": "15240",
+      "startTimeText": "0:15",
+      "text": "the experiment they said, \"Hey, how good"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "16680",
+      "startTimeText": "0:16",
+      "text": "of a person are you? How likely are you"
+    },
+    {
+      "endMs": "21280",
+      "startMs": "18120",
+      "startTimeText": "0:18",
+      "text": "to be a good Samaritan?\" They had them"
+    },
+    {
+      "endMs": "22240",
+      "startMs": "19480",
+      "startTimeText": "0:19",
+      "text": "rate themselves. Then they had them walk"
+    },
+    {
+      "endMs": "23360",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "to the auditorium and give their"
+    },
+    {
+      "endMs": "24600",
+      "startMs": "22240",
+      "startTimeText": "0:22",
+      "text": "presentation. So on the way to the"
+    },
+    {
+      "endMs": "26480",
+      "startMs": "23360",
+      "startTimeText": "0:23",
+      "text": "auditorium they had a small way that was"
+    },
+    {
+      "endMs": "28120",
+      "startMs": "24600",
+      "startTimeText": "0:24",
+      "text": "so narrow that no two people could"
+    },
+    {
+      "endMs": "29720",
+      "startMs": "26480",
+      "startTimeText": "0:26",
+      "text": "really like go, you know, side to side."
+    },
+    {
+      "endMs": "30880",
+      "startMs": "28120",
+      "startTimeText": "0:28",
+      "text": "And so they had somebody positioned"
+    },
+    {
+      "endMs": "32560",
+      "startMs": "29720",
+      "startTimeText": "0:29",
+      "text": "right middle of the hallway that had"
+    },
+    {
+      "endMs": "34600",
+      "startMs": "30880",
+      "startTimeText": "0:30",
+      "text": "clearly fallen and needed help. What was"
+    },
+    {
+      "endMs": "36480",
+      "startMs": "32560",
+      "startTimeText": "0:32",
+      "text": "interesting is that the three groups"
+    },
+    {
+      "endMs": "38240",
+      "startMs": "34600",
+      "startTimeText": "0:34",
+      "text": "they separated into, group one people"
+    },
+    {
+      "endMs": "39800",
+      "startMs": "36480",
+      "startTimeText": "0:36",
+      "text": "who were 10 minutes early, group two"
+    },
+    {
+      "endMs": "41680",
+      "startMs": "38240",
+      "startTimeText": "0:38",
+      "text": "people who were on time to their speech,"
+    },
+    {
+      "endMs": "42800",
+      "startMs": "39800",
+      "startTimeText": "0:39",
+      "text": "and group three people who were 10"
+    },
+    {
+      "endMs": "43960",
+      "startMs": "41680",
+      "startTimeText": "0:41",
+      "text": "minutes late. Do you want to know what"
+    },
+    {
+      "endMs": "46000",
+      "startMs": "42800",
+      "startTimeText": "0:42",
+      "text": "predicted whether they were going to"
+    },
+    {
+      "endMs": "47640",
+      "startMs": "43960",
+      "startTimeText": "0:43",
+      "text": "stop? Their tardiness or whether they"
+    },
+    {
+      "endMs": "49280",
+      "startMs": "46000",
+      "startTimeText": "0:46",
+      "text": "said they were a good person? Well, it"
+    },
+    {
+      "endMs": "50880",
+      "startMs": "47640",
+      "startTimeText": "0:47",
+      "text": "turns out what they rated themselves as"
+    },
+    {
+      "endMs": "52400",
+      "startMs": "49280",
+      "startTimeText": "0:49",
+      "text": "a good person had absolutely nothing to"
+    },
+    {
+      "endMs": "54160",
+      "startMs": "50880",
+      "startTimeText": "0:50",
+      "text": "do with whether they actually stopped."
+    },
+    {
+      "endMs": "56480",
+      "startMs": "52400",
+      "startTimeText": "0:52",
+      "text": "The thing that did was how late they"
+    },
+    {
+      "endMs": "59040",
+      "startMs": "54160",
+      "startTimeText": "0:54",
+      "text": "were. 63% of people who were 10 minutes"
+    },
+    {
+      "endMs": "60840",
+      "startMs": "56480",
+      "startTimeText": "0:56",
+      "text": "early stopped while it was only 10% did"
+    },
+    {
+      "endMs": "62680",
+      "startMs": "59040",
+      "startTimeText": "0:59",
+      "text": "when they were late. significantly"
+    },
+    {
+      "endMs": "65080",
+      "startMs": "60840",
+      "startTimeText": "1:00",
+      "text": "harder to be kind when you do not have"
+    },
+    {
+      "endMs": "67360",
+      "startMs": "62680",
+      "startTimeText": "1:02",
+      "text": "capacity. This is why it is ethical for"
+    },
+    {
+      "endMs": "70000",
+      "startMs": "65080",
+      "startTimeText": "1:05",
+      "text": "many people at a current stage in life"
+    },
+    {
+      "endMs": "72120",
+      "startMs": "67360",
+      "startTimeText": "1:07",
+      "text": "to take care of yourself so that you"
+    },
+    {
+      "endMs": "73720",
+      "startMs": "70000",
+      "startTimeText": "1:10",
+      "text": "have the capacity to help others. And so"
+    },
+    {
+      "endMs": "75840",
+      "startMs": "72120",
+      "startTimeText": "1:12",
+      "text": "despite the fact that you may perceive"
+    },
+    {
+      "endMs": "77920",
+      "startMs": "73720",
+      "startTimeText": "1:13",
+      "text": "yourself as virtuous because you do not"
+    },
+    {
+      "endMs": "80280",
+      "startMs": "75840",
+      "startTimeText": "1:15",
+      "text": "have the ability to provide for other"
+    },
+    {
+      "endMs": "82920",
+      "startMs": "77920",
+      "startTimeText": "1:17",
+      "text": "people, it makes sense and is ethical to"
+    },
+    {
+      "endMs": "85160",
+      "startMs": "80280",
+      "startTimeText": "1:20",
+      "text": "be prosperous. That you should seek out"
+    },
+    {
+      "endMs": "88360",
+      "startMs": "82920",
+      "startTimeText": "1:22",
+      "text": "abundance so that you can have spillover"
+    },
+    {
+      "endMs": "88360",
+      "startMs": "85160",
+      "startTimeText": "1:25",
+      "text": "and help other people."
+    }
+  ],
+  "transcript_only_text": " I  talked  to  a  billionaire  mentor \n yesterday  and  he  told  me  this  story  of  a \n study  [music]  that  was  just  done  on \n Princeton  Seminary  students.  They're \n studying  good  Samaritanism.  And  so  they \n had  them  give  this  speech  at  the \n auditorium  which  was  across  campus  and \n they  separated  seminary  students  into \n three  groups.  And  before  they  started \n the  experiment  they  said,  \"Hey,  how  good \n of  a  person  are  you?  How  likely  are  you \n to  be  a  good  Samaritan?\"  They  had  them \n rate  themselves.  Then  they  had  them  walk \n to  the  auditorium  and  give  their \n presentation.  So  on  the  way  to  the \n auditorium  they  had  a  small  way  that  was \n so  narrow  that  no  two  people  could \n really  like  go,  you  know,  side  to  side. \n And  so  they  had  somebody  positioned \n right  middle  of  the  hallway  that  had \n clearly  fallen  and  needed  help.  What  was \n interesting  is  that  the  three  groups \n they  separated  into,  group  one  people \n who  were  10  minutes  early,  group  two \n people  who  were  on  time  to  their  speech, \n and  group  three  people  who  were  10 \n minutes  late.  Do  you  want  to  know  what \n predicted  whether  they  were  going  to \n stop?  Their  tardiness  or  whether  they \n said  they  were  a  good  person?  Well,  it \n turns  out  what  they  rated  themselves  as \n a  good  person  had  absolutely  nothing  to \n do  with  whether  they  actually  stopped. \n The  thing  that  did  was  how  late  they \n were.  63%  of  people  who  were  10  minutes \n early  stopped  while  it  was  only  10%  did \n when  they  were  late.  significantly \n harder  to  be  kind  when  you  do  not  have \n capacity.  This  is  why  it  is  ethical  for \n many  people  at  a  current  stage  in  life \n to  take  care  of  yourself  so  that  you \n have  the  capacity  to  help  others.  And  so \n despite  the  fact  that  you  may  perceive \n yourself  as  virtuous  because  you  do  not \n have  the  ability  to  provide  for  other \n people,  it  makes  sense  and  is  ethical  to \n be  prosperous.  That  you  should  seek  out \n abundance  so  that  you  can  have  spillover \n and  help  other  people.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=O5bO-tm_U7s",
+  "videoId": "O5bO-tm_U7s"
+}

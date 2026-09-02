@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "For those of you who are scared to use"
+    },
+    {
+      "endMs": "6160",
+      "startMs": "2200",
+      "startTimeText": "0:02",
+      "text": "AI, you often risk more by not adopting"
+    },
+    {
+      "endMs": "7880",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "new technology than by fearing the"
+    },
+    {
+      "endMs": "9760",
+      "startMs": "6160",
+      "startTimeText": "0:06",
+      "text": "potential downside that a small"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "7880",
+      "startTimeText": "0:07",
+      "text": "percentage of people experience. So,"
+    },
+    {
+      "endMs": "12200",
+      "startMs": "9760",
+      "startTimeText": "0:09",
+      "text": "some people are like, \"What about AI"
+    },
+    {
+      "endMs": "13680",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "safety? I'm worried that AI's going to"
+    },
+    {
+      "endMs": "14760",
+      "startMs": "12200",
+      "startTimeText": "0:12",
+      "text": "take my credit card and go spend it.\" Of"
+    },
+    {
+      "endMs": "16320",
+      "startMs": "13680",
+      "startTimeText": "0:13",
+      "text": "course, there's weird head, you know,"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "14760",
+      "startTimeText": "0:14",
+      "text": "edge cases where, you know, someone gave"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "16320",
+      "startTimeText": "0:16",
+      "text": "too many permissions to an agent and"
+    },
+    {
+      "endMs": "20760",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "they didn't have enough guardrails"
+    },
+    {
+      "endMs": "21960",
+      "startMs": "18920",
+      "startTimeText": "0:18",
+      "text": "installed. It's like saying, \"I got"
+    },
+    {
+      "endMs": "23960",
+      "startMs": "20760",
+      "startTimeText": "0:20",
+      "text": "hacked on the internet, so I should"
+    },
+    {
+      "endMs": "26760",
+      "startMs": "21960",
+      "startTimeText": "0:21",
+      "text": "never use the internet again.\" It's not"
+    },
+    {
+      "endMs": "26760",
+      "startMs": "23960",
+      "startTimeText": "0:23",
+      "text": "good reasoning."
+    }
+  ],
+  "transcript_only_text": " For  those  of  you  who  are  scared  to  use \n AI,  you  often  risk  more  by  not  adopting \n new  technology  than  by  fearing  the \n potential  downside  that  a  small \n percentage  of  people  experience.  So, \n some  people  are  like,  \"What  about  AI \n safety?  I'm  worried  that  AI's  going  to \n take  my  credit  card  and  go  spend  it.\"  Of \n course,  there's  weird  head,  you  know, \n edge  cases  where,  you  know,  someone  gave \n too  many  permissions  to  an  agent  and \n they  didn't  have  enough  guardrails \n installed.  It's  like  saying,  \"I  got \n hacked  on  the  internet,  so  I  should \n never  use  the  internet  again.\"  It's  not \n good  reasoning.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Z0uWs_W9S1A",
+  "videoId": "Z0uWs_W9S1A"
+}

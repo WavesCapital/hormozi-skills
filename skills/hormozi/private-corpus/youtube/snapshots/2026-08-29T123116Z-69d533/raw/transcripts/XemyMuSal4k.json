@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people simply by"
+    },
+    {
+      "endMs": "5080",
+      "startMs": "2040",
+      "startTimeText": "0:02",
+      "text": "continuing to work without needing your"
+    },
+    {
+      "endMs": "6200",
+      "startMs": "3600",
+      "startTimeText": "0:03",
+      "text": "immediate reward. The other great reason"
+    },
+    {
+      "endMs": "7600",
+      "startMs": "5080",
+      "startTimeText": "0:05",
+      "text": "for working harder is that the harder"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "6200",
+      "startTimeText": "0:06",
+      "text": "you work, the more you realize what you"
+    },
+    {
+      "endMs": "10440",
+      "startMs": "7600",
+      "startTimeText": "0:07",
+      "text": "used to think was hard work isn't even"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "close to what you're capable of. Because"
+    },
+    {
+      "endMs": "12640",
+      "startMs": "10440",
+      "startTimeText": "0:10",
+      "text": "if you want to know what the most"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "dangerous money-making combo in the"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "12640",
+      "startTimeText": "0:12",
+      "text": "world, it's work ethic and time."
+    }
+  ],
+  "transcript_only_text": " You  can  beat  99%  of  people  simply  by \n continuing  to  work  without  needing  your \n immediate  reward.  The  other  great  reason \n for  working  harder  is  that  the  harder \n you  work,  the  more  you  realize  what  you \n used  to  think  was  hard  work  isn't  even \n close  to  what  you're  capable  of.  Because \n if  you  want  to  know  what  the  most \n dangerous  money-making  combo  in  the \n world,  it's  work  ethic  and  time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XemyMuSal4k",
+  "videoId": "XemyMuSal4k"
+}

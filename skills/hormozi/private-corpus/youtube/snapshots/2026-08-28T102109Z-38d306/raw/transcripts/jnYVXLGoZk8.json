@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3360",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "A lot of people don't know how to price"
+    },
+    {
+      "endMs": "4960",
+      "startMs": "1680",
+      "startTimeText": "0:01",
+      "text": "their upsells. They have one thing for"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "$100 and they try and upsell a second"
+    },
+    {
+      "endMs": "9120",
+      "startMs": "4960",
+      "startTimeText": "0:04",
+      "text": "thing for $120. That's not how you want"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "to do it. Customers tend to be fractal,"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "meaning that the top 20% has five times"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "the spending power of the bottom 80. And"
+    },
+    {
+      "endMs": "19050",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "so if you're going to do an upsell, make"
+    },
+    {
+      "endMs": "19050",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "the upsell five times more. [music]"
+    }
+  ],
+  "transcript_only_text": " A  lot  of  people  don't  know  how  to  price \n their  upsells.  They  have  one  thing  for \n $100  and  they  try  and  upsell  a  second \n thing  for  $120.  That's  not  how  you  want \n to  do  it.  Customers  tend  to  be  fractal, \n meaning  that  the  top  20%  has  five  times \n the  spending  power  of  the  bottom  80.  And \n so  if  you're  going  to  do  an  upsell,  make \n the  upsell  five  times  more.  [music]",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=jnYVXLGoZk8",
+  "videoId": "jnYVXLGoZk8"
+}

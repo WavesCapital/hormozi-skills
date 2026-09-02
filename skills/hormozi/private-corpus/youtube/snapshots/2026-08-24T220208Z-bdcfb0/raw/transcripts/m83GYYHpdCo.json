@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4319",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Instead of saying, \"Hey, give me yourmoney,\" or, \"Hey, what card do you want"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "to use?\" Try this. Do you want chocolateor vanilla? Do you want to start on"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "Monday or Tuesday? Do you want paper orplastic? My place or your place?"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "8639",
+      "startTimeText": "0:08",
+      "text": "Whatever you sell, there's always aneither or that you can present. But both"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "of them are buying from"
+    }
+  ],
+  "transcript_only_text": " Instead of saying, \"Hey, give me your\nmoney,\" or, \"Hey, what card do you want to use?\" Try this. Do you want chocolate\nor vanilla? Do you want to start on Monday or Tuesday? Do you want paper or\nplastic? My place or your place? Whatever you sell, there's always an\neither or that you can present. But both of them are buying from",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=m83GYYHpdCo",
+  "videoId": "m83GYYHpdCo"
+}

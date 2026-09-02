@@ -1,0 +1,300 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=2krDYNcBVvM&ei=KdGSaofHKYOQ2_gP4bLdiAk&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788031897&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=CAAE7A10EA53A9947AA33EB0A023B019CE35C62D.A5B7F51A4344D165D2E3EF949C61BB7947B787DB&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 3,
+  "commentCountText": "3",
+  "credits_charged": 1,
+  "credits_remaining": 18136,
+  "description": "Mr Beast's path to $100 Billion and why I think he (and other creators) are (still) underpriced.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:47",
+  "durationMs": 47000,
+  "genre": "Education",
+  "id": "2krDYNcBVvM",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 171,
+  "likeCountText": "171",
+  "most_replayed": null,
+  "publishDate": "2026-08-29T03:01:17-07:00",
+  "publishDateText": "Aug 29, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/2krDYNcBVvM/maxresdefault.jpg",
+  "title": "MrBeast Showed Me Who Actually Has the Most Clout",
+  "type": "video",
+  "viewCountInt": 2671,
+  "viewCountText": "2,671",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "Tibzzzzz",
+        "id": "UC7v00_xEx-rX3IZBStXWAwg",
+        "title": "Tibz",
+        "url": "https://www.youtube.com/@Tibzzzzz"
+      },
+      "id": "fhpAolluo9g",
+      "lengthInSeconds": 1020,
+      "lengthText": "17:00",
+      "publishDate": "2026-03-29T12:31:38.501Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-29T12:31:38.501Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/fhpAolluo9g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDrCa8n5vdkJaTPnG6OC7NKhPuRVQ",
+      "title": "I Snuck A Olympian Into A High School Track Meet",
+      "videoUrl": "https://www.youtube.com/watch?v=fhpAolluo9g",
+      "viewCountInt": 12000000,
+      "viewCountText": "12M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T07:31:38.501Z",
+      "publishDateText": "5 hours ago",
+      "publishedTime": "2026-08-29T07:31:38.501Z",
+      "publishedTimeText": "5 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "This Video Should be REQUIRED Viewing For Business Owners",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 23000,
+      "viewCountText": "23K views"
+    },
+    {
+      "channel": {
+        "handle": "Karl",
+        "id": "UCrYrcFGGs_nke1MggS8Jvqg",
+        "title": "Karl",
+        "url": "https://www.youtube.com/@Karl"
+      },
+      "id": "Jd5quV8ViUs",
+      "lengthInSeconds": 1486,
+      "lengthText": "24:46",
+      "publishDate": "2026-06-29T12:31:38.501Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-29T12:31:38.501Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/Jd5quV8ViUs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDap7KvL0lw0JvnPPPNFoccTSJmjg",
+      "title": "500 Hunters vs 1 Speedrunner",
+      "videoUrl": "https://www.youtube.com/watch?v=Jd5quV8ViUs",
+      "viewCountInt": 4700000,
+      "viewCountText": "4.7M views"
+    },
+    {
+      "channel": {
+        "handle": "Browney",
+        "id": "UC0r_-7jgl1yl0oWzGEJ6o3w",
+        "title": "Browney",
+        "url": "https://www.youtube.com/@Browney"
+      },
+      "id": "Ppbd7wB7Gkc",
+      "lengthInSeconds": 1613,
+      "lengthText": "26:53",
+      "publishDate": "2026-06-29T12:31:38.501Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-29T12:31:38.501Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/Ppbd7wB7Gkc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDLmwpLvQF9eVcopfSBSbe9g7LHYA",
+      "title": "I Survived 50 Hours With Africa’s Warrior Tribe",
+      "videoUrl": "https://www.youtube.com/watch?v=Ppbd7wB7Gkc",
+      "viewCountInt": 5700000,
+      "viewCountText": "5.7M views"
+    },
+    {
+      "channel": {
+        "handle": "NickDiGiovanni",
+        "id": "UCMyOj6fhvKFMjxUCp3b_3gA",
+        "title": "Nick DiGiovanni",
+        "url": "https://www.youtube.com/@NickDiGiovanni"
+      },
+      "id": "xReCiWbe1UQ",
+      "lengthInSeconds": 3161,
+      "lengthText": "52:41",
+      "publishDate": "2026-05-29T12:31:38.501Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-29T12:31:38.501Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/xReCiWbe1UQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDoLEQbhTBybb_aza7kWSt1Q_SVpQ",
+      "title": "Which YouTuber Is The Best Chef?",
+      "videoUrl": "https://www.youtube.com/watch?v=xReCiWbe1UQ",
+      "viewCountInt": 29000000,
+      "viewCountText": "29M views"
+    },
+    {
+      "channel": {
+        "title": "KSI and MrBeast",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "a-iReT6fwVI",
+      "lengthInSeconds": 2085,
+      "lengthText": "34:45",
+      "publishDate": "2026-03-29T12:31:38.501Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-29T12:31:38.501Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/a-iReT6fwVI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCIxstzOyCP-ZyagZg8akotZnShmA",
+      "title": "Make Us Laugh, Win $1,000 (Ft. MrBeast)",
+      "videoUrl": "https://www.youtube.com/watch?v=a-iReT6fwVI",
+      "viewCountInt": 16000000,
+      "viewCountText": "16M views"
+    },
+    {
+      "channel": {
+        "handle": "NicoIsCold",
+        "id": "UCraH6ehjjUB8TuIJZakgi_w",
+        "title": "NicoIsCold",
+        "url": "https://www.youtube.com/@NicoIsCold"
+      },
+      "id": "3nbJdJZvlG4",
+      "lengthInSeconds": 2010,
+      "lengthText": "33:30",
+      "publishDate": "2026-08-27T12:31:38.501Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-27T12:31:38.501Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/3nbJdJZvlG4/hqdefault_custom_1.jpg?sqp=CMihy9QG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBfsnb-MS_0dZ-oY2V5yX66lNiAOw",
+      "title": "33 Minutes of the Craziest Zoom Trolling",
+      "videoUrl": "https://www.youtube.com/watch?v=3nbJdJZvlG4",
+      "viewCountInt": 333000,
+      "viewCountText": "333K views"
+    },
+    {
+      "channel": {
+        "handle": "FR3shlol",
+        "id": "UCOa6zgAg07RodxHMk40omdA",
+        "title": "Freshlol",
+        "url": "https://www.youtube.com/@FR3shlol"
+      },
+      "id": "wKu4YsP0m78",
+      "lengthInSeconds": 3152,
+      "lengthText": "52:32",
+      "publishDate": "2026-08-26T12:31:38.501Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-08-26T12:31:38.501Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/wKu4YsP0m78/hqdefault_custom_2.jpg?sqp=CMihy9QG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBFcM3GHYCQKPBb6RE5jZo-i3UKgw",
+      "title": "I Joined a Spear Only Minecraft SMP",
+      "videoUrl": "https://www.youtube.com/watch?v=wKu4YsP0m78",
+      "viewCountInt": 2100000,
+      "viewCountText": "2.1M views"
+    },
+    {
+      "channel": {
+        "handle": "dryfly31",
+        "id": "UCfn1mOyO4v5GL4jWEWfC8sg",
+        "title": "Dryfly Outdoors",
+        "url": "https://www.youtube.com/@dryfly31"
+      },
+      "id": "FiMo76fsFJk",
+      "lengthInSeconds": 1365,
+      "lengthText": "22:45",
+      "publishDate": "2026-08-08T12:31:38.501Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-08T12:31:38.501Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/FiMo76fsFJk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBaFZKPKED6psjQhTjldDQcHoTkxw",
+      "title": "Every Fish I Catch My Bait Gets More Illegal!",
+      "videoUrl": "https://www.youtube.com/watch?v=FiMo76fsFJk",
+      "viewCountInt": 4700000,
+      "viewCountText": "4.7M views"
+    },
+    {
+      "channel": {
+        "handle": "ToonOfficialYT",
+        "id": "UCc5LSUorfn2hiCdvva5kgUQ",
+        "title": "Toon",
+        "url": "https://www.youtube.com/@ToonOfficialYT"
+      },
+      "id": "BWTOro5r8lc",
+      "lengthInSeconds": 1670,
+      "lengthText": "27:50",
+      "publishDate": "2026-07-29T12:31:38.501Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-29T12:31:38.501Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/BWTOro5r8lc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAL0I3zwEQrQEDlCVr80pT_pf-_2Q",
+      "title": "How (not) To Reveal a Twist Villain",
+      "videoUrl": "https://www.youtube.com/watch?v=BWTOro5r8lc",
+      "viewCountInt": 452000,
+      "viewCountText": "452K views"
+    },
+    {
+      "channel": {
+        "handle": "NickDiGiovanni",
+        "id": "UCMyOj6fhvKFMjxUCp3b_3gA",
+        "title": "Nick DiGiovanni",
+        "url": "https://www.youtube.com/@NickDiGiovanni"
+      },
+      "id": "1ZTvCXR8At0",
+      "lengthInSeconds": 8084,
+      "lengthText": "2:14:44",
+      "publishDate": "2026-08-23T12:31:38.501Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-23T12:31:38.501Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/1ZTvCXR8At0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCf4dYpmTOy9jO9paHi7CvYEyLQdA",
+      "title": "I Cooked Against 100 YouTubers",
+      "videoUrl": "https://www.youtube.com/watch?v=1ZTvCXR8At0",
+      "viewCountInt": 6000000,
+      "viewCountText": "6M views"
+    },
+    {
+      "channel": {
+        "handle": "DrDonutTwo",
+        "id": "UCldCI5K_HmwS_iQX7xqIlPg",
+        "title": "DrDonut Clips",
+        "url": "https://www.youtube.com/@DrDonutTwo"
+      },
+      "id": "mEwvFDT8qIw",
+      "lengthInSeconds": 1864,
+      "lengthText": "31:04",
+      "publishDate": "2026-08-15T12:31:38.501Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-15T12:31:38.501Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/mEwvFDT8qIw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCaJ37F0Ho65ufoKaEFN9cFrUwZzA",
+      "title": "He Used MATH To Find My Minecraft Base",
+      "videoUrl": "https://www.youtube.com/watch?v=mEwvFDT8qIw",
+      "viewCountInt": 769000,
+      "viewCountText": "769K views"
+    }
+  ]
+}

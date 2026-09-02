@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The thing with excuses that'sinteresting is that [music] they may be"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "3960",
+      "startTimeText": "0:03",
+      "text": "valid.And I think that's the part that people"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "struggle with. It's not your fault, butit is still your problem. You still have"
+    },
+    {
+      "endMs": "16240",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "to do something about it, or you canjust wait and say, \"You know what? I'm"
+    },
+    {
+      "endMs": "20560",
+      "startMs": "14520",
+      "startTimeText": "0:14",
+      "text": "going to continue to not live the lifethat I want until I die.\" And everyone"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "18840",
+      "startTimeText": "0:18",
+      "text": "will be like, \"Oh, yeah.He had an [music] excuse."
+    },
+    {
+      "endMs": "29720",
+      "startMs": "22360",
+      "startTimeText": "0:22",
+      "text": "That's why.\" Is that what you reallywant? Is that people are like, \"Yeah."
+    },
+    {
+      "endMs": "29720",
+      "startMs": "26800",
+      "startTimeText": "0:26",
+      "text": "He had an excuse.\""
+    }
+  ],
+  "transcript_only_text": " The thing with excuses that's\ninteresting is that [music] they may be valid.\nAnd I think that's the part that people struggle with. It's not your fault, but\nit is still your problem. You still have to do something about it, or you can\njust wait and say, \"You know what? I'm going to continue to not live the life\nthat I want until I die.\" And everyone will be like, \"Oh, yeah.\nHe had an [music] excuse. That's why.\" Is that what you really\nwant? Is that people are like, \"Yeah. He had an excuse.\"",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=9rgxKZ0wdLo",
+  "videoId": "9rgxKZ0wdLo"
+}

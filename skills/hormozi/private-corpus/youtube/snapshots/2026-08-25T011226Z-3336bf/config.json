@@ -1,0 +1,26 @@
+{
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "inventory": {
+    "max_pages_per_surface": 200,
+    "surfaces": [
+      "videos",
+      "shorts",
+      "lives"
+    ]
+  },
+  "privacy": {
+    "api_credentials": "never persisted",
+    "credit_balance": "not persisted",
+    "transcript_text": "private"
+  },
+  "schema_version": "1.0.0",
+  "snapshot_id": "2026-08-24T164536Z",
+  "window": {
+    "end_inclusive": "2026-08-24T16:45:36.280Z",
+    "start_inclusive": "2025-08-24T16:45:36.280Z"
+  }
+}

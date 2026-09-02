@@ -1,0 +1,300 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=9F7arP3Gt8A&ei=J2GRaojOEtbyy_sPnObA-A8&caps=asr&opi=112496729&exp=xpe&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787937687&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=E3CB5C63365E27255587592F5EED37EE0A41E2A6.7A9607E74F0668BC5D9B9070C579B4D2E1661CB7&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 44,
+  "commentCountText": "44",
+  "credits_charged": 1,
+  "credits_remaining": 18238,
+  "description": "Pain and time are the only two things that stand between everyone and what they want.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:01:53",
+  "durationMs": 113000,
+  "genre": "Education",
+  "id": "9F7arP3Gt8A",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1688,
+  "likeCountText": "1688",
+  "most_replayed": null,
+  "publishDate": "2026-08-27T12:20:34-07:00",
+  "publishDateText": "Aug 27, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/9F7arP3Gt8A/maxresdefault.jpg",
+  "title": "These 2 Questions Will Make Them Buy",
+  "type": "video",
+  "viewCountInt": 22776,
+  "viewCountText": "22,776",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "channel/UC56u0ihZ_OWvHT_Xj3Ho6mw",
+        "id": "UC56u0ihZ_OWvHT_Xj3Ho6mw",
+        "title": "en",
+        "url": "https://www.youtube.com/channel/UC56u0ihZ_OWvHT_Xj3Ho6mw"
+      },
+      "id": "NL4KyeXaNDA",
+      "lengthInSeconds": 2580,
+      "lengthText": "43:00",
+      "publishDate": "2026-08-28T04:21:28.078Z",
+      "publishDateText": "6 hours ago",
+      "publishedTime": "2026-08-28T04:21:28.078Z",
+      "publishedTimeText": "6 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/NL4KyeXaNDA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCthLZn55d-ZRYB3xrxpy_TJUeYnQ",
+      "title": "Gutfeld Show 08/27/26 FULL END SHOW | ᖴO᙭ ᗷᖇEᗩKIᑎG ᑎEᗯS August 27, 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=NL4KyeXaNDA",
+      "viewCountInt": 82000,
+      "viewCountText": "82K views"
+    },
+    {
+      "channel": {
+        "handle": "MigueBaenaIA",
+        "id": "UCX_dT6nVtCIHRo_GFOsWK2A",
+        "title": "Migue Baena IA",
+        "url": "https://www.youtube.com/@MigueBaenaIA"
+      },
+      "id": "D11HrOsZLu8",
+      "lengthInSeconds": 1404,
+      "lengthText": "23:24",
+      "publishDate": "2026-08-24T10:21:28.078Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-24T10:21:28.078Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/D11HrOsZLu8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC1uhTdlOWsJsXCQAymoNFnccarXA",
+      "title": "How to use Gemini BETTER than 99% of people (from beginner to expert)",
+      "videoUrl": "https://www.youtube.com/watch?v=D11HrOsZLu8",
+      "viewCountInt": 62000,
+      "viewCountText": "62K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "MPHn-nW30QU",
+      "lengthInSeconds": 3310,
+      "lengthText": "55:10",
+      "publishDate": "2026-08-27T10:21:28.078Z",
+      "publishDateText": "Streamed 1 day ago",
+      "publishedTime": "2026-08-27T10:21:28.078Z",
+      "publishedTimeText": "Streamed 1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/MPHn-nW30QU/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBLKD8wDw==&rs=AOn4CLC3uxRR-ID_6H5jCQhdk4rFM92tCQ",
+      "title": "14 Years of Actually Good Advice",
+      "videoUrl": "https://www.youtube.com/watch?v=MPHn-nW30QU",
+      "viewCountInt": 37000,
+      "viewCountText": "37K views"
+    },
+    {
+      "channel": {
+        "handle": "BBCNews",
+        "id": "UC16niRr50-MSBwiO3YDb3RA",
+        "title": "BBC News",
+        "url": "https://www.youtube.com/@BBCNews"
+      },
+      "id": "yQAH4Crser8",
+      "lengthInSeconds": 815,
+      "lengthText": "13:35",
+      "publishDate": "2026-08-27T20:21:28.078Z",
+      "publishDateText": "14 hours ago",
+      "publishedTime": "2026-08-27T20:21:28.078Z",
+      "publishedTimeText": "14 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/yQAH4Crser8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLByiCTh4o9y-9oe9150Moz5pMgBlQ",
+      "title": "Did a glacier collapse trigger Nepal’s deadly floods? | BBC News",
+      "videoUrl": "https://www.youtube.com/watch?v=yQAH4Crser8",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "kp8XfxYZyRU",
+      "lengthInSeconds": 856,
+      "lengthText": "14:16",
+      "publishDate": "2026-08-22T10:21:28.078Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-22T10:21:28.078Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/kp8XfxYZyRU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAm39uBx4L-y9aTgtgx25JYoDUSTg",
+      "title": "Exercise Scientist’s #1 Way To GAIN Muscle Faster",
+      "videoUrl": "https://www.youtube.com/watch?v=kp8XfxYZyRU",
+      "viewCountInt": 170000,
+      "viewCountText": "170K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "Uj5XKwW0Vbs",
+      "lengthInSeconds": 3633,
+      "lengthText": "1:00:33",
+      "publishDate": "2026-08-27T21:21:28.078Z",
+      "publishDateText": "Streamed 13 hours ago",
+      "publishedTime": "2026-08-27T21:21:28.078Z",
+      "publishedTimeText": "Streamed 13 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/Uj5XKwW0Vbs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBCZz8thdFf4V_vF-X0eFJiWUyK1Q",
+      "title": "Brutally Honest Advice On Life & Death",
+      "videoUrl": "https://www.youtube.com/watch?v=Uj5XKwW0Vbs",
+      "viewCountInt": 52000,
+      "viewCountText": "52K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Better Offline",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "Lf5oqGOCRCM",
+      "lengthInSeconds": 8870,
+      "lengthText": "2:27:50",
+      "publishDate": "2026-08-27T10:21:28.078Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-08-27T10:21:28.078Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/Lf5oqGOCRCM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAWMM-7UkBSkGxvSUAZoVZrO5KQkQ",
+      "title": "The Man Who Calls BS On AI: They’re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
+      "videoUrl": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "4XQ50qWSRO4",
+      "lengthInSeconds": 1704,
+      "lengthText": "28:24",
+      "publishDate": "2026-08-22T10:21:28.078Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-22T10:21:28.078Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/4XQ50qWSRO4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLABWAE5CyBA0qOidIgvb0kbOc-9vA",
+      "title": "Success is Hard Until You Understand This Formula",
+      "videoUrl": "https://www.youtube.com/watch?v=4XQ50qWSRO4",
+      "viewCountInt": 24000,
+      "viewCountText": "24K views"
+    },
+    {
+      "channel": {
+        "handle": "NFL",
+        "id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "NFL",
+        "url": "https://www.youtube.com/@NFL"
+      },
+      "id": "iR5hbAlVc7k",
+      "lengthInSeconds": 903,
+      "lengthText": "15:03",
+      "publishDate": "2026-08-28T03:21:28.078Z",
+      "publishDateText": "7 hours ago",
+      "publishedTime": "2026-08-28T03:21:28.078Z",
+      "publishedTimeText": "7 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/iR5hbAlVc7k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC811i4XO_W4vK85HaeAQqoG16mXw",
+      "title": "San Francisco 49ers vs. Las Vegas Raiders | 2026 Preseason Week 3",
+      "videoUrl": "https://www.youtube.com/watch?v=iR5hbAlVc7k",
+      "viewCountInt": 565000,
+      "viewCountText": "565K views"
+    },
+    {
+      "channel": {
+        "handle": "gamespot",
+        "id": "UCbu2SsF-Or3Rsn3NxqODImw",
+        "title": "GameSpot",
+        "url": "https://www.youtube.com/@gamespot"
+      },
+      "id": "AsyOVBDRgtk",
+      "lengthInSeconds": 1609,
+      "lengthText": "26:49",
+      "publishDate": "2026-08-28T02:21:28.078Z",
+      "publishDateText": "8 hours ago",
+      "publishedTime": "2026-08-28T02:21:28.078Z",
+      "publishedTimeText": "8 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/AsyOVBDRgtk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC0aboMGOjBoOWcIln_q0pZIetibA",
+      "title": "Grand Theft Auto VI (GTA 6): An Extended Look | 26 Minute Gameplay Reveal",
+      "videoUrl": "https://www.youtube.com/watch?v=AsyOVBDRgtk",
+      "viewCountInt": 1800000,
+      "viewCountText": "1.8M views"
+    },
+    {
+      "channel": {
+        "handle": "WholesaleTed",
+        "id": "UCC8wczy7734jKPhiR2UkS9A",
+        "title": "Wholesale Ted",
+        "url": "https://www.youtube.com/@WholesaleTed"
+      },
+      "id": "8NvhbfZNTrc",
+      "lengthInSeconds": 1323,
+      "lengthText": "22:03",
+      "publishDate": "2026-08-21T10:21:28.078Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-08-21T10:21:28.078Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/8NvhbfZNTrc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDTipaLYmVd6Cg6XGQASMKJSk66iQ",
+      "title": "The Best AI Side Hustles To Start If You're BROKE",
+      "videoUrl": "https://www.youtube.com/watch?v=8NvhbfZNTrc",
+      "viewCountInt": 91000,
+      "viewCountText": "91K views"
+    },
+    {
+      "channel": {
+        "handle": "AsmonTV",
+        "id": "UCQeRaTukNYft1_6AZPACnog",
+        "title": "Asmongold TV  ",
+        "url": "https://www.youtube.com/@AsmonTV"
+      },
+      "id": "7H1_TFmNDcg",
+      "lengthInSeconds": 3907,
+      "lengthText": "1:05:07",
+      "publishDate": "2026-08-27T12:21:28.078Z",
+      "publishDateText": "22 hours ago",
+      "publishedTime": "2026-08-27T12:21:28.078Z",
+      "publishedTimeText": "22 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/7H1_TFmNDcg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCGKEvLqRreVO8f28y3SUa8Y-raog",
+      "title": "You can't defend this anymore..",
+      "videoUrl": "https://www.youtube.com/watch?v=7H1_TFmNDcg",
+      "viewCountInt": 809000,
+      "viewCountText": "809K views"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My favorite way to learn is to do a huge"
+    },
+    {
+      "endMs": "7480",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "amount of effort, a lot of repetitions,"
+    },
+    {
+      "endMs": "9520",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "and then look at the data of the last"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "7480",
+      "startTimeText": "0:07",
+      "text": "100 and say, \"What were the top 10%?"
+    },
+    {
+      "endMs": "12720",
+      "startMs": "9520",
+      "startTimeText": "0:09",
+      "text": "What do these have in common? Okay, my"
+    },
+    {
+      "endMs": "14520",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "next 100 are going to be just like"
+    },
+    {
+      "endMs": "16360",
+      "startMs": "12720",
+      "startTimeText": "0:12",
+      "text": "those.\" And then you do 100 more of"
+    },
+    {
+      "endMs": "17520",
+      "startMs": "14520",
+      "startTimeText": "0:14",
+      "text": "that. And then, because of variability"
+    },
+    {
+      "endMs": "19280",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": "and variety of life, you're going to"
+    },
+    {
+      "endMs": "20920",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "have another top 10% of those and say,"
+    },
+    {
+      "endMs": "23880",
+      "startMs": "19280",
+      "startTimeText": "0:19",
+      "text": "\"What did those have in common? How do I"
+    },
+    {
+      "endMs": "23880",
+      "startMs": "20920",
+      "startTimeText": "0:20",
+      "text": "do more of that?\""
+    }
+  ],
+  "transcript_only_text": " My  favorite  way  to  learn  is  to  do  a  huge \n amount  of  effort,  a  lot  of  repetitions, \n and  then  look  at  the  data  of  the  last \n 100  and  say,  \"What  were  the  top  10%? \n What  do  these  have  in  common?  Okay,  my \n next  100  are  going  to  be  just  like \n those.\"  And  then  you  do  100  more  of \n that.  And  then,  because  of  variability \n and  variety  of  life,  you're  going  to \n have  another  top  10%  of  those  and  say, \n \"What  did  those  have  in  common?  How  do  I \n do  more  of  that?\"",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WhcqV9GB8uo",
+  "videoId": "WhcqV9GB8uo"
+}

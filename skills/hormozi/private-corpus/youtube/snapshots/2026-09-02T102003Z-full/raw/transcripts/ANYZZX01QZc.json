@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Life is short, but youth is even"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "shorter. And so use it while you got it."
+    },
+    {
+      "endMs": "7839",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "Unless you die, you can still get back"
+    },
+    {
+      "endMs": "9679",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "up and try again. And so for me, it took"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "7839",
+      "startTimeText": "0:07",
+      "text": "me realizing that the people who were"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "9679",
+      "startTimeText": "0:09",
+      "text": "telling me what I need to do with my"
+    },
+    {
+      "endMs": "14559",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "life had smaller goals than me. Because"
+    },
+    {
+      "endMs": "16240",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "if I told them what I really wanted,"
+    },
+    {
+      "endMs": "18160",
+      "startMs": "14559",
+      "startTimeText": "0:14",
+      "text": "they'd be like, \"Dude, get real.\" And so"
+    },
+    {
+      "endMs": "19520",
+      "startMs": "16240",
+      "startTimeText": "0:16",
+      "text": "you might have that, too. Some people in"
+    },
+    {
+      "endMs": "20480",
+      "startMs": "18160",
+      "startTimeText": "0:18",
+      "text": "your life may be like, \"Be realistic.\""
+    },
+    {
+      "endMs": "22240",
+      "startMs": "19520",
+      "startTimeText": "0:19",
+      "text": "It's like, \"I'm not trying to be"
+    },
+    {
+      "endMs": "24640",
+      "startMs": "20480",
+      "startTimeText": "0:20",
+      "text": "realistic, man. I got one life. I'm"
+    },
+    {
+      "endMs": "24640",
+      "startMs": "22240",
+      "startTimeText": "0:22",
+      "text": "gonna die."
+    }
+  ],
+  "transcript_only_text": " Life  is  short,  but  youth  is  even \n shorter.  And  so  use  it  while  you  got  it. \n Unless  you  die,  you  can  still  get  back \n up  and  try  again.  And  so  for  me,  it  took \n me  realizing  that  the  people  who  were \n telling  me  what  I  need  to  do  with  my \n life  had  smaller  goals  than  me.  Because \n if  I  told  them  what  I  really  wanted, \n they'd  be  like,  \"Dude,  get  real.\"  And  so \n you  might  have  that,  too.  Some  people  in \n your  life  may  be  like,  \"Be  realistic.\" \n It's  like,  \"I'm  not  trying  to  be \n realistic,  man.  I  got  one  life.  I'm \n gonna  die.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ANYZZX01QZc",
+  "videoId": "ANYZZX01QZc"
+}

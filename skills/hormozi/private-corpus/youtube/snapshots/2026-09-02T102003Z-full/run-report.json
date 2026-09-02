@@ -1,0 +1,118 @@
+{
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "counts": {
+    "detail_failure": 0,
+    "detail_requests_required": 1693,
+    "detail_success": 1692,
+    "detail_unavailable": 1,
+    "discovered_occurrences": 5560,
+    "discovered_unique_video_ids": 5560,
+    "doctrine_eligible": 0,
+    "doctrine_review_pending": 1680,
+    "duplicates_across_surfaces": 0,
+    "in_scope_unique_video_ids": 1687,
+    "transcript_failure": 0,
+    "transcript_not_requested": 0,
+    "transcript_segments": 194817,
+    "transcript_success": 1680,
+    "transcript_unavailable": 7,
+    "visual_review_required": 1605
+  },
+  "errors": {
+    "details": {},
+    "transcripts": {}
+  },
+  "manifest": {
+    "relative_path": "youtube-source-manifest.jsonl",
+    "rows": 5560,
+    "sha256": "de1b9c6e81834246f92d6d9b6770584edcf3d29698ce798d5606a929fdc066eb"
+  },
+  "privacy": {
+    "api_credentials": "never persisted",
+    "credit_balance": "not persisted",
+    "transcript_text": "private"
+  },
+  "schema_version": "1.0.0",
+  "snapshot_id": "2026-09-02T102003Z-full",
+  "status": "complete",
+  "surfaces": [
+    {
+      "continuation_exhausted": true,
+      "listing_rows": 519,
+      "name": "videos",
+      "pages": 18
+    },
+    {
+      "continuation_exhausted": true,
+      "listing_rows": 5009,
+      "name": "shorts",
+      "pages": 105
+    },
+    {
+      "continuation_exhausted": true,
+      "listing_rows": 32,
+      "name": "lives",
+      "pages": 2
+    }
+  ],
+  "unavailable": {
+    "details": {
+      "SqfIlyF3QNE": {
+        "attempts": 1,
+        "code": "api_http_error",
+        "endpoint": "/v1/youtube/video?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSqfIlyF3QNE",
+        "exit_code": 1,
+        "http_status": 403,
+        "message": "The ScrapeCreators API request failed."
+      }
+    },
+    "transcripts": {
+      "-nL5pd-hxz4": {
+        "code": "malformed_or_empty_captions",
+        "message": "The transcript response contained no timestamped caption segments.",
+        "retryable": false
+      },
+      "94MiiGiNo2o": {
+        "code": "malformed_or_empty_captions",
+        "message": "The transcript response contained no timestamped caption segments.",
+        "retryable": false
+      },
+      "FlegqZ5HkJ8": {
+        "code": "malformed_or_empty_captions",
+        "message": "The transcript response contained no timestamped caption segments.",
+        "retryable": false
+      },
+      "SqfIlyF3QNE": {
+        "attempts": 1,
+        "code": "resource_not_found",
+        "endpoint": "/v1/youtube/video/transcript?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSqfIlyF3QNE",
+        "exit_code": 1,
+        "http_status": 404,
+        "message": "The requested ScrapeCreators resource or endpoint was not found."
+      },
+      "YaW92mGNk7w": {
+        "code": "malformed_or_empty_captions",
+        "message": "The transcript response contained no timestamped caption segments.",
+        "retryable": false
+      },
+      "caSjIqqECDI": {
+        "code": "malformed_or_empty_captions",
+        "message": "The transcript response contained no timestamped caption segments.",
+        "retryable": false
+      },
+      "gMr30XYRaOk": {
+        "code": "malformed_or_empty_captions",
+        "message": "The transcript response contained no timestamped caption segments.",
+        "retryable": false
+      }
+    }
+  },
+  "window": {
+    "end_inclusive": "2026-09-02T10:20:03.287Z",
+    "start_inclusive": "2025-09-02T10:20:03.287Z"
+  }
+}

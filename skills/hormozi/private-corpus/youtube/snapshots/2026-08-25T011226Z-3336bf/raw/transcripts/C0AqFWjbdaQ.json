@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Let's say you aren't a software"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "1080",
+      "startTimeText": "0:01",
+      "text": "developer, right? And you want to start"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "a business. The easiest one to start is"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "a service business because it only"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "requires your time and you learn a skill"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "that other people can also learn, but"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "some people just might not want to do"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "12520",
+      "startTimeText": "0:12",
+      "text": "it. And that is all you need to solve."
+    }
+  ],
+  "transcript_only_text": " Let's  say  you  aren't  a  software \n developer,  right?  And  you  want  to  start \n a  business.  The  easiest  one  to  start  is \n a  service  business  because  it  only \n requires  your  time  and  you  learn  a  skill \n that  other  people  can  also  learn,  but \n some  people  just  might  not  want  to  do \n it.  And  that  is  all  you  need  to  solve.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=C0AqFWjbdaQ",
+  "videoId": "C0AqFWjbdaQ"
+}

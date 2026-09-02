@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is the cruel reality of small"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "business. Small business owners tend to"
+    },
+    {
+      "endMs": "9680",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "have the most ideas of things they can"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": "do, but small businesses in general have"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "9680",
+      "startTimeText": "0:09",
+      "text": "the lowest capacity to pursue new ideas."
+    },
+    {
+      "endMs": "17160",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "Like, you have so little time and so"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "14920",
+      "startTimeText": "0:14",
+      "text": "little effort and so few people and"
+    },
+    {
+      "endMs": "19640",
+      "startMs": "17160",
+      "startTimeText": "0:17",
+      "text": "capital that you can actually do"
+    },
+    {
+      "endMs": "22920",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "anything, especially if you want to do"
+    },
+    {
+      "endMs": "24880",
+      "startMs": "19640",
+      "startTimeText": "0:19",
+      "text": "it right, that the the best hope you can"
+    },
+    {
+      "endMs": "30000",
+      "startMs": "22920",
+      "startTimeText": "0:22",
+      "text": "possibly have if you really want to"
+    },
+    {
+      "endMs": "30000",
+      "startMs": "24880",
+      "startTimeText": "0:24",
+      "text": "compete is to just do one thing well."
+    }
+  ],
+  "transcript_only_text": " This  is  the  cruel  reality  of  small \n business.  Small  business  owners  tend  to \n have  the  most  ideas  of  things  they  can \n do,  but  small  businesses  in  general  have \n the  lowest  capacity  to  pursue  new  ideas. \n Like,  you  have  so  little  time  and  so \n little  effort  and  so  few  people  and \n capital  that  you  can  actually  do \n anything,  especially  if  you  want  to  do \n it  right,  that  the  the  best  hope  you  can \n possibly  have  if  you  really  want  to \n compete  is  to  just  do  one  thing  well.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=emyt0N0JNuQ",
+  "videoId": "emyt0N0JNuQ"
+}

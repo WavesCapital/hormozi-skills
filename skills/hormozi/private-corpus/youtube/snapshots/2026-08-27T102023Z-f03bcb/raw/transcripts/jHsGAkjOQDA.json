@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4240",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "People who obsess about work life"
+    },
+    {
+      "endMs": "5600",
+      "startMs": "1839",
+      "startTimeText": "0:01",
+      "text": "balance tend to be mediocre at both. If"
+    },
+    {
+      "endMs": "7680",
+      "startMs": "4240",
+      "startTimeText": "0:04",
+      "text": "you want [music] something, you have to"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "go get it. It's it's like this entropy."
+    },
+    {
+      "endMs": "10800",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "Like the world will try to drag you down"
+    },
+    {
+      "endMs": "12639",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "and make you a part of it. [music] It"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "will try to dilute who you are. It will"
+    },
+    {
+      "endMs": "18340",
+      "startMs": "12639",
+      "startTimeText": "0:12",
+      "text": "try to make you fit into the mold that"
+    },
+    {
+      "endMs": "23359",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "they accept. You have to be willing to"
+    },
+    {
+      "endMs": "23359",
+      "startMs": "18340",
+      "startTimeText": "0:18",
+      "text": "[music] be extreme to get an extreme"
+    }
+  ],
+  "transcript_only_text": " People  who  obsess  about  work  life \n balance  tend  to  be  mediocre  at  both.  If \n you  want  [music]  something,  you  have  to \n go  get  it.  It's  it's  like  this  entropy. \n Like  the  world  will  try  to  drag  you  down \n and  make  you  a  part  of  it.  [music]  It \n will  try  to  dilute  who  you  are.  It  will \n try  to  make  you  fit  into  the  mold  that \n they  accept.  You  have  to  be  willing  to \n [music]  be  extreme  to  get  an  extreme",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=jHsGAkjOQDA",
+  "videoId": "jHsGAkjOQDA"
+}

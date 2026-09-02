@@ -1,0 +1,301 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=FmFjZAAhNMs&ei=TtGSapuNHZm1ir4PhOiDgAo&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788031934&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=05BDF52836EBCEFE59D5B19FCCB4C1A53F910565.88C7DD589A085529A0AA83BEC7C983494E7E0F1B&key=yt8&kind=asr&lang=en",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": null,
+  "credits_charged": 1,
+  "credits_remaining": 18132,
+  "description": "In a room of one hundred $1M+ entrepreneurs, only 4 make it to $10M+. \n\nSocial Media =\\= Reality",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:26",
+  "durationMs": 26000,
+  "genre": "Education",
+  "id": "FmFjZAAhNMs",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 69,
+  "likeCountText": "69",
+  "most_replayed": null,
+  "publishDate": "2026-08-29T00:01:05-07:00",
+  "publishDateText": "Aug 29, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/FmFjZAAhNMs/maxresdefault.jpg",
+  "title": "Top 0.1% in Any Business Makes $10M",
+  "type": "video",
+  "viewCountInt": 1919,
+  "viewCountText": "1,919",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T07:32:15.565Z",
+      "publishDateText": "5 hours ago",
+      "publishedTime": "2026-08-29T07:32:15.565Z",
+      "publishedTimeText": "5 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "This Video Should be REQUIRED Viewing For Business Owners",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 23000,
+      "viewCountText": "23K views"
+    },
+    {
+      "channel": {
+        "handle": "JoshuaWeissman",
+        "id": "UChBEbMKI1eCcejTtmI32UEw",
+        "title": "Joshua Weissman",
+        "url": "https://www.youtube.com/@JoshuaWeissman"
+      },
+      "id": "HkDSTzzogLk",
+      "lengthInSeconds": 1369,
+      "lengthText": "22:49",
+      "publishDate": "2026-08-15T12:32:15.565Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-15T12:32:15.565Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/HkDSTzzogLk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAF13ZBtnSCBQIogQw63kLjXDYJFQ",
+      "title": "I Investigated The “Illegal” Food of Facebook Marketplace",
+      "videoUrl": "https://www.youtube.com/watch?v=HkDSTzzogLk",
+      "viewCountInt": 2700000,
+      "viewCountText": "2.7M views"
+    },
+    {
+      "channel": {
+        "handle": "RichRebuilds",
+        "id": "UCfV0_wbjG8KJADuZT2ct4SA",
+        "title": "Rich Rebuilds",
+        "url": "https://www.youtube.com/@RichRebuilds"
+      },
+      "id": "rnUD-NgQrGM",
+      "lengthInSeconds": 3062,
+      "lengthText": "51:02",
+      "publishDate": "2026-08-15T12:32:15.565Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-15T12:32:15.565Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/rnUD-NgQrGM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLByYFcODL02Rc3eYkUkjlOsnegq9w",
+      "title": "I Bought Amazon’s $100,000 Rivian Van for $10,000… Dealer Said It Needed a New Battery",
+      "videoUrl": "https://www.youtube.com/watch?v=rnUD-NgQrGM",
+      "viewCountInt": 3200000,
+      "viewCountText": "3.2M views"
+    },
+    {
+      "channel": {
+        "handle": "WatchMojo",
+        "id": "UCaWd5_7JhbQBe4dknZhsHJg",
+        "title": "WatchMojo.com",
+        "url": "https://www.youtube.com/@WatchMojo"
+      },
+      "id": "XAioyb8PQ34",
+      "lengthInSeconds": 1106,
+      "lengthText": "18:26",
+      "publishDate": "2025-08-29T12:32:15.565Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-29T12:32:15.565Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/XAioyb8PQ34/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCwZcVz6FNn8nft-ilkqdIV8sYMyQ",
+      "title": "Top 20 Most Disturbing Movies Because of What We Know Now",
+      "videoUrl": "https://www.youtube.com/watch?v=XAioyb8PQ34",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "MikeRitland",
+        "id": "UCNZR15cy3w1fzGXgI5oy5aA",
+        "title": "Mike Ritland",
+        "url": "https://www.youtube.com/@MikeRitland"
+      },
+      "id": "4nD0I2TB318",
+      "lengthInSeconds": 1314,
+      "lengthText": "21:54",
+      "publishDate": "2026-08-24T12:32:15.565Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-24T12:32:15.565Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/4nD0I2TB318/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDmteXRDfNNARJ33oWtnqevXP9xbg",
+      "title": "Navy SEAL Takes Down 3 Gang Members in a Jail Cell",
+      "videoUrl": "https://www.youtube.com/watch?v=4nD0I2TB318",
+      "viewCountInt": 955000,
+      "viewCountText": "955K views"
+    },
+    {
+      "channel": {
+        "handle": "KARATEbyJesse",
+        "id": "UCRIeMHsEdzA9RroG19kXdYg",
+        "title": "Jesse Enkamp",
+        "url": "https://www.youtube.com/@KARATEbyJesse"
+      },
+      "id": "EAJ2vt8wUbY",
+      "lengthInSeconds": 487,
+      "lengthText": "8:07",
+      "publishDate": "2024-08-29T12:32:15.565Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-08-29T12:32:15.565Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/EAJ2vt8wUbY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwZjoXrsAUSFpfveQ6KF5iJHv51Q",
+      "title": "I Entered A Jiu-Jitsu Tournament To Prove It Doesn't Work",
+      "videoUrl": "https://www.youtube.com/watch?v=EAJ2vt8wUbY",
+      "viewCountInt": 12000000,
+      "viewCountText": "12M views"
+    },
+    {
+      "channel": {
+        "handle": "GeographyByGeoff",
+        "id": "UC7-Z34pbJ0ZAOJRmUCEz0Cg",
+        "title": "Geography By Geoff",
+        "url": "https://www.youtube.com/@GeographyByGeoff"
+      },
+      "id": "0opxCXlJgvw",
+      "lengthInSeconds": 1147,
+      "lengthText": "19:07",
+      "publishDate": "2026-08-08T12:32:15.565Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-08T12:32:15.565Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/0opxCXlJgvw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCPqm2pHuqgibejKlTUcTIgdqyaDg",
+      "title": "Why Nobody Lives On This HUGE Stretch Of Africa's Coast",
+      "videoUrl": "https://www.youtube.com/watch?v=0opxCXlJgvw",
+      "viewCountInt": 2500000,
+      "viewCountText": "2.5M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "mHER6vAr1bg",
+      "lengthInSeconds": 1150,
+      "lengthText": "19:10",
+      "publishDate": "2026-04-29T12:32:15.565Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-29T12:32:15.565Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/mHER6vAr1bg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt0g087QX2AClvjc56gKza19WCxg",
+      "title": "THIS Is #1 FASTEST Way To BURN Fat Around Your Organs",
+      "videoUrl": "https://www.youtube.com/watch?v=mHER6vAr1bg",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "MattandJulia",
+        "id": "UCnrHlFu6ZueDosGPt9R3nHw",
+        "title": "Matt and Julia",
+        "url": "https://www.youtube.com/@MattandJulia"
+      },
+      "id": "_GMgofd_Agw",
+      "lengthInSeconds": 2218,
+      "lengthText": "36:58",
+      "publishDate": "2026-08-26T12:32:15.565Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-08-26T12:32:15.565Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/_GMgofd_Agw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCeOmJva8t4vFFuXyTvxlVSVw97ew",
+      "title": "INSIDE IRAN IN 2026 (Intense)",
+      "videoUrl": "https://www.youtube.com/watch?v=_GMgofd_Agw",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "ArvinHaddadOfficial",
+        "id": "UCPIeusZUVcsxTPPsp6Mkltg",
+        "title": "Arvin Haddad ",
+        "url": "https://www.youtube.com/@ArvinHaddadOfficial"
+      },
+      "id": "oqml0w9ruLY",
+      "lengthInSeconds": 2956,
+      "lengthText": "49:16",
+      "publishDate": "2025-08-29T12:32:15.565Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-29T12:32:15.565Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/oqml0w9ruLY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD0RwXsJ44ufRZxFm27HAEL5GY4Yg",
+      "title": "When An Engineer Tries Building His Own Home... | FLAWS EXPOSED by Arvin Haddad",
+      "videoUrl": "https://www.youtube.com/watch?v=oqml0w9ruLY",
+      "viewCountInt": 411000,
+      "viewCountText": "411K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "sL16tsGafcQ",
+      "lengthInSeconds": 1513,
+      "lengthText": "25:13",
+      "publishDate": "2026-06-29T12:32:15.565Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-29T12:32:15.565Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/sL16tsGafcQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLALlTYlMhcfDoAdstq2lINFZXFWDQ",
+      "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
+      "videoUrl": "https://www.youtube.com/watch?v=sL16tsGafcQ",
+      "viewCountInt": 702000,
+      "viewCountText": "702K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "kp8XfxYZyRU",
+      "lengthInSeconds": 856,
+      "lengthText": "14:16",
+      "publishDate": "2026-08-22T12:32:15.565Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-08-22T12:32:15.565Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/kp8XfxYZyRU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAm39uBx4L-y9aTgtgx25JYoDUSTg",
+      "title": "Exercise Scientist’s #1 Way To GAIN Muscle Faster",
+      "videoUrl": "https://www.youtube.com/watch?v=kp8XfxYZyRU",
+      "viewCountInt": 179000,
+      "viewCountText": "179K views"
+    }
+  ]
+}

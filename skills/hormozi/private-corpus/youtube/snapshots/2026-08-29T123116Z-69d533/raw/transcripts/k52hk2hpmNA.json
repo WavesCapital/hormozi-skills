@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So think about this."
+    },
+    {
+      "endMs": "8160",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "If you're growing, you have growing"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "pains and it is painful. If you are"
+    },
+    {
+      "endMs": "14080",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "shrinking, you have shrinking pains and"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "it is very painful. If you're plateaued,"
+    },
+    {
+      "endMs": "20560",
+      "startMs": "14080",
+      "startTimeText": "0:14",
+      "text": "you have plateauing pains. And so"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "basically, you're [ __ ]"
+    },
+    {
+      "endMs": "24880",
+      "startMs": "20560",
+      "startTimeText": "0:20",
+      "text": "Business is hard. It's going to suck."
+    },
+    {
+      "endMs": "26240",
+      "startMs": "22400",
+      "startTimeText": "0:22",
+      "text": "It's going to be painful at all stages."
+    },
+    {
+      "endMs": "28320",
+      "startMs": "24880",
+      "startTimeText": "0:24",
+      "text": "Going up, going down, or staying the"
+    },
+    {
+      "endMs": "30720",
+      "startMs": "26240",
+      "startTimeText": "0:26",
+      "text": "same. All of them suck. And so having"
+    },
+    {
+      "endMs": "35040",
+      "startMs": "28320",
+      "startTimeText": "0:28",
+      "text": "frameworks to think through these things"
+    },
+    {
+      "endMs": "35040",
+      "startMs": "30720",
+      "startTimeText": "0:30",
+      "text": "can make it a little bit more bearable."
+    }
+  ],
+  "transcript_only_text": " So  think  about  this. \n If  you're  growing,  you  have  growing \n pains  and  it  is  painful.  If  you  are \n shrinking,  you  have  shrinking  pains  and \n it  is  very  painful.  If  you're  plateaued, \n you  have  plateauing  pains.  And  so \n basically,  you're  [ __ ] \n Business  is  hard.  It's  going  to  suck. \n It's  going  to  be  painful  at  all  stages. \n Going  up,  going  down,  or  staying  the \n same.  All  of  them  suck.  And  so  having \n frameworks  to  think  through  these  things \n can  make  it  a  little  bit  more  bearable.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=k52hk2hpmNA",
+  "videoId": "k52hk2hpmNA"
+}

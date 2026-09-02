@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Probably about half of you are"
+    },
+    {
+      "endMs": "5520",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "underpriced. About half. Well, now if I"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "raise my prices, I'll lose all my"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "5520",
+      "startTimeText": "0:05",
+      "text": "customers. You won't. You won't. You'll"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "lose some and then you replace them with"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "better ones and you'll make more"
+    }
+  ],
+  "transcript_only_text": " Probably  about  half  of  you  are \n underpriced.  About  half.  Well,  now  if  I \n raise  my  prices,  I'll  lose  all  my \n customers.  You  won't.  You  won't.  You'll \n lose  some  and  then  you  replace  them  with \n better  ones  and  you'll  make  more",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-WonbL_Ia9U",
+  "videoId": "-WonbL_Ia9U"
+}

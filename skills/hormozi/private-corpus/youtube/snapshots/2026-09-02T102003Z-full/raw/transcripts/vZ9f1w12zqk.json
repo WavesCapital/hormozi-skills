@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2639",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Of course, you're not good. You just"
+    },
+    {
+      "endMs": "4400",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "started. How do you think anyone gets"
+    },
+    {
+      "endMs": "6000",
+      "startMs": "2639",
+      "startTimeText": "0:02",
+      "text": "good? You suck for a long time, then you"
+    },
+    {
+      "endMs": "7440",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "get a little bit better until you suck"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "6000",
+      "startTimeText": "0:06",
+      "text": "so little that you're actually good. It"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "takes a long time to get through that."
+    },
+    {
+      "endMs": "13599",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "And that is frustration tolerance. How"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "many times can you do the same thing"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "without reward, without reinforcement,"
+    },
+    {
+      "endMs": "21480",
+      "startMs": "16160",
+      "startTimeText": "0:16",
+      "text": "and [music] keep going? That is the hard"
+    },
+    {
+      "endMs": "21480",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "part."
+    }
+  ],
+  "transcript_only_text": " Of  course,  you're  not  good.  You  just \n started.  How  do  you  think  anyone  gets \n good?  You  suck  for  a  long  time,  then  you \n get  a  little  bit  better  until  you  suck \n so  little  that  you're  actually  good.  It \n takes  a  long  time  to  get  through  that. \n And  that  is  frustration  tolerance.  How \n many  times  can  you  do  the  same  thing \n without  reward,  without  reinforcement, \n and  [music]  keep  going?  That  is  the  hard \n part.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vZ9f1w12zqk",
+  "videoId": "vZ9f1w12zqk"
+}

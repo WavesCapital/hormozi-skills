@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/hormozi/doctrine.schema.json",
+  "title": "Public Hormozi Doctrine Index",
+  "type": "object",
+  "required": ["material_rules", "concepts", "asset_rule_coverage", "copyright_boundary"],
+  "properties": {
+    "material_rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["rule_id", "mode", "statement", "decision_logic", "citations"],
+        "properties": {
+          "rule_id": {"type": "string", "pattern": "^HZ-[A-Z]+-[0-9]{3}$"},
+          "mode": {"enum": ["diagnose", "offer-economics", "demand", "sales", "customer-value", "team-operations", "shared"]}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "A lot of people don't know how to price"
+    },
+    {
+      "endMs": "4920",
+      "startMs": "1640",
+      "startTimeText": "0:01",
+      "text": "their upsells. They have one thing for"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "3240",
+      "startTimeText": "0:03",
+      "text": "$100 and they try and upsell a second"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "4920",
+      "startTimeText": "0:04",
+      "text": "thing for $120. That's not how you want"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "to do it. Customers tend to be fractal,"
+    },
+    {
+      "endMs": "13560",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "meaning that the top 20% has five times"
+    },
+    {
+      "endMs": "15160",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "the spending power of the bottom 80. And"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "13560",
+      "startTimeText": "0:13",
+      "text": "so if you're going to do an upsell, make"
+    },
+    {
+      "endMs": "20520",
+      "startMs": "15160",
+      "startTimeText": "0:15",
+      "text": "the upsell five times more so that even"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "if 20% of people buy something at 5x the"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "20520",
+      "startTimeText": "0:20",
+      "text": "price, you double your revenue."
+    }
+  ],
+  "transcript_only_text": " A  lot  of  people  don't  know  how  to  price \n their  upsells.  They  have  one  thing  for \n $100  and  they  try  and  upsell  a  second \n thing  for  $120.  That's  not  how  you  want \n to  do  it.  Customers  tend  to  be  fractal, \n meaning  that  the  top  20%  has  five  times \n the  spending  power  of  the  bottom  80.  And \n so  if  you're  going  to  do  an  upsell,  make \n the  upsell  five  times  more  so  that  even \n if  20%  of  people  buy  something  at  5x  the \n price,  you  double  your  revenue.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=sbzsqNJuZvg",
+  "videoId": "sbzsqNJuZvg"
+}

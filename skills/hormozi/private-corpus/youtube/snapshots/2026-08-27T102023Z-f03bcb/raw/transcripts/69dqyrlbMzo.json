@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5920",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "I like working more than I like doingjust about anything else. And so I work"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "4000",
+      "startTimeText": "0:04",
+      "text": "with all the hours that I can until Ican't work anymore. And then at that"
+    },
+    {
+      "endMs": "12719",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "point, I go into rest mode. And whateverI feel like resting with, which whether"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "that's a day at the pool, whether that'swatching Netflix or going to a movie or"
+    },
+    {
+      "endMs": "19359",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "just like a big workout morning intolike brunch and hanging out with"
+    },
+    {
+      "endMs": "23439",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "buddies, that's what I do to recharge.And I see that as active and productive"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "21760",
+      "startTimeText": "0:21",
+      "text": "because it increases my total output forthe week or the"
+    }
+  ],
+  "transcript_only_text": " I like working more than I like doing\njust about anything else. And so I work with all the hours that I can until I\ncan't work anymore. And then at that point, I go into rest mode. And whatever\nI feel like resting with, which whether that's a day at the pool, whether that's\nwatching Netflix or going to a movie or just like a big workout morning into\nlike brunch and hanging out with buddies, that's what I do to recharge.\nAnd I see that as active and productive because it increases my total output for\nthe week or the",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=69dqyrlbMzo",
+  "videoId": "69dqyrlbMzo"
+}

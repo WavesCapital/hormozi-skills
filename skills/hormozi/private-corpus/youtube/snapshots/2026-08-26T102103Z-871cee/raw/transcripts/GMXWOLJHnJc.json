@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My first nine businesses didn't really"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "amount to anything. Nine."
+    },
+    {
+      "endMs": "9480",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "Nine. As in the first one, spent time,"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "[ __ ] failed. Second one, this one"
+    },
+    {
+      "endMs": "14160",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "will be different, [ __ ] failed. Third"
+    },
+    {
+      "endMs": "15760",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "one, this one, this is the one. I'm just"
+    },
+    {
+      "endMs": "17840",
+      "startMs": "14160",
+      "startTimeText": "0:14",
+      "text": "painting this picture because like it's"
+    },
+    {
+      "endMs": "20560",
+      "startMs": "15760",
+      "startTimeText": "0:15",
+      "text": "painful as [ __ ] because the whole time"
+    },
+    {
+      "endMs": "22800",
+      "startMs": "17840",
+      "startTimeText": "0:17",
+      "text": "everyone is telling you I told you so,"
+    },
+    {
+      "endMs": "24920",
+      "startMs": "20560",
+      "startTimeText": "0:20",
+      "text": "and they're right."
+    },
+    {
+      "endMs": "27520",
+      "startMs": "22800",
+      "startTimeText": "0:22",
+      "text": "Today."
+    },
+    {
+      "endMs": "27520",
+      "startMs": "24920",
+      "startTimeText": "0:24",
+      "text": "But not forever."
+    }
+  ],
+  "transcript_only_text": " My  first  nine  businesses  didn't  really \n amount  to  anything.  Nine. \n Nine.  As  in  the  first  one,  spent  time, \n [ __ ]  failed.  Second  one,  this  one \n will  be  different,  [ __ ]  failed.  Third \n one,  this  one,  this  is  the  one.  I'm  just \n painting  this  picture  because  like  it's \n painful  as  [ __ ]  because  the  whole  time \n everyone  is  telling  you  I  told  you  so, \n and  they're  right. \n Today. \n But  not  forever.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GMXWOLJHnJc",
+  "videoId": "GMXWOLJHnJc"
+}

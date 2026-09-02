@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3919",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "This is my actual productivity routine."
+    },
+    {
+      "endMs": "5839",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "One day a week for me, which is Mondays,"
+    },
+    {
+      "endMs": "7600",
+      "startMs": "3919",
+      "startTimeText": "0:03",
+      "text": "I have my manager day. On that day, I"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "5839",
+      "startTimeText": "0:05",
+      "text": "maximize as many meetings as I possibly"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "7600",
+      "startTimeText": "0:07",
+      "text": "can because I know that I can't do deep"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "work as soon as I have one meeting. The"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "next thing is that you'll notice that I"
+    },
+    {
+      "endMs": "15120",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "book from back to front if I am going to"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "have meetings. That way, I still have as"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15120",
+      "startTimeText": "0:15",
+      "text": "much time in the morning as I can prior"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16960",
+      "startTimeText": "0:16",
+      "text": "to meetings beginning. The other days of"
+    },
+    {
+      "endMs": "21279",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "the week I have completely empty because"
+    },
+    {
+      "endMs": "23359",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "those are the days that I can make"
+    },
+    {
+      "endMs": "25039",
+      "startMs": "21279",
+      "startTimeText": "0:21",
+      "text": "stuff. And when I make stuff, we make"
+    },
+    {
+      "endMs": "27680",
+      "startMs": "23359",
+      "startTimeText": "0:23",
+      "text": "money. And so I try and maximize that to"
+    },
+    {
+      "endMs": "27680",
+      "startMs": "25039",
+      "startTimeText": "0:25",
+      "text": "the best of my ability."
+    }
+  ],
+  "transcript_only_text": " This  is  my  actual  productivity  routine. \n One  day  a  week  for  me,  which  is  Mondays, \n I  have  my  manager  day.  On  that  day,  I \n maximize  as  many  meetings  as  I  possibly \n can  because  I  know  that  I  can't  do  deep \n work  as  soon  as  I  have  one  meeting.  The \n next  thing  is  that  you'll  notice  that  I \n book  from  back  to  front  if  I  am  going  to \n have  meetings.  That  way,  I  still  have  as \n much  time  in  the  morning  as  I  can  prior \n to  meetings  beginning.  The  other  days  of \n the  week  I  have  completely  empty  because \n those  are  the  days  that  I  can  make \n stuff.  And  when  I  make  stuff,  we  make \n money.  And  so  I  try  and  maximize  that  to \n the  best  of  my  ability.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WdQoxlBvACI",
+  "videoId": "WdQoxlBvACI"
+}

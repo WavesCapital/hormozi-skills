@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The sooner you accept it's going to take"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "longer than you want, the sooner it"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "happens faster [music] than you expect."
+    },
+    {
+      "endMs": "8120",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "And so if you feel like you're behind,"
+    },
+    {
+      "endMs": "9170",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "if you feel like you're losing, if"
+    },
+    {
+      "endMs": "11360",
+      "startMs": "8120",
+      "startTimeText": "0:08",
+      "text": "you're not sure it's going to work,"
+    },
+    {
+      "endMs": "14520",
+      "startMs": "9170",
+      "startTimeText": "0:09",
+      "text": "[music] there's nothing wrong with you."
+    },
+    {
+      "endMs": "14520",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "Welcome to entrepreneurship."
+    }
+  ],
+  "transcript_only_text": " The  sooner  you  accept  it's  going  to  take \n longer  than  you  want,  the  sooner  it \n happens  faster  [music]  than  you  expect. \n And  so  if  you  feel  like  you're  behind, \n if  you  feel  like  you're  losing,  if \n you're  not  sure  it's  going  to  work, \n [music]  there's  nothing  wrong  with  you. \n Welcome  to  entrepreneurship.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=87jnYKGVetM",
+  "videoId": "87jnYKGVetM"
+}

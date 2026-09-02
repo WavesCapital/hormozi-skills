@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If a prospect goes to you, don't say any"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1640",
+      "startTimeText": "0:01",
+      "text": "of these things. Instead, just send them"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": "a meme. Here's some good ones that we've"
+    },
+    {
+      "endMs": "7720",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "seen a lot of success rate. This one,"
+    },
+    {
+      "endMs": "9000",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "and this one, and this one, and this"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "7720",
+      "startTimeText": "0:07",
+      "text": "one. These have the highest response"
+    },
+    {
+      "endMs": "12720",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "rate out of almost any messages we've"
+    },
+    {
+      "endMs": "12720",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "sent."
+    }
+  ],
+  "transcript_only_text": " If  a  prospect  goes  to  you,  don't  say  any \n of  these  things.  Instead,  just  send  them \n a  meme.  Here's  some  good  ones  that  we've \n seen  a  lot  of  success  rate.  This  one, \n and  this  one,  and  this  one,  and  this \n one.  These  have  the  highest  response \n rate  out  of  almost  any  messages  we've \n sent.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VH7y5lxLOOQ",
+  "videoId": "VH7y5lxLOOQ"
+}

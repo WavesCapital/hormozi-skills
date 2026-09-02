@@ -1,0 +1,125 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "On the topic of AI,"
+    },
+    {
+      "endMs": "6360",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "people adapting to it is it more fear or"
+    },
+    {
+      "endMs": "8280",
+      "startMs": "3680",
+      "startTimeText": "0:03",
+      "text": "laziness? The reason is complacency, the"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "6360",
+      "startTimeText": "0:06",
+      "text": "excuse is fear. People are being lazy,"
+    },
+    {
+      "endMs": "11480",
+      "startMs": "8280",
+      "startTimeText": "0:08",
+      "text": "but they use the legitimate reason of"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "being afraid that it could do something"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "11480",
+      "startTimeText": "0:11",
+      "text": "to their business. What if it deletes"
+    },
+    {
+      "endMs": "14840",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "all my emails? What if it deletes all my"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": "customer records? It's like, sure, but"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "14840",
+      "startTimeText": "0:14",
+      "text": "like, are there Would you want to take"
+    },
+    {
+      "endMs": "19720",
+      "startMs": "16720",
+      "startTimeText": "0:16",
+      "text": "the next step of trying to figure out"
+    },
+    {
+      "endMs": "21080",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "how to isolate it and give it clear"
+    },
+    {
+      "endMs": "23160",
+      "startMs": "19720",
+      "startTimeText": "0:19",
+      "text": "guardrails to make sure or decrease the"
+    },
+    {
+      "endMs": "24280",
+      "startMs": "21080",
+      "startTimeText": "0:21",
+      "text": "likelihood it happens? Yeah, probably."
+    },
+    {
+      "endMs": "25400",
+      "startMs": "23160",
+      "startTimeText": "0:23",
+      "text": "But people don't do that cuz it's much"
+    },
+    {
+      "endMs": "28400",
+      "startMs": "24280",
+      "startTimeText": "0:24",
+      "text": "easier to just be like, \"Well, I heard"
+    },
+    {
+      "endMs": "28400",
+      "startMs": "25400",
+      "startTimeText": "0:25",
+      "text": "it's not safe.\" You're like, okay."
+    }
+  ],
+  "transcript_only_text": " On  the  topic  of  AI, \n people  adapting  to  it  is  it  more  fear  or \n laziness?  The  reason  is  complacency,  the \n excuse  is  fear.  People  are  being  lazy, \n but  they  use  the  legitimate  reason  of \n being  afraid  that  it  could  do  something \n to  their  business.  What  if  it  deletes \n all  my  emails?  What  if  it  deletes  all  my \n customer  records?  It's  like,  sure,  but \n like,  are  there  Would  you  want  to  take \n the  next  step  of  trying  to  figure  out \n how  to  isolate  it  and  give  it  clear \n guardrails  to  make  sure  or  decrease  the \n likelihood  it  happens?  Yeah,  probably. \n But  people  don't  do  that  cuz  it's  much \n easier  to  just  be  like,  \"Well,  I  heard \n it's  not  safe.\"  You're  like,  okay.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MM9tO6oS_II",
+  "videoId": "MM9tO6oS_II"
+}

@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "No matter what your goal is, you will"
+    },
+    {
+      "endMs": "6120",
+      "startMs": "2200",
+      "startTimeText": "0:02",
+      "text": "suffer to achieve it. So, pick a goal"
+    },
+    {
+      "endMs": "8360",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "big enough that it's worth actually"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "6120",
+      "startTimeText": "0:06",
+      "text": "suffering for. Poor people suffer, rich"
+    },
+    {
+      "endMs": "11880",
+      "startMs": "8360",
+      "startTimeText": "0:08",
+      "text": "people suffer, single people suffer,"
+    },
+    {
+      "endMs": "14600",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "married people suffer, entrepreneurs"
+    },
+    {
+      "endMs": "17400",
+      "startMs": "11880",
+      "startTimeText": "0:11",
+      "text": "suffer, employees suffer. Suffering is a"
+    },
+    {
+      "endMs": "18960",
+      "startMs": "14600",
+      "startTimeText": "0:14",
+      "text": "fixed cost of life. So, pick a life"
+    },
+    {
+      "endMs": "22809",
+      "startMs": "17400",
+      "startTimeText": "0:17",
+      "text": "worth suffering for."
+    },
+    {
+      "endMs": "22809",
+      "startMs": "18960",
+      "startTimeText": "0:18",
+      "text": "[Music]"
+    }
+  ],
+  "transcript_only_text": " No  matter  what  your  goal  is,  you  will \n suffer  to  achieve  it.  So,  pick  a  goal \n big  enough  that  it's  worth  actually \n suffering  for.  Poor  people  suffer,  rich \n people  suffer,  single  people  suffer, \n married  people  suffer,  entrepreneurs \n suffer,  employees  suffer.  Suffering  is  a \n fixed  cost  of  life.  So,  pick  a  life \n worth  suffering  for. \n [Music]",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3_1UD958orc",
+  "videoId": "3_1UD958orc"
+}

@@ -1,0 +1,50 @@
+{
+  "automation_id": "hormozi-youtube-source-enrichment",
+  "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+  "counts": {
+    "archived": 0,
+    "changed": 0,
+    "doctrine_eligible": 0,
+    "duplicate": 0,
+    "failed": 0,
+    "new": 0,
+    "remaining_backlog": 0,
+    "review_queued": 0,
+    "transcript_success": 0,
+    "transcript_unavailable": 0,
+    "unchanged": 107
+  },
+  "credits_used": {
+    "api_calls": 3,
+    "reason": "the API response does not expose a durable per-run credit delta",
+    "value": null
+  },
+  "finished_at": "2026-08-24T21:24:13.816Z",
+  "mode": "incremental",
+  "model": "gpt-5.6-luna",
+  "pages": {
+    "lives": 1,
+    "shorts": 1,
+    "videos": 1
+  },
+  "reasoning_effort": "max",
+  "run_id": "hormozi-yt-20260824T212400Z-fc562dc1",
+  "schema_version": "1.0.0",
+  "source_state_hash_after": "100b1b2c6c7ca2cad768d5e2b5ac89bc47d9fcf12a73ec95f910fea1d7cbf046",
+  "source_state_hash_before": "100b1b2c6c7ca2cad768d5e2b5ac89bc47d9fcf12a73ec95f910fea1d7cbf046",
+  "started_at": "2026-08-24T21:24:00.447Z",
+  "status": "no_change",
+  "verification": {
+    "checks": [
+      "official_channel_config",
+      "all_three_surfaces_scanned",
+      "known_overlap_or_exhaustion",
+      "source_state_unchanged"
+    ],
+    "status": "passed"
+  },
+  "window": {
+    "end_inclusive": "2026-08-24T21:24:00.447Z",
+    "start_inclusive": "2025-08-24T21:24:00.447Z"
+  }
+}

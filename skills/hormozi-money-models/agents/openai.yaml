@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Money Models"
-  short_description: "Redesign monetization systems"
-  default_prompt: "Use $hormozi-money-models to redesign this business's monetization model."
-
-policy:
-  allow_implicit_invocation: true

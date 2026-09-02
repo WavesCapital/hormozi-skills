@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There are men of talent and there are"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "1560",
+      "startTimeText": "0:01",
+      "text": "men of preparation. And oftentimes men"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "of preparation are mistaken for men of"
+    },
+    {
+      "endMs": "9000",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "talent, but men of talent are never"
+    },
+    {
+      "endMs": "11240",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "mistaken for men of preparation. The"
+    },
+    {
+      "endMs": "13480",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "biggest difference between experts and"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "11240",
+      "startTimeText": "0:11",
+      "text": "beginners is how much they prepare. And"
+    },
+    {
+      "endMs": "16280",
+      "startMs": "13480",
+      "startTimeText": "0:13",
+      "text": "so you probably heard like we don't rise"
+    },
+    {
+      "endMs": "17960",
+      "startMs": "14920",
+      "startTimeText": "0:14",
+      "text": "to the level of our expectations, we"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16280",
+      "startTimeText": "0:16",
+      "text": "fall to level of preparation. And if"
+    },
+    {
+      "endMs": "22160",
+      "startMs": "17960",
+      "startTimeText": "0:17",
+      "text": "that's true, then prepare like a crazy"
+    },
+    {
+      "endMs": "25240",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "person and make your worst case scenario"
+    },
+    {
+      "endMs": "25240",
+      "startMs": "22160",
+      "startTimeText": "0:22",
+      "text": "crazy results."
+    }
+  ],
+  "transcript_only_text": " There  are  men  of  talent  and  there  are \n men  of  preparation.  And  oftentimes  men \n of  preparation  are  mistaken  for  men  of \n talent,  but  men  of  talent  are  never \n mistaken  for  men  of  preparation.  The \n biggest  difference  between  experts  and \n beginners  is  how  much  they  prepare.  And \n so  you  probably  heard  like  we  don't  rise \n to  the  level  of  our  expectations,  we \n fall  to  level  of  preparation.  And  if \n that's  true,  then  prepare  like  a  crazy \n person  and  make  your  worst  case  scenario \n crazy  results.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=I-rogofBX8c",
+  "videoId": "I-rogofBX8c"
+}

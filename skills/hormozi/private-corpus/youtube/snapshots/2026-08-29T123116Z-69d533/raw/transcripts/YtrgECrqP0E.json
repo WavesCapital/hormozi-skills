@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You will be rewarded far more in life"
+    },
+    {
+      "endMs": "4880",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "for your determination than your"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3040",
+      "startTimeText": "0:03",
+      "text": "intelligence. And the problem is is that"
+    },
+    {
+      "endMs": "8515",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "determination just looks like a long"
+    },
+    {
+      "endMs": "10520",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "string of failures until it works."
+    },
+    {
+      "endMs": "12760",
+      "startMs": "8515",
+      "startTimeText": "0:08",
+      "text": "[music] You are rewarded for being able"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "to endure the long string of failures"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "12760",
+      "startTimeText": "0:12",
+      "text": "more than you're rewarded for your"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "15440",
+      "startTimeText": "0:15",
+      "text": "intellect at avoiding them."
+    }
+  ],
+  "transcript_only_text": " You  will  be  rewarded  far  more  in  life \n for  your  determination  than  your \n intelligence.  And  the  problem  is  is  that \n determination  just  looks  like  a  long \n string  of  failures  until  it  works. \n [music]  You  are  rewarded  for  being  able \n to  endure  the  long  string  of  failures \n more  than  you're  rewarded  for  your \n intellect  at  avoiding  them.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YtrgECrqP0E",
+  "videoId": "YtrgECrqP0E"
+}

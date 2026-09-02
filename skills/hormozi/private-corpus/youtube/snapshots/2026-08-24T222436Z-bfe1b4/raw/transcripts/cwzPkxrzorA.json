@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5960",
+      "startMs": "400",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people if you can"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "master the shame of rejection, the"
+    },
+    {
+      "endMs": "9680",
+      "startMs": "5960",
+      "startTimeText": "0:05",
+      "text": "boredom of repetition, and the pain of"
+    },
+    {
+      "endMs": "11600",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "feedback."
+    },
+    {
+      "endMs": "13640",
+      "startMs": "9680",
+      "startTimeText": "0:09",
+      "text": "You could be almost anyone at anything"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "11600",
+      "startTimeText": "0:11",
+      "text": "if you're willing to fail 20 times in a"
+    },
+    {
+      "endMs": "18520",
+      "startMs": "13640",
+      "startTimeText": "0:13",
+      "text": "row, look stupid in front of people that"
+    },
+    {
+      "endMs": "22520",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "you care about, and keep going long"
+    },
+    {
+      "endMs": "22520",
+      "startMs": "18520",
+      "startTimeText": "0:18",
+      "text": "after it stopped being convenient."
+    }
+  ],
+  "transcript_only_text": " You  can  beat  99%  of  people  if  you  can \n master  the  shame  of  rejection,  the \n boredom  of  repetition,  and  the  pain  of \n feedback. \n You  could  be  almost  anyone  at  anything \n if  you're  willing  to  fail  20  times  in  a \n row,  look  stupid  in  front  of  people  that \n you  care  about,  and  keep  going  long \n after  it  stopped  being  convenient.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=cwzPkxrzorA",
+  "videoId": "cwzPkxrzorA"
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The best revenge will always be waking"
+    },
+    {
+      "endMs": "6200",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "up the next morning as you, knowing that"
+    },
+    {
+      "endMs": "8640",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "they're waking up the next morning as"
+    },
+    {
+      "endMs": "11160",
+      "startMs": "6200",
+      "startTimeText": "0:06",
+      "text": "them. And so succeeding isn't the best"
+    },
+    {
+      "endMs": "13160",
+      "startMs": "8640",
+      "startTimeText": "0:08",
+      "text": "revenge, it's the only revenge. Because"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "11160",
+      "startTimeText": "0:11",
+      "text": "as you expand, they shrink into"
+    },
+    {
+      "endMs": "17520",
+      "startMs": "13160",
+      "startTimeText": "0:13",
+      "text": "irrelevance. As you get louder, no one"
+    },
+    {
+      "endMs": "20200",
+      "startMs": "15680",
+      "startTimeText": "0:15",
+      "text": "can hear them. So you don't really beat"
+    },
+    {
+      "endMs": "21840",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "them, you cast a shadow so big no one"
+    },
+    {
+      "endMs": "23000",
+      "startMs": "20200",
+      "startTimeText": "0:20",
+      "text": "can see them to begin with. And at the"
+    },
+    {
+      "endMs": "25520",
+      "startMs": "21840",
+      "startTimeText": "0:21",
+      "text": "end of the day, you don't think about"
+    },
+    {
+      "endMs": "25520",
+      "startMs": "23000",
+      "startTimeText": "0:23",
+      "text": "them either."
+    }
+  ],
+  "transcript_only_text": " The  best  revenge  will  always  be  waking \n up  the  next  morning  as  you,  knowing  that \n they're  waking  up  the  next  morning  as \n them.  And  so  succeeding  isn't  the  best \n revenge,  it's  the  only  revenge.  Because \n as  you  expand,  they  shrink  into \n irrelevance.  As  you  get  louder,  no  one \n can  hear  them.  So  you  don't  really  beat \n them,  you  cast  a  shadow  so  big  no  one \n can  see  them  to  begin  with.  And  at  the \n end  of  the  day,  you  don't  think  about \n them  either.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=dxVwjVyFExY",
+  "videoId": "dxVwjVyFExY"
+}

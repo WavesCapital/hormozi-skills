@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Your critics are going to eventually"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "2360",
+      "startTimeText": "0:02",
+      "text": "die."
+    },
+    {
+      "endMs": "7560",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "And their opinion isn't going to matter"
+    },
+    {
+      "endMs": "9400",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "then, which means it probably also"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "7560",
+      "startTimeText": "0:07",
+      "text": "doesn't matter now."
+    },
+    {
+      "endMs": "13080",
+      "startMs": "9400",
+      "startTimeText": "0:09",
+      "text": "So, you might as well do what you wanted"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "to do originally."
+    }
+  ],
+  "transcript_only_text": " Your  critics  are  going  to  eventually \n die. \n And  their  opinion  isn't  going  to  matter \n then,  which  means  it  probably  also \n doesn't  matter  now. \n So,  you  might  as  well  do  what  you  wanted \n to  do  originally.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7FYFhOiiMIU",
+  "videoId": "7FYFhOiiMIU"
+}

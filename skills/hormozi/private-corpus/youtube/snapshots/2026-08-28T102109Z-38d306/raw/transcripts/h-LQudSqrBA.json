@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Where do you get your inspiration from?"
+    },
+    {
+      "endMs": "5600",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "I honestly do get inspired by looking at"
+    },
+    {
+      "endMs": "7560",
+      "startMs": "3960",
+      "startTimeText": "0:03",
+      "text": "the best entrepreneurs of our time and"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "like what they're doing. You know, the"
+    },
+    {
+      "endMs": "12680",
+      "startMs": "7560",
+      "startTimeText": "0:07",
+      "text": "the Altmans, the the Musks, Sundar, and"
+    },
+    {
+      "endMs": "15480",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "Satya, you know, just throwing down and"
+    },
+    {
+      "endMs": "16320",
+      "startMs": "12680",
+      "startTimeText": "0:12",
+      "text": "like really making huge moves."
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "Um"
+    },
+    {
+      "endMs": "20600",
+      "startMs": "16320",
+      "startTimeText": "0:16",
+      "text": "I aspire to get to a point where I can"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "make bets that move industries. I'm not"
+    },
+    {
+      "endMs": "24280",
+      "startMs": "20600",
+      "startTimeText": "0:20",
+      "text": "there, but"
+    },
+    {
+      "endMs": "26640",
+      "startMs": "22080",
+      "startTimeText": "0:22",
+      "text": "um that is something that I find very"
+    },
+    {
+      "endMs": "26640",
+      "startMs": "24280",
+      "startTimeText": "0:24",
+      "text": "cool."
+    }
+  ],
+  "transcript_only_text": " Where  do  you  get  your  inspiration  from? \n I  honestly  do  get  inspired  by  looking  at \n the  best  entrepreneurs  of  our  time  and \n like  what  they're  doing.  You  know,  the \n the  Altmans,  the  the  Musks,  Sundar,  and \n Satya,  you  know,  just  throwing  down  and \n like  really  making  huge  moves. \n Um \n I  aspire  to  get  to  a  point  where  I  can \n make  bets  that  move  industries.  I'm  not \n there,  but \n um  that  is  something  that  I  find  very \n cool.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=h-LQudSqrBA",
+  "videoId": "h-LQudSqrBA"
+}

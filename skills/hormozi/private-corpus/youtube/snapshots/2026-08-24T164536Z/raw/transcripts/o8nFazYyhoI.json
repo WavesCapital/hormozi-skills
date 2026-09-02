@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Anything that scales that's like great,"
+    },
+    {
+      "endMs": "4880",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "I'll give it away for free. If it"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "doesn't scale, then I'm not. People come"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "here every week, you know, we have"
+    },
+    {
+      "endMs": "9760",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "whatever 100 people come in and my"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "advisers who actually work my portfolio"
+    },
+    {
+      "endMs": "14960",
+      "startMs": "9760",
+      "startTimeText": "0:09",
+      "text": "go and help them. That doesn't scale."
+    },
+    {
+      "endMs": "16800",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "So, you got to pay for that. But if you"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "14960",
+      "startTimeText": "0:14",
+      "text": "want all my books are free, all my"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "courses are free, everything's free, my"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "18720",
+      "startTimeText": "0:18",
+      "text": "events are free, I everything's free."
+    },
+    {
+      "endMs": "23760",
+      "startMs": "20240",
+      "startTimeText": "0:20",
+      "text": "Mirroring that, like if it scales, it's"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "22080",
+      "startTimeText": "0:22",
+      "text": "free. If it doesn't scale, you have a"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "23760",
+      "startTimeText": "0:23",
+      "text": "price tag."
+    }
+  ],
+  "transcript_only_text": " Anything  that  scales  that's  like  great, \n I'll  give  it  away  for  free.  If  it \n doesn't  scale,  then  I'm  not.  People  come \n here  every  week,  you  know,  we  have \n whatever  100  people  come  in  and  my \n advisers  who  actually  work  my  portfolio \n go  and  help  them.  That  doesn't  scale. \n So,  you  got  to  pay  for  that.  But  if  you \n want  all  my  books  are  free,  all  my \n courses  are  free,  everything's  free,  my \n events  are  free,  I  everything's  free. \n Mirroring  that,  like  if  it  scales,  it's \n free.  If  it  doesn't  scale,  you  have  a \n price  tag.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=o8nFazYyhoI",
+  "videoId": "o8nFazYyhoI"
+}

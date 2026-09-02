@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you don't want someone's life, don't"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "3274",
+      "startTimeText": "0:03",
+      "text": "[music] take their advice. If you don't"
+    },
+    {
+      "endMs": "7800",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "like the way they live, if you wouldn't"
+    },
+    {
+      "endMs": "9120",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "swap places with them, if you don't like"
+    },
+    {
+      "endMs": "10520",
+      "startMs": "7800",
+      "startTimeText": "0:07",
+      "text": "the way they have a relation with their"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "wife or their girlfriend, [music]"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "or you don't like how they think about"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "work, or you don't like how if they're,"
+    },
+    {
+      "endMs": "16375",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "you know, not in shape, you don't envy"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "them in any domain,"
+    },
+    {
+      "endMs": "20280",
+      "startMs": "16375",
+      "startTimeText": "0:16",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "20280",
+      "startMs": "16440",
+      "startTimeText": "0:16",
+      "text": ">> why would you value their advice?"
+    }
+  ],
+  "transcript_only_text": " If  you  don't  want  someone's  life,  don't \n [music]  take  their  advice.  If  you  don't \n like  the  way  they  live,  if  you  wouldn't \n swap  places  with  them,  if  you  don't  like \n the  way  they  have  a  relation  with  their \n wife  or  their  girlfriend,  [music] \n or  you  don't  like  how  they  think  about \n work,  or  you  don't  like  how  if  they're, \n you  know,  not  in  shape,  you  don't  envy \n them  in  any  domain, \n >> [music] \n >> why  would  you  value  their  advice?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=msTHubGT5zo",
+  "videoId": "msTHubGT5zo"
+}

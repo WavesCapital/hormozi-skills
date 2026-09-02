@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Here's a decade plus of business lessons"
+    },
+    {
+      "endMs": "7279",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "summarized into 60 seconds. Promise"
+    },
+    {
+      "endMs": "10719",
+      "startMs": "4720",
+      "startTimeText": "0:04",
+      "text": "late, deliver early, learn fast, trust"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "7279",
+      "startTimeText": "0:07",
+      "text": "slow, bet big, test small, give first,"
+    },
+    {
+      "endMs": "15679",
+      "startMs": "10719",
+      "startTimeText": "0:10",
+      "text": "ask last. Ignore opinions. Treasure"
+    },
+    {
+      "endMs": "19520",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "facts. Always promote. Never slander."
+    },
+    {
+      "endMs": "19520",
+      "startMs": "15679",
+      "startTimeText": "0:15",
+      "text": "Disregard doubters. Believe in you."
+    }
+  ],
+  "transcript_only_text": " Here's  a  decade  plus  of  business  lessons \n summarized  into  60  seconds.  Promise \n late,  deliver  early,  learn  fast,  trust \n slow,  bet  big,  test  small,  give  first, \n ask  last.  Ignore  opinions.  Treasure \n facts.  Always  promote.  Never  slander. \n Disregard  doubters.  Believe  in  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=FghpA2CA1aM",
+  "videoId": "FghpA2CA1aM"
+}

@@ -1,0 +1,41 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "10600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The single greatest razor that I havefor defining reality more accurately has"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "been removing all sentiment, emotion,and quote psychology from the equation"
+    },
+    {
+      "endMs": "20400",
+      "startMs": "14120",
+      "startTimeText": "0:14",
+      "text": "and only looking at it from abehaviorist frame of what can I observe."
+    }
+  ],
+  "transcript_only_text": " The single greatest razor that I have\nfor defining reality more accurately has been removing all sentiment, emotion,\nand quote psychology from the equation and only looking at it from a\nbehaviorist frame of what can I observe.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Or4oXjKPXrE",
+  "videoId": "Or4oXjKPXrE"
+}

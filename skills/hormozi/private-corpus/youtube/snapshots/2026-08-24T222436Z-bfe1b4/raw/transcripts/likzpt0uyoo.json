@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3439",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Courage is in far shorter supply than"
+    },
+    {
+      "endMs": "5279",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "intelligence. And so a man with twice"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "3439",
+      "startTimeText": "0:03",
+      "text": "the courage and half the advantages will"
+    },
+    {
+      "endMs": "7919",
+      "startMs": "5279",
+      "startTimeText": "0:05",
+      "text": "always beat a man with twice the"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "advantages and half the courage. There's"
+    },
+    {
+      "endMs": "10639",
+      "startMs": "7919",
+      "startTimeText": "0:07",
+      "text": "a lot of really smart people. There"
+    },
+    {
+      "endMs": "13120",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "aren't a lot of very courageous people."
+    },
+    {
+      "endMs": "14799",
+      "startMs": "10639",
+      "startTimeText": "0:10",
+      "text": "What's your downside? Shame. Shame is"
+    },
+    {
+      "endMs": "17039",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "your downside. Someone wagging their"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "14799",
+      "startTimeText": "0:14",
+      "text": "finger at you saying you broke a rule"
+    },
+    {
+      "endMs": "21520",
+      "startMs": "17039",
+      "startTimeText": "0:17",
+      "text": "that doesn't exist that I made up to"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "make you feel bad. them. You're going to"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "21520",
+      "startTimeText": "0:21",
+      "text": "die."
+    }
+  ],
+  "transcript_only_text": " Courage  is  in  far  shorter  supply  than \n intelligence.  And  so  a  man  with  twice \n the  courage  and  half  the  advantages  will \n always  beat  a  man  with  twice  the \n advantages  and  half  the  courage.  There's \n a  lot  of  really  smart  people.  There \n aren't  a  lot  of  very  courageous  people. \n What's  your  downside?  Shame.  Shame  is \n your  downside.  Someone  wagging  their \n finger  at  you  saying  you  broke  a  rule \n that  doesn't  exist  that  I  made  up  to \n make  you  feel  bad.  them.  You're  going  to \n die.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=likzpt0uyoo",
+  "videoId": "likzpt0uyoo"
+}

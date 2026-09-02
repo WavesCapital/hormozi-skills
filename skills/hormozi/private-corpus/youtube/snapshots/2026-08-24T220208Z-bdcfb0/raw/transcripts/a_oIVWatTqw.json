@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You pay people more than you would"
+    },
+    {
+      "endMs": "4360",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "prefer. You are also printing money."
+    },
+    {
+      "endMs": "5440",
+      "startMs": "3320",
+      "startTimeText": "0:03",
+      "text": "It's just something that you're not used"
+    },
+    {
+      "endMs": "7960",
+      "startMs": "4360",
+      "startTimeText": "0:04",
+      "text": "to. I mean, I can tell you the first"
+    },
+    {
+      "endMs": "9080",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "time I paid somebody, you know, 500,000"
+    },
+    {
+      "endMs": "10560",
+      "startMs": "7960",
+      "startTimeText": "0:07",
+      "text": "euros, I was like, \"Oh my god.\" And then"
+    },
+    {
+      "endMs": "11360",
+      "startMs": "9080",
+      "startTimeText": "0:09",
+      "text": "I paid my first person a million dollars"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "10560",
+      "startTimeText": "0:10",
+      "text": "a year, and I was like, \"Oh my god.\""
+    },
+    {
+      "endMs": "13960",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "There are these like psychological"
+    },
+    {
+      "endMs": "15240",
+      "startMs": "12440",
+      "startTimeText": "0:12",
+      "text": "barriers, but my favorite way of solving"
+    },
+    {
+      "endMs": "17720",
+      "startMs": "13960",
+      "startTimeText": "0:13",
+      "text": "this problem is just by saying it's not"
+    },
+    {
+      "endMs": "17720",
+      "startMs": "15240",
+      "startTimeText": "0:15",
+      "text": "a problem."
+    }
+  ],
+  "transcript_only_text": " You  pay  people  more  than  you  would \n prefer.  You  are  also  printing  money. \n It's  just  something  that  you're  not  used \n to.  I  mean,  I  can  tell  you  the  first \n time  I  paid  somebody,  you  know,  500,000 \n euros,  I  was  like,  \"Oh  my  god.\"  And  then \n I  paid  my  first  person  a  million  dollars \n a  year,  and  I  was  like,  \"Oh  my  god.\" \n There  are  these  like  psychological \n barriers,  but  my  favorite  way  of  solving \n this  problem  is  just  by  saying  it's  not \n a  problem.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=a_oIVWatTqw",
+  "videoId": "a_oIVWatTqw"
+}

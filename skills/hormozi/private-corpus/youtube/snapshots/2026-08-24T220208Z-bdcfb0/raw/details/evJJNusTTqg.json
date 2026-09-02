@@ -1,0 +1,291 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 13,
+  "commentCountText": "13",
+  "credits_charged": 1,
+  "description": "Building a brand seems complicated. Here’s my layman .02:\n\n1) What you’ve done\n2) What you say you’re gonna do that comes true (at a micro and macro level)\n3) Other institutions/people you associate with (directly and indirectly)\n4) Keeping 1-2-3 aligned with values you hold.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:16",
+  "durationMs": 76000,
+  "genre": "Education",
+  "id": "evJJNusTTqg",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 971,
+  "likeCountText": "971",
+  "most_replayed": null,
+  "publishDate": "2026-08-10T17:01:27-07:00",
+  "publishDateText": "Aug 10, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/evJJNusTTqg/maxresdefault.jpg",
+  "title": "We're Switching From the Attention Economy to the Trust Economy",
+  "type": "video",
+  "viewCountInt": 21295,
+  "viewCountText": "21,295",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "MITSloanExecutiveEducation",
+        "id": "UCKgamS4zSNmq7r7tQB6niLw",
+        "title": "MIT Sloan Executive Education",
+        "url": "https://www.youtube.com/@MITSloanExecutiveEducation"
+      },
+      "id": "wSuQQYv-E64",
+      "lengthInSeconds": 3468,
+      "lengthText": "57:48",
+      "publishDate": "2026-05-24T18:40:49.663Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-24T18:40:49.663Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/wSuQQYv-E64/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBwOGneVAKm7RQ7mQ-8Kb8IVO0Dig",
+      "title": "Systems Thinking for Leaders: Designing Solutions That Work",
+      "videoUrl": "https://www.youtube.com/watch?v=wSuQQYv-E64",
+      "viewCountInt": 132000,
+      "viewCountText": "132K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-24T18:40:49.663Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:40:49.663Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "title": "Big Think Clips and 2 more",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "KHd-luu3M8s",
+      "lengthInSeconds": 2005,
+      "lengthText": "33:25",
+      "publishDate": "2026-08-13T18:40:49.663Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-13T18:40:49.663Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/KHd-luu3M8s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCDEl8rV6bwjLjXbdlPVBZTk4dKIg",
+      "title": "Your phone addiction is keeping you from achieving flow state | Arthur Brooks",
+      "videoUrl": "https://www.youtube.com/watch?v=KHd-luu3M8s",
+      "viewCountInt": 648000,
+      "viewCountText": "648K views"
+    },
+    {
+      "channel": {
+        "handle": "smartereveryday",
+        "id": "UC6107grRI4m0o2-emgoDnAA",
+        "title": "SmarterEveryDay",
+        "url": "https://www.youtube.com/@smartereveryday"
+      },
+      "id": "vS6HEes8daw",
+      "lengthInSeconds": 3331,
+      "lengthText": "55:31",
+      "publishDate": "2026-07-27T18:40:49.663Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-27T18:40:49.663Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/vS6HEes8daw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD9qMfVBBLqsgcPBTYlQGfN_jcufQ",
+      "title": "The PROBLEM with Capitalism - Smarter Every Day 316",
+      "videoUrl": "https://www.youtube.com/watch?v=vS6HEes8daw",
+      "viewCountInt": 2600000,
+      "viewCountText": "2.6M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "jn9AFMKlGLA",
+      "lengthInSeconds": 301,
+      "lengthText": "5:01",
+      "publishDate": "2025-10-24T18:40:49.663Z",
+      "publishDateText": "10 months ago",
+      "publishedTime": "2025-10-24T18:40:49.663Z",
+      "publishedTimeText": "10 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jn9AFMKlGLA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB31umdx1Erd0x9AbB4TloxZnPjXw",
+      "title": "Inventing Spanish - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=jn9AFMKlGLA",
+      "viewCountInt": 8000000,
+      "viewCountText": "8M views"
+    },
+    {
+      "channel": {
+        "handle": "ycombinator",
+        "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+        "title": "Y Combinator",
+        "url": "https://www.youtube.com/@ycombinator"
+      },
+      "id": "sJ4VJWycX9M",
+      "lengthInSeconds": 1930,
+      "lengthText": "32:10",
+      "publishDate": "2026-08-03T18:40:49.663Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-03T18:40:49.663Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/sJ4VJWycX9M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSmzK3YuwYufULq15uxu8zcXCY8g",
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "videoUrl": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "viewCountInt": 206000,
+      "viewCountText": "206K views"
+    },
+    {
+      "channel": {
+        "handle": "TED",
+        "id": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "TED",
+        "url": "https://www.youtube.com/@TED"
+      },
+      "id": "RvzgUtjCxRw",
+      "lengthInSeconds": 777,
+      "lengthText": "12:57",
+      "publishDate": "2026-05-24T18:40:49.663Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-24T18:40:49.663Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/RvzgUtjCxRw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLADCXJiQvSHD-SO4BF8DNoW9C0Obw",
+      "title": "How I Set Myself Free | Keke Palmer | TED",
+      "videoUrl": "https://www.youtube.com/watch?v=RvzgUtjCxRw",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "hankschannel",
+        "id": "UCOT2iLov0V7Re7ku_3UBtcQ",
+        "title": "Hank Green",
+        "url": "https://www.youtube.com/@hankschannel"
+      },
+      "id": "DgeRVUSuGvQ",
+      "lengthInSeconds": 1819,
+      "lengthText": "30:19",
+      "publishDate": "2026-08-23T18:40:49.663Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-08-23T18:40:49.663Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/DgeRVUSuGvQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCq1uGcwhjKr1ocM695A2IorGzJfw",
+      "title": "How Big of a Deal is this Cancer Vaccine?",
+      "videoUrl": "https://www.youtube.com/watch?v=DgeRVUSuGvQ",
+      "viewCountInt": 1000000,
+      "viewCountText": "1M views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": "2025-12-24T18:40:49.663Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2025-12-24T18:40:49.663Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_e8ed2ER_fNywLf4iQ_HJogacAQ",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 3900000,
+      "viewCountText": "3.9M views"
+    },
+    {
+      "channel": {
+        "handle": "HubermanLabClips",
+        "id": "UCkZjTZNvuxq1CYMS3cwZa1Q",
+        "title": "Huberman Lab Clips",
+        "url": "https://www.youtube.com/@HubermanLabClips"
+      },
+      "id": "5g2Kyc8Ra5U",
+      "lengthInSeconds": 554,
+      "lengthText": "9:14",
+      "publishDate": "2026-04-24T18:40:49.663Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-24T18:40:49.663Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/5g2Kyc8Ra5U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAfeTzf9HlPEc1B8-n3pLrmIb3wvQ",
+      "title": "Habit Stacking: Structure Your Day for Peak Focus | James Clear & Dr. Andrew Huberman",
+      "videoUrl": "https://www.youtube.com/watch?v=5g2Kyc8Ra5U",
+      "viewCountInt": 438000,
+      "viewCountText": "438K views"
+    },
+    {
+      "channel": {
+        "handle": "WillTennyson",
+        "id": "UCB2wtYpfbCpYDc5TeTwuqFA",
+        "title": "Will Tennyson",
+        "url": "https://www.youtube.com/@WillTennyson"
+      },
+      "id": "9dNPbViH8Po",
+      "lengthInSeconds": 2083,
+      "lengthText": "34:43",
+      "publishDate": "2026-07-27T18:40:49.663Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-27T18:40:49.663Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/9dNPbViH8Po/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAiNjsX-bAJmyJ_lJCgFjNYFeaTUw",
+      "title": "I Quit EVERY Modern Day Poison",
+      "videoUrl": "https://www.youtube.com/watch?v=9dNPbViH8Po",
+      "viewCountInt": 7100000,
+      "viewCountText": "7.1M views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "nSlZZ7TxNM8",
+      "lengthInSeconds": 1483,
+      "lengthText": "24:43",
+      "publishDate": "2026-06-24T18:40:49.663Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-24T18:40:49.663Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/nSlZZ7TxNM8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCE5eby8U6ULDpVpFgy9UeZ2576DQ",
+      "title": "You Don't Need To Start A Business, Just Buy One Of These",
+      "videoUrl": "https://www.youtube.com/watch?v=nSlZZ7TxNM8",
+      "viewCountInt": 549000,
+      "viewCountText": "549K views"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "A career lesson I wish I'd known at 21"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "is that anything worth doing takes"
+    },
+    {
+      "endMs": "8840",
+      "startMs": "4800",
+      "startTimeText": "0:04",
+      "text": "exceptionally longer than you expect it"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "to. And until you've worked a thousand"
+    },
+    {
+      "endMs": "12280",
+      "startMs": "8840",
+      "startTimeText": "0:08",
+      "text": "hours on a single project, you don't"
+    },
+    {
+      "endMs": "13680",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "even understand the amount of work it"
+    },
+    {
+      "endMs": "16040",
+      "startMs": "12280",
+      "startTimeText": "0:12",
+      "text": "takes to make something great. And by"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "13680",
+      "startTimeText": "0:13",
+      "text": "extension, why you can really not do any"
+    },
+    {
+      "endMs": "20840",
+      "startMs": "16040",
+      "startTimeText": "0:16",
+      "text": "things at all if you want them to be"
+    },
+    {
+      "endMs": "20840",
+      "startMs": "18000",
+      "startTimeText": "0:18",
+      "text": "worth doing."
+    }
+  ],
+  "transcript_only_text": " A  career  lesson  I  wish  I'd  known  at  21 \n is  that  anything  worth  doing  takes \n exceptionally  longer  than  you  expect  it \n to.  And  until  you've  worked  a  thousand \n hours  on  a  single  project,  you  don't \n even  understand  the  amount  of  work  it \n takes  to  make  something  great.  And  by \n extension,  why  you  can  really  not  do  any \n things  at  all  if  you  want  them  to  be \n worth  doing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=C2zRFh1NdXs",
+  "videoId": "C2zRFh1NdXs"
+}

@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2360",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You don't win by beating people."
+    },
+    {
+      "endMs": "4280",
+      "startMs": "1964",
+      "startTimeText": "0:01",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "5960",
+      "startMs": "2360",
+      "startTimeText": "0:02",
+      "text": ">> You win by growing into your potential"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "and then allowing them to shrink into"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "5960",
+      "startTimeText": "0:05",
+      "text": "irrelevance by consequence."
+    },
+    {
+      "endMs": "13720",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "And guess what? Your biggest threat is"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "not your competition. It's a mediocre"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "version of you that never realized what"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "you could become."
+    }
+  ],
+  "transcript_only_text": " You  don't  win  by  beating  people. \n >> [music] \n >> You  win  by  growing  into  your  potential \n and  then  allowing  them  to  shrink  into \n irrelevance  by  consequence. \n And  guess  what?  Your  biggest  threat  is \n not  your  competition.  It's  a  mediocre \n version  of  you  that  never  realized  what \n you  could  become.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zxEWaoEnbX8",
+  "videoId": "zxEWaoEnbX8"
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I'm a big believer in operationalizing"
+    },
+    {
+      "endMs": "7400",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "and only thinking about things through"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "4720",
+      "startTimeText": "0:04",
+      "text": "actions rather than feelings. Because"
+    },
+    {
+      "endMs": "11800",
+      "startMs": "7400",
+      "startTimeText": "0:07",
+      "text": "the feelings come and go and also they"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "are justified or unjustified, it also is"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "11800",
+      "startTimeText": "0:11",
+      "text": "irrelevant. Because like if you make a"
+    },
+    {
+      "endMs": "17000",
+      "startMs": "13920",
+      "startTimeText": "0:13",
+      "text": "100 cold calls, whether you hate it or"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "15680",
+      "startTimeText": "0:15",
+      "text": "you love it or you're meant for it or"
+    },
+    {
+      "endMs": "20200",
+      "startMs": "17000",
+      "startTimeText": "0:17",
+      "text": "you you you never want to do it for the"
+    },
+    {
+      "endMs": "22160",
+      "startMs": "18560",
+      "startTimeText": "0:18",
+      "text": "rest of your life, you make the calls"
+    },
+    {
+      "endMs": "24720",
+      "startMs": "20200",
+      "startTimeText": "0:20",
+      "text": "and you practice the script, you'll get"
+    },
+    {
+      "endMs": "24720",
+      "startMs": "22160",
+      "startTimeText": "0:22",
+      "text": "business."
+    }
+  ],
+  "transcript_only_text": " I'm  a  big  believer  in  operationalizing \n and  only  thinking  about  things  through \n actions  rather  than  feelings.  Because \n the  feelings  come  and  go  and  also  they \n are  justified  or  unjustified,  it  also  is \n irrelevant.  Because  like  if  you  make  a \n 100  cold  calls,  whether  you  hate  it  or \n you  love  it  or  you're  meant  for  it  or \n you  you  you  never  want  to  do  it  for  the \n rest  of  your  life,  you  make  the  calls \n and  you  practice  the  script,  you'll  get \n business.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wH5hs4-KCXM",
+  "videoId": "wH5hs4-KCXM"
+}

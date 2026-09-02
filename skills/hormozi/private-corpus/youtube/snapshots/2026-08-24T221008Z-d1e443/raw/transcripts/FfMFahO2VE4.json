@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The hard way is the easy way, because"
+    },
+    {
+      "endMs": "5280",
+      "startMs": "2160",
+      "startTimeText": "0:02",
+      "text": "the easy way never gets you there."
+    },
+    {
+      "endMs": "6760",
+      "startMs": "3680",
+      "startTimeText": "0:03",
+      "text": "You're going to lose sleep, you'll doubt"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "5280",
+      "startTimeText": "0:05",
+      "text": "whether it'll work, you'll stress to"
+    },
+    {
+      "endMs": "9800",
+      "startMs": "6760",
+      "startTimeText": "0:06",
+      "text": "make ends meet, you won't finish your"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "to-do list, you'll wonder if you made"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "9800",
+      "startTimeText": "0:09",
+      "text": "the right call, and have no way to know"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "for years. That's what hard feels like."
+    },
+    {
+      "endMs": "18120",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "You can't wish for life to not be"
+    },
+    {
+      "endMs": "20040",
+      "startMs": "15680",
+      "startTimeText": "0:15",
+      "text": "stressful, because stress is what"
+    },
+    {
+      "endMs": "21560",
+      "startMs": "18120",
+      "startTimeText": "0:18",
+      "text": "happens while you're alive. The only"
+    },
+    {
+      "endMs": "24000",
+      "startMs": "20040",
+      "startTimeText": "0:20",
+      "text": "people who have no stress are dead"
+    },
+    {
+      "endMs": "24000",
+      "startMs": "21560",
+      "startTimeText": "0:21",
+      "text": "people."
+    }
+  ],
+  "transcript_only_text": " The  hard  way  is  the  easy  way,  because \n the  easy  way  never  gets  you  there. \n You're  going  to  lose  sleep,  you'll  doubt \n whether  it'll  work,  you'll  stress  to \n make  ends  meet,  you  won't  finish  your \n to-do  list,  you'll  wonder  if  you  made \n the  right  call,  and  have  no  way  to  know \n for  years.  That's  what  hard  feels  like. \n You  can't  wish  for  life  to  not  be \n stressful,  because  stress  is  what \n happens  while  you're  alive.  The  only \n people  who  have  no  stress  are  dead \n people.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=FfMFahO2VE4",
+  "videoId": "FfMFahO2VE4"
+}

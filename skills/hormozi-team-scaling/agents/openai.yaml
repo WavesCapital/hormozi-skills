@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Team Scaling"
-  short_description: "Install team operating systems"
-  default_prompt: "Use $hormozi-team-scaling to improve service quality and management cadence."
-
-policy:
-  allow_implicit_invocation: true

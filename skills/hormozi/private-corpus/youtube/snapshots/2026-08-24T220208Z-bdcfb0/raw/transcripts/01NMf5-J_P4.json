@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Poor people stay poor because they're"
+    },
+    {
+      "endMs": "7280",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "afraid of other poor people judging them"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "for doing the things it takes to get"
+    },
+    {
+      "endMs": "11000",
+      "startMs": "7280",
+      "startTimeText": "0:07",
+      "text": "rich. As sad as this is,"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "a lot of the people around you when"
+    },
+    {
+      "endMs": "15080",
+      "startMs": "11000",
+      "startTimeText": "0:11",
+      "text": "you're starting out want you to lose"
+    },
+    {
+      "endMs": "16760",
+      "startMs": "13080",
+      "startTimeText": "0:13",
+      "text": "because it helps them justify the risks"
+    },
+    {
+      "endMs": "18640",
+      "startMs": "15080",
+      "startTimeText": "0:15",
+      "text": "that they were unwilling to take. And so"
+    },
+    {
+      "endMs": "20440",
+      "startMs": "16760",
+      "startTimeText": "0:16",
+      "text": "by you making the risk and having the"
+    },
+    {
+      "endMs": "24240",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "chance of being successful, it reminds"
+    },
+    {
+      "endMs": "24240",
+      "startMs": "20440",
+      "startTimeText": "0:20",
+      "text": "them of the things they haven't done."
+    }
+  ],
+  "transcript_only_text": " Poor  people  stay  poor  because  they're \n afraid  of  other  poor  people  judging  them \n for  doing  the  things  it  takes  to  get \n rich.  As  sad  as  this  is, \n a  lot  of  the  people  around  you  when \n you're  starting  out  want  you  to  lose \n because  it  helps  them  justify  the  risks \n that  they  were  unwilling  to  take.  And  so \n by  you  making  the  risk  and  having  the \n chance  of  being  successful,  it  reminds \n them  of  the  things  they  haven't  done.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=01NMf5-J_P4",
+  "videoId": "01NMf5-J_P4"
+}

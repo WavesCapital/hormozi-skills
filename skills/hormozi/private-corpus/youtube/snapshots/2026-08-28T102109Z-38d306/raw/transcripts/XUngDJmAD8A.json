@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6920",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "All the money is behind problems.Like if there is no problem,"
+    },
+    {
+      "endMs": "9720",
+      "startMs": "4920",
+      "startTimeText": "0:04",
+      "text": "then everyone's doing it. Like peoplestop when there's a problem, which means"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "that the other side of the problem iswhere the money is. So just like reframe"
+    },
+    {
+      "endMs": "17200",
+      "startMs": "11880",
+      "startTimeText": "0:11",
+      "text": "problem as profit on the other side ofthe bridge. Like, \"Oh, good. Here's a"
+    },
+    {
+      "endMs": "20640",
+      "startMs": "15840",
+      "startTimeText": "0:15",
+      "text": "problem. Like I can cash this in formoney.\" Just got to solve it."
+    }
+  ],
+  "transcript_only_text": " All the money is behind problems.\nLike if there is no problem, then everyone's doing it. Like people\nstop when there's a problem, which means that the other side of the problem is\nwhere the money is. So just like reframe problem as profit on the other side of\nthe bridge. Like, \"Oh, good. Here's a problem. Like I can cash this in for\nmoney.\" Just got to solve it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XUngDJmAD8A",
+  "videoId": "XUngDJmAD8A"
+}

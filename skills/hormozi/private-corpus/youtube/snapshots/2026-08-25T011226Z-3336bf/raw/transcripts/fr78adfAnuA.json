@@ -1,0 +1,3083 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Last year my company's did over $250,000"
+    },
+    {
+      "endMs": "4560",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "in aggregate revenue. I've been in"
+    },
+    {
+      "endMs": "5840",
+      "startMs": "3000",
+      "startTimeText": "0:03",
+      "text": "business for over a decade and a half."
+    },
+    {
+      "endMs": "7200",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "Uh in this video, I'll show you how we"
+    },
+    {
+      "endMs": "9000",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "use AI to make our business better,"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "cheaper, faster, and less risky for our"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "customers. I'll also walk you through"
+    },
+    {
+      "endMs": "13480",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "some real examples of every department."
+    },
+    {
+      "endMs": "16400",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "Number one, how do we actually make the"
+    },
+    {
+      "endMs": "17600",
+      "startMs": "13480",
+      "startTimeText": "0:13",
+      "text": "business better? So, if we think about"
+    },
+    {
+      "endMs": "19640",
+      "startMs": "16400",
+      "startTimeText": "0:16",
+      "text": "each of the functions of the business,"
+    },
+    {
+      "endMs": "21480",
+      "startMs": "17600",
+      "startTimeText": "0:17",
+      "text": "you're going to be turning raw attention"
+    },
+    {
+      "endMs": "22840",
+      "startMs": "19640",
+      "startTimeText": "0:19",
+      "text": "into some sort of profit. Right? Like if"
+    },
+    {
+      "endMs": "25360",
+      "startMs": "21480",
+      "startTimeText": "0:21",
+      "text": "we look at businesses that are to"
+    },
+    {
+      "endMs": "26920",
+      "startMs": "22840",
+      "startTimeText": "0:22",
+      "text": "manufacturing about. And the first, I"
+    },
+    {
+      "endMs": "28320",
+      "startMs": "25360",
+      "startTimeText": "0:25",
+      "text": "think, misconception that people have"
+    },
+    {
+      "endMs": "29760",
+      "startMs": "26920",
+      "startTimeText": "0:26",
+      "text": "around implementing AI into their"
+    },
+    {
+      "endMs": "31160",
+      "startMs": "28320",
+      "startTimeText": "0:28",
+      "text": "business is they think they must become"
+    },
+    {
+      "endMs": "32520",
+      "startMs": "29760",
+      "startTimeText": "0:29",
+      "text": "an AI business, which is not true at"
+    },
+    {
+      "endMs": "34920",
+      "startMs": "31160",
+      "startTimeText": "0:31",
+      "text": "all. And so, the easiest analogy I can"
+    },
+    {
+      "endMs": "36440",
+      "startMs": "32520",
+      "startTimeText": "0:32",
+      "text": "give is the internet. Right? So, almost"
+    },
+    {
+      "endMs": "38560",
+      "startMs": "34920",
+      "startTimeText": "0:34",
+      "text": "every business is on the internet. You"
+    },
+    {
+      "endMs": "41160",
+      "startMs": "36440",
+      "startTimeText": "0:36",
+      "text": "don't have to be an internet business,"
+    },
+    {
+      "endMs": "42320",
+      "startMs": "38560",
+      "startTimeText": "0:38",
+      "text": "you just use the internet as one of the"
+    },
+    {
+      "endMs": "44880",
+      "startMs": "41160",
+      "startTimeText": "0:41",
+      "text": "many tools that you use to deliver"
+    },
+    {
+      "endMs": "46680",
+      "startMs": "42320",
+      "startTimeText": "0:42",
+      "text": "whatever it is that you sell. And so, I"
+    },
+    {
+      "endMs": "48280",
+      "startMs": "44880",
+      "startTimeText": "0:44",
+      "text": "think the first mistake that I'm seeing"
+    },
+    {
+      "endMs": "49680",
+      "startMs": "46680",
+      "startTimeText": "0:46",
+      "text": "businesses make is assuming that either"
+    },
+    {
+      "endMs": "51240",
+      "startMs": "48280",
+      "startTimeText": "0:48",
+      "text": "they have to become tech companies. Now,"
+    },
+    {
+      "endMs": "53400",
+      "startMs": "49680",
+      "startTimeText": "0:49",
+      "text": "there's a component of being tech"
+    },
+    {
+      "endMs": "55040",
+      "startMs": "51240",
+      "startTimeText": "0:51",
+      "text": "forward, uh but like are you tech"
+    },
+    {
+      "endMs": "57160",
+      "startMs": "53400",
+      "startTimeText": "0:53",
+      "text": "forward for having web page? Not"
+    },
+    {
+      "endMs": "58880",
+      "startMs": "55040",
+      "startTimeText": "0:55",
+      "text": "anymore, but you used to be. And the"
+    },
+    {
+      "endMs": "60520",
+      "startMs": "57160",
+      "startTimeText": "0:57",
+      "text": "people who got there first got"
+    },
+    {
+      "endMs": "61760",
+      "startMs": "58880",
+      "startTimeText": "0:58",
+      "text": "disproportionate returns. The second"
+    },
+    {
+      "endMs": "63800",
+      "startMs": "60520",
+      "startTimeText": "1:00",
+      "text": "kind of big thing that is being a"
+    },
+    {
+      "endMs": "65239",
+      "startMs": "61760",
+      "startTimeText": "1:01",
+      "text": "mistake is assuming that like one of the"
+    },
+    {
+      "endMs": "67840",
+      "startMs": "63800",
+      "startTimeText": "1:03",
+      "text": "tech nerds is going to do it for you."
+    },
+    {
+      "endMs": "69120",
+      "startMs": "65239",
+      "startTimeText": "1:05",
+      "text": "Now, one of the the big advantages of"
+    },
+    {
+      "endMs": "70720",
+      "startMs": "67840",
+      "startTimeText": "1:07",
+      "text": "the thing that I've had that's that's"
+    },
+    {
+      "endMs": "72720",
+      "startMs": "69120",
+      "startTimeText": "1:09",
+      "text": "led to some disproportionate outcomes"
+    },
+    {
+      "endMs": "74800",
+      "startMs": "70720",
+      "startTimeText": "1:10",
+      "text": "for me has been what I'll consider cloud"
+    },
+    {
+      "endMs": "76840",
+      "startMs": "72720",
+      "startTimeText": "1:12",
+      "text": "to dirt knowledge. So, like vertical"
+    },
+    {
+      "endMs": "78960",
+      "startMs": "74800",
+      "startTimeText": "1:14",
+      "text": "integration of knowledge. So, being able"
+    },
+    {
+      "endMs": "80160",
+      "startMs": "76840",
+      "startTimeText": "1:16",
+      "text": "to do the high-level strategy, being"
+    },
+    {
+      "endMs": "82400",
+      "startMs": "78960",
+      "startTimeText": "1:18",
+      "text": "able to handle the people stuff,"
+    },
+    {
+      "endMs": "84240",
+      "startMs": "80160",
+      "startTimeText": "1:20",
+      "text": "communication, marketing, all the way"
+    },
+    {
+      "endMs": "86880",
+      "startMs": "82400",
+      "startTimeText": "1:22",
+      "text": "down to the granularity of like how do"
+    },
+    {
+      "endMs": "88440",
+      "startMs": "84240",
+      "startTimeText": "1:24",
+      "text": "we connect this API to this other API."
+    },
+    {
+      "endMs": "91000",
+      "startMs": "86880",
+      "startTimeText": "1:26",
+      "text": "And the reason I think that cloud to"
+    },
+    {
+      "endMs": "92600",
+      "startMs": "88440",
+      "startTimeText": "1:28",
+      "text": "dirt understanding of all systems within"
+    },
+    {
+      "endMs": "93920",
+      "startMs": "91000",
+      "startTimeText": "1:31",
+      "text": "the business is valuable is because"
+    },
+    {
+      "endMs": "95800",
+      "startMs": "92600",
+      "startTimeText": "1:32",
+      "text": "you're the only one who's going to"
+    },
+    {
+      "endMs": "97680",
+      "startMs": "93920",
+      "startTimeText": "1:33",
+      "text": "understand what is possible. So, even if"
+    },
+    {
+      "endMs": "99640",
+      "startMs": "95800",
+      "startTimeText": "1:35",
+      "text": "you have some tech nerd, right, who's"
+    },
+    {
+      "endMs": "101240",
+      "startMs": "97680",
+      "startTimeText": "1:37",
+      "text": "next to you, you would then ask them,"
+    },
+    {
+      "endMs": "102560",
+      "startMs": "99640",
+      "startTimeText": "1:39",
+      "text": "\"Well, what is possible?\" And they're"
+    },
+    {
+      "endMs": "104080",
+      "startMs": "101240",
+      "startTimeText": "1:41",
+      "text": "going to answer within their limited"
+    },
+    {
+      "endMs": "104960",
+      "startMs": "102560",
+      "startTimeText": "1:42",
+      "text": "context of business. And so, if you know"
+    },
+    {
+      "endMs": "106960",
+      "startMs": "104080",
+      "startTimeText": "1:44",
+      "text": "your business better than them, which"
+    },
+    {
+      "endMs": "109160",
+      "startMs": "104960",
+      "startTimeText": "1:44",
+      "text": "you should if you're the owner, then you"
+    },
+    {
+      "endMs": "111000",
+      "startMs": "106960",
+      "startTimeText": "1:46",
+      "text": "can see how different pieces, if applied"
+    },
+    {
+      "endMs": "112520",
+      "startMs": "109160",
+      "startTimeText": "1:49",
+      "text": "together, would be really valuable. They"
+    },
+    {
+      "endMs": "113960",
+      "startMs": "111000",
+      "startTimeText": "1:51",
+      "text": "won't see that inherent value, and so"
+    },
+    {
+      "endMs": "115880",
+      "startMs": "112520",
+      "startTimeText": "1:52",
+      "text": "they're going to default to things that"
+    },
+    {
+      "endMs": "117440",
+      "startMs": "113960",
+      "startTimeText": "1:53",
+      "text": "they've seen before um that people have"
+    },
+    {
+      "endMs": "119440",
+      "startMs": "115880",
+      "startTimeText": "1:55",
+      "text": "done, which largely will be what I would"
+    },
+    {
+      "endMs": "121400",
+      "startMs": "117440",
+      "startTimeText": "1:57",
+      "text": "consider commoditized automations,"
+    },
+    {
+      "endMs": "123240",
+      "startMs": "119440",
+      "startTimeText": "1:59",
+      "text": "right? And so, where you get the true"
+    },
+    {
+      "endMs": "124520",
+      "startMs": "121400",
+      "startTimeText": "2:01",
+      "text": "alpha or the true kind of big"
+    },
+    {
+      "endMs": "127320",
+      "startMs": "123240",
+      "startTimeText": "2:03",
+      "text": "improvements in the business are going"
+    },
+    {
+      "endMs": "129880",
+      "startMs": "124520",
+      "startTimeText": "2:04",
+      "text": "to become come from your business acumen"
+    },
+    {
+      "endMs": "131880",
+      "startMs": "127320",
+      "startTimeText": "2:07",
+      "text": "getting overlaid on top of technical"
+    },
+    {
+      "endMs": "133280",
+      "startMs": "129880",
+      "startTimeText": "2:09",
+      "text": "acumen. Now, you probably don't consider"
+    },
+    {
+      "endMs": "135480",
+      "startMs": "131880",
+      "startTimeText": "2:11",
+      "text": "yourself to be a tech person. I"
+    },
+    {
+      "endMs": "136960",
+      "startMs": "133280",
+      "startTimeText": "2:13",
+      "text": "certainly don't. In fact, I would say"
+    },
+    {
+      "endMs": "140080",
+      "startMs": "135480",
+      "startTimeText": "2:15",
+      "text": "that I I don't even like saying it, but"
+    },
+    {
+      "endMs": "142640",
+      "startMs": "136960",
+      "startTimeText": "2:16",
+      "text": "I largely dislike technology. Um but I"
+    },
+    {
+      "endMs": "144640",
+      "startMs": "140080",
+      "startTimeText": "2:20",
+      "text": "see it as a necessary evil, being, you"
+    },
+    {
+      "endMs": "145920",
+      "startMs": "142640",
+      "startTimeText": "2:22",
+      "text": "know, emphasis on the necessary part,"
+    },
+    {
+      "endMs": "146920",
+      "startMs": "144640",
+      "startTimeText": "2:24",
+      "text": "which is that you've got to get good at"
+    },
+    {
+      "endMs": "147960",
+      "startMs": "145920",
+      "startTimeText": "2:25",
+      "text": "this So, I'm going to give you a"
+    },
+    {
+      "endMs": "148840",
+      "startMs": "146920",
+      "startTimeText": "2:26",
+      "text": "couple of things that you can do, and"
+    },
+    {
+      "endMs": "150680",
+      "startMs": "147960",
+      "startTimeText": "2:27",
+      "text": "then I'll give you some examples of the"
+    },
+    {
+      "endMs": "153400",
+      "startMs": "148840",
+      "startTimeText": "2:28",
+      "text": "stuff we've done. But, things that you"
+    },
+    {
+      "endMs": "155240",
+      "startMs": "150680",
+      "startTimeText": "2:30",
+      "text": "can do today right now is there's a"
+    },
+    {
+      "endMs": "157240",
+      "startMs": "153400",
+      "startTimeText": "2:33",
+      "text": "zillion videos on YouTube on how to"
+    },
+    {
+      "endMs": "159280",
+      "startMs": "155240",
+      "startTimeText": "2:35",
+      "text": "automate a specific thing or task within"
+    },
+    {
+      "endMs": "160600",
+      "startMs": "157240",
+      "startTimeText": "2:37",
+      "text": "a business. They exist, you can find"
+    },
+    {
+      "endMs": "162200",
+      "startMs": "159280",
+      "startTimeText": "2:39",
+      "text": "them on your own time."
+    },
+    {
+      "endMs": "164200",
+      "startMs": "160600",
+      "startTimeText": "2:40",
+      "text": "What I would encourage you to do is take"
+    },
+    {
+      "endMs": "166520",
+      "startMs": "162200",
+      "startTimeText": "2:42",
+      "text": "the link, take the transcript, and then"
+    },
+    {
+      "endMs": "169040",
+      "startMs": "164200",
+      "startTimeText": "2:44",
+      "text": "say, \"Hey, I want help building this"
+    },
+    {
+      "endMs": "170800",
+      "startMs": "166520",
+      "startTimeText": "2:46",
+      "text": "thing.\" And then plug that into whatever"
+    },
+    {
+      "endMs": "173160",
+      "startMs": "169040",
+      "startTimeText": "2:49",
+      "text": "AI you want,"
+    },
+    {
+      "endMs": "175280",
+      "startMs": "170800",
+      "startTimeText": "2:50",
+      "text": "and then follow the directions. And when"
+    },
+    {
+      "endMs": "176760",
+      "startMs": "173160",
+      "startTimeText": "2:53",
+      "text": "you get stuck, take a screenshot of the"
+    },
+    {
+      "endMs": "178920",
+      "startMs": "175280",
+      "startTimeText": "2:55",
+      "text": "page and say, \"What do I do now?\" and"
+    },
+    {
+      "endMs": "181080",
+      "startMs": "176760",
+      "startTimeText": "2:56",
+      "text": "put it in the chat. And do that over and"
+    },
+    {
+      "endMs": "184560",
+      "startMs": "178920",
+      "startTimeText": "2:58",
+      "text": "over and over again. So, from marketing"
+    },
+    {
+      "endMs": "187400",
+      "startMs": "181080",
+      "startTimeText": "3:01",
+      "text": "perspective, um we have an AI SDR right"
+    },
+    {
+      "endMs": "190120",
+      "startMs": "184560",
+      "startTimeText": "3:04",
+      "text": "now who's who's matching our our human"
+    },
+    {
+      "endMs": "193040",
+      "startMs": "187400",
+      "startTimeText": "3:07",
+      "text": "team. Okay. Now, one of the big mess-ups"
+    },
+    {
+      "endMs": "194680",
+      "startMs": "190120",
+      "startTimeText": "3:10",
+      "text": "though is that people will install"
+    },
+    {
+      "endMs": "198560",
+      "startMs": "193040",
+      "startTimeText": "3:13",
+      "text": "business owners will install a"
+    },
+    {
+      "endMs": "200400",
+      "startMs": "194680",
+      "startTimeText": "3:14",
+      "text": "half-built function of AI into their"
+    },
+    {
+      "endMs": "202400",
+      "startMs": "198560",
+      "startTimeText": "3:18",
+      "text": "business, compare it to something that's"
+    },
+    {
+      "endMs": "205320",
+      "startMs": "200400",
+      "startTimeText": "3:20",
+      "text": "been optimized over the last 6 years or"
+    },
+    {
+      "endMs": "207640",
+      "startMs": "202400",
+      "startTimeText": "3:22",
+      "text": "10 years or 20 years, and say, \"See, it"
+    },
+    {
+      "endMs": "209120",
+      "startMs": "205320",
+      "startTimeText": "3:25",
+      "text": "doesn't work as well. John Henry wins"
+    },
+    {
+      "endMs": "211000",
+      "startMs": "207640",
+      "startTimeText": "3:27",
+      "text": "again.\" Right? For those of you don't"
+    },
+    {
+      "endMs": "213920",
+      "startMs": "209120",
+      "startTimeText": "3:29",
+      "text": "know that, well, you know, you were born"
+    },
+    {
+      "endMs": "215760",
+      "startMs": "211000",
+      "startTimeText": "3:31",
+      "text": "probably after 2000. Anyways. So, so the"
+    },
+    {
+      "endMs": "218320",
+      "startMs": "213920",
+      "startTimeText": "3:33",
+      "text": "the idea here is you have to do an"
+    },
+    {
+      "endMs": "220200",
+      "startMs": "215760",
+      "startTimeText": "3:35",
+      "text": "apples-to-apples comparison, which is"
+    },
+    {
+      "endMs": "221640",
+      "startMs": "218320",
+      "startTimeText": "3:38",
+      "text": "how long did you work on training and"
+    },
+    {
+      "endMs": "223200",
+      "startMs": "220200",
+      "startTimeText": "3:40",
+      "text": "putting all the SOPs together? Okay,"
+    },
+    {
+      "endMs": "225400",
+      "startMs": "221640",
+      "startTimeText": "3:41",
+      "text": "great. Well, then you have to apply that"
+    },
+    {
+      "endMs": "227200",
+      "startMs": "223200",
+      "startTimeText": "3:43",
+      "text": "same methodology to the AI. So, let me"
+    },
+    {
+      "endMs": "228960",
+      "startMs": "225400",
+      "startTimeText": "3:45",
+      "text": "give you a different example of this."
+    },
+    {
+      "endMs": "230840",
+      "startMs": "227200",
+      "startTimeText": "3:47",
+      "text": "So, the reason that I think that like"
+    },
+    {
+      "endMs": "232600",
+      "startMs": "228960",
+      "startTimeText": "3:48",
+      "text": "people who have like sales called sales"
+    },
+    {
+      "endMs": "235040",
+      "startMs": "230840",
+      "startTimeText": "3:50",
+      "text": "AI agencies"
+    },
+    {
+      "endMs": "237680",
+      "startMs": "232600",
+      "startTimeText": "3:52",
+      "text": "um will struggle is that you have to"
+    },
+    {
+      "endMs": "240320",
+      "startMs": "235040",
+      "startTimeText": "3:55",
+      "text": "know more than just tech and just how to"
+    },
+    {
+      "endMs": "241960",
+      "startMs": "237680",
+      "startTimeText": "3:57",
+      "text": "sell in order to implement sales into"
+    },
+    {
+      "endMs": "243400",
+      "startMs": "240320",
+      "startTimeText": "4:00",
+      "text": "different businesses. And as somebody"
+    },
+    {
+      "endMs": "244840",
+      "startMs": "241960",
+      "startTimeText": "4:01",
+      "text": "who's been very good at acquiring"
+    },
+    {
+      "endMs": "247160",
+      "startMs": "243400",
+      "startTimeText": "4:03",
+      "text": "customers via checkout page, via"
+    },
+    {
+      "endMs": "248360",
+      "startMs": "244840",
+      "startTimeText": "4:04",
+      "text": "webinar, via in-person sales, via phone"
+    },
+    {
+      "endMs": "249440",
+      "startMs": "247160",
+      "startTimeText": "4:07",
+      "text": "sales,"
+    },
+    {
+      "endMs": "250840",
+      "startMs": "248360",
+      "startTimeText": "4:08",
+      "text": "most of the ways that you know how to"
+    },
+    {
+      "endMs": "251800",
+      "startMs": "249440",
+      "startTimeText": "4:09",
+      "text": "acquire customers, we've gotten pretty"
+    },
+    {
+      "endMs": "253800",
+      "startMs": "250840",
+      "startTimeText": "4:10",
+      "text": "good at over the years, and it's just"
+    },
+    {
+      "endMs": "255600",
+      "startMs": "251800",
+      "startTimeText": "4:11",
+      "text": "probably been an obsession of mine. But,"
+    },
+    {
+      "endMs": "257320",
+      "startMs": "253800",
+      "startTimeText": "4:13",
+      "text": "the thing is is that if I were to go"
+    },
+    {
+      "endMs": "260120",
+      "startMs": "255600",
+      "startTimeText": "4:15",
+      "text": "into a company and they say, \"Hey, Alex,"
+    },
+    {
+      "endMs": "262440",
+      "startMs": "257320",
+      "startTimeText": "4:17",
+      "text": "can we use your AI setter to apply to my"
+    },
+    {
+      "endMs": "263600",
+      "startMs": "260120",
+      "startTimeText": "4:20",
+      "text": "whatever XYZ business?\" I would say,"
+    },
+    {
+      "endMs": "265160",
+      "startMs": "262440",
+      "startTimeText": "4:22",
+      "text": "\"Well, it's going to it's not going to"
+    },
+    {
+      "endMs": "266880",
+      "startMs": "263600",
+      "startTimeText": "4:23",
+      "text": "be like a simple drag and drop. It would"
+    },
+    {
+      "endMs": "267960",
+      "startMs": "265160",
+      "startTimeText": "4:25",
+      "text": "be like saying, 'Hey, can I take one of"
+    },
+    {
+      "endMs": "269600",
+      "startMs": "266880",
+      "startTimeText": "4:26",
+      "text": "your sales guys and put them in my"
+    },
+    {
+      "endMs": "271160",
+      "startMs": "267960",
+      "startTimeText": "4:27",
+      "text": "business?'\" The first shot, you think"
+    },
+    {
+      "endMs": "272640",
+      "startMs": "269600",
+      "startTimeText": "4:29",
+      "text": "they're going to be good? Of course not."
+    },
+    {
+      "endMs": "273520",
+      "startMs": "271160",
+      "startTimeText": "4:31",
+      "text": "They're going to suck. They're going to"
+    },
+    {
+      "endMs": "275240",
+      "startMs": "272640",
+      "startTimeText": "4:32",
+      "text": "be terrible, and you're going to be"
+    },
+    {
+      "endMs": "276760",
+      "startMs": "273520",
+      "startTimeText": "4:33",
+      "text": "like, \"How is How is that good?\" Now,"
+    },
+    {
+      "endMs": "279080",
+      "startMs": "275240",
+      "startTimeText": "4:35",
+      "text": "it's even worse if you don't even have a"
+    },
+    {
+      "endMs": "280560",
+      "startMs": "276760",
+      "startTimeText": "4:36",
+      "text": "very good sales process as is, and then"
+    },
+    {
+      "endMs": "282680",
+      "startMs": "279080",
+      "startTimeText": "4:39",
+      "text": "saying, \"Oh, well, now that I have an AI"
+    },
+    {
+      "endMs": "284840",
+      "startMs": "280560",
+      "startTimeText": "4:40",
+      "text": "sales person or AI setter, I'm going to"
+    },
+    {
+      "endMs": "286200",
+      "startMs": "282680",
+      "startTimeText": "4:42",
+      "text": "run an ad and then have the AI setter,"
+    },
+    {
+      "endMs": "287680",
+      "startMs": "284840",
+      "startTimeText": "4:44",
+      "text": "you know, call every single person who"
+    },
+    {
+      "endMs": "289160",
+      "startMs": "286200",
+      "startTimeText": "4:46",
+      "text": "opts in.\" Well, would you have a human"
+    },
+    {
+      "endMs": "290240",
+      "startMs": "287680",
+      "startTimeText": "4:47",
+      "text": "call every single person that opts in?"
+    },
+    {
+      "endMs": "291320",
+      "startMs": "289160",
+      "startTimeText": "4:49",
+      "text": "You can then make the argument, \"Well,"
+    },
+    {
+      "endMs": "293040",
+      "startMs": "290240",
+      "startTimeText": "4:50",
+      "text": "it'd be cheaper.\" It's like, \"Yeah, but"
+    },
+    {
+      "endMs": "294520",
+      "startMs": "291320",
+      "startTimeText": "4:51",
+      "text": "would it be effective?\" Most times"
+    },
+    {
+      "endMs": "297880",
+      "startMs": "293040",
+      "startTimeText": "4:53",
+      "text": "there's a certain amount There's a sales"
+    },
+    {
+      "endMs": "299040",
+      "startMs": "294520",
+      "startTimeText": "4:54",
+      "text": "motion. There's a sales process. Like AI"
+    },
+    {
+      "endMs": "301160",
+      "startMs": "297880",
+      "startTimeText": "4:57",
+      "text": "will make the things that you're doing"
+    },
+    {
+      "endMs": "302560",
+      "startMs": "299040",
+      "startTimeText": "4:59",
+      "text": "right now easier and faster. It doesn't"
+    },
+    {
+      "endMs": "303840",
+      "startMs": "301160",
+      "startTimeText": "5:01",
+      "text": "mean that you still don't have to do"
+    },
+    {
+      "endMs": "306680",
+      "startMs": "302560",
+      "startTimeText": "5:02",
+      "text": "them. Real quick, I'm going to show you"
+    },
+    {
+      "endMs": "309520",
+      "startMs": "303840",
+      "startTimeText": "5:03",
+      "text": "the exact 10-stage roadmap from zero to"
+    },
+    {
+      "endMs": "311000",
+      "startMs": "306680",
+      "startTimeText": "5:06",
+      "text": "100 million plus that less than 1% of"
+    },
+    {
+      "endMs": "312480",
+      "startMs": "309520",
+      "startTimeText": "5:09",
+      "text": "companies finish. I've now done multiple"
+    },
+    {
+      "endMs": "314440",
+      "startMs": "311000",
+      "startTimeText": "5:11",
+      "text": "times, and so I can say with a lot of"
+    },
+    {
+      "endMs": "316200",
+      "startMs": "312480",
+      "startTimeText": "5:12",
+      "text": "confidence that these are the stages, as"
+    },
+    {
+      "endMs": "318360",
+      "startMs": "314440",
+      "startTimeText": "5:14",
+      "text": "head count increases, that you need to"
+    },
+    {
+      "endMs": "319920",
+      "startMs": "316200",
+      "startTimeText": "5:16",
+      "text": "get through. And I broke each of these"
+    },
+    {
+      "endMs": "321880",
+      "startMs": "318360",
+      "startTimeText": "5:18",
+      "text": "down by eight different functions of the"
+    },
+    {
+      "endMs": "323320",
+      "startMs": "319920",
+      "startTimeText": "5:19",
+      "text": "business, what the constraint feels"
+    },
+    {
+      "endMs": "324720",
+      "startMs": "321880",
+      "startTimeText": "5:21",
+      "text": "like, like what are the symptoms of it"
+    },
+    {
+      "endMs": "326200",
+      "startMs": "323320",
+      "startTimeText": "5:23",
+      "text": "when you're going through it, and then"
+    },
+    {
+      "endMs": "328120",
+      "startMs": "324720",
+      "startTimeText": "5:24",
+      "text": "what steps we actually took to graduate."
+    },
+    {
+      "endMs": "330000",
+      "startMs": "326200",
+      "startTimeText": "5:26",
+      "text": "And we've done this across software,"
+    },
+    {
+      "endMs": "331840",
+      "startMs": "328120",
+      "startTimeText": "5:28",
+      "text": "physical products, uh service"
+    },
+    {
+      "endMs": "334040",
+      "startMs": "330000",
+      "startTimeText": "5:30",
+      "text": "businesses, brick and mortar, all of"
+    },
+    {
+      "endMs": "335560",
+      "startMs": "331840",
+      "startTimeText": "5:31",
+      "text": "this, and it works. And it's my gift to"
+    },
+    {
+      "endMs": "336920",
+      "startMs": "334040",
+      "startTimeText": "5:34",
+      "text": "you. It's absolutely free. And so, the"
+    },
+    {
+      "endMs": "338840",
+      "startMs": "335560",
+      "startTimeText": "5:35",
+      "text": "link's in the description, but you just"
+    },
+    {
+      "endMs": "339920",
+      "startMs": "336920",
+      "startTimeText": "5:36",
+      "text": "go acquisition.com/roadmap,"
+    },
+    {
+      "endMs": "341800",
+      "startMs": "338840",
+      "startTimeText": "5:38",
+      "text": "just enter your info, and it'll spit it"
+    },
+    {
+      "endMs": "344000",
+      "startMs": "339920",
+      "startTimeText": "5:39",
+      "text": "right back to you, all free. So, humans"
+    },
+    {
+      "endMs": "346200",
+      "startMs": "341800",
+      "startTimeText": "5:41",
+      "text": "aren't going to change. Our ability to"
+    },
+    {
+      "endMs": "347960",
+      "startMs": "344000",
+      "startTimeText": "5:44",
+      "text": "be persuaded, the things that we find"
+    },
+    {
+      "endMs": "349680",
+      "startMs": "346200",
+      "startTimeText": "5:46",
+      "text": "interesting and important, those aren't"
+    },
+    {
+      "endMs": "351360",
+      "startMs": "347960",
+      "startTimeText": "5:47",
+      "text": "going to change. The psychology of"
+    },
+    {
+      "endMs": "352640",
+      "startMs": "349680",
+      "startTimeText": "5:49",
+      "text": "humans is is largely going to remain"
+    },
+    {
+      "endMs": "354800",
+      "startMs": "351360",
+      "startTimeText": "5:51",
+      "text": "unchanged. And so, whatever you do in"
+    },
+    {
+      "endMs": "356480",
+      "startMs": "352640",
+      "startTimeText": "5:52",
+      "text": "order to persuade people will still have"
+    },
+    {
+      "endMs": "358160",
+      "startMs": "354800",
+      "startTimeText": "5:54",
+      "text": "to happen. It's not that all of a sudden"
+    },
+    {
+      "endMs": "359520",
+      "startMs": "356480",
+      "startTimeText": "5:56",
+      "text": "all the rules of persuasion are broken."
+    },
+    {
+      "endMs": "361040",
+      "startMs": "358160",
+      "startTimeText": "5:58",
+      "text": "And to the same degree, if your business"
+    },
+    {
+      "endMs": "363720",
+      "startMs": "359520",
+      "startTimeText": "5:59",
+      "text": "now starts using AI, I wouldn't"
+    },
+    {
+      "endMs": "365520",
+      "startMs": "361040",
+      "startTimeText": "6:01",
+      "text": "advertise that you're using AI. No one"
+    },
+    {
+      "endMs": "367200",
+      "startMs": "363720",
+      "startTimeText": "6:03",
+      "text": "cares. They just care that they get"
+    },
+    {
+      "endMs": "368920",
+      "startMs": "365520",
+      "startTimeText": "6:05",
+      "text": "their stuff faster, that they get it"
+    },
+    {
+      "endMs": "370480",
+      "startMs": "367200",
+      "startTimeText": "6:07",
+      "text": "cheaper, that they make it better, and"
+    },
+    {
+      "endMs": "372480",
+      "startMs": "368920",
+      "startTimeText": "6:08",
+      "text": "that it's risk-free. And so, let's just"
+    },
+    {
+      "endMs": "374800",
+      "startMs": "370480",
+      "startTimeText": "6:10",
+      "text": "hit those ones really quickly."
+    },
+    {
+      "endMs": "376480",
+      "startMs": "372480",
+      "startTimeText": "6:12",
+      "text": "So, from a risk-free perspective, how"
+    },
+    {
+      "endMs": "379040",
+      "startMs": "374800",
+      "startTimeText": "6:14",
+      "text": "can AI reduce the risk in a business?"
+    },
+    {
+      "endMs": "381840",
+      "startMs": "376480",
+      "startTimeText": "6:16",
+      "text": "So, on a global level, right? Um I think"
+    },
+    {
+      "endMs": "383800",
+      "startMs": "379040",
+      "startTimeText": "6:19",
+      "text": "PayPal reduced its fraud uh team by a"
+    },
+    {
+      "endMs": "385440",
+      "startMs": "381840",
+      "startTimeText": "6:21",
+      "text": "gigantic amount, and more importantly,"
+    },
+    {
+      "endMs": "388000",
+      "startMs": "383800",
+      "startTimeText": "6:23",
+      "text": "they've reduced their fraud losses by"
+    },
+    {
+      "endMs": "391240",
+      "startMs": "385440",
+      "startTimeText": "6:25",
+      "text": "$700 million in a single year just by"
+    },
+    {
+      "endMs": "393480",
+      "startMs": "388000",
+      "startTimeText": "6:28",
+      "text": "having AI start recognizing patterns uh"
+    },
+    {
+      "endMs": "396280",
+      "startMs": "391240",
+      "startTimeText": "6:31",
+      "text": "uh faster. Now, to the same degree, on a"
+    },
+    {
+      "endMs": "397960",
+      "startMs": "393480",
+      "startTimeText": "6:33",
+      "text": "human savings level, uh JP Morgan had"
+    },
+    {
+      "endMs": "400280",
+      "startMs": "396280",
+      "startTimeText": "6:36",
+      "text": "Coin, which was their kind of like their"
+    },
+    {
+      "endMs": "401360",
+      "startMs": "397960",
+      "startTimeText": "6:37",
+      "text": "AI engine for, I think, like credit"
+    },
+    {
+      "endMs": "403760",
+      "startMs": "400280",
+      "startTimeText": "6:40",
+      "text": "agreements or something like that. But,"
+    },
+    {
+      "endMs": "405760",
+      "startMs": "401360",
+      "startTimeText": "6:41",
+      "text": "it basically saved like 350,000 lawyer"
+    },
+    {
+      "endMs": "407600",
+      "startMs": "403760",
+      "startTimeText": "6:43",
+      "text": "hours, right, which they were able to"
+    },
+    {
+      "endMs": "409040",
+      "startMs": "405760",
+      "startTimeText": "6:45",
+      "text": "just basically do 12,000 credit"
+    },
+    {
+      "endMs": "410240",
+      "startMs": "407600",
+      "startTimeText": "6:47",
+      "text": "agreements in seconds rather than having"
+    },
+    {
+      "endMs": "412040",
+      "startMs": "409040",
+      "startTimeText": "6:49",
+      "text": "these lawyers review them over and over"
+    },
+    {
+      "endMs": "413360",
+      "startMs": "410240",
+      "startTimeText": "6:50",
+      "text": "again. That is another use case. Now,"
+    },
+    {
+      "endMs": "414200",
+      "startMs": "412040",
+      "startTimeText": "6:52",
+      "text": "some of these seem like these big global"
+    },
+    {
+      "endMs": "416240",
+      "startMs": "413360",
+      "startTimeText": "6:53",
+      "text": "companies, but you're like, \"How the"
+    },
+    {
+      "endMs": "417640",
+      "startMs": "414200",
+      "startTimeText": "6:54",
+      "text": "hell am I going to do this uh in my in"
+    },
+    {
+      "endMs": "419520",
+      "startMs": "416240",
+      "startTimeText": "6:56",
+      "text": "my in my small business?\" Well, Clara"
+    },
+    {
+      "endMs": "420920",
+      "startMs": "417640",
+      "startTimeText": "6:57",
+      "text": "replaced 700 customer service agents"
+    },
+    {
+      "endMs": "423280",
+      "startMs": "419520",
+      "startTimeText": "6:59",
+      "text": "with AI and saved 40 million bucks in a"
+    },
+    {
+      "endMs": "424160",
+      "startMs": "420920",
+      "startTimeText": "7:00",
+      "text": "year. For us, when we did our book"
+    },
+    {
+      "endMs": "426080",
+      "startMs": "423280",
+      "startTimeText": "7:03",
+      "text": "launch, this is before people were"
+    },
+    {
+      "endMs": "429640",
+      "startMs": "424160",
+      "startTimeText": "7:04",
+      "text": "talking about agencies as much,"
+    },
+    {
+      "endMs": "431440",
+      "startMs": "426080",
+      "startTimeText": "7:06",
+      "text": "we spun up five agents that handled I"
+    },
+    {
+      "endMs": "432760",
+      "startMs": "429640",
+      "startTimeText": "7:09",
+      "text": "think it was like"
+    },
+    {
+      "endMs": "435560",
+      "startMs": "431440",
+      "startTimeText": "7:11",
+      "text": "somewhere in the neighborhood of like"
+    },
+    {
+      "endMs": "436680",
+      "startMs": "432760",
+      "startTimeText": "7:12",
+      "text": "120,000 support tickets. And it was"
+    },
+    {
+      "endMs": "438840",
+      "startMs": "435560",
+      "startTimeText": "7:15",
+      "text": "mostly just like, \"Hey, can you tell me"
+    },
+    {
+      "endMs": "441480",
+      "startMs": "436680",
+      "startTimeText": "7:16",
+      "text": "where I get the free stuff?\" Right? But,"
+    },
+    {
+      "endMs": "443960",
+      "startMs": "438840",
+      "startTimeText": "7:18",
+      "text": "we were able to resolve 90% of all"
+    },
+    {
+      "endMs": "446400",
+      "startMs": "441480",
+      "startTimeText": "7:21",
+      "text": "tickets without any human intervention."
+    },
+    {
+      "endMs": "447680",
+      "startMs": "443960",
+      "startTimeText": "7:23",
+      "text": "You have to find a time, and maybe"
+    },
+    {
+      "endMs": "448720",
+      "startMs": "446400",
+      "startTimeText": "7:26",
+      "text": "that's weekends, maybe that's evenings,"
+    },
+    {
+      "endMs": "449920",
+      "startMs": "447680",
+      "startTimeText": "7:27",
+      "text": "maybe that's early mornings, maybe"
+    },
+    {
+      "endMs": "451040",
+      "startMs": "448720",
+      "startTimeText": "7:28",
+      "text": "that's middle of the day, whatever that"
+    },
+    {
+      "endMs": "453200",
+      "startMs": "449920",
+      "startTimeText": "7:29",
+      "text": "thing is for you or that time period is"
+    },
+    {
+      "endMs": "455760",
+      "startMs": "451040",
+      "startTimeText": "7:31",
+      "text": "for you, where you have to fully"
+    },
+    {
+      "endMs": "457480",
+      "startMs": "453200",
+      "startTimeText": "7:33",
+      "text": "dedicate yourself and actually go soup"
+    },
+    {
+      "endMs": "460200",
+      "startMs": "455760",
+      "startTimeText": "7:35",
+      "text": "to nuts, click to close, beginning to"
+    },
+    {
+      "endMs": "461840",
+      "startMs": "457480",
+      "startTimeText": "7:37",
+      "text": "end, on just automating one portion of"
+    },
+    {
+      "endMs": "464600",
+      "startMs": "460200",
+      "startTimeText": "7:40",
+      "text": "your day. That is my only ask. Now,"
+    },
+    {
+      "endMs": "465800",
+      "startMs": "461840",
+      "startTimeText": "7:41",
+      "text": "people have an incredibly hard time um"
+    },
+    {
+      "endMs": "467040",
+      "startMs": "464600",
+      "startTimeText": "7:44",
+      "text": "with this for two reasons. One, because"
+    },
+    {
+      "endMs": "468520",
+      "startMs": "465800",
+      "startTimeText": "7:45",
+      "text": "everyone's afraid of AI, which by the"
+    },
+    {
+      "endMs": "469920",
+      "startMs": "467040",
+      "startTimeText": "7:47",
+      "text": "way, if you're watching this and you"
+    },
+    {
+      "endMs": "471840",
+      "startMs": "468520",
+      "startTimeText": "7:48",
+      "text": "have workflows,"
+    },
+    {
+      "endMs": "473880",
+      "startMs": "469920",
+      "startTimeText": "7:49",
+      "text": "who do you think would be best served to"
+    },
+    {
+      "endMs": "475520",
+      "startMs": "471840",
+      "startTimeText": "7:51",
+      "text": "automate the workflow? Someone else or"
+    },
+    {
+      "endMs": "477200",
+      "startMs": "473880",
+      "startTimeText": "7:53",
+      "text": "you?"
+    },
+    {
+      "endMs": "478680",
+      "startMs": "475520",
+      "startTimeText": "7:55",
+      "text": "You should automate your workflow,"
+    },
+    {
+      "endMs": "480280",
+      "startMs": "477200",
+      "startTimeText": "7:57",
+      "text": "because then that will give you time to"
+    },
+    {
+      "endMs": "482160",
+      "startMs": "478680",
+      "startTimeText": "7:58",
+      "text": "figure out what else you can do that's"
+    },
+    {
+      "endMs": "483920",
+      "startMs": "480280",
+      "startTimeText": "8:00",
+      "text": "more valuable. Now,"
+    },
+    {
+      "endMs": "486080",
+      "startMs": "482160",
+      "startTimeText": "8:02",
+      "text": "every single time you think about your"
+    },
+    {
+      "endMs": "488440",
+      "startMs": "483920",
+      "startTimeText": "8:03",
+      "text": "workflow, whenever you want to put what"
+    },
+    {
+      "endMs": "491640",
+      "startMs": "486080",
+      "startTimeText": "8:06",
+      "text": "I'll just call magic or mysticism in in,"
+    },
+    {
+      "endMs": "493320",
+      "startMs": "488440",
+      "startTimeText": "8:08",
+      "text": "it's where you say,"
+    },
+    {
+      "endMs": "494760",
+      "startMs": "491640",
+      "startTimeText": "8:11",
+      "text": "\"Well, I just I just kind of know or I"
+    },
+    {
+      "endMs": "495640",
+      "startMs": "493320",
+      "startTimeText": "8:13",
+      "text": "have a gut feeling or I have intuition"
+    },
+    {
+      "endMs": "498480",
+      "startMs": "494760",
+      "startTimeText": "8:14",
+      "text": "or instinct\" or whatever you want to"
+    },
+    {
+      "endMs": "499880",
+      "startMs": "495640",
+      "startTimeText": "8:15",
+      "text": "call it, I just you to think pattern"
+    },
+    {
+      "endMs": "501640",
+      "startMs": "498480",
+      "startTimeText": "8:18",
+      "text": "recognition."
+    },
+    {
+      "endMs": "503680",
+      "startMs": "499880",
+      "startTimeText": "8:19",
+      "text": "Because that takes all of this magic"
+    },
+    {
+      "endMs": "505320",
+      "startMs": "501640",
+      "startTimeText": "8:21",
+      "text": "away from it. Because you are an"
+    },
+    {
+      "endMs": "506920",
+      "startMs": "503680",
+      "startTimeText": "8:23",
+      "text": "organism that has been exposed to"
+    },
+    {
+      "endMs": "508200",
+      "startMs": "505320",
+      "startTimeText": "8:25",
+      "text": "different stimuli, and then you had"
+    },
+    {
+      "endMs": "510080",
+      "startMs": "506920",
+      "startTimeText": "8:26",
+      "text": "reinforcement cycles that occurred where"
+    },
+    {
+      "endMs": "511640",
+      "startMs": "508200",
+      "startTimeText": "8:28",
+      "text": "you realized that this, like when we"
+    },
+    {
+      "endMs": "512800",
+      "startMs": "510080",
+      "startTimeText": "8:30",
+      "text": "say, \"Oh, I think that looks cool,\" it's"
+    },
+    {
+      "endMs": "515280",
+      "startMs": "511640",
+      "startTimeText": "8:31",
+      "text": "because we've seen things that look"
+    },
+    {
+      "endMs": "517479",
+      "startMs": "512800",
+      "startTimeText": "8:32",
+      "text": "similar to that. We generalize this All"
+    },
+    {
+      "endMs": "519520",
+      "startMs": "515280",
+      "startTimeText": "8:35",
+      "text": "right? That's how it works. And so, if"
+    },
+    {
+      "endMs": "521240",
+      "startMs": "517479",
+      "startTimeText": "8:37",
+      "text": "you can just erase your romanticism"
+    },
+    {
+      "endMs": "522080",
+      "startMs": "519520",
+      "startTimeText": "8:39",
+      "text": "around whatever niche specialized"
+    },
+    {
+      "endMs": "524360",
+      "startMs": "521240",
+      "startTimeText": "8:41",
+      "text": "knowledge you believe to have, and"
+    },
+    {
+      "endMs": "526240",
+      "startMs": "522080",
+      "startTimeText": "8:42",
+      "text": "believe me, I'm somebody who who who"
+    },
+    {
+      "endMs": "528640",
+      "startMs": "524360",
+      "startTimeText": "8:44",
+      "text": "thinks for a living. I would be the most"
+    },
+    {
+      "endMs": "531360",
+      "startMs": "526240",
+      "startTimeText": "8:46",
+      "text": "threatened by AI, right? You still have"
+    },
+    {
+      "endMs": "533720",
+      "startMs": "528640",
+      "startTimeText": "8:48",
+      "text": "to approach it with an observable lens,"
+    },
+    {
+      "endMs": "536360",
+      "startMs": "531360",
+      "startTimeText": "8:51",
+      "text": "which is what are the actual behaviors"
+    },
+    {
+      "endMs": "537920",
+      "startMs": "533720",
+      "startTimeText": "8:53",
+      "text": "that I do in order to get this outcome."
+    },
+    {
+      "endMs": "539440",
+      "startMs": "536360",
+      "startTimeText": "8:56",
+      "text": "And so, even something as simple as"
+    },
+    {
+      "endMs": "543080",
+      "startMs": "537920",
+      "startTimeText": "8:57",
+      "text": "like, \"Okay, I have to think of a cool"
+    },
+    {
+      "endMs": "544560",
+      "startMs": "539440",
+      "startTimeText": "8:59",
+      "text": "idea for this YouTube video,\" right?"
+    },
+    {
+      "endMs": "545840",
+      "startMs": "543080",
+      "startTimeText": "9:03",
+      "text": "We have different ways. I'm sure you"
+    },
+    {
+      "endMs": "546840",
+      "startMs": "544560",
+      "startTimeText": "9:04",
+      "text": "have some ways where you're like, \"Okay,"
+    },
+    {
+      "endMs": "550120",
+      "startMs": "545840",
+      "startTimeText": "9:05",
+      "text": "well, I think about what I did that"
+    },
+    {
+      "endMs": "552040",
+      "startMs": "546840",
+      "startTimeText": "9:06",
+      "text": "week.\" Okay. So, could a could a bot"
+    },
+    {
+      "endMs": "554880",
+      "startMs": "550120",
+      "startTimeText": "9:10",
+      "text": "look at your calendar?"
+    },
+    {
+      "endMs": "556680",
+      "startMs": "552040",
+      "startTimeText": "9:12",
+      "text": "Okay, step one. Step two, can you record"
+    },
+    {
+      "endMs": "559280",
+      "startMs": "554880",
+      "startTimeText": "9:14",
+      "text": "all of the calls that you take and have"
+    },
+    {
+      "endMs": "560680",
+      "startMs": "556680",
+      "startTimeText": "9:16",
+      "text": "those transcribed? Okay, that's now more"
+    },
+    {
+      "endMs": "562560",
+      "startMs": "559280",
+      "startTimeText": "9:19",
+      "text": "interesting, cuz now I have a bot that"
+    },
+    {
+      "endMs": "564360",
+      "startMs": "560680",
+      "startTimeText": "9:20",
+      "text": "not only sees the calendar, it can also"
+    },
+    {
+      "endMs": "566880",
+      "startMs": "562560",
+      "startTimeText": "9:22",
+      "text": "know what all the conversations were."
+    },
+    {
+      "endMs": "567760",
+      "startMs": "564360",
+      "startTimeText": "9:24",
+      "text": "Okay, can I then ask that bot to say,"
+    },
+    {
+      "endMs": "570200",
+      "startMs": "566880",
+      "startTimeText": "9:26",
+      "text": "\"Hey,"
+    },
+    {
+      "endMs": "572040",
+      "startMs": "567760",
+      "startTimeText": "9:27",
+      "text": "any interesting situation or decision"
+    },
+    {
+      "endMs": "574320",
+      "startMs": "570200",
+      "startTimeText": "9:30",
+      "text": "that came up over the last week, I want"
+    },
+    {
+      "endMs": "576840",
+      "startMs": "572040",
+      "startTimeText": "9:32",
+      "text": "you to put the top five most interesting"
+    },
+    {
+      "endMs": "578200",
+      "startMs": "574320",
+      "startTimeText": "9:34",
+      "text": "ones into a document for me.\" And then"
+    },
+    {
+      "endMs": "579840",
+      "startMs": "576840",
+      "startTimeText": "9:36",
+      "text": "run it. And then great, now you've got"
+    },
+    {
+      "endMs": "582280",
+      "startMs": "578200",
+      "startTimeText": "9:38",
+      "text": "the five most interesting moments. What"
+    },
+    {
+      "endMs": "584760",
+      "startMs": "579840",
+      "startTimeText": "9:39",
+      "text": "does it also create? True stories and"
+    },
+    {
+      "endMs": "586240",
+      "startMs": "582280",
+      "startTimeText": "9:42",
+      "text": "narratives, which is do epic talk"
+    },
+    {
+      "endMs": "588560",
+      "startMs": "584760",
+      "startTimeText": "9:44",
+      "text": "about the epic you did. Right? So,"
+    },
+    {
+      "endMs": "590320",
+      "startMs": "586240",
+      "startTimeText": "9:46",
+      "text": "you don't have to make stuff up. The the"
+    },
+    {
+      "endMs": "592280",
+      "startMs": "588560",
+      "startTimeText": "9:48",
+      "text": "big the big difficulty that people will"
+    },
+    {
+      "endMs": "595200",
+      "startMs": "590320",
+      "startTimeText": "9:50",
+      "text": "have in the in the world of AI content"
+    },
+    {
+      "endMs": "597280",
+      "startMs": "592280",
+      "startTimeText": "9:52",
+      "text": "creation is proof. That's the issue."
+    },
+    {
+      "endMs": "599000",
+      "startMs": "595200",
+      "startTimeText": "9:55",
+      "text": "That's the problem. And so, like there"
+    },
+    {
+      "endMs": "600560",
+      "startMs": "597280",
+      "startTimeText": "9:57",
+      "text": "will be amount Now, on the on the on the"
+    },
+    {
+      "endMs": "602080",
+      "startMs": "599000",
+      "startTimeText": "9:59",
+      "text": "consumer side,"
+    },
+    {
+      "endMs": "603880",
+      "startMs": "600560",
+      "startTimeText": "10:00",
+      "text": "they won't be as sensitive. On the B2B"
+    },
+    {
+      "endMs": "605600",
+      "startMs": "602080",
+      "startTimeText": "10:02",
+      "text": "side, abs- it still matters. Like,"
+    },
+    {
+      "endMs": "609480",
+      "startMs": "603880",
+      "startTimeText": "10:03",
+      "text": "imagine tomorrow"
+    },
+    {
+      "endMs": "611560",
+      "startMs": "605600",
+      "startTimeText": "10:05",
+      "text": "there's a B2B AI avatar, right? For"
+    },
+    {
+      "endMs": "613600",
+      "startMs": "609480",
+      "startTimeText": "10:09",
+      "text": "sure. Why do I think that that won't"
+    },
+    {
+      "endMs": "614760",
+      "startMs": "611560",
+      "startTimeText": "10:11",
+      "text": "work that well?"
+    },
+    {
+      "endMs": "616120",
+      "startMs": "613600",
+      "startTimeText": "10:13",
+      "text": "Because the same reason it doesn't work"
+    },
+    {
+      "endMs": "617960",
+      "startMs": "614760",
+      "startTimeText": "10:14",
+      "text": "for other people"
+    },
+    {
+      "endMs": "619440",
+      "startMs": "616120",
+      "startTimeText": "10:16",
+      "text": "who don't have any proof. The first"
+    },
+    {
+      "endMs": "621240",
+      "startMs": "617960",
+      "startTimeText": "10:17",
+      "text": "thing that's Like, again, human"
+    },
+    {
+      "endMs": "622520",
+      "startMs": "619440",
+      "startTimeText": "10:19",
+      "text": "psychology is not going to change."
+    },
+    {
+      "endMs": "624240",
+      "startMs": "621240",
+      "startTimeText": "10:21",
+      "text": "People are still going to wonder, \"Why"
+    },
+    {
+      "endMs": "625800",
+      "startMs": "622520",
+      "startTimeText": "10:22",
+      "text": "should I listen to you?"
+    },
+    {
+      "endMs": "627800",
+      "startMs": "624240",
+      "startTimeText": "10:24",
+      "text": "Why should I listen to this AI bot?\""
+    },
+    {
+      "endMs": "629320",
+      "startMs": "625800",
+      "startTimeText": "10:25",
+      "text": "Well, if that AI bot has no proof about"
+    },
+    {
+      "endMs": "631240",
+      "startMs": "627800",
+      "startTimeText": "10:27",
+      "text": "why it is good or what it's achieved or"
+    },
+    {
+      "endMs": "633160",
+      "startMs": "629320",
+      "startTimeText": "10:29",
+      "text": "what or what what real-world outcome"
+    },
+    {
+      "endMs": "635520",
+      "startMs": "631240",
+      "startTimeText": "10:31",
+      "text": "it's had, it's just it's just words."
+    },
+    {
+      "endMs": "637080",
+      "startMs": "633160",
+      "startTimeText": "10:33",
+      "text": "It's just GPT words, right?"
+    },
+    {
+      "endMs": "638920",
+      "startMs": "635520",
+      "startTimeText": "10:35",
+      "text": "And so, what what then happens is like"
+    },
+    {
+      "endMs": "640600",
+      "startMs": "637080",
+      "startTimeText": "10:37",
+      "text": "it has to be backed by somebody who has"
+    },
+    {
+      "endMs": "642640",
+      "startMs": "638920",
+      "startTimeText": "10:38",
+      "text": "done some extraordinary thing. Maybe you"
+    },
+    {
+      "endMs": "644240",
+      "startMs": "640600",
+      "startTimeText": "10:40",
+      "text": "sold an e-commerce store. Maybe you did"
+    },
+    {
+      "endMs": "645080",
+      "startMs": "642640",
+      "startTimeText": "10:42",
+      "text": "uh maybe you're an amazing trader. Maybe"
+    },
+    {
+      "endMs": "646480",
+      "startMs": "644240",
+      "startTimeText": "10:44",
+      "text": "you're really good at real estate"
+    },
+    {
+      "endMs": "648760",
+      "startMs": "645080",
+      "startTimeText": "10:45",
+      "text": "investing. Maybe whatever your thing is,"
+    },
+    {
+      "endMs": "650120",
+      "startMs": "646480",
+      "startTimeText": "10:46",
+      "text": "right? You have to have the proof."
+    },
+    {
+      "endMs": "652640",
+      "startMs": "648760",
+      "startTimeText": "10:48",
+      "text": "And so,"
+    },
+    {
+      "endMs": "654400",
+      "startMs": "650120",
+      "startTimeText": "10:50",
+      "text": "in a consumer world, it is easier"
+    },
+    {
+      "endMs": "656160",
+      "startMs": "652640",
+      "startTimeText": "10:52",
+      "text": "because and this is I mean again,"
+    },
+    {
+      "endMs": "658080",
+      "startMs": "654400",
+      "startTimeText": "10:54",
+      "text": "psychology doesn't change. If you have a"
+    },
+    {
+      "endMs": "659320",
+      "startMs": "656160",
+      "startTimeText": "10:56",
+      "text": "beautiful AI avatar talking about skin"
+    },
+    {
+      "endMs": "661280",
+      "startMs": "658080",
+      "startTimeText": "10:58",
+      "text": "care, people are going to see the"
+    },
+    {
+      "endMs": "662960",
+      "startMs": "659320",
+      "startTimeText": "10:59",
+      "text": "beautiful AI avatar, and then the way"
+    },
+    {
+      "endMs": "664720",
+      "startMs": "661280",
+      "startTimeText": "11:01",
+      "text": "the avatar looks"
+    },
+    {
+      "endMs": "666040",
+      "startMs": "662960",
+      "startTimeText": "11:02",
+      "text": "gives proof to the thing. Now, we can be"
+    },
+    {
+      "endMs": "668080",
+      "startMs": "664720",
+      "startTimeText": "11:04",
+      "text": "clear that obviously it's just purely"
+    },
+    {
+      "endMs": "670040",
+      "startMs": "666040",
+      "startTimeText": "11:06",
+      "text": "pixels and generated, but I think that"
+    },
+    {
+      "endMs": "671280",
+      "startMs": "668080",
+      "startTimeText": "11:08",
+      "text": "the the human psychology part, I don't"
+    },
+    {
+      "endMs": "673040",
+      "startMs": "670040",
+      "startTimeText": "11:10",
+      "text": "think that's going to matter."
+    },
+    {
+      "endMs": "674880",
+      "startMs": "671280",
+      "startTimeText": "11:11",
+      "text": "Right? But, on the on the B2B side, I"
+    },
+    {
+      "endMs": "676360",
+      "startMs": "673040",
+      "startTimeText": "11:13",
+      "text": "still think it will. And so, I use all"
+    },
+    {
+      "endMs": "678560",
+      "startMs": "674880",
+      "startTimeText": "11:14",
+      "text": "these examples to say and hopefully"
+    },
+    {
+      "endMs": "680880",
+      "startMs": "676360",
+      "startTimeText": "11:16",
+      "text": "drive point a drive home a single point,"
+    },
+    {
+      "endMs": "683280",
+      "startMs": "678560",
+      "startTimeText": "11:18",
+      "text": "which is that"
+    },
+    {
+      "endMs": "684960",
+      "startMs": "680880",
+      "startTimeText": "11:20",
+      "text": "the internet is here."
+    },
+    {
+      "endMs": "686680",
+      "startMs": "683280",
+      "startTimeText": "11:23",
+      "text": "It's just"
+    },
+    {
+      "endMs": "687839",
+      "startMs": "684960",
+      "startTimeText": "11:24",
+      "text": "you know, 25, 30 years later and it's"
+    },
+    {
+      "endMs": "688920",
+      "startMs": "686680",
+      "startTimeText": "11:26",
+      "text": "AI."
+    },
+    {
+      "endMs": "690680",
+      "startMs": "687839",
+      "startTimeText": "11:27",
+      "text": "And"
+    },
+    {
+      "endMs": "693440",
+      "startMs": "688920",
+      "startTimeText": "11:28",
+      "text": "your business doesn't have to become an"
+    },
+    {
+      "endMs": "694960",
+      "startMs": "690680",
+      "startTimeText": "11:30",
+      "text": "AI business, but you do need to use AI"
+    },
+    {
+      "endMs": "696560",
+      "startMs": "693440",
+      "startTimeText": "11:33",
+      "text": "in your business. You don't need to"
+    },
+    {
+      "endMs": "699200",
+      "startMs": "694960",
+      "startTimeText": "11:34",
+      "text": "advertise that you use AI, just like I"
+    },
+    {
+      "endMs": "703480",
+      "startMs": "696560",
+      "startTimeText": "11:36",
+      "text": "don't advertise that I use the internet."
+    },
+    {
+      "endMs": "705880",
+      "startMs": "699200",
+      "startTimeText": "11:39",
+      "text": "Right? I just use it. Just like you do."
+    },
+    {
+      "endMs": "707360",
+      "startMs": "703480",
+      "startTimeText": "11:43",
+      "text": "And so, we use the tools to get the"
+    },
+    {
+      "endMs": "709320",
+      "startMs": "705880",
+      "startTimeText": "11:45",
+      "text": "outcomes. We don't advertise the tools"
+    },
+    {
+      "endMs": "711080",
+      "startMs": "707360",
+      "startTimeText": "11:47",
+      "text": "we use. I don't talk about my CRM. I"
+    },
+    {
+      "endMs": "712800",
+      "startMs": "709320",
+      "startTimeText": "11:49",
+      "text": "don't talk about, you know, what call"
+    },
+    {
+      "endMs": "714000",
+      "startMs": "711080",
+      "startTimeText": "11:51",
+      "text": "service we have or or you know, what"
+    },
+    {
+      "endMs": "715800",
+      "startMs": "712800",
+      "startTimeText": "11:52",
+      "text": "specific training I'm doing for a"
+    },
+    {
+      "endMs": "717680",
+      "startMs": "714000",
+      "startTimeText": "11:54",
+      "text": "specific rep. Probably not. I don't talk"
+    },
+    {
+      "endMs": "719440",
+      "startMs": "715800",
+      "startTimeText": "11:55",
+      "text": "about that. Cuz no one cares. They just"
+    },
+    {
+      "endMs": "721400",
+      "startMs": "717680",
+      "startTimeText": "11:57",
+      "text": "care about the outcome. And whether I'm"
+    },
+    {
+      "endMs": "722839",
+      "startMs": "719440",
+      "startTimeText": "11:59",
+      "text": "good at it is whether they buy again."
+    },
+    {
+      "endMs": "724080",
+      "startMs": "721400",
+      "startTimeText": "12:01",
+      "text": "And that will come down to your skill."
+    },
+    {
+      "endMs": "725720",
+      "startMs": "722839",
+      "startTimeText": "12:02",
+      "text": "And so, my big encouragement is is that"
+    },
+    {
+      "endMs": "726720",
+      "startMs": "724080",
+      "startTimeText": "12:04",
+      "text": "you are not too busy to do this. You"
+    },
+    {
+      "endMs": "727760",
+      "startMs": "725720",
+      "startTimeText": "12:05",
+      "text": "have other things that are less"
+    },
+    {
+      "endMs": "731000",
+      "startMs": "726720",
+      "startTimeText": "12:06",
+      "text": "important, and you need to start"
+    },
+    {
+      "endMs": "734920",
+      "startMs": "727760",
+      "startTimeText": "12:07",
+      "text": "prioritizing this. So, the AI equivalent"
+    },
+    {
+      "endMs": "737960",
+      "startMs": "731000",
+      "startTimeText": "12:11",
+      "text": "of the webpage in the internet era is is"
+    },
+    {
+      "endMs": "740120",
+      "startMs": "734920",
+      "startTimeText": "12:14",
+      "text": "is a different type of response because"
+    },
+    {
+      "endMs": "741680",
+      "startMs": "737960",
+      "startTimeText": "12:17",
+      "text": "the internet was all about connection."
+    },
+    {
+      "endMs": "743320",
+      "startMs": "740120",
+      "startTimeText": "12:20",
+      "text": "And so, the website became a calling"
+    },
+    {
+      "endMs": "745600",
+      "startMs": "741680",
+      "startTimeText": "12:21",
+      "text": "card, right? It was a means for people"
+    },
+    {
+      "endMs": "748560",
+      "startMs": "743320",
+      "startTimeText": "12:23",
+      "text": "to contact. So, it was really it was it"
+    },
+    {
+      "endMs": "751440",
+      "startMs": "745600",
+      "startTimeText": "12:25",
+      "text": "was in some way single-faceted."
+    },
+    {
+      "endMs": "753600",
+      "startMs": "748560",
+      "startTimeText": "12:28",
+      "text": "From an AI perspective,"
+    },
+    {
+      "endMs": "755800",
+      "startMs": "751440",
+      "startTimeText": "12:31",
+      "text": "anything a human touches"
+    },
+    {
+      "endMs": "758600",
+      "startMs": "753600",
+      "startTimeText": "12:33",
+      "text": "an AI can can interact with at a basic"
+    },
+    {
+      "endMs": "760800",
+      "startMs": "755800",
+      "startTimeText": "12:35",
+      "text": "level. And so, if we think about the"
+    },
+    {
+      "endMs": "763040",
+      "startMs": "758600",
+      "startTimeText": "12:38",
+      "text": "departments, right? There's going to be"
+    },
+    {
+      "endMs": "764640",
+      "startMs": "760800",
+      "startTimeText": "12:40",
+      "text": "AI that's going to be involved in"
+    },
+    {
+      "endMs": "765920",
+      "startMs": "763040",
+      "startTimeText": "12:43",
+      "text": "marketing. But, let me give you some"
+    },
+    {
+      "endMs": "767400",
+      "startMs": "764640",
+      "startTimeText": "12:44",
+      "text": "examples of many different ones that"
+    },
+    {
+      "endMs": "770480",
+      "startMs": "765920",
+      "startTimeText": "12:45",
+      "text": "small businesses use."
+    },
+    {
+      "endMs": "772800",
+      "startMs": "767400",
+      "startTimeText": "12:47",
+      "text": "You can have an AI that helps you create"
+    },
+    {
+      "endMs": "774680",
+      "startMs": "770480",
+      "startTimeText": "12:50",
+      "text": "the ideas behind your marketing."
+    },
+    {
+      "endMs": "776360",
+      "startMs": "772800",
+      "startTimeText": "12:52",
+      "text": "You can have an AI that helps you script"
+    },
+    {
+      "endMs": "778400",
+      "startMs": "774680",
+      "startTimeText": "12:54",
+      "text": "and package the ideas, meaning the"
+    },
+    {
+      "endMs": "780000",
+      "startMs": "776360",
+      "startTimeText": "12:56",
+      "text": "headlines, the thumbnails, even the"
+    },
+    {
+      "endMs": "782320",
+      "startMs": "778400",
+      "startTimeText": "12:58",
+      "text": "topics themselves, right? It's a little"
+    },
+    {
+      "endMs": "784600",
+      "startMs": "780000",
+      "startTimeText": "13:00",
+      "text": "bit kind of like the ideas. Uh"
+    },
+    {
+      "endMs": "786960",
+      "startMs": "782320",
+      "startTimeText": "13:02",
+      "text": "you can have AI run the tests for"
+    },
+    {
+      "endMs": "789640",
+      "startMs": "784600",
+      "startTimeText": "13:04",
+      "text": "different thumbnails automatically that"
+    },
+    {
+      "endMs": "791240",
+      "startMs": "786960",
+      "startTimeText": "13:06",
+      "text": "it generates, and then creates a skill"
+    },
+    {
+      "endMs": "793520",
+      "startMs": "789640",
+      "startTimeText": "13:09",
+      "text": "based on what it sees over time of"
+    },
+    {
+      "endMs": "795240",
+      "startMs": "791240",
+      "startTimeText": "13:11",
+      "text": "what's winning. That's on the organic"
+    },
+    {
+      "endMs": "796480",
+      "startMs": "793520",
+      "startTimeText": "13:13",
+      "text": "side. Now, again, you can also include"
+    },
+    {
+      "endMs": "797960",
+      "startMs": "795240",
+      "startTimeText": "13:15",
+      "text": "trend research there. What are the"
+    },
+    {
+      "endMs": "799839",
+      "startMs": "796480",
+      "startTimeText": "13:16",
+      "text": "trending formats? What are the trending"
+    },
+    {
+      "endMs": "801920",
+      "startMs": "797960",
+      "startTimeText": "13:17",
+      "text": "hooks? What are the trending visual"
+    },
+    {
+      "endMs": "803800",
+      "startMs": "799839",
+      "startTimeText": "13:19",
+      "text": "hooks, not just verbal hooks? And then"
+    },
+    {
+      "endMs": "806440",
+      "startMs": "801920",
+      "startTimeText": "13:21",
+      "text": "take all of that information and then"
+    },
+    {
+      "endMs": "808560",
+      "startMs": "803800",
+      "startTimeText": "13:23",
+      "text": "cross-reference it with past content or"
+    },
+    {
+      "endMs": "810400",
+      "startMs": "806440",
+      "startTimeText": "13:26",
+      "text": "subject matter that you would show your"
+    },
+    {
+      "endMs": "812520",
+      "startMs": "808560",
+      "startTimeText": "13:28",
+      "text": "AI that you associate with, which means"
+    },
+    {
+      "endMs": "814000",
+      "startMs": "810400",
+      "startTimeText": "13:30",
+      "text": "AKA brand, right? And so, you say,"
+    },
+    {
+      "endMs": "817280",
+      "startMs": "812520",
+      "startTimeText": "13:32",
+      "text": "\"Okay, these are trending formats,"
+    },
+    {
+      "endMs": "819520",
+      "startMs": "814000",
+      "startTimeText": "13:34",
+      "text": "hooks, intros, visuals, and this is what"
+    },
+    {
+      "endMs": "821240",
+      "startMs": "817280",
+      "startTimeText": "13:37",
+      "text": "I do. Come up with the Venn diagram, the"
+    },
+    {
+      "endMs": "823080",
+      "startMs": "819520",
+      "startTimeText": "13:39",
+      "text": "cross-pollination of those things, and"
+    },
+    {
+      "endMs": "823800",
+      "startMs": "821240",
+      "startTimeText": "13:41",
+      "text": "give me 10 of those.\" And of those 10,"
+    },
+    {
+      "endMs": "825000",
+      "startMs": "823080",
+      "startTimeText": "13:43",
+      "text": "you'll pick the one you find"
+    },
+    {
+      "endMs": "826240",
+      "startMs": "823800",
+      "startTimeText": "13:43",
+      "text": "interesting. You click that button, and"
+    },
+    {
+      "endMs": "829240",
+      "startMs": "825000",
+      "startTimeText": "13:45",
+      "text": "now it starts generating the idea, the"
+    },
+    {
+      "endMs": "830640",
+      "startMs": "826240",
+      "startTimeText": "13:46",
+      "text": "headline, the scripts, whatever. That is"
+    },
+    {
+      "endMs": "832880",
+      "startMs": "829240",
+      "startTimeText": "13:49",
+      "text": "on the content side."
+    },
+    {
+      "endMs": "834200",
+      "startMs": "830640",
+      "startTimeText": "13:50",
+      "text": "On the ad side, this is where it gets"
+    },
+    {
+      "endMs": "837080",
+      "startMs": "832880",
+      "startTimeText": "13:52",
+      "text": "very interesting, too, is that you can"
+    },
+    {
+      "endMs": "839720",
+      "startMs": "834200",
+      "startTimeText": "13:54",
+      "text": "create self-looking ice cream cones. Um"
+    },
+    {
+      "endMs": "841520",
+      "startMs": "837080",
+      "startTimeText": "13:57",
+      "text": "which means that I can make content, and"
+    },
+    {
+      "endMs": "843240",
+      "startMs": "839720",
+      "startTimeText": "13:59",
+      "text": "I can have the content immediately get"
+    },
+    {
+      "endMs": "845960",
+      "startMs": "841520",
+      "startTimeText": "14:01",
+      "text": "overlaid with a CTA, which immediately"
+    },
+    {
+      "endMs": "847280",
+      "startMs": "843240",
+      "startTimeText": "14:03",
+      "text": "gets put uh directly into an ad campaign"
+    },
+    {
+      "endMs": "848880",
+      "startMs": "845960",
+      "startTimeText": "14:05",
+      "text": "that launches every single day with"
+    },
+    {
+      "endMs": "850600",
+      "startMs": "847280",
+      "startTimeText": "14:07",
+      "text": "yesterday's content. You can create"
+    },
+    {
+      "endMs": "851720",
+      "startMs": "848880",
+      "startTimeText": "14:08",
+      "text": "endless amount of statics, static"
+    },
+    {
+      "endMs": "854040",
+      "startMs": "850600",
+      "startTimeText": "14:10",
+      "text": "images,"
+    },
+    {
+      "endMs": "855160",
+      "startMs": "851720",
+      "startTimeText": "14:11",
+      "text": "off of different data sets. So, for"
+    },
+    {
+      "endMs": "857360",
+      "startMs": "854040",
+      "startTimeText": "14:14",
+      "text": "example, if you run a community on"
+    },
+    {
+      "endMs": "859079",
+      "startMs": "855160",
+      "startTimeText": "14:15",
+      "text": "school, you could have, \"Hey, I have one"
+    },
+    {
+      "endMs": "861280",
+      "startMs": "857360",
+      "startTimeText": "14:17",
+      "text": "tab where people list their wins.\""
+    },
+    {
+      "endMs": "863720",
+      "startMs": "859079",
+      "startTimeText": "14:19",
+      "text": "Great. Any new win that gets added to"
+    },
+    {
+      "endMs": "866160",
+      "startMs": "861280",
+      "startTimeText": "14:21",
+      "text": "that immediately gets transferred over."
+    },
+    {
+      "endMs": "867680",
+      "startMs": "863720",
+      "startTimeText": "14:23",
+      "text": "Um and then runs through six visual"
+    },
+    {
+      "endMs": "870120",
+      "startMs": "866160",
+      "startTimeText": "14:26",
+      "text": "templates that we know are high"
+    },
+    {
+      "endMs": "872040",
+      "startMs": "867680",
+      "startTimeText": "14:27",
+      "text": "converting. And then we will run those"
+    },
+    {
+      "endMs": "873000",
+      "startMs": "870120",
+      "startTimeText": "14:30",
+      "text": "as ads towards Vantage, which is our"
+    },
+    {
+      "endMs": "875280",
+      "startMs": "872040",
+      "startTimeText": "14:32",
+      "text": "million-dollar-plus community that we"
+    },
+    {
+      "endMs": "877040",
+      "startMs": "873000",
+      "startTimeText": "14:33",
+      "text": "have there, right? All of that"
+    },
+    {
+      "endMs": "880079",
+      "startMs": "875280",
+      "startTimeText": "14:35",
+      "text": "automated."
+    },
+    {
+      "endMs": "882000",
+      "startMs": "877040",
+      "startTimeText": "14:37",
+      "text": "Pretty slick, right? And so, all of"
+    },
+    {
+      "endMs": "883680",
+      "startMs": "880079",
+      "startTimeText": "14:40",
+      "text": "these things like And that's again, all"
+    },
+    {
+      "endMs": "885360",
+      "startMs": "882000",
+      "startTimeText": "14:42",
+      "text": "of those examples are just marketing,"
+    },
+    {
+      "endMs": "886560",
+      "startMs": "883680",
+      "startTimeText": "14:43",
+      "text": "right? Sales, you can apply all the way"
+    },
+    {
+      "endMs": "888000",
+      "startMs": "885360",
+      "startTimeText": "14:45",
+      "text": "across the bat, too, which is like, \"How"
+    },
+    {
+      "endMs": "889760",
+      "startMs": "886560",
+      "startTimeText": "14:46",
+      "text": "can I enrich the leads? How can I"
+    },
+    {
+      "endMs": "891480",
+      "startMs": "888000",
+      "startTimeText": "14:48",
+      "text": "respond to them quickly in terms of Can"
+    },
+    {
+      "endMs": "894160",
+      "startMs": "889760",
+      "startTimeText": "14:49",
+      "text": "I send an automated voice note? Can I"
+    },
+    {
+      "endMs": "895079",
+      "startMs": "891480",
+      "startTimeText": "14:51",
+      "text": "send um an image or text that's"
+    },
+    {
+      "endMs": "896200",
+      "startMs": "894160",
+      "startTimeText": "14:54",
+      "text": "obviously personalized to their"
+    },
+    {
+      "endMs": "897720",
+      "startMs": "895079",
+      "startTimeText": "14:55",
+      "text": "business, which we can dynamically"
+    },
+    {
+      "endMs": "899520",
+      "startMs": "896200",
+      "startTimeText": "14:56",
+      "text": "pull?\" Yes, of course you can. Can you"
+    },
+    {
+      "endMs": "901520",
+      "startMs": "897720",
+      "startTimeText": "14:57",
+      "text": "do that via DM on Instagram? Yes, you"
+    },
+    {
+      "endMs": "902839",
+      "startMs": "899520",
+      "startTimeText": "14:59",
+      "text": "can, right? All of That's That's just on"
+    },
+    {
+      "endMs": "904680",
+      "startMs": "901520",
+      "startTimeText": "15:01",
+      "text": "the nurture side, right? On the"
+    },
+    {
+      "endMs": "906040",
+      "startMs": "902839",
+      "startTimeText": "15:02",
+      "text": "scheduling, can we do more dynamic"
+    },
+    {
+      "endMs": "907640",
+      "startMs": "904680",
+      "startTimeText": "15:04",
+      "text": "scheduling because we have one AI who"
+    },
+    {
+      "endMs": "909320",
+      "startMs": "906040",
+      "startTimeText": "15:06",
+      "text": "hands off to another AI? Yeah, is"
+    },
+    {
+      "endMs": "910400",
+      "startMs": "907640",
+      "startTimeText": "15:07",
+      "text": "availability less of an issue? Sure."
+    },
+    {
+      "endMs": "912520",
+      "startMs": "909320",
+      "startTimeText": "15:09",
+      "text": "That means speed to contact goes through"
+    },
+    {
+      "endMs": "914560",
+      "startMs": "910400",
+      "startTimeText": "15:10",
+      "text": "the roof. Yes. Now, the thing is is that"
+    },
+    {
+      "endMs": "916000",
+      "startMs": "912520",
+      "startTimeText": "15:12",
+      "text": "we got 18 months. We have about 18"
+    },
+    {
+      "endMs": "917400",
+      "startMs": "914560",
+      "startTimeText": "15:14",
+      "text": "months where there's just a huge amount"
+    },
+    {
+      "endMs": "918760",
+      "startMs": "916000",
+      "startTimeText": "15:16",
+      "text": "of wealth that can be created by people"
+    },
+    {
+      "endMs": "920720",
+      "startMs": "917400",
+      "startTimeText": "15:17",
+      "text": "who have nothing."
+    },
+    {
+      "endMs": "922079",
+      "startMs": "918760",
+      "startTimeText": "15:18",
+      "text": "It's a very big opportunity."
+    },
+    {
+      "endMs": "925560",
+      "startMs": "920720",
+      "startTimeText": "15:20",
+      "text": "And so, no matter where you're at right"
+    },
+    {
+      "endMs": "929200",
+      "startMs": "922079",
+      "startTimeText": "15:22",
+      "text": "now, if you had an army of these agents"
+    },
+    {
+      "endMs": "930200",
+      "startMs": "925560",
+      "startTimeText": "15:25",
+      "text": "working on autonomous tasks for you,"
+    },
+    {
+      "endMs": "932160",
+      "startMs": "929200",
+      "startTimeText": "15:29",
+      "text": "you could get a lot more done than you"
+    },
+    {
+      "endMs": "934040",
+      "startMs": "930200",
+      "startTimeText": "15:30",
+      "text": "currently are."
+    },
+    {
+      "endMs": "934720",
+      "startMs": "932160",
+      "startTimeText": "15:32",
+      "text": "And I think you should do that."
+    },
+    {
+      "endMs": "936440",
+      "startMs": "934040",
+      "startTimeText": "15:34",
+      "text": ">> [gasps]"
+    },
+    {
+      "endMs": "937839",
+      "startMs": "934720",
+      "startTimeText": "15:34",
+      "text": ">> Um but I mean, it works across the"
+    },
+    {
+      "endMs": "939360",
+      "startMs": "936440",
+      "startTimeText": "15:36",
+      "text": "board. My legal team, you know, like I"
+    },
+    {
+      "endMs": "941200",
+      "startMs": "937839",
+      "startTimeText": "15:37",
+      "text": "can have one general counsel that"
+    },
+    {
+      "endMs": "942120",
+      "startMs": "939360",
+      "startTimeText": "15:39",
+      "text": "instead of having 100 paralegals run all"
+    },
+    {
+      "endMs": "944280",
+      "startMs": "941200",
+      "startTimeText": "15:41",
+      "text": "the different stuff that we have for"
+    },
+    {
+      "endMs": "946400",
+      "startMs": "942120",
+      "startTimeText": "15:42",
+      "text": "deals and lawsuits and whatever else"
+    },
+    {
+      "endMs": "947520",
+      "startMs": "944280",
+      "startTimeText": "15:44",
+      "text": "that we have going on,"
+    },
+    {
+      "endMs": "948400",
+      "startMs": "946400",
+      "startTimeText": "15:46",
+      "text": "she can just run it all through"
+    },
+    {
+      "endMs": "950680",
+      "startMs": "947520",
+      "startTimeText": "15:47",
+      "text": "different agents that have different"
+    },
+    {
+      "endMs": "952079",
+      "startMs": "948400",
+      "startTimeText": "15:48",
+      "text": "tasks, right? First response, second"
+    },
+    {
+      "endMs": "955079",
+      "startMs": "950680",
+      "startTimeText": "15:50",
+      "text": "response, cease and desist, all that"
+    },
+    {
+      "endMs": "955079",
+      "startMs": "952079",
+      "startTimeText": "15:52",
+      "text": "stuff that we have to do every day."
+    }
+  ],
+  "transcript_only_text": " Last  year  my  company's  did  over  $250,000 \n in  aggregate  revenue.  I've  been  in \n business  for  over  a  decade  and  a  half. \n Uh  in  this  video,  I'll  show  you  how  we \n use  AI  to  make  our  business  better, \n cheaper,  faster,  and  less  risky  for  our \n customers.  I'll  also  walk  you  through \n some  real  examples  of  every  department. \n Number  one,  how  do  we  actually  make  the \n business  better?  So,  if  we  think  about \n each  of  the  functions  of  the  business, \n you're  going  to  be  turning  raw  attention \n into  some  sort  of  profit.  Right?  Like  if \n we  look  at  businesses  that  are  to \n manufacturing  about.  And  the  first,  I \n think,  misconception  that  people  have \n around  implementing  AI  into  their \n business  is  they  think  they  must  become \n an  AI  business,  which  is  not  true  at \n all.  And  so,  the  easiest  analogy  I  can \n give  is  the  internet.  Right?  So,  almost \n every  business  is  on  the  internet.  You \n don't  have  to  be  an  internet  business, \n you  just  use  the  internet  as  one  of  the \n many  tools  that  you  use  to  deliver \n whatever  it  is  that  you  sell.  And  so,  I \n think  the  first  mistake  that  I'm  seeing \n businesses  make  is  assuming  that  either \n they  have  to  become  tech  companies.  Now, \n there's  a  component  of  being  tech \n forward,  uh  but  like  are  you  tech \n forward  for  having  web  page?  Not \n anymore,  but  you  used  to  be.  And  the \n people  who  got  there  first  got \n disproportionate  returns.  The  second \n kind  of  big  thing  that  is  being  a \n mistake  is  assuming  that  like  one  of  the \n tech  nerds  is  going  to  do  it  for  you. \n Now,  one  of  the  the  big  advantages  of \n the  thing  that  I've  had  that's  that's \n led  to  some  disproportionate  outcomes \n for  me  has  been  what  I'll  consider  cloud \n to  dirt  knowledge.  So,  like  vertical \n integration  of  knowledge.  So,  being  able \n to  do  the  high-level  strategy,  being \n able  to  handle  the  people  stuff, \n communication,  marketing,  all  the  way \n down  to  the  granularity  of  like  how  do \n we  connect  this  API  to  this  other  API. \n And  the  reason  I  think  that  cloud  to \n dirt  understanding  of  all  systems  within \n the  business  is  valuable  is  because \n you're  the  only  one  who's  going  to \n understand  what  is  possible.  So,  even  if \n you  have  some  tech  nerd,  right,  who's \n next  to  you,  you  would  then  ask  them, \n \"Well,  what  is  possible?\"  And  they're \n going  to  answer  within  their  limited \n context  of  business.  And  so,  if  you  know \n your  business  better  than  them,  which \n you  should  if  you're  the  owner,  then  you \n can  see  how  different  pieces,  if  applied \n together,  would  be  really  valuable.  They \n won't  see  that  inherent  value,  and  so \n they're  going  to  default  to  things  that \n they've  seen  before  um  that  people  have \n done,  which  largely  will  be  what  I  would \n consider  commoditized  automations, \n right?  And  so,  where  you  get  the  true \n alpha  or  the  true  kind  of  big \n improvements  in  the  business  are  going \n to  become  come  from  your  business  acumen \n getting  overlaid  on  top  of  technical \n acumen.  Now,  you  probably  don't  consider \n yourself  to  be  a  tech  person.  I \n certainly  don't.  In  fact,  I  would  say \n that  I  I  don't  even  like  saying  it,  but \n I  largely  dislike  technology.  Um  but  I \n see  it  as  a  necessary  evil,  being,  you \n know,  emphasis  on  the  necessary  part, \n which  is  that  you've  got  to  get  good  at \n this  So,  I'm  going  to  give  you  a \n couple  of  things  that  you  can  do,  and \n then  I'll  give  you  some  examples  of  the \n stuff  we've  done.  But,  things  that  you \n can  do  today  right  now  is  there's  a \n zillion  videos  on  YouTube  on  how  to \n automate  a  specific  thing  or  task  within \n a  business.  They  exist,  you  can  find \n them  on  your  own  time. \n What  I  would  encourage  you  to  do  is  take \n the  link,  take  the  transcript,  and  then \n say,  \"Hey,  I  want  help  building  this \n thing.\"  And  then  plug  that  into  whatever \n AI  you  want, \n and  then  follow  the  directions.  And  when \n you  get  stuck,  take  a  screenshot  of  the \n page  and  say,  \"What  do  I  do  now?\"  and \n put  it  in  the  chat.  And  do  that  over  and \n over  and  over  again.  So,  from  marketing \n perspective,  um  we  have  an  AI  SDR  right \n now  who's  who's  matching  our  our  human \n team.  Okay.  Now,  one  of  the  big  mess-ups \n though  is  that  people  will  install \n business  owners  will  install  a \n half-built  function  of  AI  into  their \n business,  compare  it  to  something  that's \n been  optimized  over  the  last  6  years  or \n 10  years  or  20  years,  and  say,  \"See,  it \n doesn't  work  as  well.  John  Henry  wins \n again.\"  Right?  For  those  of  you  don't \n know  that,  well,  you  know,  you  were  born \n probably  after  2000.  Anyways.  So,  so  the \n the  idea  here  is  you  have  to  do  an \n apples-to-apples  comparison,  which  is \n how  long  did  you  work  on  training  and \n putting  all  the  SOPs  together?  Okay, \n great.  Well,  then  you  have  to  apply  that \n same  methodology  to  the  AI.  So,  let  me \n give  you  a  different  example  of  this. \n So,  the  reason  that  I  think  that  like \n people  who  have  like  sales  called  sales \n AI  agencies \n um  will  struggle  is  that  you  have  to \n know  more  than  just  tech  and  just  how  to \n sell  in  order  to  implement  sales  into \n different  businesses.  And  as  somebody \n who's  been  very  good  at  acquiring \n customers  via  checkout  page,  via \n webinar,  via  in-person  sales,  via  phone \n sales, \n most  of  the  ways  that  you  know  how  to \n acquire  customers,  we've  gotten  pretty \n good  at  over  the  years,  and  it's  just \n probably  been  an  obsession  of  mine.  But, \n the  thing  is  is  that  if  I  were  to  go \n into  a  company  and  they  say,  \"Hey,  Alex, \n can  we  use  your  AI  setter  to  apply  to  my \n whatever  XYZ  business?\"  I  would  say, \n \"Well,  it's  going  to  it's  not  going  to \n be  like  a  simple  drag  and  drop.  It  would \n be  like  saying,  'Hey,  can  I  take  one  of \n your  sales  guys  and  put  them  in  my \n business?'\"  The  first  shot,  you  think \n they're  going  to  be  good?  Of  course  not. \n They're  going  to  suck.  They're  going  to \n be  terrible,  and  you're  going  to  be \n like,  \"How  is  How  is  that  good?\"  Now, \n it's  even  worse  if  you  don't  even  have  a \n very  good  sales  process  as  is,  and  then \n saying,  \"Oh,  well,  now  that  I  have  an  AI \n sales  person  or  AI  setter,  I'm  going  to \n run  an  ad  and  then  have  the  AI  setter, \n you  know,  call  every  single  person  who \n opts  in.\"  Well,  would  you  have  a  human \n call  every  single  person  that  opts  in? \n You  can  then  make  the  argument,  \"Well, \n it'd  be  cheaper.\"  It's  like,  \"Yeah,  but \n would  it  be  effective?\"  Most  times \n there's  a  certain  amount  There's  a  sales \n motion.  There's  a  sales  process.  Like  AI \n will  make  the  things  that  you're  doing \n right  now  easier  and  faster.  It  doesn't \n mean  that  you  still  don't  have  to  do \n them.  Real  quick,  I'm  going  to  show  you \n the  exact  10-stage  roadmap  from  zero  to \n 100  million  plus  that  less  than  1%  of \n companies  finish.  I've  now  done  multiple \n times,  and  so  I  can  say  with  a  lot  of \n confidence  that  these  are  the  stages,  as \n head  count  increases,  that  you  need  to \n get  through.  And  I  broke  each  of  these \n down  by  eight  different  functions  of  the \n business,  what  the  constraint  feels \n like,  like  what  are  the  symptoms  of  it \n when  you're  going  through  it,  and  then \n what  steps  we  actually  took  to  graduate. \n And  we've  done  this  across  software, \n physical  products,  uh  service \n businesses,  brick  and  mortar,  all  of \n this,  and  it  works.  And  it's  my  gift  to \n you.  It's  absolutely  free.  And  so,  the \n link's  in  the  description,  but  you  just \n go  acquisition.com/roadmap, \n just  enter  your  info,  and  it'll  spit  it \n right  back  to  you,  all  free.  So,  humans \n aren't  going  to  change.  Our  ability  to \n be  persuaded,  the  things  that  we  find \n interesting  and  important,  those  aren't \n going  to  change.  The  psychology  of \n humans  is  is  largely  going  to  remain \n unchanged.  And  so,  whatever  you  do  in \n order  to  persuade  people  will  still  have \n to  happen.  It's  not  that  all  of  a  sudden \n all  the  rules  of  persuasion  are  broken. \n And  to  the  same  degree,  if  your  business \n now  starts  using  AI,  I  wouldn't \n advertise  that  you're  using  AI.  No  one \n cares.  They  just  care  that  they  get \n their  stuff  faster,  that  they  get  it \n cheaper,  that  they  make  it  better,  and \n that  it's  risk-free.  And  so,  let's  just \n hit  those  ones  really  quickly. \n So,  from  a  risk-free  perspective,  how \n can  AI  reduce  the  risk  in  a  business? \n So,  on  a  global  level,  right?  Um  I  think \n PayPal  reduced  its  fraud  uh  team  by  a \n gigantic  amount,  and  more  importantly, \n they've  reduced  their  fraud  losses  by \n $700  million  in  a  single  year  just  by \n having  AI  start  recognizing  patterns  uh \n uh  faster.  Now,  to  the  same  degree,  on  a \n human  savings  level,  uh  JP  Morgan  had \n Coin,  which  was  their  kind  of  like  their \n AI  engine  for,  I  think,  like  credit \n agreements  or  something  like  that.  But, \n it  basically  saved  like  350,000  lawyer \n hours,  right,  which  they  were  able  to \n just  basically  do  12,000  credit \n agreements  in  seconds  rather  than  having \n these  lawyers  review  them  over  and  over \n again.  That  is  another  use  case.  Now, \n some  of  these  seem  like  these  big  global \n companies,  but  you're  like,  \"How  the \n hell  am  I  going  to  do  this  uh  in  my  in \n my  in  my  small  business?\"  Well,  Clara \n replaced  700  customer  service  agents \n with  AI  and  saved  40  million  bucks  in  a \n year.  For  us,  when  we  did  our  book \n launch,  this  is  before  people  were \n talking  about  agencies  as  much, \n we  spun  up  five  agents  that  handled  I \n think  it  was  like \n somewhere  in  the  neighborhood  of  like \n 120,000  support  tickets.  And  it  was \n mostly  just  like,  \"Hey,  can  you  tell  me \n where  I  get  the  free  stuff?\"  Right?  But, \n we  were  able  to  resolve  90%  of  all \n tickets  without  any  human  intervention. \n You  have  to  find  a  time,  and  maybe \n that's  weekends,  maybe  that's  evenings, \n maybe  that's  early  mornings,  maybe \n that's  middle  of  the  day,  whatever  that \n thing  is  for  you  or  that  time  period  is \n for  you,  where  you  have  to  fully \n dedicate  yourself  and  actually  go  soup \n to  nuts,  click  to  close,  beginning  to \n end,  on  just  automating  one  portion  of \n your  day.  That  is  my  only  ask.  Now, \n people  have  an  incredibly  hard  time  um \n with  this  for  two  reasons.  One,  because \n everyone's  afraid  of  AI,  which  by  the \n way,  if  you're  watching  this  and  you \n have  workflows, \n who  do  you  think  would  be  best  served  to \n automate  the  workflow?  Someone  else  or \n you? \n You  should  automate  your  workflow, \n because  then  that  will  give  you  time  to \n figure  out  what  else  you  can  do  that's \n more  valuable.  Now, \n every  single  time  you  think  about  your \n workflow,  whenever  you  want  to  put  what \n I'll  just  call  magic  or  mysticism  in  in, \n it's  where  you  say, \n \"Well,  I  just  I  just  kind  of  know  or  I \n have  a  gut  feeling  or  I  have  intuition \n or  instinct\"  or  whatever  you  want  to \n call  it,  I  just  you  to  think  pattern \n recognition. \n Because  that  takes  all  of  this  magic \n away  from  it.  Because  you  are  an \n organism  that  has  been  exposed  to \n different  stimuli,  and  then  you  had \n reinforcement  cycles  that  occurred  where \n you  realized  that  this,  like  when  we \n say,  \"Oh,  I  think  that  looks  cool,\"  it's \n because  we've  seen  things  that  look \n similar  to  that.  We  generalize  this  All \n right?  That's  how  it  works.  And  so,  if \n you  can  just  erase  your  romanticism \n around  whatever  niche  specialized \n knowledge  you  believe  to  have,  and \n believe  me,  I'm  somebody  who  who  who \n thinks  for  a  living.  I  would  be  the  most \n threatened  by  AI,  right?  You  still  have \n to  approach  it  with  an  observable  lens, \n which  is  what  are  the  actual  behaviors \n that  I  do  in  order  to  get  this  outcome. \n And  so,  even  something  as  simple  as \n like,  \"Okay,  I  have  to  think  of  a  cool \n idea  for  this  YouTube  video,\"  right? \n We  have  different  ways.  I'm  sure  you \n have  some  ways  where  you're  like,  \"Okay, \n well,  I  think  about  what  I  did  that \n week.\"  Okay.  So,  could  a  could  a  bot \n look  at  your  calendar? \n Okay,  step  one.  Step  two,  can  you  record \n all  of  the  calls  that  you  take  and  have \n those  transcribed?  Okay,  that's  now  more \n interesting,  cuz  now  I  have  a  bot  that \n not  only  sees  the  calendar,  it  can  also \n know  what  all  the  conversations  were. \n Okay,  can  I  then  ask  that  bot  to  say, \n \"Hey, \n any  interesting  situation  or  decision \n that  came  up  over  the  last  week,  I  want \n you  to  put  the  top  five  most  interesting \n ones  into  a  document  for  me.\"  And  then \n run  it.  And  then  great,  now  you've  got \n the  five  most  interesting  moments.  What \n does  it  also  create?  True  stories  and \n narratives,  which  is  do  epic  talk \n about  the  epic  you  did.  Right?  So, \n you  don't  have  to  make  stuff  up.  The  the \n big  the  big  difficulty  that  people  will \n have  in  the  in  the  world  of  AI  content \n creation  is  proof.  That's  the  issue. \n That's  the  problem.  And  so,  like  there \n will  be  amount  Now,  on  the  on  the  on  the \n consumer  side, \n they  won't  be  as  sensitive.  On  the  B2B \n side,  abs-  it  still  matters.  Like, \n imagine  tomorrow \n there's  a  B2B  AI  avatar,  right?  For \n sure.  Why  do  I  think  that  that  won't \n work  that  well? \n Because  the  same  reason  it  doesn't  work \n for  other  people \n who  don't  have  any  proof.  The  first \n thing  that's  Like,  again,  human \n psychology  is  not  going  to  change. \n People  are  still  going  to  wonder,  \"Why \n should  I  listen  to  you? \n Why  should  I  listen  to  this  AI  bot?\" \n Well,  if  that  AI  bot  has  no  proof  about \n why  it  is  good  or  what  it's  achieved  or \n what  or  what  what  real-world  outcome \n it's  had,  it's  just  it's  just  words. \n It's  just  GPT  words,  right? \n And  so,  what  what  then  happens  is  like \n it  has  to  be  backed  by  somebody  who  has \n done  some  extraordinary  thing.  Maybe  you \n sold  an  e-commerce  store.  Maybe  you  did \n uh  maybe  you're  an  amazing  trader.  Maybe \n you're  really  good  at  real  estate \n investing.  Maybe  whatever  your  thing  is, \n right?  You  have  to  have  the  proof. \n And  so, \n in  a  consumer  world,  it  is  easier \n because  and  this  is  I  mean  again, \n psychology  doesn't  change.  If  you  have  a \n beautiful  AI  avatar  talking  about  skin \n care,  people  are  going  to  see  the \n beautiful  AI  avatar,  and  then  the  way \n the  avatar  looks \n gives  proof  to  the  thing.  Now,  we  can  be \n clear  that  obviously  it's  just  purely \n pixels  and  generated,  but  I  think  that \n the  the  human  psychology  part,  I  don't \n think  that's  going  to  matter. \n Right?  But,  on  the  on  the  B2B  side,  I \n still  think  it  will.  And  so,  I  use  all \n these  examples  to  say  and  hopefully \n drive  point  a  drive  home  a  single  point, \n which  is  that \n the  internet  is  here. \n It's  just \n you  know,  25,  30  years  later  and  it's \n AI. \n And \n your  business  doesn't  have  to  become  an \n AI  business,  but  you  do  need  to  use  AI \n in  your  business.  You  don't  need  to \n advertise  that  you  use  AI,  just  like  I \n don't  advertise  that  I  use  the  internet. \n Right?  I  just  use  it.  Just  like  you  do. \n And  so,  we  use  the  tools  to  get  the \n outcomes.  We  don't  advertise  the  tools \n we  use.  I  don't  talk  about  my  CRM.  I \n don't  talk  about,  you  know,  what  call \n service  we  have  or  or  you  know,  what \n specific  training  I'm  doing  for  a \n specific  rep.  Probably  not.  I  don't  talk \n about  that.  Cuz  no  one  cares.  They  just \n care  about  the  outcome.  And  whether  I'm \n good  at  it  is  whether  they  buy  again. \n And  that  will  come  down  to  your  skill. \n And  so,  my  big  encouragement  is  is  that \n you  are  not  too  busy  to  do  this.  You \n have  other  things  that  are  less \n important,  and  you  need  to  start \n prioritizing  this.  So,  the  AI  equivalent \n of  the  webpage  in  the  internet  era  is  is \n is  a  different  type  of  response  because \n the  internet  was  all  about  connection. \n And  so,  the  website  became  a  calling \n card,  right?  It  was  a  means  for  people \n to  contact.  So,  it  was  really  it  was  it \n was  in  some  way  single-faceted. \n From  an  AI  perspective, \n anything  a  human  touches \n an  AI  can  can  interact  with  at  a  basic \n level.  And  so,  if  we  think  about  the \n departments,  right?  There's  going  to  be \n AI  that's  going  to  be  involved  in \n marketing.  But,  let  me  give  you  some \n examples  of  many  different  ones  that \n small  businesses  use. \n You  can  have  an  AI  that  helps  you  create \n the  ideas  behind  your  marketing. \n You  can  have  an  AI  that  helps  you  script \n and  package  the  ideas,  meaning  the \n headlines,  the  thumbnails,  even  the \n topics  themselves,  right?  It's  a  little \n bit  kind  of  like  the  ideas.  Uh \n you  can  have  AI  run  the  tests  for \n different  thumbnails  automatically  that \n it  generates,  and  then  creates  a  skill \n based  on  what  it  sees  over  time  of \n what's  winning.  That's  on  the  organic \n side.  Now,  again,  you  can  also  include \n trend  research  there.  What  are  the \n trending  formats?  What  are  the  trending \n hooks?  What  are  the  trending  visual \n hooks,  not  just  verbal  hooks?  And  then \n take  all  of  that  information  and  then \n cross-reference  it  with  past  content  or \n subject  matter  that  you  would  show  your \n AI  that  you  associate  with,  which  means \n AKA  brand,  right?  And  so,  you  say, \n \"Okay,  these  are  trending  formats, \n hooks,  intros,  visuals,  and  this  is  what \n I  do.  Come  up  with  the  Venn  diagram,  the \n cross-pollination  of  those  things,  and \n give  me  10  of  those.\"  And  of  those  10, \n you'll  pick  the  one  you  find \n interesting.  You  click  that  button,  and \n now  it  starts  generating  the  idea,  the \n headline,  the  scripts,  whatever.  That  is \n on  the  content  side. \n On  the  ad  side,  this  is  where  it  gets \n very  interesting,  too,  is  that  you  can \n create  self-looking  ice  cream  cones.  Um \n which  means  that  I  can  make  content,  and \n I  can  have  the  content  immediately  get \n overlaid  with  a  CTA,  which  immediately \n gets  put  uh  directly  into  an  ad  campaign \n that  launches  every  single  day  with \n yesterday's  content.  You  can  create \n endless  amount  of  statics,  static \n images, \n off  of  different  data  sets.  So,  for \n example,  if  you  run  a  community  on \n school,  you  could  have,  \"Hey,  I  have  one \n tab  where  people  list  their  wins.\" \n Great.  Any  new  win  that  gets  added  to \n that  immediately  gets  transferred  over. \n Um  and  then  runs  through  six  visual \n templates  that  we  know  are  high \n converting.  And  then  we  will  run  those \n as  ads  towards  Vantage,  which  is  our \n million-dollar-plus  community  that  we \n have  there,  right?  All  of  that \n automated. \n Pretty  slick,  right?  And  so,  all  of \n these  things  like  And  that's  again,  all \n of  those  examples  are  just  marketing, \n right?  Sales,  you  can  apply  all  the  way \n across  the  bat,  too,  which  is  like,  \"How \n can  I  enrich  the  leads?  How  can  I \n respond  to  them  quickly  in  terms  of  Can \n I  send  an  automated  voice  note?  Can  I \n send  um  an  image  or  text  that's \n obviously  personalized  to  their \n business,  which  we  can  dynamically \n pull?\"  Yes,  of  course  you  can.  Can  you \n do  that  via  DM  on  Instagram?  Yes,  you \n can,  right?  All  of  That's  That's  just  on \n the  nurture  side,  right?  On  the \n scheduling,  can  we  do  more  dynamic \n scheduling  because  we  have  one  AI  who \n hands  off  to  another  AI?  Yeah,  is \n availability  less  of  an  issue?  Sure. \n That  means  speed  to  contact  goes  through \n the  roof.  Yes.  Now,  the  thing  is  is  that \n we  got  18  months.  We  have  about  18 \n months  where  there's  just  a  huge  amount \n of  wealth  that  can  be  created  by  people \n who  have  nothing. \n It's  a  very  big  opportunity. \n And  so,  no  matter  where  you're  at  right \n now,  if  you  had  an  army  of  these  agents \n working  on  autonomous  tasks  for  you, \n you  could  get  a  lot  more  done  than  you \n currently  are. \n And  I  think  you  should  do  that. \n >> [gasps] \n >> Um  but  I  mean,  it  works  across  the \n board.  My  legal  team,  you  know,  like  I \n can  have  one  general  counsel  that \n instead  of  having  100  paralegals  run  all \n the  different  stuff  that  we  have  for \n deals  and  lawsuits  and  whatever  else \n that  we  have  going  on, \n she  can  just  run  it  all  through \n different  agents  that  have  different \n tasks,  right?  First  response,  second \n response,  cease  and  desist,  all  that \n stuff  that  we  have  to  do  every  day.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+  "videoId": "fr78adfAnuA"
+}

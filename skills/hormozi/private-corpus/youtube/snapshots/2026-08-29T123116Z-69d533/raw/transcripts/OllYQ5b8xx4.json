@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The first thing you have to do is"
+    },
+    {
+      "endMs": "5320",
+      "startMs": "1309",
+      "startTimeText": "0:01",
+      "text": "[music] say, \"It's my fault.\""
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "Everything that I have in my life is my"
+    },
+    {
+      "endMs": "7920",
+      "startMs": "5320",
+      "startTimeText": "0:05",
+      "text": "fault. But, if it's your fault, it's"
+    },
+    {
+      "endMs": "9880",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "also under [music] your control to"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "7920",
+      "startTimeText": "0:07",
+      "text": "change. You cannot change what you do"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9880",
+      "startTimeText": "0:09",
+      "text": "not control."
+    }
+  ],
+  "transcript_only_text": " The  first  thing  you  have  to  do  is \n [music]  say,  \"It's  my  fault.\" \n Everything  that  I  have  in  my  life  is  my \n fault.  But,  if  it's  your  fault,  it's \n also  under  [music]  your  control  to \n change.  You  cannot  change  what  you  do \n not  control.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=OllYQ5b8xx4",
+  "videoId": "OllYQ5b8xx4"
+}

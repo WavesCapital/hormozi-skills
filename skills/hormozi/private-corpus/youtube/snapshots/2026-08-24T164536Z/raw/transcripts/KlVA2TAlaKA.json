@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You have to incur risk, period. You will"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "2680",
+      "startTimeText": "0:02",
+      "text": "fail,"
+    },
+    {
+      "endMs": "6840",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "period. The only thing that people"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "remember over the long term is whether"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "6840",
+      "startTimeText": "0:06",
+      "text": "you won or not. Do whatever it takes to"
+    },
+    {
+      "endMs": "13000",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "win because you're probably only going"
+    },
+    {
+      "endMs": "14240",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "to remember snippets of it, and everyone"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13000",
+      "startTimeText": "0:13",
+      "text": "else isn't even thinking about it to"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "14240",
+      "startTimeText": "0:14",
+      "text": "begin with."
+    }
+  ],
+  "transcript_only_text": " You  have  to  incur  risk,  period.  You  will \n fail, \n period.  The  only  thing  that  people \n remember  over  the  long  term  is  whether \n you  won  or  not.  Do  whatever  it  takes  to \n win  because  you're  probably  only  going \n to  remember  snippets  of  it,  and  everyone \n else  isn't  even  thinking  about  it  to \n begin  with.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KlVA2TAlaKA",
+  "videoId": "KlVA2TAlaKA"
+}

@@ -1,0 +1,24 @@
+{
+  "classification_counts": {
+    "context_only_low_content": 1,
+    "context_only_promotional": 2,
+    "context_only_speaker_ambiguous": 21,
+    "eligible_with_medium_attribution": 1652,
+    "novelty:apparently_primary_upload": 1572,
+    "novelty:context_only": 24,
+    "novelty:exact_duplicate": 73,
+    "novelty:probable_derived_clip": 14,
+    "unavailable_without_transcript": 7,
+    "visual:not_detected_by_transcript_heuristic": 42,
+    "visual:review_required": 1641
+  },
+  "doctrine_rule_gate": "A material rule requires manual timestamp and speaker review even when eligibility is eligible_with_medium_attribution.",
+  "exact_duplicate_groups": 61,
+  "exact_duplicate_items": 73,
+  "in_scope_count": 1683,
+  "manifest_sha256": "4525b2d8335e8a5d68f1539fc2b476654b90e4a7015f14dbc49c61d63eff3191",
+  "privacy": "No transcript text is copied to the report manifest.",
+  "probable_clip_items": 14,
+  "schema_version": "1.1.0",
+  "snapshot_id": "2026-08-29T123116Z-69d533"
+}

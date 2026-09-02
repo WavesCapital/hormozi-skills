@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5040",
+      "startMs": "320",
+      "startTimeText": "0:00",
+      "text": "I didn't start having compounding growth"
+    },
+    {
+      "endMs": "7839",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "in my wealth until after I started"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "documenting my mistakes. 90 days after I"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "7839",
+      "startTimeText": "0:07",
+      "text": "lost everything is when I made my first"
+    },
+    {
+      "endMs": "14240",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "podcast. From that point going forward,"
+    },
+    {
+      "endMs": "17199",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "I've spent more time thinking about why"
+    },
+    {
+      "endMs": "19119",
+      "startMs": "14240",
+      "startTimeText": "0:14",
+      "text": "did this work rather than really"
+    },
+    {
+      "endMs": "22320",
+      "startMs": "17199",
+      "startTimeText": "0:17",
+      "text": "anything else. Because if I know why it"
+    },
+    {
+      "endMs": "22320",
+      "startMs": "19119",
+      "startTimeText": "0:19",
+      "text": "worked, then I can do it again."
+    }
+  ],
+  "transcript_only_text": " I  didn't  start  having  compounding  growth \n in  my  wealth  until  after  I  started \n documenting  my  mistakes.  90  days  after  I \n lost  everything  is  when  I  made  my  first \n podcast.  From  that  point  going  forward, \n I've  spent  more  time  thinking  about  why \n did  this  work  rather  than  really \n anything  else.  Because  if  I  know  why  it \n worked,  then  I  can  do  it  again.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=eBWdYeOHKxQ",
+  "videoId": "eBWdYeOHKxQ"
+}

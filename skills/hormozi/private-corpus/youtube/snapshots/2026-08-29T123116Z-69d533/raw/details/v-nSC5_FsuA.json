@@ -1,0 +1,302 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=v-nSC5_FsuA&ei=mNGSauvNGvaYsfIPurDC-Qw&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788032008&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=EBC649C3A394B5BB310D6E44F80559B442663396.13383FFD7470AA608BA85A1720572EE63913D42E&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 8,
+  "commentCountText": "8",
+  "credits_charged": 1,
+  "credits_remaining": 18116,
+  "description": "We stay poor until we’ve learned all the lessons poverty has to teach.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:32",
+  "durationMs": 32000,
+  "genre": "Education",
+  "id": "v-nSC5_FsuA",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1515,
+  "likeCountText": "1515",
+  "most_replayed": null,
+  "publishDate": "2026-08-28T12:11:50-07:00",
+  "publishDateText": "Aug 28, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/v-nSC5_FsuA/maxresdefault.jpg",
+  "title": "How To Stay Poor",
+  "type": "video",
+  "viewCountInt": 31273,
+  "viewCountText": "31,273",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "mHER6vAr1bg",
+      "lengthInSeconds": 1150,
+      "lengthText": "19:10",
+      "publishDate": "2026-04-29T12:33:29.319Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-29T12:33:29.319Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/mHER6vAr1bg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt0g087QX2AClvjc56gKza19WCxg",
+      "title": "THIS Is #1 FASTEST Way To BURN Fat Around Your Organs",
+      "videoUrl": "https://www.youtube.com/watch?v=mHER6vAr1bg",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "SonyPicturesEntertainmentIndia",
+        "id": "UCDtX2nB4LzwaPQGXCL-DZsg",
+        "title": "Sony Pictures Entertainment India",
+        "url": "https://www.youtube.com/@SonyPicturesEntertainmentIndia"
+      },
+      "id": "5acBqrPJBeA",
+      "lengthInSeconds": 302,
+      "lengthText": "5:02",
+      "publishDate": "2025-08-29T12:33:29.319Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-29T12:33:29.319Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/5acBqrPJBeA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAwedCj616TPhmdB2pbQoBwRe7_fA",
+      "title": "Jerry Wonders If His Girlfriend Is a Loser | Seinfeld",
+      "videoUrl": "https://www.youtube.com/watch?v=5acBqrPJBeA",
+      "viewCountInt": 564000,
+      "viewCountText": "564K views"
+    },
+    {
+      "channel": {
+        "handle": "WorldBuild668",
+        "id": "UCQYetX_9k4Sl-r-HOLVvKnA",
+        "title": "World Build",
+        "url": "https://www.youtube.com/@WorldBuild668"
+      },
+      "id": "7-NCOGnZjKE",
+      "lengthInSeconds": 2617,
+      "lengthText": "43:37",
+      "publishDate": "2026-06-29T12:33:29.319Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-29T12:33:29.319Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/7-NCOGnZjKE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAFytbRNWGJFtjqj28ubtMFWM3jnw",
+      "title": "Man Spent Two Years Building HUGE Wooden House for his Family | Start to Finish by @bjornbrenton",
+      "videoUrl": "https://www.youtube.com/watch?v=7-NCOGnZjKE",
+      "viewCountInt": 4900000,
+      "viewCountText": "4.9M views"
+    },
+    {
+      "channel": {
+        "handle": "MovieGasm",
+        "id": "UCwBV-eg1dAkzrdjqJfyEj0w",
+        "title": "MovieGasm‍․com",
+        "url": "https://www.youtube.com/@MovieGasm"
+      },
+      "id": "80bkVen5CJI",
+      "lengthInSeconds": 238,
+      "lengthText": "3:58",
+      "publishDate": "2026-08-17T12:33:29.319Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-17T12:33:29.319Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/80bkVen5CJI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDezx8-IqD2lnx3vJYzlYotKyxhDQ",
+      "title": "AVENGERS: DOOMSDAY Trailer (2024) Extended | 4K UHD",
+      "videoUrl": "https://www.youtube.com/watch?v=80bkVen5CJI",
+      "viewCountInt": 979000,
+      "viewCountText": "979K views"
+    },
+    {
+      "channel": {
+        "handle": "WatchMojo",
+        "id": "UCaWd5_7JhbQBe4dknZhsHJg",
+        "title": "WatchMojo.com",
+        "url": "https://www.youtube.com/@WatchMojo"
+      },
+      "id": "XAioyb8PQ34",
+      "lengthInSeconds": 1106,
+      "lengthText": "18:26",
+      "publishDate": "2025-08-29T12:33:29.319Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-29T12:33:29.319Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/XAioyb8PQ34/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCwZcVz6FNn8nft-ilkqdIV8sYMyQ",
+      "title": "Top 20 Most Disturbing Movies Because of What We Know Now",
+      "videoUrl": "https://www.youtube.com/watch?v=XAioyb8PQ34",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "GeographyByGeoff",
+        "id": "UC7-Z34pbJ0ZAOJRmUCEz0Cg",
+        "title": "Geography By Geoff",
+        "url": "https://www.youtube.com/@GeographyByGeoff"
+      },
+      "id": "0opxCXlJgvw",
+      "lengthInSeconds": 1147,
+      "lengthText": "19:07",
+      "publishDate": "2026-08-08T12:33:29.319Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-08T12:33:29.319Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/0opxCXlJgvw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCPqm2pHuqgibejKlTUcTIgdqyaDg",
+      "title": "Why Nobody Lives On This HUGE Stretch Of Africa's Coast",
+      "videoUrl": "https://www.youtube.com/watch?v=0opxCXlJgvw",
+      "viewCountInt": 2500000,
+      "viewCountText": "2.5M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T07:33:29.319Z",
+      "publishDateText": "5 hours ago",
+      "publishedTime": "2026-08-29T07:33:29.319Z",
+      "publishedTimeText": "5 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 24000,
+      "viewCountText": "24K views"
+    },
+    {
+      "channel": {
+        "handle": "TopTalentTV",
+        "id": "UCD2GdZBCsUa0TIssLai6Skw",
+        "title": "Top Talent",
+        "url": "https://www.youtube.com/@TopTalentTV"
+      },
+      "id": "PMPyfKrbsW8",
+      "lengthInSeconds": 316,
+      "lengthText": "5:16",
+      "publishDate": "2026-07-29T12:33:29.319Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-29T12:33:29.319Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/PMPyfKrbsW8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFHvW5NI8GMwAYps9akEcvefbweQ",
+      "title": "ONE Rope. ONE Girl. You CANNOT Look Away!",
+      "videoUrl": "https://www.youtube.com/watch?v=PMPyfKrbsW8",
+      "viewCountInt": 3500000,
+      "viewCountText": "3.5M views"
+    },
+    {
+      "channel": {
+        "handle": "tomdavisofficial",
+        "id": "UC-TFajjG5CMAmUrJG1ONtKQ",
+        "title": "Tom Davis Dog Training ",
+        "url": "https://www.youtube.com/@tomdavisofficial"
+      },
+      "id": "wmhR3ZKRBvw",
+      "lengthInSeconds": 481,
+      "lengthText": "8:01",
+      "publishDate": "2026-04-29T12:33:29.319Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-29T12:33:29.319Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/wmhR3ZKRBvw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCC3EJglflzdALrz1go1lY566WHZg",
+      "title": "If Your Dog Stretches When They See You… This Is What It Really Means",
+      "videoUrl": "https://www.youtube.com/watch?v=wmhR3ZKRBvw",
+      "viewCountInt": 2200000,
+      "viewCountText": "2.2M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "tzcNYKcR70g",
+      "lengthInSeconds": 244,
+      "lengthText": "4:04",
+      "publishDate": "2026-04-29T12:33:29.319Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-29T12:33:29.319Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/tzcNYKcR70g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAdQnNT2GikFkeDps2c4h8NZ1x6sQ",
+      "title": "The 301 Spartans - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=tzcNYKcR70g",
+      "viewCountInt": 3100000,
+      "viewCountText": "3.1M views"
+    },
+    {
+      "channel": {
+        "handle": "MoreMozi",
+        "id": "UCrvchO1h6lWZAuGaa1LqX9Q",
+        "title": "MoreMozi",
+        "url": "https://www.youtube.com/@MoreMozi"
+      },
+      "id": "WZPLz3TfxLc",
+      "lengthInSeconds": 561,
+      "lengthText": "9:21",
+      "publishDate": "2026-07-29T12:33:29.319Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-29T12:33:29.319Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/WZPLz3TfxLc/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBeKFIwDw==&rs=AOn4CLB1eZnzLmQfDGtw4BPPlB9YQQGdGQ",
+      "title": "Why You Should Go All In on One Thing",
+      "videoUrl": "https://www.youtube.com/watch?v=WZPLz3TfxLc",
+      "viewCountInt": 77000,
+      "viewCountText": "77K views"
+    },
+    {
+      "channel": {
+        "handle": "IAmMarkManson",
+        "id": "UC0TnW9acNxqeojxXDMbohcA",
+        "title": "Mark Manson",
+        "url": "https://www.youtube.com/@IAmMarkManson"
+      },
+      "id": "s-icJTAc5gQ",
+      "lengthInSeconds": 1390,
+      "lengthText": "23:10",
+      "publishDate": "2026-08-08T12:33:29.319Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-08T12:33:29.319Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/s-icJTAc5gQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAn_5SjbpOgq3D0Z71m_ruSF3klkA",
+      "title": "7 Surprising Habits that Changed My Life in My 30s",
+      "videoUrl": "https://www.youtube.com/watch?v=s-icJTAc5gQ",
+      "viewCountInt": 348000,
+      "viewCountText": "348K views"
+    }
+  ]
+}

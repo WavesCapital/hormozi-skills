@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2520",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Pro tip, if you want, guarantees don't"
+    },
+    {
+      "endMs": "4080",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "have to be free, you can sell a"
+    },
+    {
+      "endMs": "5280",
+      "startMs": "2520",
+      "startTimeText": "0:02",
+      "text": "guarantee. So, you can sell your normal"
+    },
+    {
+      "endMs": "7440",
+      "startMs": "4080",
+      "startTimeText": "0:04",
+      "text": "service and say, \"And if for an extra"
+    },
+    {
+      "endMs": "9080",
+      "startMs": "5280",
+      "startTimeText": "0:05",
+      "text": "10% we'll guarantee this.\" People will"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "buy a guarantee and guarantees are"
+    },
+    {
+      "endMs": "11960",
+      "startMs": "9080",
+      "startTimeText": "0:09",
+      "text": "basically zero extra cost if they don't"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "take it. It's just profit. And you can"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "11960",
+      "startTimeText": "0:11",
+      "text": "also charge more than 10% obviously."
+    }
+  ],
+  "transcript_only_text": " Pro  tip,  if  you  want,  guarantees  don't \n have  to  be  free,  you  can  sell  a \n guarantee.  So,  you  can  sell  your  normal \n service  and  say,  \"And  if  for  an  extra \n 10%  we'll  guarantee  this.\"  People  will \n buy  a  guarantee  and  guarantees  are \n basically  zero  extra  cost  if  they  don't \n take  it.  It's  just  profit.  And  you  can \n also  charge  more  than  10%  obviously.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fwZy-Vco9BU",
+  "videoId": "fwZy-Vco9BU"
+}

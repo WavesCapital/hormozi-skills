@@ -1,0 +1,143 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I think we were some of the best at"
+    },
+    {
+      "endMs": "4400",
+      "startMs": "1320",
+      "startTimeText": "0:01",
+      "text": "training sales because of this. On"
+    },
+    {
+      "endMs": "5600",
+      "startMs": "2640",
+      "startTimeText": "0:02",
+      "text": "someone's first day, we'd say, \"Hey,"
+    },
+    {
+      "endMs": "6720",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "John, I'm going to have you read through"
+    },
+    {
+      "endMs": "8440",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "this script. I'm probably going to"
+    },
+    {
+      "endMs": "9440",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": "interrupt you 30 or 40 times, and if I"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "8440",
+      "startTimeText": "0:08",
+      "text": "do that, it means we're doing a good"
+    },
+    {
+      "endMs": "12600",
+      "startMs": "9440",
+      "startTimeText": "0:09",
+      "text": "job. You're going to say one sentence,"
+    },
+    {
+      "endMs": "14880",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "and I'll be like, 'Stop. Say it like"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "12600",
+      "startTimeText": "0:12",
+      "text": "this. Try it again. Okay. Try it like"
+    },
+    {
+      "endMs": "19400",
+      "startMs": "14880",
+      "startTimeText": "0:14",
+      "text": "this. Say it again. Okay, great. Again."
+    },
+    {
+      "endMs": "21240",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "Great. Again. Awesome. Next sentence.'\""
+    },
+    {
+      "endMs": "23160",
+      "startMs": "19400",
+      "startTimeText": "0:19",
+      "text": "You basically work them through the"
+    },
+    {
+      "endMs": "24960",
+      "startMs": "21240",
+      "startTimeText": "0:21",
+      "text": "script so that they say it exactly the"
+    },
+    {
+      "endMs": "26680",
+      "startMs": "23160",
+      "startTimeText": "0:23",
+      "text": "way they need to. And so, we want many"
+    },
+    {
+      "endMs": "29000",
+      "startMs": "24960",
+      "startTimeText": "0:24",
+      "text": "interruptions, and it's about speed of"
+    },
+    {
+      "endMs": "31240",
+      "startMs": "26680",
+      "startTimeText": "0:26",
+      "text": "feedback. You have to do 50, 60 feedback"
+    },
+    {
+      "endMs": "34120",
+      "startMs": "29000",
+      "startTimeText": "0:29",
+      "text": "loops in one conversation, and you do"
+    },
+    {
+      "endMs": "38400",
+      "startMs": "31240",
+      "startTimeText": "0:31",
+      "text": "that conversation two times a day,"
+    },
+    {
+      "endMs": "38400",
+      "startMs": "34120",
+      "startTimeText": "0:34",
+      "text": "and they get real good real fast."
+    }
+  ],
+  "transcript_only_text": " I  think  we  were  some  of  the  best  at \n training  sales  because  of  this.  On \n someone's  first  day,  we'd  say,  \"Hey, \n John,  I'm  going  to  have  you  read  through \n this  script.  I'm  probably  going  to \n interrupt  you  30  or  40  times,  and  if  I \n do  that,  it  means  we're  doing  a  good \n job.  You're  going  to  say  one  sentence, \n and  I'll  be  like,  'Stop.  Say  it  like \n this.  Try  it  again.  Okay.  Try  it  like \n this.  Say  it  again.  Okay,  great.  Again. \n Great.  Again.  Awesome.  Next  sentence.'\" \n You  basically  work  them  through  the \n script  so  that  they  say  it  exactly  the \n way  they  need  to.  And  so,  we  want  many \n interruptions,  and  it's  about  speed  of \n feedback.  You  have  to  do  50,  60  feedback \n loops  in  one  conversation,  and  you  do \n that  conversation  two  times  a  day, \n and  they  get  real  good  real  fast.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CzQt-lWocXk",
+  "videoId": "CzQt-lWocXk"
+}

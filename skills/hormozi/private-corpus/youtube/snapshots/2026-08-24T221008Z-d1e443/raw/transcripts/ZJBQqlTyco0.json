@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If people gasp at your prices, and you"
+    },
+    {
+      "endMs": "5560",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "can't seem to close them, a different"
+    },
+    {
+      "endMs": "7280",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "way that you can position the price to"
+    },
+    {
+      "endMs": "9000",
+      "startMs": "5560",
+      "startTimeText": "0:05",
+      "text": "make it seem like less is to simply"
+    },
+    {
+      "endMs": "10840",
+      "startMs": "7280",
+      "startTimeText": "0:07",
+      "text": "break it down into smaller chunks. Let's"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "say you charge $30 a month. If you say"
+    },
+    {
+      "endMs": "14080",
+      "startMs": "10840",
+      "startTimeText": "0:10",
+      "text": "it's only a dollar a day, it does"
+    },
+    {
+      "endMs": "15400",
+      "startMs": "12520",
+      "startTimeText": "0:12",
+      "text": "convert a higher percentage of people."
+    },
+    {
+      "endMs": "17080",
+      "startMs": "14080",
+      "startTimeText": "0:14",
+      "text": "And so, the way that you display your"
+    },
+    {
+      "endMs": "19560",
+      "startMs": "15400",
+      "startTimeText": "0:15",
+      "text": "price can be different than how you"
+    },
+    {
+      "endMs": "19560",
+      "startMs": "17080",
+      "startTimeText": "0:17",
+      "text": "bill."
+    }
+  ],
+  "transcript_only_text": " If  people  gasp  at  your  prices,  and  you \n can't  seem  to  close  them,  a  different \n way  that  you  can  position  the  price  to \n make  it  seem  like  less  is  to  simply \n break  it  down  into  smaller  chunks.  Let's \n say  you  charge  $30  a  month.  If  you  say \n it's  only  a  dollar  a  day,  it  does \n convert  a  higher  percentage  of  people. \n And  so,  the  way  that  you  display  your \n price  can  be  different  than  how  you \n bill.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZJBQqlTyco0",
+  "videoId": "ZJBQqlTyco0"
+}

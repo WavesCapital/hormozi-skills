@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I think the most important skill you can"
+    },
+    {
+      "endMs": "5480",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "develop is the ability to keep doing"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "3800",
+      "startTimeText": "0:03",
+      "text": "what needs to be done without anyone"
+    },
+    {
+      "endMs": "11320",
+      "startMs": "5480",
+      "startTimeText": "0:05",
+      "text": "telling you good job. Right? Every man"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "becomes infinitely more dangerous"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "11320",
+      "startTimeText": "0:11",
+      "text": "the moment they realize that they don't"
+    },
+    {
+      "endMs": "15880",
+      "startMs": "13080",
+      "startTimeText": "0:13",
+      "text": "need anyone else's approval or"
+    },
+    {
+      "endMs": "19160",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "permission."
+    },
+    {
+      "endMs": "22040",
+      "startMs": "15880",
+      "startTimeText": "0:15",
+      "text": "Like you can't both want average people"
+    },
+    {
+      "endMs": "24200",
+      "startMs": "19160",
+      "startTimeText": "0:19",
+      "text": "to prove of your decisions and live an"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "22040",
+      "startTimeText": "0:22",
+      "text": "above average life. Right? The price of"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "24200",
+      "startTimeText": "0:24",
+      "text": "admission is the loss of approval."
+    }
+  ],
+  "transcript_only_text": " I  think  the  most  important  skill  you  can \n develop  is  the  ability  to  keep  doing \n what  needs  to  be  done  without  anyone \n telling  you  good  job.  Right?  Every  man \n becomes  infinitely  more  dangerous \n the  moment  they  realize  that  they  don't \n need  anyone  else's  approval  or \n permission. \n Like  you  can't  both  want  average  people \n to  prove  of  your  decisions  and  live  an \n above  average  life.  Right?  The  price  of \n admission  is  the  loss  of  approval.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=X2zSUOqQlMs",
+  "videoId": "X2zSUOqQlMs"
+}

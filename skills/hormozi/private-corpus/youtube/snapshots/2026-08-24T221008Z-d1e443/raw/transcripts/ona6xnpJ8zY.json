@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "How do you decide which feedback to take"
+    },
+    {
+      "endMs": "5040",
+      "startMs": "1360",
+      "startTimeText": "0:01",
+      "text": "seriously and which feedback to ignore?"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": ">> Uh how aligned is the person's intent?"
+    },
+    {
+      "endMs": "8360",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "How confident are they in the thing? And"
+    },
+    {
+      "endMs": "10000",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "how specific is the feedback they're"
+    },
+    {
+      "endMs": "11760",
+      "startMs": "8360",
+      "startTimeText": "0:08",
+      "text": "giving? So, if somebody is super high"
+    },
+    {
+      "endMs": "13520",
+      "startMs": "10000",
+      "startTimeText": "0:10",
+      "text": "confident, has aligned intentions, and"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "11760",
+      "startTimeText": "0:11",
+      "text": "has very specific feedback, you're like,"
+    },
+    {
+      "endMs": "16080",
+      "startMs": "13520",
+      "startTimeText": "0:13",
+      "text": "how do you know how confident someone"
+    },
+    {
+      "endMs": "17640",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "is? It would go into have they achieved"
+    },
+    {
+      "endMs": "19160",
+      "startMs": "16080",
+      "startTimeText": "0:16",
+      "text": "this thing themselves? Have they helped"
+    },
+    {
+      "endMs": "20400",
+      "startMs": "17640",
+      "startTimeText": "0:17",
+      "text": "other people like me achieve the thing"
+    },
+    {
+      "endMs": "21800",
+      "startMs": "19160",
+      "startTimeText": "0:19",
+      "text": "that I want to achieve? That would be"
+    },
+    {
+      "endMs": "25280",
+      "startMs": "20400",
+      "startTimeText": "0:20",
+      "text": "probably somebody that's super high"
+    },
+    {
+      "endMs": "25280",
+      "startMs": "21800",
+      "startTimeText": "0:21",
+      "text": "confidence or relevance in the field."
+    }
+  ],
+  "transcript_only_text": " How  do  you  decide  which  feedback  to  take \n seriously  and  which  feedback  to  ignore? \n >> Uh  how  aligned  is  the  person's  intent? \n How  confident  are  they  in  the  thing?  And \n how  specific  is  the  feedback  they're \n giving?  So,  if  somebody  is  super  high \n confident,  has  aligned  intentions,  and \n has  very  specific  feedback,  you're  like, \n how  do  you  know  how  confident  someone \n is?  It  would  go  into  have  they  achieved \n this  thing  themselves?  Have  they  helped \n other  people  like  me  achieve  the  thing \n that  I  want  to  achieve?  That  would  be \n probably  somebody  that's  super  high \n confidence  or  relevance  in  the  field.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ona6xnpJ8zY",
+  "videoId": "ona6xnpJ8zY"
+}

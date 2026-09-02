@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You could beat most people at anythingif you just don't quit when it gets"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "3320",
+      "startTimeText": "0:03",
+      "text": "boring. Not hard, boring. That's whereeveryone else stops because wealth is"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "8640",
+      "startTimeText": "0:08",
+      "text": "made by doing boring things for anextended period of time in more volume"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "than any sane person would findreasonable. The world belongs to those"
+    },
+    {
+      "endMs": "23800",
+      "startMs": "16640",
+      "startTimeText": "0:16",
+      "text": "who can keep fighting after realizingwinning won't be fast, easy, or"
+    },
+    {
+      "endMs": "23800",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "guaranteed."
+    }
+  ],
+  "transcript_only_text": " You could beat most people at anything\nif you just don't quit when it gets boring. Not hard, boring. That's where\neveryone else stops because wealth is made by doing boring things for an\nextended period of time in more volume than any sane person would find\nreasonable. The world belongs to those who can keep fighting after realizing\nwinning won't be fast, easy, or guaranteed.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HA7Z6jc0cWg",
+  "videoId": "HA7Z6jc0cWg"
+}

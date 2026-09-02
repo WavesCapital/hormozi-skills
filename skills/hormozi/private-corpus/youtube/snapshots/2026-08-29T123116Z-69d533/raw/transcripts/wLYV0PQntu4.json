@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3679",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "Here's how you can sell one thing for"
+    },
+    {
+      "endMs": "6879",
+      "startMs": "1839",
+      "startTimeText": "0:01",
+      "text": "the price of three. Instead of saying"
+    },
+    {
+      "endMs": "10559",
+      "startMs": "3679",
+      "startTimeText": "0:03",
+      "text": "buy three things for $5 each, say buy"
+    },
+    {
+      "endMs": "12639",
+      "startMs": "6879",
+      "startTimeText": "0:06",
+      "text": "one thing for $15 and get two for free."
+    },
+    {
+      "endMs": "14880",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "The free will drive far more people to"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "12639",
+      "startTimeText": "0:12",
+      "text": "purchase despite the overall economics"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "14880",
+      "startTimeText": "0:14",
+      "text": "being the"
+    }
+  ],
+  "transcript_only_text": " Here's  how  you  can  sell  one  thing  for \n the  price  of  three.  Instead  of  saying \n buy  three  things  for  $5  each,  say  buy \n one  thing  for  $15  and  get  two  for  free. \n The  free  will  drive  far  more  people  to \n purchase  despite  the  overall  economics \n being  the",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wLYV0PQntu4",
+  "videoId": "wLYV0PQntu4"
+}

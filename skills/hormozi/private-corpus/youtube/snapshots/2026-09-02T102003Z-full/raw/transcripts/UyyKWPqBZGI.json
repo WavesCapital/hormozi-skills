@@ -1,0 +1,245 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "We help financial advisory businesses"
+    },
+    {
+      "endMs": "4920",
+      "startMs": "2160",
+      "startTimeText": "0:02",
+      "text": "scale. On average right now, we're doing"
+    },
+    {
+      "endMs": "7320",
+      "startMs": "3480",
+      "startTimeText": "0:03",
+      "text": "about 45k a month."
+    },
+    {
+      "endMs": "9160",
+      "startMs": "4920",
+      "startTimeText": "0:04",
+      "text": ">> Problem? I'm the main point of failure."
+    },
+    {
+      "endMs": "10640",
+      "startMs": "7320",
+      "startTimeText": "0:07",
+      "text": ">> Can you get customers easily right now?"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "9160",
+      "startTimeText": "0:09",
+      "text": "Yeah. Okay, so getting customers is not"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "10640",
+      "startTimeText": "0:10",
+      "text": "a problem. So, the issue is delivering"
+    },
+    {
+      "endMs": "13960",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "for the customers."
+    },
+    {
+      "endMs": "15600",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": ">> Yeah, like I haven't I haven't lost any"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "13960",
+      "startTimeText": "0:13",
+      "text": "clients, but if if I were to double it"
+    },
+    {
+      "endMs": "18800",
+      "startMs": "15600",
+      "startTimeText": "0:15",
+      "text": "right now, I would start not being able"
+    },
+    {
+      "endMs": "19800",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "to service clients."
+    },
+    {
+      "endMs": "21560",
+      "startMs": "18800",
+      "startTimeText": "0:18",
+      "text": ">> Step one is you need to think in"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "19800",
+      "startTimeText": "0:19",
+      "text": "workflows rather than roles. The almost"
+    },
+    {
+      "endMs": "25360",
+      "startMs": "21560",
+      "startTimeText": "0:21",
+      "text": "all asset creation has become incredibly"
+    },
+    {
+      "endMs": "27360",
+      "startMs": "23840",
+      "startTimeText": "0:23",
+      "text": "commoditized. Like, you're building out"
+    },
+    {
+      "endMs": "29160",
+      "startMs": "25360",
+      "startTimeText": "0:25",
+      "text": "those flows, which when a new customer"
+    },
+    {
+      "endMs": "31160",
+      "startMs": "27360",
+      "startTimeText": "0:27",
+      "text": "comes in, that should kick off a process"
+    },
+    {
+      "endMs": "32840",
+      "startMs": "29160",
+      "startTimeText": "0:29",
+      "text": "that spins up the sales, spins up ads,"
+    },
+    {
+      "endMs": "34560",
+      "startMs": "31160",
+      "startTimeText": "0:31",
+      "text": "spins up creative. So, how many hours a"
+    },
+    {
+      "endMs": "36080",
+      "startMs": "32840",
+      "startTimeText": "0:32",
+      "text": "day you spend building it? Uh it's all"
+    },
+    {
+      "endMs": "37400",
+      "startMs": "34560",
+      "startTimeText": "0:34",
+      "text": "of my time right now. The bad news is"
+    },
+    {
+      "endMs": "38760",
+      "startMs": "36080",
+      "startTimeText": "0:36",
+      "text": "that you don't have any real problems"
+    },
+    {
+      "endMs": "40320",
+      "startMs": "37400",
+      "startTimeText": "0:37",
+      "text": "with your business. You know what your"
+    },
+    {
+      "endMs": "41440",
+      "startMs": "38760",
+      "startTimeText": "0:38",
+      "text": "constraint is, which is delivery. The"
+    },
+    {
+      "endMs": "43160",
+      "startMs": "40320",
+      "startTimeText": "0:40",
+      "text": "next constraint that's going to come up"
+    },
+    {
+      "endMs": "45440",
+      "startMs": "41440",
+      "startTimeText": "0:41",
+      "text": "is going to be sales. Plug them into the"
+    },
+    {
+      "endMs": "47040",
+      "startMs": "43160",
+      "startTimeText": "0:43",
+      "text": "AI and then ask for the recurring themes"
+    },
+    {
+      "endMs": "48480",
+      "startMs": "45440",
+      "startTimeText": "0:45",
+      "text": "that people say their problems are"
+    },
+    {
+      "endMs": "50800",
+      "startMs": "47040",
+      "startTimeText": "0:47",
+      "text": "before they buy. Take that list of"
+    },
+    {
+      "endMs": "52800",
+      "startMs": "48480",
+      "startTimeText": "0:48",
+      "text": "problems, reintegrate that into the VSL."
+    },
+    {
+      "endMs": "54200",
+      "startMs": "50800",
+      "startTimeText": "0:50",
+      "text": "We did this and it literally doubled our"
+    },
+    {
+      "endMs": "55640",
+      "startMs": "52800",
+      "startTimeText": "0:52",
+      "text": "acquisition. We literally just took only"
+    },
+    {
+      "endMs": "57240",
+      "startMs": "54200",
+      "startTimeText": "0:54",
+      "text": "the pain points that people said, put"
+    },
+    {
+      "endMs": "58840",
+      "startMs": "55640",
+      "startTimeText": "0:55",
+      "text": "those in, and then we're like, \"Oh, the"
+    },
+    {
+      "endMs": "61520",
+      "startMs": "57240",
+      "startTimeText": "0:57",
+      "text": "we literally made a document called why"
+    },
+    {
+      "endMs": "61520",
+      "startMs": "58840",
+      "startTimeText": "0:58",
+      "text": "people buy.\""
+    }
+  ],
+  "transcript_only_text": " We  help  financial  advisory  businesses \n scale.  On  average  right  now,  we're  doing \n about  45k  a  month. \n >> Problem?  I'm  the  main  point  of  failure. \n >> Can  you  get  customers  easily  right  now? \n Yeah.  Okay,  so  getting  customers  is  not \n a  problem.  So,  the  issue  is  delivering \n for  the  customers. \n >> Yeah,  like  I  haven't  I  haven't  lost  any \n clients,  but  if  if  I  were  to  double  it \n right  now,  I  would  start  not  being  able \n to  service  clients. \n >> Step  one  is  you  need  to  think  in \n workflows  rather  than  roles.  The  almost \n all  asset  creation  has  become  incredibly \n commoditized.  Like,  you're  building  out \n those  flows,  which  when  a  new  customer \n comes  in,  that  should  kick  off  a  process \n that  spins  up  the  sales,  spins  up  ads, \n spins  up  creative.  So,  how  many  hours  a \n day  you  spend  building  it?  Uh  it's  all \n of  my  time  right  now.  The  bad  news  is \n that  you  don't  have  any  real  problems \n with  your  business.  You  know  what  your \n constraint  is,  which  is  delivery.  The \n next  constraint  that's  going  to  come  up \n is  going  to  be  sales.  Plug  them  into  the \n AI  and  then  ask  for  the  recurring  themes \n that  people  say  their  problems  are \n before  they  buy.  Take  that  list  of \n problems,  reintegrate  that  into  the  VSL. \n We  did  this  and  it  literally  doubled  our \n acquisition.  We  literally  just  took  only \n the  pain  points  that  people  said,  put \n those  in,  and  then  we're  like,  \"Oh,  the \n we  literally  made  a  document  called  why \n people  buy.\"",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=UyyKWPqBZGI",
+  "videoId": "UyyKWPqBZGI"
+}

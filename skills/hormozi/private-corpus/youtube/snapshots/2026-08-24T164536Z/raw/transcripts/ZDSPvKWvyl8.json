@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "You'd be amazed at how much better you"
+    },
+    {
+      "endMs": "6319",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "get after you've done it a hundred"
+    },
+    {
+      "endMs": "7759",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "times. If you want to win, do it again."
+    },
+    {
+      "endMs": "9200",
+      "startMs": "6319",
+      "startTimeText": "0:06",
+      "text": "You don't just post a hundred videos in"
+    },
+    {
+      "endMs": "11360",
+      "startMs": "7759",
+      "startTimeText": "0:07",
+      "text": "a row and see what happens. You post"
+    },
+    {
+      "endMs": "13200",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "one, see what worked, and then try and"
+    },
+    {
+      "endMs": "15759",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "do more of that thing. And so, the idea"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "13200",
+      "startTimeText": "0:13",
+      "text": "isn't just raw effort. It's raw effort"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "15759",
+      "startTimeText": "0:15",
+      "text": "with an improvement lip."
+    }
+  ],
+  "transcript_only_text": " You'd  be  amazed  at  how  much  better  you \n get  after  you've  done  it  a  hundred \n times.  If  you  want  to  win,  do  it  again. \n You  don't  just  post  a  hundred  videos  in \n a  row  and  see  what  happens.  You  post \n one,  see  what  worked,  and  then  try  and \n do  more  of  that  thing.  And  so,  the  idea \n isn't  just  raw  effort.  It's  raw  effort \n with  an  improvement  lip.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZDSPvKWvyl8",
+  "videoId": "ZDSPvKWvyl8"
+}

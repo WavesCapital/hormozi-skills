@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4400",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Is there a framework for knowing when to"
+    },
+    {
+      "endMs": "6400",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "quit? You've saved up 3 to six months of"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "personal savings. Number two is that you"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "6400",
+      "startTimeText": "0:06",
+      "text": "have started a business on the side that"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "can generate income. And that income in"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "the small amount of time that you're not"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "working at least matches the existing"
+    },
+    {
+      "endMs": "17359",
+      "startMs": "13920",
+      "startTimeText": "0:13",
+      "text": "income you have from your your current"
+    },
+    {
+      "endMs": "19359",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "job. And you've been able to do that or"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "17359",
+      "startTimeText": "0:17",
+      "text": "demonstrate that income for like 3 to"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "19359",
+      "startTimeText": "0:19",
+      "text": "six months."
+    }
+  ],
+  "transcript_only_text": " Is  there  a  framework  for  knowing  when  to \n quit?  You've  saved  up  3  to  six  months  of \n personal  savings.  Number  two  is  that  you \n have  started  a  business  on  the  side  that \n can  generate  income.  And  that  income  in \n the  small  amount  of  time  that  you're  not \n working  at least  matches  the  existing \n income  you  have  from  your  your  current \n job.  And  you've  been  able  to  do  that  or \n demonstrate  that  income  for  like  3  to \n six  months.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=2IUNd7B23jQ",
+  "videoId": "2IUNd7B23jQ"
+}

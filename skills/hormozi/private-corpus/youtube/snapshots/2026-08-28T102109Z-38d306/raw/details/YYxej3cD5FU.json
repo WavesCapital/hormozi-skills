@@ -1,0 +1,324 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=YYxej3cD5FU&ei=iQ-QasPRCPWoir4PlOOt8Q8&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787851257&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=CB0F5BDE92C9FF9E895C10ADA021076628EF397E.DCBC56B4F566348D2BF39626E3457CAF2AD643E0&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 1,
+  "commentCountText": "1",
+  "credits_charged": 1,
+  "credits_remaining": 18305,
+  "description": "4 paths to mega money:\n\n1) Bet other people’s money on other people’s businesses (fund managers)\n\n2) Bet your money on other people’s businesses (investing)\n\n3) Bet other people’s money on your business (raising funds)\n\n4) Bet your money on your own business (bootstrapping).",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "approxDurationMs": "18575",
+        "audioChannels": 2,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "audioSampleRate": "22050",
+        "averageBitrate": 539072,
+        "bitrate": 541961,
+        "cdnUrl": "https://rr1---sn-jvouxa-qail.googlevideo.com/videoplayback?expire=1787847657&ei=iQ-QasPRCPWoir4PlOOt8Q8&ip=64.90.72.8&id=o-AECbeIt5PJfc3DiMknDYYsidTAu2hFFjU_yjIKT6iLHP&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=302&met=1787826057%2C&mh=mK&mm=31%2C29&mn=sn-jvouxa-qail%2Csn-vgqsknds&ms=au%2Crdu&mv=m&mvi=1&pl=19&rms=au%2Cau&initcwndbps=4130000&bui=AR3QkAlNLRlPJKgNUpyoKoru2crBmLSa-yec57lHRMX-KYSt8rHh7ECoj0mD8rN-kvQzOFSx7LPp78n-&spc=KBGBcswk4t4n1MStCL2gRIsx-lxv6BwJzVGDvvHNYufSEaTE7K-GcRJ3zjtGw7Ol_Z7IbBD_u9s&vprv=1&svpuc=1&mime=video%2Fmp4&ns=8_zyuEhIKdkSduTmB2mBzGMX&rqh=1&gir=yes&clen=1251659&ratebypass=yes&dur=18.575&lmt=1787824833582991&mt=1787825572&fvip=4&fexp=51565115%2C52135441&c=WEB&sefc=1&txp=6309224&n=x6-TsQaPqX2RkJ2qE&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgNoKH1FoEJecffTAPyP7B2G63ffLWqinyXEMCW_rmEbsCID75FYrJ_Auub67EkIOuUQ6egCmcr4E59OeNezOhGq48&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgbrsmhw0j-8euZGDxQRmdhCRa8cibqhJ2QnievHqG0RACIGpPtqqE74hcjk-ztX4d_hfU2oepZw80pG8dAX3GGKOD",
+        "codecs": "avc1.42001E, mp4a.40.2",
+        "contentLength": "1251659",
+        "expiresAt": "2026-08-27T16:20:57.000Z",
+        "fps": 24,
+        "hasAudio": true,
+        "hasVideo": true,
+        "height": 640,
+        "itag": 18,
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "projectionType": "RECTANGULAR",
+        "quality": "medium",
+        "qualityLabel": "360p",
+        "requiresSignatureDecipher": false,
+        "signatureCipher": null,
+        "url": "https://rr1---sn-jvouxa-qail.googlevideo.com/videoplayback?expire=1787847657&ei=iQ-QasPRCPWoir4PlOOt8Q8&ip=64.90.72.8&id=o-AECbeIt5PJfc3DiMknDYYsidTAu2hFFjU_yjIKT6iLHP&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=302&met=1787826057%2C&mh=mK&mm=31%2C29&mn=sn-jvouxa-qail%2Csn-vgqsknds&ms=au%2Crdu&mv=m&mvi=1&pl=19&rms=au%2Cau&initcwndbps=4130000&bui=AR3QkAlNLRlPJKgNUpyoKoru2crBmLSa-yec57lHRMX-KYSt8rHh7ECoj0mD8rN-kvQzOFSx7LPp78n-&spc=KBGBcswk4t4n1MStCL2gRIsx-lxv6BwJzVGDvvHNYufSEaTE7K-GcRJ3zjtGw7Ol_Z7IbBD_u9s&vprv=1&svpuc=1&mime=video%2Fmp4&ns=8_zyuEhIKdkSduTmB2mBzGMX&rqh=1&gir=yes&clen=1251659&ratebypass=yes&dur=18.575&lmt=1787824833582991&mt=1787825572&fvip=4&fexp=51565115%2C52135441&c=WEB&sefc=1&txp=6309224&n=x6-TsQaPqX2RkJ2qE&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgNoKH1FoEJecffTAPyP7B2G63ffLWqinyXEMCW_rmEbsCID75FYrJ_Auub67EkIOuUQ6egCmcr4E59OeNezOhGq48&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgbrsmhw0j-8euZGDxQRmdhCRa8cibqhJ2QnievHqG0RACIGpPtqqE74hcjk-ztX4d_hfU2oepZw80pG8dAX3GGKOD",
+        "width": 360
+      }
+    ],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:19",
+  "durationMs": 19000,
+  "genre": "Education",
+  "id": "YYxej3cD5FU",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 26,
+  "likeCountText": "26",
+  "most_replayed": null,
+  "publishDate": "2026-08-27T03:00:39-07:00",
+  "publishDateText": "Aug 27, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/YYxej3cD5FU/maxresdefault.jpg",
+  "title": "There Are Only 4 Paths to Becoming Ultra Wealthy",
+  "type": "video",
+  "viewCountInt": 239,
+  "viewCountText": "239",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:20:58.055Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:20:58.055Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 150000,
+      "viewCountText": "150K views"
+    },
+    {
+      "channel": {
+        "handle": "TheEconomist",
+        "id": "UC0p5jTq6Xx_DosDFxVXnWaQ",
+        "title": "The Economist",
+        "url": "https://www.youtube.com/@TheEconomist"
+      },
+      "id": "XuoqKYxDHVc",
+      "lengthInSeconds": 5107,
+      "lengthText": "1:25:07",
+      "publishDate": "2026-07-30T10:20:58.055Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-30T10:20:58.055Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/XuoqKYxDHVc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCV3czJPx_u8oYF2aWtQPILOlD39w",
+      "title": "The full-length interview with Elon Musk | The Economist",
+      "videoUrl": "https://www.youtube.com/watch?v=XuoqKYxDHVc",
+      "viewCountInt": 5200000,
+      "viewCountText": "5.2M views"
+    },
+    {
+      "channel": {
+        "handle": "MalteMarten",
+        "id": "UCXs4k986CY3jHkJ8XfOataQ",
+        "title": "Malte Marten",
+        "url": "https://www.youtube.com/@MalteMarten"
+      },
+      "id": "HRCfnvxpYP8",
+      "lengthInSeconds": 3721,
+      "lengthText": "1:02:01",
+      "publishDate": "2026-04-27T10:20:58.055Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-27T10:20:58.055Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/HRCfnvxpYP8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCesMv-nuU7OJH3QsqgpB_J-ojSow",
+      "title": "Nervous System Regulation (999 Hz) | 1 hour handpan music | Malte Marten",
+      "videoUrl": "https://www.youtube.com/watch?v=HRCfnvxpYP8",
+      "viewCountInt": 6900000,
+      "viewCountText": "6.9M views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "nSlZZ7TxNM8",
+      "lengthInSeconds": 1483,
+      "lengthText": "24:43",
+      "publishDate": "2026-06-27T10:20:58.055Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-27T10:20:58.055Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/nSlZZ7TxNM8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCE5eby8U6ULDpVpFgy9UeZ2576DQ",
+      "title": "You Don't Need To Start A Business, Just Buy One Of These",
+      "videoUrl": "https://www.youtube.com/watch?v=nSlZZ7TxNM8",
+      "viewCountInt": 552000,
+      "viewCountText": "552K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "kp8XfxYZyRU",
+      "lengthInSeconds": 856,
+      "lengthText": "14:16",
+      "publishDate": "2026-08-22T10:20:58.055Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:20:58.055Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/kp8XfxYZyRU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAm39uBx4L-y9aTgtgx25JYoDUSTg",
+      "title": "Exercise Scientist’s #1 Way To GAIN Muscle Faster",
+      "videoUrl": "https://www.youtube.com/watch?v=kp8XfxYZyRU",
+      "viewCountInt": 155000,
+      "viewCountText": "155K views"
+    },
+    {
+      "channel": {
+        "title": "Big Think Clips and 2 more",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "KHd-luu3M8s",
+      "lengthInSeconds": 2005,
+      "lengthText": "33:25",
+      "publishDate": "2026-08-14T10:20:58.055Z",
+      "publishDateText": "13 days ago",
+      "publishedTime": "2026-08-14T10:20:58.055Z",
+      "publishedTimeText": "13 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/KHd-luu3M8s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCDEl8rV6bwjLjXbdlPVBZTk4dKIg",
+      "title": "Your phone addiction is keeping you from achieving flow state | Arthur Brooks",
+      "videoUrl": "https://www.youtube.com/watch?v=KHd-luu3M8s",
+      "viewCountInt": 984000,
+      "viewCountText": "984K views"
+    },
+    {
+      "channel": {
+        "handle": "Meaningfullifecenter",
+        "id": "UCN5KcquYEfTKwniNB_F0sHA",
+        "title": "Rabbi Simon Jacobson at Meaningful Life Center",
+        "url": "https://www.youtube.com/@Meaningfullifecenter"
+      },
+      "id": "QmXFM3dZYE0",
+      "lengthInSeconds": 3993,
+      "lengthText": "1:06:33",
+      "publishDate": "2026-06-27T10:20:58.055Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-27T10:20:58.055Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/QmXFM3dZYE0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjUzrfM3wl7_Wun9VSPJp0gMiKDw",
+      "title": "Getting ADDICTED to STUDYING is Easy, Actually",
+      "videoUrl": "https://www.youtube.com/watch?v=QmXFM3dZYE0",
+      "viewCountInt": 228000,
+      "viewCountText": "228K views"
+    },
+    {
+      "channel": {
+        "title": "Harvard Business Review and Dr. Arthur Brooks",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "orQKfIXMiA8",
+      "lengthInSeconds": 350,
+      "lengthText": "5:50",
+      "publishDate": "2025-08-27T10:20:58.055Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-27T10:20:58.055Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/orQKfIXMiA8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLColUbVc9rGq7F0lEH7dj8JH7hmRQ",
+      "title": "You Need to Be Bored. Here's Why.",
+      "videoUrl": "https://www.youtube.com/watch?v=orQKfIXMiA8",
+      "viewCountInt": 16000000,
+      "viewCountText": "16M views"
+    },
+    {
+      "channel": {
+        "handle": "danmartell",
+        "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "title": "Dan Martell",
+        "url": "https://www.youtube.com/@danmartell"
+      },
+      "id": "1MMqPTiWfSc",
+      "lengthInSeconds": 1626,
+      "lengthText": "27:06",
+      "publishDate": "2026-08-20T10:20:58.055Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-08-20T10:20:58.055Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/1MMqPTiWfSc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD9rGt6GkiTYY_wfRkOpQfMT33DmQ",
+      "title": "These AI Hacks Will Get You Ridiculously Ahead of Most People (Q&A)",
+      "videoUrl": "https://www.youtube.com/watch?v=1MMqPTiWfSc",
+      "viewCountInt": 167000,
+      "viewCountText": "167K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEO",
+        "id": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "title": "The Diary Of A CEO",
+        "url": "https://www.youtube.com/@TheDiaryOfACEO"
+      },
+      "id": "Bu0xNDLNORU",
+      "lengthInSeconds": 5417,
+      "lengthText": "1:30:17",
+      "publishDate": "2026-07-30T10:20:58.055Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-30T10:20:58.055Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/Bu0xNDLNORU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSkkbJNJ2n57KYlWFlzMu_Hn-bmw",
+      "title": "Ray Dalio: I Predicted The 2008 CRASH, I Know What Comes Next!",
+      "videoUrl": "https://www.youtube.com/watch?v=Bu0xNDLNORU",
+      "viewCountInt": 5200000,
+      "viewCountText": "5.2M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "6BQ3whjWG3M",
+      "lengthInSeconds": 1683,
+      "lengthText": "28:03",
+      "publishDate": "2026-02-27T10:20:58.055Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-02-27T10:20:58.055Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/6BQ3whjWG3M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAZ87hRdBIvziJkmM7bZ7agq7M82Q",
+      "title": "How the Top 1% Actually Think About Money",
+      "videoUrl": "https://www.youtube.com/watch?v=6BQ3whjWG3M",
+      "viewCountInt": 478000,
+      "viewCountText": "478K views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "4XQ50qWSRO4",
+      "lengthInSeconds": 1704,
+      "lengthText": "28:24",
+      "publishDate": "2026-08-22T10:20:58.055Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:20:58.055Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/4XQ50qWSRO4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLABWAE5CyBA0qOidIgvb0kbOc-9vA",
+      "title": "Success is Hard Until You Understand This Formula",
+      "videoUrl": "https://www.youtube.com/watch?v=4XQ50qWSRO4",
+      "viewCountInt": 21000,
+      "viewCountText": "21K views"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "If you're willing to suck at anything"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "for 100 days in a row, you can beat most"
+    },
+    {
+      "endMs": "7839",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "people at most things. Most of your"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "competition quits after the first sign"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "7839",
+      "startTimeText": "0:07",
+      "text": "of difficulty because they've never"
+    },
+    {
+      "endMs": "14559",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "known what hard feels like. The bar for"
+    },
+    {
+      "endMs": "14559",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "excellence has never been so"
+    }
+  ],
+  "transcript_only_text": " If  you're  willing  to  suck  at  anything \n for  100  days  in  a  row,  you  can  beat  most \n people  at  most  things.  Most  of  your \n competition  quits  after  the  first  sign \n of  difficulty  because  they've  never \n known  what  hard  feels  like.  The  bar  for \n excellence  has  never  been  so",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ttcZDNBy8Pw",
+  "videoId": "ttcZDNBy8Pw"
+}

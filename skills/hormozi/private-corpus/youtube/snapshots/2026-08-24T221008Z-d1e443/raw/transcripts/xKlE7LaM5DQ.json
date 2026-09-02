@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My father used to tell me, \"A focused"
+    },
+    {
+      "endMs": "6360",
+      "startMs": "2200",
+      "startTimeText": "0:02",
+      "text": "fool can accomplish more than a"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "distracted genius.\" And so, your most"
+    },
+    {
+      "endMs": "12280",
+      "startMs": "6360",
+      "startTimeText": "0:06",
+      "text": "valuable asset isn't your time, it's"
+    },
+    {
+      "endMs": "15960",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "your attention. A man with time and"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "12280",
+      "startTimeText": "0:12",
+      "text": "distractions will always lose to a man"
+    },
+    {
+      "endMs": "19840",
+      "startMs": "15960",
+      "startTimeText": "0:15",
+      "text": "with a deadline and a singular focus."
+    },
+    {
+      "endMs": "21920",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "And so, it's never been easier to be"
+    },
+    {
+      "endMs": "26960",
+      "startMs": "19840",
+      "startTimeText": "0:19",
+      "text": "successful than it is today. It's just"
+    },
+    {
+      "endMs": "26960",
+      "startMs": "21920",
+      "startTimeText": "0:21",
+      "text": "also never been easier to be distracted."
+    }
+  ],
+  "transcript_only_text": " My  father  used  to  tell  me,  \"A  focused \n fool  can  accomplish  more  than  a \n distracted  genius.\"  And  so,  your  most \n valuable  asset  isn't  your  time,  it's \n your  attention.  A  man  with  time  and \n distractions  will  always  lose  to  a  man \n with  a  deadline  and  a  singular  focus. \n And  so,  it's  never  been  easier  to  be \n successful  than  it  is  today.  It's  just \n also  never  been  easier  to  be  distracted.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=xKlE7LaM5DQ",
+  "videoId": "xKlE7LaM5DQ"
+}

@@ -1,0 +1,8 @@
+{
+  "attempts": 1,
+  "code": "api_http_error",
+  "endpoint": "/v1/youtube/video?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSqfIlyF3QNE",
+  "exit_code": 1,
+  "http_status": 403,
+  "message": "The ScrapeCreators API request failed."
+}

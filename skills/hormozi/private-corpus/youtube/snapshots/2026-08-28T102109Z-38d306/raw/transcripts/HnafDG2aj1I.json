@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "One of the highest ROI trades in life"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "that you can make is all the fake"
+    },
+    {
+      "endMs": "7400",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "friends that you have for one real"
+    },
+    {
+      "endMs": "9000",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "friend that has your back even when all"
+    },
+    {
+      "endMs": "10840",
+      "startMs": "7400",
+      "startTimeText": "0:07",
+      "text": "seems lost. Bonus points if it's your"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "spouse. The real people in your life who"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "10840",
+      "startTimeText": "0:10",
+      "text": "root for you to hit your goals are more"
+    },
+    {
+      "endMs": "15880",
+      "startMs": "12520",
+      "startTimeText": "0:12",
+      "text": "valuable than the goals themselves."
+    },
+    {
+      "endMs": "17280",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "Consider yourself lucky if you find even"
+    },
+    {
+      "endMs": "20680",
+      "startMs": "15880",
+      "startTimeText": "0:15",
+      "text": "one human who believes in you more than"
+    },
+    {
+      "endMs": "20680",
+      "startMs": "17280",
+      "startTimeText": "0:17",
+      "text": "you do and never let them go."
+    }
+  ],
+  "transcript_only_text": " One  of  the  highest  ROI  trades  in  life \n that  you  can  make  is  all  the  fake \n friends  that  you  have  for  one  real \n friend  that  has  your  back  even  when  all \n seems  lost.  Bonus  points  if  it's  your \n spouse.  The  real  people  in  your  life  who \n root  for  you  to  hit  your  goals  are  more \n valuable  than  the  goals  themselves. \n Consider  yourself  lucky  if  you  find  even \n one  human  who  believes  in  you  more  than \n you  do  and  never  let  them  go.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HnafDG2aj1I",
+  "videoId": "HnafDG2aj1I"
+}

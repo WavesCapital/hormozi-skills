@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4400",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "Richer people won't judge you for saving"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "2320",
+      "startTimeText": "0:02",
+      "text": "your money. Fitter people won't judge"
+    },
+    {
+      "endMs": "7440",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "you for cutting your calories. Higher"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "status people won't judge you for"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "cutting bad friends. It's the people"
+    },
+    {
+      "endMs": "13519",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "going nowhere who have the most to say"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "because they have nothing to do. Never"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "13519",
+      "startTimeText": "0:13",
+      "text": "let unaccomplished people judge your"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "accomplishments."
+    }
+  ],
+  "transcript_only_text": " Richer  people  won't  judge  you  for  saving \n your  money.  Fitter  people  won't  judge \n you  for  cutting  your  calories.  Higher \n status  people  won't  judge  you  for \n cutting  bad  friends.  It's  the  people \n going  nowhere  who  have  the  most  to  say \n because  they  have  nothing  to  do.  Never \n let  unaccomplished  people  judge  your \n accomplishments.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=M4OMYb27WSk",
+  "videoId": "M4OMYb27WSk"
+}

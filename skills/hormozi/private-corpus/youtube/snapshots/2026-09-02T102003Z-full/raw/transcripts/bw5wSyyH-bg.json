@@ -1,0 +1,161 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Write down a list of what you do do"
+    },
+    {
+      "endMs": "8440",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "every day. And I'm saying at the most"
+    },
+    {
+      "endMs": "10120",
+      "startMs": "6280",
+      "startTimeText": "0:06",
+      "text": "granular level. You respond to emails."
+    },
+    {
+      "endMs": "12120",
+      "startMs": "8440",
+      "startTimeText": "0:08",
+      "text": "You respond to Slack messages. Maybe you"
+    },
+    {
+      "endMs": "13400",
+      "startMs": "10120",
+      "startTimeText": "0:10",
+      "text": "make content. Maybe you you make ads."
+    },
+    {
+      "endMs": "14720",
+      "startMs": "12120",
+      "startTimeText": "0:12",
+      "text": "You run ads. There's a you have to"
+    },
+    {
+      "endMs": "16760",
+      "startMs": "13400",
+      "startTimeText": "0:13",
+      "text": "separate these out into individual"
+    },
+    {
+      "endMs": "18440",
+      "startMs": "14720",
+      "startTimeText": "0:14",
+      "text": "tasks. What's the task, right? Don't"
+    },
+    {
+      "endMs": "20120",
+      "startMs": "16760",
+      "startTimeText": "0:16",
+      "text": "think it Don't think chunked up. I run"
+    },
+    {
+      "endMs": "22560",
+      "startMs": "18440",
+      "startTimeText": "0:18",
+      "text": "ads. A lot of stuff underneath of that."
+    },
+    {
+      "endMs": "25160",
+      "startMs": "20120",
+      "startTimeText": "0:20",
+      "text": "Take all of the tasks and then look at"
+    },
+    {
+      "endMs": "27080",
+      "startMs": "22560",
+      "startTimeText": "0:22",
+      "text": "those tasks and take the first one and"
+    },
+    {
+      "endMs": "28760",
+      "startMs": "25160",
+      "startTimeText": "0:25",
+      "text": "put it into AI and say,"
+    },
+    {
+      "endMs": "30640",
+      "startMs": "27080",
+      "startTimeText": "0:27",
+      "text": "\"Help me automate this.\""
+    },
+    {
+      "endMs": "32160",
+      "startMs": "28760",
+      "startTimeText": "0:28",
+      "text": "What steps would you take?"
+    },
+    {
+      "endMs": "34000",
+      "startMs": "30640",
+      "startTimeText": "0:30",
+      "text": "It'll give you a list. And then take the"
+    },
+    {
+      "endMs": "35640",
+      "startMs": "32160",
+      "startTimeText": "0:32",
+      "text": "first thing on the list and do it. And"
+    },
+    {
+      "endMs": "37800",
+      "startMs": "34000",
+      "startTimeText": "0:34",
+      "text": "if you get stuck, here's a little pro"
+    },
+    {
+      "endMs": "39280",
+      "startMs": "35640",
+      "startTimeText": "0:35",
+      "text": "tip. Screenshot your screen and put it"
+    },
+    {
+      "endMs": "40360",
+      "startMs": "37800",
+      "startTimeText": "0:37",
+      "text": "in and say, \"What do I do now?\""
+    },
+    {
+      "endMs": "41320",
+      "startMs": "39280",
+      "startTimeText": "0:39",
+      "text": "And then it'll tell you. And then"
+    },
+    {
+      "endMs": "44600",
+      "startMs": "40360",
+      "startTimeText": "0:40",
+      "text": "screenshot the next year and say, \"What"
+    },
+    {
+      "endMs": "44600",
+      "startMs": "41320",
+      "startTimeText": "0:41",
+      "text": "do I do now?\" And it'll tell you."
+    }
+  ],
+  "transcript_only_text": " Write  down  a  list  of  what  you  do  do \n every  day.  And  I'm  saying  at  the  most \n granular  level.  You  respond  to  emails. \n You  respond  to  Slack  messages.  Maybe  you \n make  content.  Maybe  you  you  make  ads. \n You  run  ads.  There's  a  you  have  to \n separate  these  out  into  individual \n tasks.  What's  the  task,  right?  Don't \n think  it  Don't  think  chunked  up.  I  run \n ads.  A  lot  of  stuff  underneath  of  that. \n Take  all  of  the  tasks  and  then  look  at \n those  tasks  and  take  the  first  one  and \n put  it  into  AI  and  say, \n \"Help  me  automate  this.\" \n What  steps  would  you  take? \n It'll  give  you  a  list.  And  then  take  the \n first  thing  on  the  list  and  do  it.  And \n if  you  get  stuck,  here's  a  little  pro \n tip.  Screenshot  your  screen  and  put  it \n in  and  say,  \"What  do  I  do  now?\" \n And  then  it'll  tell  you.  And  then \n screenshot  the  next  year  and  say,  \"What \n do  I  do  now?\"  And  it'll  tell  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=bw5wSyyH-bg",
+  "videoId": "bw5wSyyH-bg"
+}

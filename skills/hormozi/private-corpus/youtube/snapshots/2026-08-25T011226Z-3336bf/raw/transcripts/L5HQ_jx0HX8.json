@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is an absolute promise to you."
+    },
+    {
+      "endMs": "7160",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "Throughout all of human history,"
+    },
+    {
+      "endMs": "9920",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "humans plus superior technology beat"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "humans with inferior technology. As long"
+    },
+    {
+      "endMs": "16600",
+      "startMs": "9920",
+      "startTimeText": "0:09",
+      "text": "as it is humans plus tools against"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "humans with other tools, then you are"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "16600",
+      "startTimeText": "0:16",
+      "text": "still competing against humans."
+    },
+    {
+      "endMs": "22040",
+      "startMs": "18320",
+      "startTimeText": "0:18",
+      "text": "And as long as that game still goes, you"
+    },
+    {
+      "endMs": "23640",
+      "startMs": "19960",
+      "startTimeText": "0:19",
+      "text": "should feel endlessly confident. The day"
+    },
+    {
+      "endMs": "25280",
+      "startMs": "22040",
+      "startTimeText": "0:22",
+      "text": "that you try to beat the machine, you"
+    },
+    {
+      "endMs": "26800",
+      "startMs": "23640",
+      "startTimeText": "0:23",
+      "text": "will lose."
+    },
+    {
+      "endMs": "28440",
+      "startMs": "25280",
+      "startTimeText": "0:25",
+      "text": "And every time we've tried to say we"
+    },
+    {
+      "endMs": "29960",
+      "startMs": "26800",
+      "startTimeText": "0:26",
+      "text": "like machines will never beat us at"
+    },
+    {
+      "endMs": "33800",
+      "startMs": "28440",
+      "startTimeText": "0:28",
+      "text": "chess, machines will never beat us at"
+    },
+    {
+      "endMs": "33800",
+      "startMs": "29960",
+      "startTimeText": "0:29",
+      "text": "insert X, they always do."
+    }
+  ],
+  "transcript_only_text": " This  is  an  absolute  promise  to  you. \n Throughout  all  of  human  history, \n humans  plus  superior  technology  beat \n humans  with  inferior  technology.  As  long \n as  it  is  humans  plus  tools  against \n humans  with  other  tools,  then  you  are \n still  competing  against  humans. \n And  as  long  as  that  game  still  goes,  you \n should  feel  endlessly  confident.  The  day \n that  you  try  to  beat  the  machine,  you \n will  lose. \n And  every  time  we've  tried  to  say  we \n like  machines  will  never  beat  us  at \n chess,  machines  will  never  beat  us  at \n insert  X,  they  always  do.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=L5HQ_jx0HX8",
+  "videoId": "L5HQ_jx0HX8"
+}

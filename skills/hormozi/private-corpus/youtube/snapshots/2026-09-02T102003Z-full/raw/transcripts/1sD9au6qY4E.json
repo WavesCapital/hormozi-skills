@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Sitting in the unknown with theconfidence that you will continue to try"
+    },
+    {
+      "endMs": "11640",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "because it is solvable even though youdon't know how to solve it yet. It just"
+    },
+    {
+      "endMs": "15800",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "comes down to that. It comes down toknocking on more doors. It comes down to"
+    },
+    {
+      "endMs": "19240",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "trying to build the webpage again whenthere's a bug and it doesn't work. It"
+    },
+    {
+      "endMs": "23200",
+      "startMs": "17480",
+      "startTimeText": "0:17",
+      "text": "comes down to spending money on ads eventhough it doesn't give you any ROI."
+    },
+    {
+      "endMs": "26360",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "Saving up your money and doing it again.It comes to posting another video even"
+    },
+    {
+      "endMs": "29400",
+      "startMs": "24880",
+      "startTimeText": "0:24",
+      "text": "though you got negative comments orpeople are like, \"Maybe you should try"
+    },
+    {
+      "endMs": "32000",
+      "startMs": "27560",
+      "startTimeText": "0:27",
+      "text": "something else.\" You need frustrationtolerance."
+    }
+  ],
+  "transcript_only_text": " Sitting in the unknown with the\nconfidence that you will continue to try because it is solvable even though you\ndon't know how to solve it yet. It just comes down to that. It comes down to\nknocking on more doors. It comes down to trying to build the webpage again when\nthere's a bug and it doesn't work. It comes down to spending money on ads even\nthough it doesn't give you any ROI. Saving up your money and doing it again.\nIt comes to posting another video even though you got negative comments or\npeople are like, \"Maybe you should try something else.\" You need frustration\ntolerance.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1sD9au6qY4E",
+  "videoId": "1sD9au6qY4E"
+}

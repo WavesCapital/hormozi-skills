@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Anytime it rains, I need to take"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "1320",
+      "startTimeText": "0:01",
+      "text": "medication so that it's always sunny."
+    },
+    {
+      "endMs": "6880",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "It has to be sunny. It must be sunny. I"
+    },
+    {
+      "endMs": "8120",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "need it to be sunny."
+    },
+    {
+      "endMs": "9320",
+      "startMs": "6880",
+      "startTimeText": "0:06",
+      "text": "Why?"
+    },
+    {
+      "endMs": "11760",
+      "startMs": "8120",
+      "startTimeText": "0:08",
+      "text": "Most of the time it's because we've been"
+    },
+    {
+      "endMs": "13560",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "told that being unhappy means that"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "11760",
+      "startTimeText": "0:11",
+      "text": "there's something wrong with you."
+    },
+    {
+      "endMs": "16800",
+      "startMs": "13560",
+      "startTimeText": "0:13",
+      "text": "And I just I just wholeheartedly reject"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "that notion."
+    },
+    {
+      "endMs": "20560",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "I think way more unhappiness happens"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "18320",
+      "startTimeText": "0:18",
+      "text": "from the judgment on their unhappiness"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "20560",
+      "startTimeText": "0:20",
+      "text": "than unhappiness itself ever caused."
+    }
+  ],
+  "transcript_only_text": " Anytime  it  rains,  I  need  to  take \n medication  so  that  it's  always  sunny. \n It  has  to  be  sunny.  It  must  be  sunny.  I \n need  it  to  be  sunny. \n Why? \n Most  of  the  time  it's  because  we've  been \n told  that  being  unhappy  means  that \n there's  something  wrong  with  you. \n And  I  just  I  just  wholeheartedly  reject \n that  notion. \n I  think  way  more  unhappiness  happens \n from  the  judgment  on  their  unhappiness \n than  unhappiness  itself  ever  caused.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=yj8LdIodWlM",
+  "videoId": "yj8LdIodWlM"
+}

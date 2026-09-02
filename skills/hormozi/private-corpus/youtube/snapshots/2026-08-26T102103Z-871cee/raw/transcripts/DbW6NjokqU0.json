@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "In gymnastics, as soon as you fall off"
+    },
+    {
+      "endMs": "4560",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "the pommel horse, even if you twist or"
+    },
+    {
+      "endMs": "5920",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "break your ankle, they try and get you"
+    },
+    {
+      "endMs": "7160",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "right back on the horse again. And they"
+    },
+    {
+      "endMs": "8240",
+      "startMs": "5920",
+      "startTimeText": "0:05",
+      "text": "do that because if you don't and you"
+    },
+    {
+      "endMs": "9680",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "take enough time off, you start"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "8240",
+      "startTimeText": "0:08",
+      "text": "developing these fears around getting"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "9680",
+      "startTimeText": "0:09",
+      "text": "back on and you never get on again. You"
+    },
+    {
+      "endMs": "14160",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "got bucked by the entrepreneurial horse,"
+    },
+    {
+      "endMs": "15880",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "and that's okay. It's part of the game."
+    },
+    {
+      "endMs": "17000",
+      "startMs": "14160",
+      "startTimeText": "0:14",
+      "text": "It's not about how hard you can hit, but"
+    },
+    {
+      "endMs": "18840",
+      "startMs": "15880",
+      "startTimeText": "0:15",
+      "text": "it's about how hard you can get hit and"
+    },
+    {
+      "endMs": "21880",
+      "startMs": "17000",
+      "startTimeText": "0:17",
+      "text": "keep going forward. Everybody gets hit."
+    },
+    {
+      "endMs": "21880",
+      "startMs": "18840",
+      "startTimeText": "0:18",
+      "text": "Everyone [ __ ] loses."
+    }
+  ],
+  "transcript_only_text": " In  gymnastics,  as  soon  as  you  fall  off \n the  pommel  horse,  even  if  you  twist  or \n break  your  ankle,  they  try  and  get  you \n right  back  on  the  horse  again.  And  they \n do  that  because  if  you  don't  and  you \n take  enough  time  off,  you  start \n developing  these  fears  around  getting \n back  on  and  you  never  get  on  again.  You \n got  bucked  by  the  entrepreneurial  horse, \n and  that's  okay.  It's  part  of  the  game. \n It's  not  about  how  hard  you  can  hit,  but \n it's  about  how  hard  you  can  get  hit  and \n keep  going  forward.  Everybody  gets  hit. \n Everyone  [ __ ]  loses.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DbW6NjokqU0",
+  "videoId": "DbW6NjokqU0"
+}

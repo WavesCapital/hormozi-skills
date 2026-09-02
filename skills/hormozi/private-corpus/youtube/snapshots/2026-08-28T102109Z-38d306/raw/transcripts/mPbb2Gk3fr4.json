@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You never have to say no. It's athree-step. They state an unreasonable"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "demand, do you have this or can I havethis or whatever? And so you say, \"Well,"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "I'm guessing the intention behind thatquestion is to solve this problem, is"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "8440",
+      "startTimeText": "0:08",
+      "text": "that right?\" If they say not, then it'slike, \"Then what is the intention?\""
+    },
+    {
+      "endMs": "15400",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "There's I haven't said anything wrongyet. Then they give me the intention."
+    },
+    {
+      "endMs": "18280",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "\"Oh, cool. If we did it like this, wouldthat solve that for you?\" They said no,"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "then oh, \"Would this solve that?\" Like,I have no wrong answer. I only take"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "shots on goal that if I get a yes, thenI'm done."
+    }
+  ],
+  "transcript_only_text": " You never have to say no. It's a\nthree-step. They state an unreasonable demand, do you have this or can I have\nthis or whatever? And so you say, \"Well, I'm guessing the intention behind that\nquestion is to solve this problem, is that right?\" If they say not, then it's\nlike, \"Then what is the intention?\" There's I haven't said anything wrong\nyet. Then they give me the intention. \"Oh, cool. If we did it like this, would\nthat solve that for you?\" They said no, then oh, \"Would this solve that?\" Like,\nI have no wrong answer. I only take shots on goal that if I get a yes, then\nI'm done.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mPbb2Gk3fr4",
+  "videoId": "mPbb2Gk3fr4"
+}

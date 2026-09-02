@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can either be the damsel in distress"
+    },
+    {
+      "endMs": "7000",
+      "startMs": "2280",
+      "startTimeText": "0:02",
+      "text": "or the hero. You either wait or you"
+    },
+    {
+      "endMs": "8560",
+      "startMs": "4480",
+      "startTimeText": "0:04",
+      "text": "fight. But [music] notice there's no"
+    },
+    {
+      "endMs": "10840",
+      "startMs": "7000",
+      "startTimeText": "0:07",
+      "text": "stories that have been passed down"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "8560",
+      "startTimeText": "0:08",
+      "text": "through history of the victim's"
+    },
+    {
+      "endMs": "16400",
+      "startMs": "10840",
+      "startTimeText": "0:10",
+      "text": "perspective. And that's because [music]"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "whiners don't make history. Winners do."
+    },
+    {
+      "endMs": "22160",
+      "startMs": "16400",
+      "startTimeText": "0:16",
+      "text": "And so at the end of the day, it's your"
+    },
+    {
+      "endMs": "22160",
+      "startMs": "18320",
+      "startTimeText": "0:18",
+      "text": "story and so it's your call."
+    }
+  ],
+  "transcript_only_text": " You  can  either  be  the  damsel  in  distress \n or  the  hero.  You  either  wait  or  you \n fight.  But  [music]  notice  there's  no \n stories  that  have  been  passed  down \n through  history  of  the  victim's \n perspective.  And  that's  because  [music] \n whiners  don't  make  history.  Winners  do. \n And  so  at  the  end  of  the  day,  it's  your \n story  and  so  it's  your  call.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0moz0GJcIHg",
+  "videoId": "0moz0GJcIHg"
+}

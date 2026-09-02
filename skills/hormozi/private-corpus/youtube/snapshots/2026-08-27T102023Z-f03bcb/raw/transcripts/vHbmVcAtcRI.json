@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Consistency is the currency of"
+    },
+    {
+      "endMs": "7000",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "credibility. The pain you experience is"
+    },
+    {
+      "endMs": "9120",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "the price you pay to build the character"
+    },
+    {
+      "endMs": "11680",
+      "startMs": "7000",
+      "startTimeText": "0:07",
+      "text": "you want. Patience is built through"
+    },
+    {
+      "endMs": "13680",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "delay. Consistency is built through"
+    },
+    {
+      "endMs": "16760",
+      "startMs": "11680",
+      "startTimeText": "0:11",
+      "text": "boredom, and toughness is built through"
+    },
+    {
+      "endMs": "18240",
+      "startMs": "13680",
+      "startTimeText": "0:13",
+      "text": "suffering. It's not punishment, right?"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16760",
+      "startTimeText": "0:16",
+      "text": "It's the only way to become the person"
+    },
+    {
+      "endMs": "23280",
+      "startMs": "18240",
+      "startTimeText": "0:18",
+      "text": "that you said you wanted to become."
+    },
+    {
+      "endMs": "24680",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "Because all hardships are the price tags"
+    },
+    {
+      "endMs": "27400",
+      "startMs": "23280",
+      "startTimeText": "0:23",
+      "text": "for the character traits that we hope to"
+    },
+    {
+      "endMs": "27400",
+      "startMs": "24680",
+      "startTimeText": "0:24",
+      "text": "someday have."
+    }
+  ],
+  "transcript_only_text": " Consistency  is  the  currency  of \n credibility.  The  pain  you  experience  is \n the  price  you  pay  to  build  the  character \n you  want.  Patience  is  built  through \n delay.  Consistency  is  built  through \n boredom,  and  toughness  is  built  through \n suffering.  It's  not  punishment,  right? \n It's  the  only  way  to  become  the  person \n that  you  said  you  wanted  to  become. \n Because  all  hardships  are  the  price  tags \n for  the  character  traits  that  we  hope  to \n someday  have.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vHbmVcAtcRI",
+  "videoId": "vHbmVcAtcRI"
+}

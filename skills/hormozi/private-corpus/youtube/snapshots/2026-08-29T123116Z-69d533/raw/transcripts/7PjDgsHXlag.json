@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4560",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "The best salespeople say the script,"
+    },
+    {
+      "endMs": "6799",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "they follow up quickly, they ask good"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "questions, they listen, and they allow"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "6799",
+      "startTimeText": "0:06",
+      "text": "the prospect to close themselves. The"
+    },
+    {
+      "endMs": "11679",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "thing that separates the good sales"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "people from the great salespeople is"
+    },
+    {
+      "endMs": "15360",
+      "startMs": "11679",
+      "startTimeText": "0:11",
+      "text": "that the great salespeople never don't"
+    },
+    {
+      "endMs": "16640",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "do the basics. They always do the"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "15360",
+      "startTimeText": "0:15",
+      "text": "fundamentals. And when you always do the"
+    },
+    {
+      "endMs": "21439",
+      "startMs": "16640",
+      "startTimeText": "0:16",
+      "text": "fundamentals, you will sustain"
+    },
+    {
+      "endMs": "21439",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "exceptionally high close rates."
+    }
+  ],
+  "transcript_only_text": " The  best  salespeople  say  the  script, \n they  follow  up  quickly,  they  ask  good \n questions,  they  listen,  and  they  allow \n the  prospect  to  close  themselves.  The \n thing  that  separates  the  good  sales \n people  from  the  great  salespeople  is \n that  the  great  salespeople  never  don't \n do  the  basics.  They  always  do  the \n fundamentals.  And  when  you  always  do  the \n fundamentals,  you  will  sustain \n exceptionally  high  close  rates.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7PjDgsHXlag",
+  "videoId": "7PjDgsHXlag"
+}

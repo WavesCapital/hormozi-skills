@@ -1,0 +1,131 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You guys seen those slate trucks? They"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "they're like [music] 20 grand. I think"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "4000",
+      "startTimeText": "0:04",
+      "text": "Amazon was an investor."
+    },
+    {
+      "endMs": "9200",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "I think that they will sell a ton of"
+    },
+    {
+      "endMs": "11240",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "them and then they will not be able to"
+    },
+    {
+      "endMs": "12920",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "manufacture because at that price point,"
+    },
+    {
+      "endMs": "14360",
+      "startMs": "11240",
+      "startTimeText": "0:11",
+      "text": "there will be a gigantic amount of"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "12920",
+      "startTimeText": "0:12",
+      "text": "demand. They look cool as long as they"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "14360",
+      "startTimeText": "0:14",
+      "text": "work and they're EVs. Like it's a it's a"
+    },
+    {
+      "endMs": "20800",
+      "startMs": "16440",
+      "startTimeText": "0:16",
+      "text": "good idea. But like Elon talks about how"
+    },
+    {
+      "endMs": "22920",
+      "startMs": "18320",
+      "startTimeText": "0:18",
+      "text": "the problem is not creating prototypes."
+    },
+    {
+      "endMs": "24800",
+      "startMs": "20800",
+      "startTimeText": "0:20",
+      "text": "It's getting to scale. Elon has"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "22920",
+      "startTimeText": "0:22",
+      "text": "tremendous resources and has gotten to"
+    },
+    {
+      "endMs": "28640",
+      "startMs": "24800",
+      "startTimeText": "0:24",
+      "text": "the point where he can manufacture and"
+    },
+    {
+      "endMs": "30520",
+      "startMs": "26080",
+      "startTimeText": "0:26",
+      "text": "he still is behind demand and that's at"
+    },
+    {
+      "endMs": "32279",
+      "startMs": "28640",
+      "startTimeText": "0:28",
+      "text": "a hundred thousand plus price point in"
+    },
+    {
+      "endMs": "35120",
+      "startMs": "30520",
+      "startTimeText": "0:30",
+      "text": "terms of volume, not a twenty thousand"
+    },
+    {
+      "endMs": "35120",
+      "startMs": "32279",
+      "startTimeText": "0:32",
+      "text": "price point."
+    }
+  ],
+  "transcript_only_text": " You  guys  seen  those  slate  trucks?  They \n they're  like  [music]  20  grand.  I  think \n Amazon  was  an  investor. \n I  think  that  they  will  sell  a  ton  of \n them  and  then  they  will  not  be  able  to \n manufacture  because  at  that  price  point, \n there  will  be  a  gigantic  amount  of \n demand.  They  look  cool  as  long  as  they \n work  and  they're  EVs.  Like  it's  a  it's  a \n good  idea.  But  like  Elon  talks  about  how \n the  problem  is  not  creating  prototypes. \n It's  getting  to  scale.  Elon  has \n tremendous  resources  and  has  gotten  to \n the  point  where  he  can  manufacture  and \n he  still  is  behind  demand  and  that's  at \n a  hundred  thousand  plus  price  point  in \n terms  of  volume,  not  a  twenty  thousand \n price  point.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7nH_5pt77CI",
+  "videoId": "7nH_5pt77CI"
+}

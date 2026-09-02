@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3040",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "Most people don't know what they're"
+    },
+    {
+      "endMs": "5120",
+      "startMs": "1439",
+      "startTimeText": "0:01",
+      "text": "saying most of the time. The vast"
+    },
+    {
+      "endMs": "7680",
+      "startMs": "3040",
+      "startTimeText": "0:03",
+      "text": "majority of people spend their time"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "5120",
+      "startTimeText": "0:05",
+      "text": "regurgitating and reparing things that"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "they never thought about and saying"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "words that they don't understand."
+    },
+    {
+      "endMs": "13360",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "Because if you ask someone when they"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "say, \"Hey, I think you should do this.\""
+    },
+    {
+      "endMs": "18960",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "I would just say like, \"Define that.\" Or"
+    },
+    {
+      "endMs": "20320",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "like, \"Hey, my goal is I want to insert"
+    },
+    {
+      "endMs": "21279",
+      "startMs": "18960",
+      "startTimeText": "0:18",
+      "text": "thing like I want to feel great about"
+    },
+    {
+      "endMs": "23039",
+      "startMs": "20320",
+      "startTimeText": "0:20",
+      "text": "myself.\" And I'd be like, \"Well, what"
+    },
+    {
+      "endMs": "24320",
+      "startMs": "21279",
+      "startTimeText": "0:21",
+      "text": "does that mean?\" And then they can't"
+    },
+    {
+      "endMs": "25519",
+      "startMs": "23039",
+      "startTimeText": "0:23",
+      "text": "define it. I'm like, \"Well, no You"
+    },
+    {
+      "endMs": "27840",
+      "startMs": "24320",
+      "startTimeText": "0:24",
+      "text": "haven't hit it. You can't even define"
+    },
+    {
+      "endMs": "27840",
+      "startMs": "25519",
+      "startTimeText": "0:25",
+      "text": "what you're going"
+    }
+  ],
+  "transcript_only_text": " Most  people  don't  know  what  they're \n saying  most  of  the  time.  The  vast \n majority  of  people  spend  their  time \n regurgitating  and  reparing  things  that \n they  never  thought  about  and  saying \n words  that  they  don't  understand. \n Because  if  you  ask  someone  when  they \n say,  \"Hey,  I  think  you  should  do  this.\" \n I  would  just  say  like,  \"Define  that.\"  Or \n like,  \"Hey,  my  goal  is  I  want  to  insert \n thing  like  I  want  to  feel  great  about \n myself.\"  And  I'd  be  like,  \"Well,  what \n does  that  mean?\"  And  then  they  can't \n define  it.  I'm  like,  \"Well,  no  You \n haven't  hit  it.  You  can't  even  define \n what  you're  going",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4PSzdhvpWb0",
+  "videoId": "4PSzdhvpWb0"
+}

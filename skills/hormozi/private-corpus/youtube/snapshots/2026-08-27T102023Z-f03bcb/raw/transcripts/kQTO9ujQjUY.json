@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "It just takes work, shitloads and"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "2200",
+      "startTimeText": "0:02",
+      "text": "shitloads of work. And every time I"
+    },
+    {
+      "endMs": "6880",
+      "startMs": "3560",
+      "startTimeText": "0:03",
+      "text": "dressed it up or cut a corner, I get"
+    },
+    {
+      "endMs": "8440",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "brutally reminded by life that the work"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "6880",
+      "startTimeText": "0:06",
+      "text": "just needs doing. So yes, this is your"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "8440",
+      "startTimeText": "0:08",
+      "text": "friendly reminder that it's okay to work"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "on weekends."
+    }
+  ],
+  "transcript_only_text": " It  just  takes  work,  shitloads  and \n shitloads  of  work.  And  every  time  I \n dressed  it  up  or  cut  a  corner,  I  get \n brutally  reminded  by  life  that  the  work \n just  needs  doing.  So  yes,  this  is  your \n friendly  reminder  that  it's  okay  to  work \n on  weekends.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=kQTO9ujQjUY",
+  "videoId": "kQTO9ujQjUY"
+}

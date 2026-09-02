@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Who was the number one merchant in Egypt"
+    },
+    {
+      "endMs": "6280",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "5,000 years ago? No idea. Who was the"
+    },
+    {
+      "endMs": "9240",
+      "startMs": "4200",
+      "startTimeText": "0:04",
+      "text": "number one merchant 2,000, 1,000 years"
+    },
+    {
+      "endMs": "10640",
+      "startMs": "6280",
+      "startTimeText": "0:06",
+      "text": "ago? 200 years ago? No one knows. We"
+    },
+    {
+      "endMs": "12560",
+      "startMs": "9240",
+      "startTimeText": "0:09",
+      "text": "have this idea that we're somehow going"
+    },
+    {
+      "endMs": "14680",
+      "startMs": "10640",
+      "startTimeText": "0:10",
+      "text": "to become number one. But I'm like,"
+    },
+    {
+      "endMs": "17120",
+      "startMs": "12560",
+      "startTimeText": "0:12",
+      "text": "what? All the players on the board are"
+    },
+    {
+      "endMs": "21440",
+      "startMs": "14680",
+      "startTimeText": "0:14",
+      "text": "going to get swapped in 100 years. All"
+    },
+    {
+      "endMs": "21440",
+      "startMs": "17120",
+      "startTimeText": "0:17",
+      "text": "the players. The whole board gets wiped."
+    }
+  ],
+  "transcript_only_text": " Who  was  the  number  one  merchant  in  Egypt \n 5,000  years  ago?  No  idea.  Who  was  the \n number  one  merchant  2,000,  1,000  years \n ago?  200  years  ago?  No  one  knows.  We \n have  this  idea  that  we're  somehow  going \n to  become  number  one.  But  I'm  like, \n what?  All  the  players  on  the  board  are \n going  to  get  swapped  in  100  years.  All \n the  players.  The  whole  board  gets  wiped.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iGxSk6iHiUk",
+  "videoId": "iGxSk6iHiUk"
+}

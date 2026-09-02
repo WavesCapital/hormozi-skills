@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2800",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "Many of you probably remember when you"
+    },
+    {
+      "endMs": "4240",
+      "startMs": "1439",
+      "startTimeText": "0:01",
+      "text": "were getting into this business, you"
+    },
+    {
+      "endMs": "5520",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "tried a bunch of stuff, most of it"
+    },
+    {
+      "endMs": "7919",
+      "startMs": "4240",
+      "startTimeText": "0:04",
+      "text": "didn't work, and then something started"
+    },
+    {
+      "endMs": "10000",
+      "startMs": "5520",
+      "startTimeText": "0:05",
+      "text": "to work. This is the risk of new. And I"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "7919",
+      "startTimeText": "0:07",
+      "text": "think this is one of the most misjudged"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10000",
+      "startTimeText": "0:10",
+      "text": "risks in business. Like the time you do"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "new is when you start. And basically"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "after that, everything is almost more or"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "better. And typically more with a"
+    },
+    {
+      "endMs": "20720",
+      "startMs": "18000",
+      "startTimeText": "0:18",
+      "text": "feedback loop just becomes better. And"
+    },
+    {
+      "endMs": "21760",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "the reason that we do we want to go"
+    },
+    {
+      "endMs": "24960",
+      "startMs": "20720",
+      "startTimeText": "0:20",
+      "text": "after more is because more is the"
+    },
+    {
+      "endMs": "24960",
+      "startMs": "21760",
+      "startTimeText": "0:21",
+      "text": "highest risk adjusted move that you can"
+    }
+  ],
+  "transcript_only_text": " Many  of  you  probably  remember  when  you \n were  getting  into  this  business,  you \n tried  a  bunch  of  stuff,  most  of  it \n didn't  work,  and  then  something  started \n to  work.  This  is  the  risk  of  new.  And  I \n think  this  is  one  of  the  most  misjudged \n risks  in  business.  Like  the  time  you  do \n new  is  when  you  start.  And  basically \n after  that,  everything  is  almost  more  or \n better.  And  typically  more  with  a \n feedback  loop  just  becomes  better.  And \n the  reason  that  we  do  we  want  to  go \n after  more  is  because  more  is  the \n highest  risk  adjusted  move  that  you  can",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DIJOraYYWfg",
+  "videoId": "DIJOraYYWfg"
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5680",
+      "startMs": "400",
+      "startTimeText": "0:00",
+      "text": "Do you think Shaquille O'Neal was like,"
+    },
+    {
+      "endMs": "8480",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "\"I can't play basketball. I'm 71. It's"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "not fair to other people for me to play"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "basketball cuz like this is like I'm I"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "have such an advantage. Play the cards"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "you have. You can't play basketball."
+    },
+    {
+      "endMs": "20960",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "You're not 71, but you can do this. So"
+    },
+    {
+      "endMs": "23119",
+      "startMs": "18720",
+      "startTimeText": "0:18",
+      "text": "do it. If you're good at something or"
+    },
+    {
+      "endMs": "25760",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "you have some natural predisposition, by"
+    },
+    {
+      "endMs": "29039",
+      "startMs": "23119",
+      "startTimeText": "0:23",
+      "text": "every means possible, knock on every"
+    },
+    {
+      "endMs": "32480",
+      "startMs": "25760",
+      "startTimeText": "0:25",
+      "text": "door. Bang the door down if you have to"
+    },
+    {
+      "endMs": "32480",
+      "startMs": "29039",
+      "startTimeText": "0:29",
+      "text": "get the opportunities that you want"
+    }
+  ],
+  "transcript_only_text": " Do  you  think  Shaquille  O'Neal  was  like, \n \"I  can't  play  basketball.  I'm  71.  It's \n not  fair  to  other  people  for  me  to  play \n basketball  cuz  like  this  is  like  I'm  I \n have  such  an  advantage.  Play  the  cards \n you  have.  You  can't  play  basketball. \n You're  not  71,  but  you  can  do  this.  So \n do  it.  If  you're  good  at  something  or \n you  have  some  natural  predisposition,  by \n every  means  possible,  knock  on  every \n door.  Bang  the  door  down  if  you  have  to \n get  the  opportunities  that  you  want",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=izoSanJ2QiY",
+  "videoId": "izoSanJ2QiY"
+}

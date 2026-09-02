@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "For the few people who were like me andfelt like everyone told them there was"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "4200",
+      "startTimeText": "0:04",
+      "text": "something wrong with them, you aredifferent and that's okay. If you're"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "okay with that, then it unleashes thiswhole new realm of possibility of being"
+    },
+    {
+      "endMs": "18680",
+      "startMs": "13480",
+      "startTimeText": "0:13",
+      "text": "able to do what you want. He shouldbuild a family, he should have kids, he"
+    },
+    {
+      "endMs": "21320",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "should have gotten married earlier, heshould have married someone different,"
+    },
+    {
+      "endMs": "24480",
+      "startMs": "19560",
+      "startTimeText": "0:19",
+      "text": "he shouldn't work this way.According to what?"
+    }
+  ],
+  "transcript_only_text": " For the few people who were like me and\nfelt like everyone told them there was something wrong with them, you are\ndifferent and that's okay. If you're okay with that, then it unleashes this\nwhole new realm of possibility of being able to do what you want. He should\nbuild a family, he should have kids, he should have gotten married earlier, he\nshould have married someone different, he shouldn't work this way.\nAccording to what?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Vm4ZziD3SZA",
+  "videoId": "Vm4ZziD3SZA"
+}

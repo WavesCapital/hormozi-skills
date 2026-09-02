@@ -1,0 +1,22 @@
+{
+  "counts": {
+    "chunk_count": 4668,
+    "duplicate_chunk_count": 267,
+    "failed_source_count": 0,
+    "page_image_count": 1197,
+    "page_or_section_record_count": 2750,
+    "processed_source_count": 59,
+    "unique_chunk_hash_count": 4401,
+    "unresolved_empty_record_count": 26,
+    "verified_file_source_count": 59,
+    "visual_review_pending_count": 1192
+  },
+  "lineage": {
+    "chunks_sha256": "0c7cd8db7ef15cd31d6733fc966d8364137c3b814dc043c3095ca64aa817f359",
+    "manifest_sha256": "3cec6b8f9e85126968b102308566a43f1e2ea806f109ae7d13287cc9b80c218d",
+    "source_path_policy": "$HORMOZI_SOURCE_ROOT tokens only in manifests"
+  },
+  "privacy": "Full extracted text, OCR, and chunks remain in the ignored private corpus.",
+  "schema_version": "1.0.0",
+  "status": "complete"
+}

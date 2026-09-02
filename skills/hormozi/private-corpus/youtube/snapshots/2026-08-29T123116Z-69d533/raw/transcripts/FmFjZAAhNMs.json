@@ -1,0 +1,79 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=FmFjZAAhNMs&ei=U9GSauGuLf6BkucP1aaBkQI&caps=asr&opi=112496729&exp=xpo,xwmhp,xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788031939&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=6D39406611CD3CDD6BFC3C631D3DAE1FE00740F2.54F27CC6D533B90A6C8F48E158D90E7C6F8C067A&key=yt8&kind=asr&lang=en",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 18131,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4960",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "the video game business. It's win ortake all. Top 1% makes a mill. Top 0.1%"
+    },
+    {
+      "endMs": "7440",
+      "startMs": "3929",
+      "startTimeText": "0:03",
+      "text": "[music] makes 10 mil. So that's whatwe're going for."
+    },
+    {
+      "endMs": "8800",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": ">> It's actually the exact same metrics ofentrepreneurship."
+    },
+    {
+      "endMs": "10559",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": ">> Oh, cool.>> So it's not unique to video games."
+    },
+    {
+      "endMs": "13759",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": ">> Yeah.>> That makes you feel better."
+    },
+    {
+      "endMs": "20000",
+      "startMs": "11599",
+      "startTimeText": "0:11",
+      "text": ">> Yeah. Yeah. It's just like such a tough>> but like I would reframe that like.1%"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "17279",
+      "startTimeText": "0:17",
+      "text": "in all entrepreneurship is 10 million.>> So it's the same."
+    },
+    {
+      "endMs": "24160",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": ">> All right.>> I just wouldn't be like, \"Oh, this is"
+    },
+    {
+      "endMs": "27119",
+      "startMs": "22720",
+      "startTimeText": "0:22",
+      "text": "now some special unicorn.\">> Yeah. Simpson."
+    }
+  ],
+  "transcript_only_text": " the video game business. It's win or\ntake all. Top 1% makes a mill. Top 0.1% [music]  makes 10 mil. So that's what\nwe're going for. >> It's actually the exact same metrics of\nentrepreneurship. >> Oh, cool.\n>> So it's not unique to video games. >> Yeah.\n>> That makes you feel better. >> Yeah. Yeah. It's just like such a tough\n>> but like I would reframe that like.1% in all entrepreneurship is 10 million.\n>> So it's the same. >> All right.\n>> I just wouldn't be like, \"Oh, this is now some special unicorn.\"\n>> Yeah. Simpson.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=FmFjZAAhNMs",
+  "videoId": "FmFjZAAhNMs"
+}

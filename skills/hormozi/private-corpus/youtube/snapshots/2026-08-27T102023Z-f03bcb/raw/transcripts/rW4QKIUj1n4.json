@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3919",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "AI will put more AI businesses out of"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "2399",
+      "startTimeText": "0:02",
+      "text": "business than AI will put normal"
+    },
+    {
+      "endMs": "7120",
+      "startMs": "3919",
+      "startTimeText": "0:03",
+      "text": "businesses out of business. Since the"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "dawn of time, it has been man plus tools"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "7120",
+      "startTimeText": "0:07",
+      "text": "against man plus tools. And right now,"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "we just have man plus better tools. And"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "so nothing has really changed until the"
+    },
+    {
+      "endMs": "16799",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "day it is man against machine and the"
+    },
+    {
+      "endMs": "16799",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "machine wins."
+    }
+  ],
+  "transcript_only_text": " AI  will  put  more  AI  businesses  out  of \n business  than  AI  will  put  normal \n businesses  out  of  business.  Since  the \n dawn  of  time,  it  has  been  man  plus  tools \n against  man  plus  tools.  And  right  now, \n we  just  have  man  plus  better  tools.  And \n so  nothing  has  really  changed  until  the \n day  it  is  man  against  machine  and  the \n machine  wins.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rW4QKIUj1n4",
+  "videoId": "rW4QKIUj1n4"
+}

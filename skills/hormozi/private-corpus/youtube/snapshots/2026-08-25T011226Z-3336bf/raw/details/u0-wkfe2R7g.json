@@ -1,0 +1,289 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 26,
+  "commentCountText": "26",
+  "credits_charged": 1,
+  "description": "My favorite business building question:\n\n“What’s the one thing, that if I stopped doing today, would immediately destroy my business?”\n\nNow, instead of stopping, do ten times more of it.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:00:35",
+  "durationMs": 35000,
+  "genre": "Education",
+  "id": "u0-wkfe2R7g",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1599,
+  "likeCountText": "1599",
+  "most_replayed": null,
+  "publishDate": "2026-06-13T08:03:38-07:00",
+  "publishDateText": "Jun 13, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/u0-wkfe2R7g/maxresdefault.jpg",
+  "title": "If You Can Get to $100M Selling One Thing, Why Would You Sell Three?",
+  "type": "video",
+  "viewCountInt": 77913,
+  "viewCountText": "77,913",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "rocanews",
+        "id": "UClGVMvGjakjZHH_TmnbxYlQ",
+        "title": "RocaNews",
+        "url": "https://www.youtube.com/@rocanews"
+      },
+      "id": "f4J4wUYmIkE",
+      "lengthInSeconds": 1165,
+      "lengthText": "19:25",
+      "publishDate": "2026-05-24T18:46:06.563Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-24T18:46:06.563Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/f4J4wUYmIkE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA0vzyxeEnmks4xLbW5-InnMMxptA",
+      "title": "Inside Texas’s Richest Town (Highland Park)",
+      "videoUrl": "https://www.youtube.com/watch?v=f4J4wUYmIkE",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "CNBCMakeIt",
+        "id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+        "title": "CNBC Make It",
+        "url": "https://www.youtube.com/@CNBCMakeIt"
+      },
+      "id": "uk_2zKQd46g",
+      "lengthInSeconds": 531,
+      "lengthText": "8:51",
+      "publishDate": "2026-07-24T18:46:06.563Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-24T18:46:06.563Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/uk_2zKQd46g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZJNmUmSe8v0vmRQYWXCkM8hr9xA",
+      "title": "I Left The U.S. And Bought A House In Italy For $13K",
+      "videoUrl": "https://www.youtube.com/watch?v=uk_2zKQd46g",
+      "viewCountInt": 3300000,
+      "viewCountText": "3.3M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-24T18:46:06.563Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:46:06.563Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "BoxofficeMoviesScenes",
+        "id": "UCfk4Df9QxO267wlFbStSyAw",
+        "title": "Boxoffice Movie Scenes",
+        "url": "https://www.youtube.com/@BoxofficeMoviesScenes"
+      },
+      "id": "8UG4bp3vXGM",
+      "lengthInSeconds": 307,
+      "lengthText": "5:07",
+      "publishDate": "2023-08-24T18:46:06.563Z",
+      "publishDateText": "3 years ago",
+      "publishedTime": "2023-08-24T18:46:06.563Z",
+      "publishedTimeText": "3 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/8UG4bp3vXGM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD7b2zbTsIPyMA5eVidEvo93ZM98Q",
+      "title": "The Knock Knock Scene",
+      "videoUrl": "https://www.youtube.com/watch?v=8UG4bp3vXGM",
+      "viewCountInt": 2800000,
+      "viewCountText": "2.8M views"
+    },
+    {
+      "channel": {
+        "handle": "CBSEveningNews",
+        "id": "UCAeWdyKJXGWmVAXFpgLNNTg",
+        "title": "CBS Evening News",
+        "url": "https://www.youtube.com/@CBSEveningNews"
+      },
+      "id": "6H4MMvaIpyk",
+      "lengthInSeconds": 365,
+      "lengthText": "6:05",
+      "publishDate": "2025-12-24T18:46:06.563Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2025-12-24T18:46:06.563Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/6H4MMvaIpyk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBciK8ESRN0FEAZUK3w2fyCgCoEng",
+      "title": "The most intense shoe salesman you’ll ever meet (1983)",
+      "videoUrl": "https://www.youtube.com/watch?v=6H4MMvaIpyk",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T18:46:06.563Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-19T18:46:06.563Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 396000,
+      "viewCountText": "396K views"
+    },
+    {
+      "channel": {
+        "title": "Business Insider and Insider Tech",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "UKypOcYjjkI",
+      "lengthInSeconds": 1009,
+      "lengthText": "16:49",
+      "publishDate": "2026-08-03T18:46:06.563Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-03T18:46:06.563Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/UKypOcYjjkI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC5QKy4ahwDo3YRNPGwdCkoQTMuWA",
+      "title": "How Goodwill Actually Works",
+      "videoUrl": "https://www.youtube.com/watch?v=UKypOcYjjkI",
+      "viewCountInt": 537000,
+      "viewCountText": "537K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Alex Hormozi",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "HwmwyBgzj8c",
+      "lengthInSeconds": 8558,
+      "lengthText": "2:22:38",
+      "publishDate": "2026-07-24T18:46:06.563Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-24T18:46:06.563Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/HwmwyBgzj8c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChLnGf79sTsn9sq8TA5-fVrvA0fQ",
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "videoUrl": "https://www.youtube.com/watch?v=HwmwyBgzj8c",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "KinoCheck.com",
+        "id": "UCLRlryMfL8ffxzrtqv0_k_w",
+        "title": "KinoCheck.com",
+        "url": "https://www.youtube.com/@KinoCheck.com"
+      },
+      "id": "jj1jfmGGovo",
+      "lengthInSeconds": 244,
+      "lengthText": "4:04",
+      "publishDate": "2026-08-03T18:46:06.563Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-03T18:46:06.563Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/jj1jfmGGovo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAG77EAlev75a3kpUkQB0DJG8IU-Q",
+      "title": "Blanka vs. Ryu Fight Scene - STREET FIGHTER (2026) Jason Momoa",
+      "videoUrl": "https://www.youtube.com/watch?v=jj1jfmGGovo",
+      "viewCountInt": 1800000,
+      "viewCountText": "1.8M views"
+    },
+    {
+      "channel": {
+        "handle": "TopTalentTV",
+        "id": "UCD2GdZBCsUa0TIssLai6Skw",
+        "title": "Top Talent",
+        "url": "https://www.youtube.com/@TopTalentTV"
+      },
+      "id": "PMPyfKrbsW8",
+      "lengthInSeconds": 316,
+      "lengthText": "5:16",
+      "publishDate": "2026-07-24T18:46:06.563Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-24T18:46:06.563Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/PMPyfKrbsW8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFHvW5NI8GMwAYps9akEcvefbweQ",
+      "title": "ONE Rope. ONE Girl. You CANNOT Look Away!",
+      "videoUrl": "https://www.youtube.com/watch?v=PMPyfKrbsW8",
+      "viewCountInt": 3400000,
+      "viewCountText": "3.4M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T18:46:06.563Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-22T18:46:06.563Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 89000,
+      "viewCountText": "89K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "jfW6gL6hKhk",
+      "lengthInSeconds": 945,
+      "lengthText": "15:45",
+      "publishDate": "2026-03-24T18:46:06.563Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:46:06.563Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jfW6gL6hKhk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0G9_a7JX0L7DKWNPguRCmRo0OoA",
+      "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
+      "videoUrl": "https://www.youtube.com/watch?v=jfW6gL6hKhk",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    }
+  ]
+}

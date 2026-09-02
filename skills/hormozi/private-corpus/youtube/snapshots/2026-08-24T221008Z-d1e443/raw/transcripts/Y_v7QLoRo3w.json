@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Quality always beats quantity when it"
+    },
+    {
+      "endMs": "6319",
+      "startMs": "1839",
+      "startTimeText": "0:01",
+      "text": "comes to when it comes to talent. We had"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "35 internal sales reps and we basically"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "6319",
+      "startTimeText": "0:06",
+      "text": "hired up 750 I'll say facilitators, but"
+    },
+    {
+      "endMs": "14240",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "my internal team that was taking calls"
+    },
+    {
+      "endMs": "16240",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": "outperformed by headcount 18x the"
+    },
+    {
+      "endMs": "18800",
+      "startMs": "14240",
+      "startTimeText": "0:14",
+      "text": "outsourced team. Basically with 120th of"
+    },
+    {
+      "endMs": "21520",
+      "startMs": "16240",
+      "startTimeText": "0:16",
+      "text": "the team, they did the same revenue as"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "18800",
+      "startTimeText": "0:18",
+      "text": "750 people. And so that just goes to"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "21520",
+      "startTimeText": "0:21",
+      "text": "show you what training and culture does."
+    }
+  ],
+  "transcript_only_text": " Quality  always  beats  quantity  when  it \n comes  to  when  it  comes  to  talent.  We  had \n 35  internal  sales  reps  and  we  basically \n hired  up  750  I'll  say  facilitators,  but \n my  internal  team  that  was  taking  calls \n outperformed  by  headcount  18x  the \n outsourced  team.  Basically  with  120th  of \n the  team,  they  did  the  same  revenue  as \n 750  people.  And  so  that  just  goes  to \n show  you  what  training  and  culture  does.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Y_v7QLoRo3w",
+  "videoId": "Y_v7QLoRo3w"
+}

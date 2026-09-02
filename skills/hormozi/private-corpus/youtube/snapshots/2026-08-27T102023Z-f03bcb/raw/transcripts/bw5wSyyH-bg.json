@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "8440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Write down a list of what you do doevery day. And I'm saying at the most"
+    },
+    {
+      "endMs": "12120",
+      "startMs": "6280",
+      "startTimeText": "0:06",
+      "text": "granular level. You respond to emails.You respond to Slack messages. Maybe you"
+    },
+    {
+      "endMs": "14720",
+      "startMs": "10120",
+      "startTimeText": "0:10",
+      "text": "make content. Maybe you you make ads.You run ads. There's a you have to"
+    },
+    {
+      "endMs": "18440",
+      "startMs": "13400",
+      "startTimeText": "0:13",
+      "text": "separate these out into individualtasks. What's the task, right? Don't"
+    },
+    {
+      "endMs": "22560",
+      "startMs": "16760",
+      "startTimeText": "0:16",
+      "text": "think it Don't think chunked up. I runads. A lot of stuff underneath of that."
+    },
+    {
+      "endMs": "27080",
+      "startMs": "20120",
+      "startTimeText": "0:20",
+      "text": "Take all of the tasks and then look atthose tasks and take the first one and"
+    },
+    {
+      "endMs": "30640",
+      "startMs": "25160",
+      "startTimeText": "0:25",
+      "text": "put it into AI and say,\"Help me automate this.\""
+    },
+    {
+      "endMs": "34000",
+      "startMs": "28760",
+      "startTimeText": "0:28",
+      "text": "What steps would you take?It'll give you a list. And then take the"
+    },
+    {
+      "endMs": "37800",
+      "startMs": "32160",
+      "startTimeText": "0:32",
+      "text": "first thing on the list and do it. Andif you get stuck, here's a little pro"
+    },
+    {
+      "endMs": "40360",
+      "startMs": "35640",
+      "startTimeText": "0:35",
+      "text": "tip. Screenshot your screen and put itin and say, \"What do I do now?\""
+    },
+    {
+      "endMs": "44600",
+      "startMs": "39280",
+      "startTimeText": "0:39",
+      "text": "And then it'll tell you. And thenscreenshot the next year and say, \"What"
+    },
+    {
+      "endMs": "44600",
+      "startMs": "41320",
+      "startTimeText": "0:41",
+      "text": "do I do now?\" And it'll tell you."
+    }
+  ],
+  "transcript_only_text": " Write down a list of what you do do\nevery day. And I'm saying at the most granular level. You respond to emails.\nYou respond to Slack messages. Maybe you make content. Maybe you you make ads.\nYou run ads. There's a you have to separate these out into individual\ntasks. What's the task, right? Don't think it Don't think chunked up. I run\nads. A lot of stuff underneath of that. Take all of the tasks and then look at\nthose tasks and take the first one and put it into AI and say,\n\"Help me automate this.\" What steps would you take?\nIt'll give you a list. And then take the first thing on the list and do it. And\nif you get stuck, here's a little pro tip. Screenshot your screen and put it\nin and say, \"What do I do now?\" And then it'll tell you. And then\nscreenshot the next year and say, \"What do I do now?\" And it'll tell you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=bw5wSyyH-bg",
+  "videoId": "bw5wSyyH-bg"
+}

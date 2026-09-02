@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When the bad thing happens, typicallyyou don't expect them and you have to"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "3240",
+      "startTimeText": "0:03",
+      "text": "deal with the cards you're dealt, right?We have to we have to take it within the"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "fact that maybe we didn't sleep thatmuch the night before or or we haven't"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "eaten in 6 hours, right? Or we just cameoff of nine bad meetings in a row."
+    },
+    {
+      "endMs": "18800",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "Whatever it is, right? We still havethat that moment between stimulus and"
+    },
+    {
+      "endMs": "23200",
+      "startMs": "16920",
+      "startTimeText": "0:16",
+      "text": "reaction where we have a choice. We getto act how we want to behave. And I"
+    },
+    {
+      "endMs": "26280",
+      "startMs": "21360",
+      "startTimeText": "0:21",
+      "text": "think that that is where we get to liveout our ideals."
+    }
+  ],
+  "transcript_only_text": " When the bad thing happens, typically\nyou don't expect them and you have to deal with the cards you're dealt, right?\nWe have to we have to take it within the fact that maybe we didn't sleep that\nmuch the night before or or we haven't eaten in 6 hours, right? Or we just came\noff of nine bad meetings in a row. Whatever it is, right? We still have\nthat that moment between stimulus and reaction where we have a choice. We get\nto act how we want to behave. And I think that that is where we get to live\nout our ideals.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=dbiltun-vPE",
+  "videoId": "dbiltun-vPE"
+}

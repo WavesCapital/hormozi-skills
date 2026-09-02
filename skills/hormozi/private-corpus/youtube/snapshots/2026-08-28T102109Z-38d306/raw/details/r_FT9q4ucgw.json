@@ -1,0 +1,301 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=r_FT9q4ucgw&ei=kQ-QatGfNcKpkucP_s6z-Ak&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787851265&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=66AAAA74CCBBD4B55E63FF8FB553204D48561A15.16371DD91BC5CE1F9FBBF31BC30DDECFDAAEB1B3&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 75,
+  "commentCountText": "75",
+  "credits_charged": 1,
+  "credits_remaining": 18301,
+  "description": "The other great reason for working harder is:\n\nThe harder you work the more you realize what you used to think was hard work, is not even close to what you’re capable of.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:01:17",
+  "durationMs": 77000,
+  "genre": "Education",
+  "id": "r_FT9q4ucgw",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 2801,
+  "likeCountText": "2801",
+  "most_replayed": null,
+  "publishDate": "2026-08-26T12:07:05-07:00",
+  "publishDateText": "Aug 26, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/r_FT9q4ucgw/maxresdefault.jpg",
+  "type": "video",
+  "viewCountInt": 30585,
+  "viewCountText": "30,585",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "vastcatalyst",
+        "id": "UC1vJwB-PivTmnFcGPlTCk_w",
+        "title": "Vast Catalyst",
+        "url": "https://www.youtube.com/@vastcatalyst"
+      },
+      "id": "M_YMEnhskWY",
+      "lengthInSeconds": 1136,
+      "lengthText": "18:56",
+      "publishDate": "2026-07-27T10:21:06.631Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-27T10:21:06.631Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/M_YMEnhskWY/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCyS1MwyyUASheaOjkk9KSpMsJWMQ",
+      "title": "This Is Why 99% of People Never Reach Their Potential",
+      "videoUrl": "https://www.youtube.com/watch?v=M_YMEnhskWY",
+      "viewCountInt": 65000,
+      "viewCountText": "65K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T10:21:06.631Z",
+      "publishDateText": "8 days ago",
+      "publishedTime": "2026-08-19T10:21:06.631Z",
+      "publishedTimeText": "8 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLAgdCXagPhalSDKZ3RzTsXqHdjGGw",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 432000,
+      "viewCountText": "432K views"
+    },
+    {
+      "channel": {
+        "handle": "Jump-AdvisorAI",
+        "id": "UC7_Ut9qUcrlSxOBzdAyAX3Q",
+        "title": "Jump",
+        "url": "https://www.youtube.com/@Jump-AdvisorAI"
+      },
+      "id": "h8JMlcoNnL4",
+      "lengthInSeconds": 3626,
+      "lengthText": "1:00:26",
+      "publishDate": "2026-08-26T21:21:06.631Z",
+      "publishDateText": "13 hours ago",
+      "publishedTime": "2026-08-26T21:21:06.631Z",
+      "publishedTimeText": "13 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/h8JMlcoNnL4/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCx8SCAA3R19WfYcPb22rUN8BKAuQ",
+      "title": "70% of My Clients Have Never Met Me in Person: Inside Mark Cecchini’s $200M Advisory Practice",
+      "videoUrl": "https://www.youtube.com/watch?v=h8JMlcoNnL4",
+      "viewCountInt": 9,
+      "viewCountText": "9 views"
+    },
+    {
+      "channel": {
+        "handle": "NovaaComedy",
+        "id": "UCD30zr4K0YkLhxEMh8bJw9A",
+        "title": "NOVA COMEDY",
+        "url": "https://www.youtube.com/@NovaaComedy"
+      },
+      "id": "6M4gn7WzFSo",
+      "lengthInSeconds": 852,
+      "lengthText": "14:12",
+      "publishDate": "2026-06-27T10:21:06.631Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-27T10:21:06.631Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/6M4gn7WzFSo/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLC_4CRNc77gGRcOAjQ6jUJoTdrgVg",
+      "title": "No Celebrity Could Stay Serious Around Rowan Atkinson...",
+      "videoUrl": "https://www.youtube.com/watch?v=6M4gn7WzFSo",
+      "viewCountInt": 2600000,
+      "viewCountText": "2.6M views"
+    },
+    {
+      "channel": {
+        "handle": "KinoCheck.com",
+        "id": "UCLRlryMfL8ffxzrtqv0_k_w",
+        "title": "KinoCheck.com",
+        "url": "https://www.youtube.com/@KinoCheck.com"
+      },
+      "id": "jj1jfmGGovo",
+      "lengthInSeconds": 244,
+      "lengthText": "4:04",
+      "publishDate": "2026-08-06T10:21:06.631Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-06T10:21:06.631Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/jj1jfmGGovo/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBtqpgcEQx6twvz_WjWFjDRV4K3Cg",
+      "title": "Blanka vs. Ryu Fight Scene - STREET FIGHTER (2026) Jason Momoa",
+      "videoUrl": "https://www.youtube.com/watch?v=jj1jfmGGovo",
+      "viewCountInt": 1800000,
+      "viewCountText": "1.8M views"
+    },
+    {
+      "channel": {
+        "handle": "tjpowertalks",
+        "id": "UCkTqsjNtYqS5nxfTWgAYtjw",
+        "title": "Tj Power",
+        "url": "https://www.youtube.com/@tjpowertalks"
+      },
+      "id": "rQoWZeKnNdY",
+      "lengthInSeconds": 933,
+      "lengthText": "15:33",
+      "publishDate": "2026-08-13T10:21:06.631Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-13T10:21:06.631Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/rQoWZeKnNdY/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCqNI7RX8Nh_vfla019yMh31Blp0A",
+      "title": "Neuroscientist Explains: These Hobbies Will Save You From Infinite Scrolling",
+      "videoUrl": "https://www.youtube.com/watch?v=rQoWZeKnNdY",
+      "viewCountInt": 569000,
+      "viewCountText": "569K views"
+    },
+    {
+      "channel": {
+        "handle": "max.german",
+        "id": "UCsOkHWfiPFN3Pt7f9DwMSww",
+        "title": "Max German",
+        "url": "https://www.youtube.com/@max.german"
+      },
+      "id": "eB8Co8FKJt0",
+      "lengthInSeconds": 1192,
+      "lengthText": "19:52",
+      "publishDate": "2026-04-27T10:21:06.631Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-27T10:21:06.631Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/eB8Co8FKJt0/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDyierM0yli0RJUEDZvkvEtAEjJPg",
+      "title": "It's Boring, But It Destroys Your Visceral Fat In 14 Days (Japanese Method)",
+      "videoUrl": "https://www.youtube.com/watch?v=eB8Co8FKJt0",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "jubilee",
+        "id": "UCJjSDX-jUChzOEyok9XYRJQ",
+        "title": "Jubilee",
+        "url": "https://www.youtube.com/@jubilee"
+      },
+      "id": "KevTBc07wm8",
+      "lengthInSeconds": 5190,
+      "lengthText": "1:26:30",
+      "publishDate": "2026-07-27T10:21:06.631Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-27T10:21:06.631Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KevTBc07wm8/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCF2MrHOY9KhXCy-lgB3qvGx9ZzSw",
+      "title": "1 Anti-Manosphere vs 20 Manosphere (ft. Mark Manson) | Surrounded",
+      "videoUrl": "https://www.youtube.com/watch?v=KevTBc07wm8",
+      "viewCountInt": 2900000,
+      "viewCountText": "2.9M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:21:06.631Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:21:06.631Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBs_NyzFlDxXea57Dma-xL6gVkOFQ",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 150000,
+      "viewCountText": "150K views"
+    },
+    {
+      "channel": {
+        "handle": "AsmonTV",
+        "id": "UCQeRaTukNYft1_6AZPACnog",
+        "title": "Asmongold TV  ",
+        "url": "https://www.youtube.com/@AsmonTV"
+      },
+      "id": "3yJZ99tjdrk",
+      "lengthInSeconds": 1650,
+      "lengthText": "27:30",
+      "publishDate": "2026-08-26T10:21:06.631Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-08-26T10:21:06.631Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/3yJZ99tjdrk/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCEXyefxvPt-5Q9V_vKD6GD2ACTnw",
+      "title": "Kris Tyson ruined his life..",
+      "videoUrl": "https://www.youtube.com/watch?v=3yJZ99tjdrk",
+      "viewCountInt": 979000,
+      "viewCountText": "979K views"
+    },
+    {
+      "channel": {
+        "handle": "ScreenPuff",
+        "id": "UC6qAABOkwaI1ImYY6oDbi-A",
+        "title": "ScreenPuff",
+        "url": "https://www.youtube.com/@ScreenPuff"
+      },
+      "id": "crH2pS_CZto",
+      "lengthInSeconds": 1162,
+      "lengthText": "19:22",
+      "publishDate": "2026-08-22T10:21:06.631Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:21:06.631Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/crH2pS_CZto/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDgIkrL6BFKGCVgldV7M74xDIufKQ",
+      "title": "When you audition without giving a f**k",
+      "videoUrl": "https://www.youtube.com/watch?v=crH2pS_CZto",
+      "viewCountInt": 3900000,
+      "viewCountText": "3.9M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-27T10:21:06.631Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-27T10:21:06.631Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLA7Y0YtPW3mF55_ovH7pljzcHIVEQ",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    }
+  ]
+}

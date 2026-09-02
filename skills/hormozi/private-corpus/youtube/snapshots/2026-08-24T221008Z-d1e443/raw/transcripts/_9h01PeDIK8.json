@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3360",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "If you have the opportunity to shoot"
+    },
+    {
+      "endMs": "4960",
+      "startMs": "1439",
+      "startTimeText": "0:01",
+      "text": "medium or shoot big, it usually takes"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "the same amount of work to pursue small,"
+    },
+    {
+      "endMs": "8720",
+      "startMs": "4960",
+      "startTimeText": "0:04",
+      "text": "medium, and large goals. You're going to"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "have time elapse either way, and so"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "8720",
+      "startTimeText": "0:08",
+      "text": "you're going to suffer either way. And"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "so, you might as well make it worth"
+    },
+    {
+      "endMs": "14639",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "suffering for and potentially have it"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": "something that gets entered into your"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "14639",
+      "startTimeText": "0:14",
+      "text": "permanent bank of like, when I'm 85, I"
+    },
+    {
+      "endMs": "19840",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "will remember this moment. And to me, I"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "18720",
+      "startTimeText": "0:18",
+      "text": "think that's the only thing that's worth"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "19840",
+      "startTimeText": "0:19",
+      "text": "living"
+    }
+  ],
+  "transcript_only_text": " If  you  have  the  opportunity  to  shoot \n medium  or  shoot  big,  it  usually  takes \n the  same  amount  of  work  to  pursue  small, \n medium,  and  large  goals.  You're  going  to \n have  time  elapse  either  way,  and  so \n you're  going  to  suffer  either  way.  And \n so,  you  might  as  well  make  it  worth \n suffering  for  and  potentially  have  it \n something  that  gets  entered  into  your \n permanent  bank  of  like,  when  I'm  85,  I \n will  remember  this  moment.  And  to  me,  I \n think  that's  the  only  thing  that's  worth \n living",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_9h01PeDIK8",
+  "videoId": "_9h01PeDIK8"
+}

@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Success is the only revenge. As you"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "expand, they shrink into irrelevance. As"
+    },
+    {
+      "endMs": "8320",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "you get louder, no one can hear them."
+    },
+    {
+      "endMs": "10200",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "You don't beat [music] them. You cast a"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "8320",
+      "startTimeText": "0:08",
+      "text": "shadow so big, no one can see them to"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "10200",
+      "startTimeText": "0:10",
+      "text": "begin with. Cuz at the end of the day,"
+    },
+    {
+      "endMs": "15000",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "there's no greater waste of time than"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "13080",
+      "startTimeText": "0:13",
+      "text": "justifying your actions to people who"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "15000",
+      "startTimeText": "0:15",
+      "text": "have a life that you don't want."
+    }
+  ],
+  "transcript_only_text": " Success  is  the  only  revenge.  As  you \n expand,  they  shrink  into  irrelevance.  As \n you  get  louder,  no  one  can  hear  them. \n You  don't  beat  [music]  them.  You  cast  a \n shadow  so  big,  no  one  can  see  them  to \n begin  with.  Cuz  at  the  end  of  the  day, \n there's  no  greater  waste  of  time  than \n justifying  your  actions  to  people  who \n have  a  life  that  you  don't  want.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XFoHmZVk0F0",
+  "videoId": "XFoHmZVk0F0"
+}

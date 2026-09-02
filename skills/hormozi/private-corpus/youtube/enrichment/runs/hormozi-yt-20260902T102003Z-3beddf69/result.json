@@ -1,0 +1,54 @@
+{
+  "automation_id": "hormozi-youtube-source-enrichment",
+  "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+  "counts": {
+    "archived": 11,
+    "changed": 1,
+    "doctrine_eligible": 1659,
+    "duplicate": 82,
+    "failed": 0,
+    "new": 15,
+    "remaining_backlog": 0,
+    "repaired": 0,
+    "review_queued": 1680,
+    "transcript_success": 1680,
+    "transcript_unavailable": 7,
+    "unchanged": 5544
+  },
+  "credits_used": {
+    "api_calls": null,
+    "reason": "the exhaustive ingester does not expose a durable aggregate API-call or credit delta",
+    "value": null
+  },
+  "finished_at": "2026-09-02T11:10:23.311Z",
+  "mode": "full_reconciliation",
+  "model": "gpt-5.6-luna",
+  "pages": {
+    "lives": 2,
+    "shorts": 105,
+    "videos": 18
+  },
+  "reasoning_effort": "max",
+  "run_id": "hormozi-yt-20260902T102003Z-3beddf69",
+  "schema_version": "1.0.0",
+  "source_state_hash_after": "69ceb23fdc79dca2a1256d683d85344c28e9d345c0173c5e77d7f45947888510",
+  "source_state_hash_before": "e4869b1d332015f75d0559e09126dfbe3f833ced376ae712e17989dca41d6ee2",
+  "started_at": "2026-09-02T10:20:03.287Z",
+  "status": "enriched",
+  "verification": {
+    "checks": [
+      "all_surfaces_exhausted",
+      "rolling_window_reconciled",
+      "index_integrity",
+      "resumable_full_checkpoint_complete",
+      "crash_recoverable_atomic_promotion",
+      "candidate_queue_updated",
+      "run_report_promoted"
+    ],
+    "status": "passed"
+  },
+  "window": {
+    "end_inclusive": "2026-09-02T10:20:03.287Z",
+    "start_inclusive": "2025-09-02T10:20:03.287Z"
+  }
+}

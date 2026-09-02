@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Comfort is short game."
+    },
+    {
+      "endMs": "8840",
+      "startMs": "2680",
+      "startTimeText": "0:02",
+      "text": "Regret is long pain."
+    },
+    {
+      "endMs": "11720",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "Fear is short pain. Fulfillment is long"
+    },
+    {
+      "endMs": "14640",
+      "startMs": "8840",
+      "startTimeText": "0:08",
+      "text": "game. You want to trade short pains for"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "11720",
+      "startTimeText": "0:11",
+      "text": "long gains, not short gains for long"
+    },
+    {
+      "endMs": "22040",
+      "startMs": "14640",
+      "startTimeText": "0:14",
+      "text": "pains. It's not the safe bet. It's a"
+    },
+    {
+      "endMs": "22040",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "guaranteed loss just later."
+    }
+  ],
+  "transcript_only_text": " Comfort  is  short  game. \n Regret  is  long  pain. \n Fear  is  short  pain.  Fulfillment  is  long \n game.  You  want  to  trade  short  pains  for \n long  gains,  not  short  gains  for  long \n pains.  It's  not  the  safe  bet.  It's  a \n guaranteed  loss  just  later.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=yOEdO-VEp3s",
+  "videoId": "yOEdO-VEp3s"
+}

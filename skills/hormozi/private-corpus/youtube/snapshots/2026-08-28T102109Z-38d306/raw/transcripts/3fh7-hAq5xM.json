@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "She was like, \"You need to have nice"
+    },
+    {
+      "endMs": "5040",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "suits.\" And I was like, \"Oh, I'll go get"
+    },
+    {
+      "endMs": "7160",
+      "startMs": "3320",
+      "startTimeText": "0:03",
+      "text": "a suit.\" And she was like, \"No, we need"
+    },
+    {
+      "endMs": "8640",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "to look expensive. And whatever you're"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "going to get is probably not going to"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "8640",
+      "startTimeText": "0:08",
+      "text": "be.\" She took me to Hugo Boss, got me"
+    },
+    {
+      "endMs": "14840",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "two suits that were like decked out"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "really nice. And I was like, \"Oh, thank"
+    },
+    {
+      "endMs": "17240",
+      "startMs": "14840",
+      "startTimeText": "0:14",
+      "text": "you.\" And she was like, \"Oh, don't"
+    },
+    {
+      "endMs": "18840",
+      "startMs": "16520",
+      "startTimeText": "0:16",
+      "text": "worry. We'll just take it out of your"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "17240",
+      "startTimeText": "0:17",
+      "text": "next paycheck.\""
+    },
+    {
+      "endMs": "22360",
+      "startMs": "18840",
+      "startTimeText": "0:18",
+      "text": "But that's how I got my first expensive"
+    },
+    {
+      "endMs": "22360",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "suit."
+    }
+  ],
+  "transcript_only_text": " She  was  like,  \"You  need  to  have  nice \n suits.\"  And  I  was  like,  \"Oh,  I'll  go  get \n a  suit.\"  And  she  was  like,  \"No,  we  need \n to  look  expensive.  And  whatever  you're \n going  to  get  is  probably  not  going  to \n be.\"  She  took  me  to  Hugo  Boss,  got  me \n two  suits  that  were  like  decked  out \n really  nice.  And  I  was  like,  \"Oh,  thank \n you.\"  And  she  was  like,  \"Oh,  don't \n worry.  We'll  just  take  it  out  of  your \n next  paycheck.\" \n But  that's  how  I  got  my  first  expensive \n suit.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3fh7-hAq5xM",
+  "videoId": "3fh7-hAq5xM"
+}

@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "Most people think about businessstrategy like they think about making"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "dinner. They go to their kitchen, theyopen up the fridge, they look what's"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "5279",
+      "startTimeText": "0:05",
+      "text": "inside, say, \"What what what am I goingto whip up?\" Right? That's how they"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "think about business strategy. Thequestion that we should be asking isn't"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "what am I going to whip up from what'sinside the fridge. We should ask the"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "13679",
+      "startTimeText": "0:13",
+      "text": "question, \"What the [ __ ] do I want toeat?\" And then go get the ingredients"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "17279",
+      "startTimeText": "0:17",
+      "text": "and go make it"
+    }
+  ],
+  "transcript_only_text": " Most people think about business\nstrategy like they think about making dinner. They go to their kitchen, they\nopen up the fridge, they look what's inside, say, \"What what what am I going\nto whip up?\" Right? That's how they think about business strategy. The\nquestion that we should be asking isn't what am I going to whip up from what's\ninside the fridge. We should ask the question, \"What the [ __ ] do I want to\neat?\" And then go get the ingredients and go make it",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=oIa9iN5T-zc",
+  "videoId": "oIa9iN5T-zc"
+}

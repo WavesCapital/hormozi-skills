@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4080",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "Never change price to close a deal. Now,"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "2320",
+      "startTimeText": "0:02",
+      "text": "testing price, absolutely you should"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "4080",
+      "startTimeText": "0:04",
+      "text": "test your prices, but that should be"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "done ahead of time, premeditated,"
+    },
+    {
+      "endMs": "9599",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "saying, \"These next 10, we're going to"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "try this out and see what happens.\" Not,"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "9599",
+      "startTimeText": "0:09",
+      "text": "\"Oh, I got to close this guy, so I'm"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "going to lower the price to do it.\" And"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "so, my favorite overcome for, \"Hey, can"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "you guys do it for less?\" is we could do"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "it for more. As silly as that sounds,"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "17920",
+      "startTimeText": "0:17",
+      "text": "that has never not worked for"
+    }
+  ],
+  "transcript_only_text": " Never  change  price  to  close  a  deal.  Now, \n testing  price,  absolutely  you  should \n test  your  prices,  but  that  should  be \n done  ahead  of  time,  premeditated, \n saying,  \"These  next  10,  we're  going  to \n try  this  out  and  see  what  happens.\"  Not, \n \"Oh,  I  got  to  close  this  guy,  so  I'm \n going  to  lower  the  price  to  do  it.\"  And \n so,  my  favorite  overcome  for,  \"Hey,  can \n you  guys  do  it  for  less?\"  is  we  could  do \n it  for  more.  As  silly  as  that  sounds, \n that  has  never  not  worked  for",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DKDIdUvIspI",
+  "videoId": "DKDIdUvIspI"
+}

@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2920",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There's two things that I think make"
+    },
+    {
+      "endMs": "5880",
+      "startMs": "1240",
+      "startTimeText": "0:01",
+      "text": "entrepreneurship hard. Number one is"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "2920",
+      "startTimeText": "0:02",
+      "text": "uncertainty. It's just the the absolute"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "5880",
+      "startTimeText": "0:05",
+      "text": "kind of like soul-crushing uncertainty"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "that is always present throughout your"
+    },
+    {
+      "endMs": "11760",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "day, every day, while you're making"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "decisions. It's just always this idea"
+    },
+    {
+      "endMs": "14720",
+      "startMs": "11760",
+      "startTimeText": "0:11",
+      "text": "like you might lose and you don't know."
+    },
+    {
+      "endMs": "16520",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "The other component that makes it so"
+    },
+    {
+      "endMs": "19760",
+      "startMs": "14720",
+      "startTimeText": "0:14",
+      "text": "difficult is"
+    },
+    {
+      "endMs": "20920",
+      "startMs": "16520",
+      "startTimeText": "0:16",
+      "text": "the known quantities that you believe"
+    },
+    {
+      "endMs": "23040",
+      "startMs": "19760",
+      "startTimeText": "0:19",
+      "text": "that you're going to have to trade in"
+    },
+    {
+      "endMs": "24360",
+      "startMs": "20920",
+      "startTimeText": "0:20",
+      "text": "order to get the unknown upside. And so,"
+    },
+    {
+      "endMs": "25760",
+      "startMs": "23040",
+      "startTimeText": "0:23",
+      "text": "it's like we can always quantify the"
+    },
+    {
+      "endMs": "29200",
+      "startMs": "24360",
+      "startTimeText": "0:24",
+      "text": "downside, the thing that we trade, and"
+    },
+    {
+      "endMs": "29200",
+      "startMs": "25760",
+      "startTimeText": "0:25",
+      "text": "we cannot quantify the upside."
+    }
+  ],
+  "transcript_only_text": " There's  two  things  that  I  think  make \n entrepreneurship  hard.  Number  one  is \n uncertainty.  It's  just  the  the  absolute \n kind  of  like  soul-crushing  uncertainty \n that  is  always  present  throughout  your \n day,  every  day,  while  you're  making \n decisions.  It's  just  always  this  idea \n like  you  might  lose  and  you  don't  know. \n The  other  component  that  makes  it  so \n difficult  is \n the  known  quantities  that  you  believe \n that  you're  going  to  have  to  trade  in \n order  to  get  the  unknown  upside.  And  so, \n it's  like  we  can  always  quantify  the \n downside,  the  thing  that  we  trade,  and \n we  cannot  quantify  the  upside.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CwHfWz-Jc1A",
+  "videoId": "CwHfWz-Jc1A"
+}

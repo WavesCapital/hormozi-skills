@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5359",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "All the money is behind problems."
+    },
+    {
+      "endMs": "7279",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "Like if there is no problem, then"
+    },
+    {
+      "endMs": "8639",
+      "startMs": "5359",
+      "startTimeText": "0:05",
+      "text": "everyone's doing it. Like people stop"
+    },
+    {
+      "endMs": "10000",
+      "startMs": "7279",
+      "startTimeText": "0:07",
+      "text": "when there's a problem, which means that"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "8639",
+      "startTimeText": "0:08",
+      "text": "the other side of the problem is where"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "10000",
+      "startTimeText": "0:10",
+      "text": "the money is. So just like reframe"
+    },
+    {
+      "endMs": "16080",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "problem as profit on the other side of"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "the bridge. Like oh good. Here's a"
+    },
+    {
+      "endMs": "20880",
+      "startMs": "16080",
+      "startTimeText": "0:16",
+      "text": "problem. Like I can cash this in for"
+    },
+    {
+      "endMs": "20880",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "money. Chess solve it."
+    }
+  ],
+  "transcript_only_text": " All  the  money  is  behind  problems. \n Like  if  there  is  no  problem,  then \n everyone's  doing  it.  Like  people  stop \n when  there's  a  problem,  which  means  that \n the  other  side  of  the  problem  is  where \n the  money  is.  So  just  like  reframe \n problem  as  profit  on  the  other  side  of \n the  bridge.  Like  oh  good.  Here's  a \n problem.  Like  I  can  cash  this  in  for \n money.  Chess  solve  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MbE41JRYCP8",
+  "videoId": "MbE41JRYCP8"
+}

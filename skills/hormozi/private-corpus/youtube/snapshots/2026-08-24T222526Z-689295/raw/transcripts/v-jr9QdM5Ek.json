@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Beating 99% of people is simple, not"
+    },
+    {
+      "endMs": "5800",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "easy. You show up early, you prepare the"
+    },
+    {
+      "endMs": "8240",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "night before, you remember everyone's"
+    },
+    {
+      "endMs": "9800",
+      "startMs": "5800",
+      "startTimeText": "0:05",
+      "text": "name, you say no to opportunities that"
+    },
+    {
+      "endMs": "11320",
+      "startMs": "8240",
+      "startTimeText": "0:08",
+      "text": "don't bring value to your life. You"
+    },
+    {
+      "endMs": "13280",
+      "startMs": "9800",
+      "startTimeText": "0:09",
+      "text": "follow up quickly, you follow up"
+    },
+    {
+      "endMs": "15120",
+      "startMs": "11320",
+      "startTimeText": "0:11",
+      "text": "multiple times, you deliver value at"
+    },
+    {
+      "endMs": "16360",
+      "startMs": "13280",
+      "startTimeText": "0:13",
+      "text": "every interaction with the other person,"
+    },
+    {
+      "endMs": "17960",
+      "startMs": "15120",
+      "startTimeText": "0:15",
+      "text": "and you never make the same mistake"
+    },
+    {
+      "endMs": "19720",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": "twice. The more I've done this, the more"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "17960",
+      "startTimeText": "0:17",
+      "text": "I've realized that it's about doing the"
+    },
+    {
+      "endMs": "25960",
+      "startMs": "19720",
+      "startTimeText": "0:19",
+      "text": "basics at scale consistently that makes"
+    },
+    {
+      "endMs": "25960",
+      "startMs": "22480",
+      "startTimeText": "0:22",
+      "text": "you advanced, and that's how you win."
+    }
+  ],
+  "transcript_only_text": " Beating  99%  of  people  is  simple,  not \n easy.  You  show  up  early,  you  prepare  the \n night  before,  you  remember  everyone's \n name,  you  say  no  to  opportunities  that \n don't  bring  value  to  your  life.  You \n follow  up  quickly,  you  follow  up \n multiple  times,  you  deliver  value  at \n every  interaction  with  the  other  person, \n and  you  never  make  the  same  mistake \n twice.  The  more  I've  done  this,  the  more \n I've  realized  that  it's  about  doing  the \n basics  at  scale  consistently  that  makes \n you  advanced,  and  that's  how  you  win.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=v-jr9QdM5Ek",
+  "videoId": "v-jr9QdM5Ek"
+}

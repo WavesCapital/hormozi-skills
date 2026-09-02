@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/hormozi/source-manifest-row.schema.json",
+  "title": "One JSONL source manifest row",
+  "type": "object",
+  "required": ["source_key", "text_path", "license_status"],
+  "properties": {
+    "source_key": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+    "title": {"type": "string"},
+    "text_path": {"type": "string"},
+    "locator_prefix": {"type": "string"},
+    "license_status": {"enum": ["owned", "licensed", "public_domain", "authorized"]}
+  }
+}

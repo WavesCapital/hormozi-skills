@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is a writer downer for everyone."
+    },
+    {
+      "endMs": "6000",
+      "startMs": "1640",
+      "startTimeText": "0:01",
+      "text": "You cannot have an AI business without"
+    },
+    {
+      "endMs": "7800",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "first having a data centric business."
+    },
+    {
+      "endMs": "8760",
+      "startMs": "6000",
+      "startTimeText": "0:06",
+      "text": "Period. If you're like, I'm building AI,"
+    },
+    {
+      "endMs": "10840",
+      "startMs": "7800",
+      "startTimeText": "0:07",
+      "text": "it's like, no, you're building a chat"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "GPT overlay. You're not building AI. AI"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10840",
+      "startTimeText": "0:10",
+      "text": "is about training with data. And if you"
+    },
+    {
+      "endMs": "15800",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "don't collect data and structure the"
+    },
+    {
+      "endMs": "17880",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "data well with clear inputs and outputs,"
+    },
+    {
+      "endMs": "21360",
+      "startMs": "15800",
+      "startTimeText": "0:15",
+      "text": "you don't have anything to train the AI"
+    },
+    {
+      "endMs": "21360",
+      "startMs": "17880",
+      "startTimeText": "0:17",
+      "text": "on, which means you have nothing."
+    }
+  ],
+  "transcript_only_text": " This  is  a  writer  downer  for  everyone. \n You  cannot  have  an  AI  business  without \n first  having  a  data  centric  business. \n Period.  If  you're  like,  I'm  building  AI, \n it's  like,  no,  you're  building  a  chat \n GPT  overlay.  You're  not  building  AI.  AI \n is  about  training  with  data.  And  if  you \n don't  collect  data  and  structure  the \n data  well  with  clear  inputs  and  outputs, \n you  don't  have  anything  to  train  the  AI \n on,  which  means  you  have  nothing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fGZYS0x6Ym8",
+  "videoId": "fGZYS0x6Ym8"
+}

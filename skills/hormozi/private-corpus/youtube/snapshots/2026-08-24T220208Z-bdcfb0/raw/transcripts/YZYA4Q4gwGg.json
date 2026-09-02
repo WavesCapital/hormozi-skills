@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So many people like to say they have"
+    },
+    {
+      "endMs": "5000",
+      "startMs": "1160",
+      "startTimeText": "0:01",
+      "text": "high standards, but if you never walk"
+    },
+    {
+      "endMs": "7280",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "away from something that's below your"
+    },
+    {
+      "endMs": "8640",
+      "startMs": "5000",
+      "startTimeText": "0:05",
+      "text": "standard, you just like talking. If you"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "7280",
+      "startTimeText": "0:07",
+      "text": "have high standards, it means that if it"
+    },
+    {
+      "endMs": "13000",
+      "startMs": "8640",
+      "startTimeText": "0:08",
+      "text": "doesn't meet your standard, you don't do"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "the deal. You have to let people know"
+    },
+    {
+      "endMs": "17640",
+      "startMs": "13000",
+      "startTimeText": "0:13",
+      "text": "where your line is, and the only way to"
+    },
+    {
+      "endMs": "19160",
+      "startMs": "14920",
+      "startTimeText": "0:14",
+      "text": "do that is to actually have a line, and"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "17640",
+      "startTimeText": "0:17",
+      "text": "to actually hold it, because you're"
+    },
+    {
+      "endMs": "22960",
+      "startMs": "19160",
+      "startTimeText": "0:19",
+      "text": "really saying a deep yes to yourself"
+    },
+    {
+      "endMs": "26520",
+      "startMs": "21600",
+      "startTimeText": "0:21",
+      "text": "about the standards that you claim to"
+    },
+    {
+      "endMs": "26520",
+      "startMs": "22960",
+      "startTimeText": "0:22",
+      "text": "have, and that they're [ __ ] true."
+    }
+  ],
+  "transcript_only_text": " So  many  people  like  to  say  they  have \n high  standards,  but  if  you  never  walk \n away  from  something  that's  below  your \n standard,  you  just  like  talking.  If  you \n have  high  standards,  it  means  that  if  it \n doesn't  meet  your  standard,  you  don't  do \n the  deal.  You  have  to  let  people  know \n where  your  line  is,  and  the  only  way  to \n do  that  is  to  actually  have  a  line,  and \n to  actually  hold  it,  because  you're \n really  saying  a  deep  yes  to  yourself \n about  the  standards  that  you  claim  to \n have,  and  that  they're  [ __ ]  true.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YZYA4Q4gwGg",
+  "videoId": "YZYA4Q4gwGg"
+}

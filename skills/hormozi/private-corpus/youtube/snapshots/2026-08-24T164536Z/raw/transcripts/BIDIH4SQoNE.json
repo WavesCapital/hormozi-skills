@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2879",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "I say there's basically four steps to"
+    },
+    {
+      "endMs": "5920",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "starting a business. It's like you have"
+    },
+    {
+      "endMs": "7359",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "to get an LLC, you take the LLC to a"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "5920",
+      "startTimeText": "0:05",
+      "text": "bank, and then you get a bank account,"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "7359",
+      "startTimeText": "0:07",
+      "text": "and then you connect that bank account"
+    },
+    {
+      "endMs": "12639",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "to a payment processor, and then you go"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "ask a stranger if you can do something"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "12639",
+      "startTimeText": "0:12",
+      "text": "in exchange for money. And if you do all"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "four of those things, you have a"
+    },
+    {
+      "endMs": "19199",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "business. That's it,"
+    },
+    {
+      "endMs": "20320",
+      "startMs": "16960",
+      "startTimeText": "0:16",
+      "text": ">> right? And so a lot of people like spend"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "19199",
+      "startTimeText": "0:19",
+      "text": "years being like, I'm going to start a"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "20320",
+      "startTimeText": "0:20",
+      "text": "business one day. Like you can do it"
+    }
+  ],
+  "transcript_only_text": " I  say  there's  basically  four  steps  to \n starting  a  business.  It's  like  you  have \n to  get  an  LLC,  you  take  the  LLC  to  a \n bank,  and  then  you  get  a  bank  account, \n and  then  you  connect  that  bank  account \n to  a  payment  processor,  and  then  you  go \n ask  a  stranger  if  you  can  do  something \n in  exchange  for  money.  And  if  you  do  all \n four  of  those  things,  you  have  a \n business.  That's  it, \n >> right?  And  so  a  lot  of  people  like  spend \n years  being  like,  I'm  going  to  start  a \n business  one  day.  Like  you  can  do  it",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BIDIH4SQoNE",
+  "videoId": "BIDIH4SQoNE"
+}

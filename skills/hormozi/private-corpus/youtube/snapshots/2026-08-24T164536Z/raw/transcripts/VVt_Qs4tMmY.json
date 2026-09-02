@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3360",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you ever played a video game where"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "1000",
+      "startTimeText": "0:01",
+      "text": "you you have the ultimate sword day one"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "and you know where every every monster"
+    },
+    {
+      "endMs": "8840",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "is and you can't lose because you have"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "an impenetrable shield on, it stops"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "8840",
+      "startTimeText": "0:08",
+      "text": "being fun. And it's the same reason that"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "the Greek gods envied the mortals."
+    },
+    {
+      "endMs": "16200",
+      "startMs": "12520",
+      "startTimeText": "0:12",
+      "text": "Anything could happen, whereas the gods'"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "outcomes were guaranteed. And so we have"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "16200",
+      "startTimeText": "0:16",
+      "text": "this perception that we want this thing,"
+    },
+    {
+      "endMs": "21840",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "but if we really were to have that"
+    },
+    {
+      "endMs": "23200",
+      "startMs": "19480",
+      "startTimeText": "0:19",
+      "text": "guarantee, it would circumvent the"
+    },
+    {
+      "endMs": "25560",
+      "startMs": "21840",
+      "startTimeText": "0:21",
+      "text": "reason it's worth pursuing to begin"
+    },
+    {
+      "endMs": "25560",
+      "startMs": "23200",
+      "startTimeText": "0:23",
+      "text": "with."
+    }
+  ],
+  "transcript_only_text": " If  you  ever  played  a  video  game  where \n you  you  have  the  ultimate  sword  day  one \n and  you  know  where  every  every  monster \n is  and  you  can't  lose  because  you  have \n an  impenetrable  shield  on,  it  stops \n being  fun.  And  it's  the  same  reason  that \n the  Greek  gods  envied  the  mortals. \n Anything  could  happen,  whereas  the  gods' \n outcomes  were  guaranteed.  And  so  we  have \n this  perception  that  we  want  this  thing, \n but  if  we  really  were  to  have  that \n guarantee,  it  would  circumvent  the \n reason  it's  worth  pursuing  to  begin \n with.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VVt_Qs4tMmY",
+  "videoId": "VVt_Qs4tMmY"
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "One of the things I thought was genius"
+    },
+    {
+      "endMs": "4800",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "about like Yogurt Land, if you go to a"
+    },
+    {
+      "endMs": "6000",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "store and then they fill up your stuff"
+    },
+    {
+      "endMs": "7360",
+      "startMs": "4800",
+      "startTimeText": "0:04",
+      "text": "behind the counter and then they say,"
+    },
+    {
+      "endMs": "8720",
+      "startMs": "6000",
+      "startTimeText": "0:06",
+      "text": "\"Hey, it's eight bucks.\" You're like,"
+    },
+    {
+      "endMs": "10520",
+      "startMs": "7360",
+      "startTimeText": "0:07",
+      "text": "\"Man, what the hell? This place is so"
+    },
+    {
+      "endMs": "11960",
+      "startMs": "8720",
+      "startTimeText": "0:08",
+      "text": "expensive.\" But if they give you the cup"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "and you fill it up and you put it on the"
+    },
+    {
+      "endMs": "15760",
+      "startMs": "11960",
+      "startTimeText": "0:11",
+      "text": "scale, you're like, \"Man, I'm a fat"
+    },
+    {
+      "endMs": "18440",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "ass.\" Same pricing, but because I had"
+    },
+    {
+      "endMs": "21880",
+      "startMs": "15760",
+      "startTimeText": "0:15",
+      "text": "control over what I picked, I'm the one"
+    },
+    {
+      "endMs": "21880",
+      "startMs": "18440",
+      "startTimeText": "0:18",
+      "text": "who's responsible for the decision."
+    }
+  ],
+  "transcript_only_text": " One  of  the  things  I  thought  was  genius \n about  like  Yogurt  Land,  if  you  go  to  a \n store  and  then  they  fill  up  your  stuff \n behind  the  counter  and  then  they  say, \n \"Hey,  it's  eight  bucks.\"  You're  like, \n \"Man,  what  the  hell?  This  place  is  so \n expensive.\"  But  if  they  give  you  the  cup \n and  you  fill  it  up  and  you  put  it  on  the \n scale,  you're  like,  \"Man,  I'm  a  fat \n ass.\"  Same  pricing,  but  because  I  had \n control  over  what  I  picked,  I'm  the  one \n who's  responsible  for  the  decision.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1BvSiF8phDE",
+  "videoId": "1BvSiF8phDE"
+}

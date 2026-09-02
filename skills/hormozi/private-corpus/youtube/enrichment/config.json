@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "task_name": "Hormozi YouTube Source Enrichment",
+  "automation_id": "hormozi-youtube-source-enrichment",
+  "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
+  "channel_handle": "AlexHormozi",
+  "model": "gpt-5.6-luna",
+  "reasoning_effort": "max",
+  "schedule": "17 6 * * *",
+  "timezone": "America/New_York",
+  "working_directory": "/Users/kylesteinmeyer7/SkySuperAgentv3",
+  "prompt_path": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Tasks/Automations/hormozi-youtube-source-enrichment.md",
+  "state_path": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/state.json",
+  "latest_result_path": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/latest-run.json"
+}

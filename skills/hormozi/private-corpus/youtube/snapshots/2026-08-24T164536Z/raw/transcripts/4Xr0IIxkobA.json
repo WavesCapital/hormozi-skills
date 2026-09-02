@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You need feedback cycles to learn. And"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "3000",
+      "startTimeText": "0:03",
+      "text": "learning for everyone, same condition,"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "6040",
+      "startTimeText": "0:06",
+      "text": "new behavior. So if you watch more"
+    },
+    {
+      "endMs": "12360",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "videos,"
+    },
+    {
+      "endMs": "14600",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "but your conditions are the same, and"
+    },
+    {
+      "endMs": "16360",
+      "startMs": "12360",
+      "startTimeText": "0:12",
+      "text": "your behavior does not change, you"
+    },
+    {
+      "endMs": "18640",
+      "startMs": "14600",
+      "startTimeText": "0:14",
+      "text": "entertained yourself. You did not"
+    },
+    {
+      "endMs": "21320",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": "educate yourself. Learning only"
+    },
+    {
+      "endMs": "23280",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "manifests with a change in behavior in"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "21320",
+      "startTimeText": "0:21",
+      "text": "the same conditions. And so if you're"
+    },
+    {
+      "endMs": "30000",
+      "startMs": "23280",
+      "startTimeText": "0:23",
+      "text": "going to consume stuff, you have to act"
+    },
+    {
+      "endMs": "30000",
+      "startMs": "25920",
+      "startTimeText": "0:25",
+      "text": "on it in order for learning to occur."
+    }
+  ],
+  "transcript_only_text": " You  need  feedback  cycles  to  learn.  And \n learning  for  everyone,  same  condition, \n new  behavior.  So  if  you  watch  more \n videos, \n but  your  conditions  are  the  same,  and \n your  behavior  does  not  change,  you \n entertained  yourself.  You  did  not \n educate  yourself.  Learning  only \n manifests  with  a  change  in  behavior  in \n the  same  conditions.  And  so  if  you're \n going  to  consume  stuff,  you  have  to  act \n on  it  in  order  for  learning  to  occur.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4Xr0IIxkobA",
+  "videoId": "4Xr0IIxkobA"
+}

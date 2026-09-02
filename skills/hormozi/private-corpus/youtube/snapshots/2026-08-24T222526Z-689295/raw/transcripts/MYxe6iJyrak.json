@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The simplest path to making money: 1."
+    },
+    {
+      "endMs": "5960",
+      "startMs": "1960",
+      "startTimeText": "0:01",
+      "text": "Find a service people already buy. 2. Do"
+    },
+    {
+      "endMs": "8200",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "it in half the time, make it twice as"
+    },
+    {
+      "endMs": "10120",
+      "startMs": "5960",
+      "startTimeText": "0:05",
+      "text": "easy, or remove all the risk. 3. Ask"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "8200",
+      "startTimeText": "0:08",
+      "text": "everyone you know if they know anybody"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "10120",
+      "startTimeText": "0:10",
+      "text": "who wants it. 4. Charge more than"
+    },
+    {
+      "endMs": "17000",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "everyone else. And then 5. Don't stop"
+    },
+    {
+      "endMs": "17000",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "when you get bored."
+    }
+  ],
+  "transcript_only_text": " The  simplest  path  to  making  money:  1. \n Find  a  service  people  already  buy.  2.  Do \n it  in  half  the  time,  make  it  twice  as \n easy,  or  remove  all  the  risk.  3.  Ask \n everyone  you  know  if  they  know  anybody \n who  wants  it.  4.  Charge  more  than \n everyone  else.  And  then  5.  Don't  stop \n when  you  get  bored.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MYxe6iJyrak",
+  "videoId": "MYxe6iJyrak"
+}

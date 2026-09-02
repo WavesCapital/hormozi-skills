@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So most business owners think that they"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "1560",
+      "startTimeText": "0:01",
+      "text": "own a business, when in reality they own"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": "a very expensive, high-paying job."
+    },
+    {
+      "endMs": "8560",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "Investors don't buy businesses that"
+    },
+    {
+      "endMs": "9880",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "can't survive without the founder. So it"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "8560",
+      "startTimeText": "0:08",
+      "text": "doesn't matter how much revenue you do,"
+    },
+    {
+      "endMs": "13120",
+      "startMs": "9880",
+      "startTimeText": "0:09",
+      "text": "if every decision, you know, comes from"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "you, every client and every fire comes"
+    },
+    {
+      "endMs": "16200",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "back to you, the value of the business"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "is close to zero. And it's something"
+    },
+    {
+      "endMs": "20120",
+      "startMs": "16200",
+      "startTimeText": "0:16",
+      "text": "that we call key man risk. And so until"
+    },
+    {
+      "endMs": "23320",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "you solve it, you don't have an asset,"
+    },
+    {
+      "endMs": "23320",
+      "startMs": "20120",
+      "startTimeText": "0:20",
+      "text": "you actually have a liability."
+    }
+  ],
+  "transcript_only_text": " So  most  business  owners  think  that  they \n own  a  business,  when  in  reality  they  own \n a  very  expensive,  high-paying  job. \n Investors  don't  buy  businesses  that \n can't  survive  without  the  founder.  So  it \n doesn't  matter  how  much  revenue  you  do, \n if  every  decision,  you  know,  comes  from \n you,  every  client  and  every  fire  comes \n back  to  you,  the  value  of  the  business \n is  close  to  zero.  And  it's  something \n that  we  call  key  man  risk.  And  so  until \n you  solve  it,  you  don't  have  an  asset, \n you  actually  have  a  liability.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=G8byKRANK3Y",
+  "videoId": "G8byKRANK3Y"
+}

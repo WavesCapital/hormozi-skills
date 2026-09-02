@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4960",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "If you can make the decision, fail, and"
+    },
+    {
+      "endMs": "6400",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "then go back and do the other path in"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "4960",
+      "startTimeText": "0:04",
+      "text": "less time than it would take you to"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "6400",
+      "startTimeText": "0:06",
+      "text": "gather the data for the right path, then"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "you make a failure in judgment by not"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "deciding."
+    }
+  ],
+  "transcript_only_text": " If  you  can  make  the  decision,  fail,  and \n then  go  back  and  do  the  other  path  in \n less  time  than  it  would  take  you  to \n gather  the  data  for  the  right  path,  then \n you  make  a  failure  in  judgment  by  not \n deciding.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3fN57Kkhwd4",
+  "videoId": "3fN57Kkhwd4"
+}

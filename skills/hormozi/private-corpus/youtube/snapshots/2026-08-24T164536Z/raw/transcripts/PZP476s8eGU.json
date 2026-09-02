@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If I go to a restaurant and I have an"
+    },
+    {
+      "endMs": "4040",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "amazing steak dinner, and then after I"
+    },
+    {
+      "endMs": "4880",
+      "startMs": "3000",
+      "startTimeText": "0:03",
+      "text": "have had my steak dinner, the waiter"
+    },
+    {
+      "endMs": "6360",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "comes and says, \"Do you want to have"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "another steak?\" Most people would say"
+    },
+    {
+      "endMs": "9170",
+      "startMs": "6360",
+      "startTimeText": "0:06",
+      "text": "no. You want to sell at the point of"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "greatest pain,"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "9170",
+      "startTimeText": "0:09",
+      "text": ">> [clears throat]"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": ">> not at the point of greatest [music]"
+    },
+    {
+      "endMs": "14040",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "value. If I just had a steak, maybe I"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "12520",
+      "startTimeText": "0:12",
+      "text": "have a lot of pain in that I don't have"
+    },
+    {
+      "endMs": "18600",
+      "startMs": "14040",
+      "startTimeText": "0:14",
+      "text": "dessert yet. They meet the right offer"
+    },
+    {
+      "endMs": "18600",
+      "startMs": "15560",
+      "startTimeText": "0:15",
+      "text": "at the wrong time."
+    }
+  ],
+  "transcript_only_text": " If  I  go  to  a  restaurant  and  I  have  an \n amazing  steak  dinner,  and  then  after  I \n have  had  my  steak  dinner,  the  waiter \n comes  and  says,  \"Do  you  want  to  have \n another  steak?\"  Most  people  would  say \n no.  You  want  to  sell  at  the  point  of \n greatest  pain, \n >> [clears throat] \n >> not  at  the  point  of  greatest  [music] \n value.  If  I  just  had  a  steak,  maybe  I \n have  a  lot  of  pain  in  that  I  don't  have \n dessert  yet.  They  meet  the  right  offer \n at  the  wrong  time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=PZP476s8eGU",
+  "videoId": "PZP476s8eGU"
+}

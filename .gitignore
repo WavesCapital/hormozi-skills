@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.hormozi/
+*.sqlite-shm
+*.sqlite-wal
+dist/

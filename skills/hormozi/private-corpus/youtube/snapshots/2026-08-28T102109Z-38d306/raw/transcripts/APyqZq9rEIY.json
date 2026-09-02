@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Entrepreneurship [ __ ] sucks a lot of"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "the time. Most of the day-to-day of"
+    },
+    {
+      "endMs": "6880",
+      "startMs": "3400",
+      "startTimeText": "0:03",
+      "text": "entrepreneurship is just getting kicked"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "in the nuts every single day for years"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "6880",
+      "startTimeText": "0:06",
+      "text": "on end with an occasional glimmer of"
+    },
+    {
+      "endMs": "13320",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "hope followed by a swift kick in the"
+    },
+    {
+      "endMs": "15880",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "nuts. I think it's reframing pain as"
+    },
+    {
+      "endMs": "17720",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "reality and something to be expected and"
+    },
+    {
+      "endMs": "19240",
+      "startMs": "15880",
+      "startTimeText": "0:15",
+      "text": "the price that we are willing to pay for"
+    },
+    {
+      "endMs": "20800",
+      "startMs": "17720",
+      "startTimeText": "0:17",
+      "text": "the thing that we want. We chose to"
+    },
+    {
+      "endMs": "22520",
+      "startMs": "19240",
+      "startTimeText": "0:19",
+      "text": "become entrepreneurs. We chose to start"
+    },
+    {
+      "endMs": "25360",
+      "startMs": "20800",
+      "startTimeText": "0:20",
+      "text": "businesses and with that choice comes"
+    },
+    {
+      "endMs": "25360",
+      "startMs": "22520",
+      "startTimeText": "0:22",
+      "text": "consequences."
+    }
+  ],
+  "transcript_only_text": " Entrepreneurship  [ __ ]  sucks  a  lot  of \n the  time.  Most  of  the  day-to-day  of \n entrepreneurship  is  just  getting  kicked \n in  the  nuts  every  single  day  for  years \n on  end  with  an  occasional  glimmer  of \n hope  followed  by  a  swift  kick  in  the \n nuts.  I  think  it's  reframing  pain  as \n reality  and  something  to  be  expected  and \n the  price  that  we  are  willing  to  pay  for \n the  thing  that  we  want.  We  chose  to \n become  entrepreneurs.  We  chose  to  start \n businesses  and  with  that  choice  comes \n consequences.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=APyqZq9rEIY",
+  "videoId": "APyqZq9rEIY"
+}

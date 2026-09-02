@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4080",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you work a 9-5, you're never going to"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "accomplish your dreams. Because forget"
+    },
+    {
+      "endMs": "9320",
+      "startMs": "4080",
+      "startTimeText": "0:04",
+      "text": "about working on the 12 federal holidays"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "that you get per year, or the 104"
+    },
+    {
+      "endMs": "13560",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "weekend days that you get per year to"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "pursue your dreams, or the 2080 hours"
+    },
+    {
+      "endMs": "17640",
+      "startMs": "13560",
+      "startTimeText": "0:13",
+      "text": "that you have between 5:00 a.m. and 9:00"
+    },
+    {
+      "endMs": "19760",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "a.m. and 5:00 p.m. and 9:00 p.m. 5 days"
+    },
+    {
+      "endMs": "23720",
+      "startMs": "17640",
+      "startTimeText": "0:17",
+      "text": "a week, 52 weeks a year. Forget about"
+    },
+    {
+      "endMs": "23720",
+      "startMs": "19760",
+      "startTimeText": "0:19",
+      "text": "all that, because you don't have time."
+    }
+  ],
+  "transcript_only_text": " If  you  work  a  9-5,  you're  never  going  to \n accomplish  your  dreams.  Because  forget \n about  working  on  the  12  federal  holidays \n that  you  get  per  year,  or  the  104 \n weekend  days  that  you  get  per  year  to \n pursue  your  dreams,  or  the  2080  hours \n that  you  have  between  5:00  a.m.  and  9:00 \n a.m.  and  5:00  p.m.  and  9:00  p.m.  5  days \n a  week,  52  weeks  a  year.  Forget  about \n all  that,  because  you  don't  have  time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DPtfTzqkxHs",
+  "videoId": "DPtfTzqkxHs"
+}

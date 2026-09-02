@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The thing that will get you the biggest"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "1480",
+      "startTimeText": "0:01",
+      "text": "pay increase is being someone worthy of"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "a higher pay increase. And so, this is"
+    },
+    {
+      "endMs": "8760",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "where a lot of people end up in hot"
+    },
+    {
+      "endMs": "10760",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": "water. They insist on having all these"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "things on their first job, rather than"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "being willing to get the experience that"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "they can then leverage to get the far"
+    },
+    {
+      "endMs": "18360",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "bigger paying job in the future, because"
+    },
+    {
+      "endMs": "20840",
+      "startMs": "16960",
+      "startTimeText": "0:16",
+      "text": "then they can state the facts and tell"
+    },
+    {
+      "endMs": "22600",
+      "startMs": "18360",
+      "startTimeText": "0:18",
+      "text": "the truth that I really did this thing,"
+    },
+    {
+      "endMs": "24000",
+      "startMs": "20840",
+      "startTimeText": "0:20",
+      "text": "and I think if I did this thing for you,"
+    },
+    {
+      "endMs": "27520",
+      "startMs": "22600",
+      "startTimeText": "0:22",
+      "text": "you would make this much, and I'm just"
+    },
+    {
+      "endMs": "27520",
+      "startMs": "24000",
+      "startTimeText": "0:24",
+      "text": "asking for a percentage of that."
+    }
+  ],
+  "transcript_only_text": " The  thing  that  will  get  you  the  biggest \n pay  increase  is  being  someone  worthy  of \n a  higher  pay  increase.  And  so,  this  is \n where  a  lot  of  people  end  up  in  hot \n water.  They  insist  on  having  all  these \n things  on  their  first  job,  rather  than \n being  willing  to  get  the  experience  that \n they  can  then  leverage  to  get  the  far \n bigger  paying  job  in  the  future,  because \n then  they  can  state  the  facts  and  tell \n the  truth  that  I  really  did  this  thing, \n and  I  think  if  I  did  this  thing  for  you, \n you  would  make  this  much,  and  I'm  just \n asking  for  a  percentage  of  that.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mSxxM2IooYk",
+  "videoId": "mSxxM2IooYk"
+}

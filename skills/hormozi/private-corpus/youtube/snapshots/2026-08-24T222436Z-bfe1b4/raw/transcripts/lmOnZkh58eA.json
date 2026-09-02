@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If I had to pick between having 100"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "affiliates and running ads on one"
+    },
+    {
+      "endMs": "7160",
+      "startMs": "3560",
+      "startTimeText": "0:03",
+      "text": "platform, 100 affiliates is far more"
+    },
+    {
+      "endMs": "8680",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "distributed in terms of like risk."
+    },
+    {
+      "endMs": "10480",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "You're not going to lose 100 affiliates."
+    },
+    {
+      "endMs": "12240",
+      "startMs": "8680",
+      "startTimeText": "0:08",
+      "text": "You might lose one or two, but it's a"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "very stable base. You could lose your ad"
+    },
+    {
+      "endMs": "15760",
+      "startMs": "12240",
+      "startTimeText": "0:12",
+      "text": "account tomorrow. This is why I'm a big"
+    },
+    {
+      "endMs": "17160",
+      "startMs": "13920",
+      "startTimeText": "0:13",
+      "text": "affiliate fan. So, like if you have"
+    },
+    {
+      "endMs": "18200",
+      "startMs": "15760",
+      "startTimeText": "0:15",
+      "text": "already better returns on affiliate,"
+    },
+    {
+      "endMs": "19560",
+      "startMs": "17160",
+      "startTimeText": "0:17",
+      "text": "affiliate is already way more"
+    },
+    {
+      "endMs": "22120",
+      "startMs": "18200",
+      "startTimeText": "0:18",
+      "text": "diversified. Just focus all your"
+    },
+    {
+      "endMs": "22120",
+      "startMs": "19560",
+      "startTimeText": "0:19",
+      "text": "attention there."
+    }
+  ],
+  "transcript_only_text": " If  I  had  to  pick  between  having  100 \n affiliates  and  running  ads  on  one \n platform,  100  affiliates  is  far  more \n distributed  in  terms  of  like  risk. \n You're  not  going  to  lose  100  affiliates. \n You  might  lose  one  or  two,  but  it's  a \n very  stable  base.  You  could  lose  your  ad \n account  tomorrow.  This  is  why  I'm  a  big \n affiliate  fan.  So,  like  if  you  have \n already  better  returns  on  affiliate, \n affiliate  is  already  way  more \n diversified.  Just  focus  all  your \n attention  there.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=lmOnZkh58eA",
+  "videoId": "lmOnZkh58eA"
+}

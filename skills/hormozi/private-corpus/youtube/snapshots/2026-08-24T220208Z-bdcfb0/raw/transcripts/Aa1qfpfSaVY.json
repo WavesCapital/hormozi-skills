@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4360",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The single greatest skill that you can"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "develop is being in a great mood in the"
+    },
+    {
+      "endMs": "7920",
+      "startMs": "4360",
+      "startTimeText": "0:04",
+      "text": "absence of things to be in a great mood"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "about. Most people don't question"
+    },
+    {
+      "endMs": "11160",
+      "startMs": "7920",
+      "startTimeText": "0:07",
+      "text": "someone who's in a bad mood. Like, I'm"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "just in a bad mood. So, it's like, well,"
+    },
+    {
+      "endMs": "13600",
+      "startMs": "11160",
+      "startTimeText": "0:11",
+      "text": "if you can be in a bad mood for no"
+    },
+    {
+      "endMs": "15480",
+      "startMs": "12440",
+      "startTimeText": "0:12",
+      "text": "reason, it's like you might as well be"
+    },
+    {
+      "endMs": "18520",
+      "startMs": "13600",
+      "startTimeText": "0:13",
+      "text": "in a good mood for no reason cuz that"
+    },
+    {
+      "endMs": "18520",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "one at least serves you."
+    }
+  ],
+  "transcript_only_text": " The  single  greatest  skill  that  you  can \n develop  is  being  in  a  great  mood  in  the \n absence  of  things  to  be  in  a  great  mood \n about.  Most  people  don't  question \n someone  who's  in  a  bad  mood.  Like,  I'm \n just  in  a  bad  mood.  So,  it's  like,  well, \n if  you  can  be  in  a  bad  mood  for  no \n reason,  it's  like  you  might  as  well  be \n in  a  good  mood  for  no  reason  cuz  that \n one  at  least  serves  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Aa1qfpfSaVY",
+  "videoId": "Aa1qfpfSaVY"
+}

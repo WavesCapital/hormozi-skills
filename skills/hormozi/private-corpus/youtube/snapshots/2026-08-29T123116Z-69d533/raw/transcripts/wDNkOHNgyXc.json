@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "At some point, everyone needs to choose"
+    },
+    {
+      "endMs": "6160",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "whether they'd rather risk rejection now"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "or guarantee regret later. Losers fear"
+    },
+    {
+      "endMs": "11560",
+      "startMs": "6160",
+      "startTimeText": "0:06",
+      "text": "rejection, winners fear regret. And most"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "attempts fail of anything. Failure is"
+    },
+    {
+      "endMs": "16080",
+      "startMs": "11560",
+      "startTimeText": "0:11",
+      "text": "literally a prerequisite for success."
+    },
+    {
+      "endMs": "18800",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "Greatness rejects all first-time"
+    },
+    {
+      "endMs": "18800",
+      "startMs": "16080",
+      "startTimeText": "0:16",
+      "text": "applicants."
+    }
+  ],
+  "transcript_only_text": " At  some  point,  everyone  needs  to  choose \n whether  they'd  rather  risk  rejection  now \n or  guarantee  regret  later.  Losers  fear \n rejection,  winners  fear  regret.  And  most \n attempts  fail  of  anything.  Failure  is \n literally  a  prerequisite  for  success. \n Greatness  rejects  all  first-time \n applicants.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wDNkOHNgyXc",
+  "videoId": "wDNkOHNgyXc"
+}

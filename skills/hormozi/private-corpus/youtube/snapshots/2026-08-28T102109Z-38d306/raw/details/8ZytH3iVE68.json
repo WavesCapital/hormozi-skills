@@ -1,0 +1,326 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=8ZytH3iVE68&ei=I2GRap2vFp670_wP9M3AyAE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787937683&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A01809409E94BEEFF56B8566497DFCE133D648AA.DD5E5ABB77686D3090C97D58F40BF767DE921DFA&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 23,
+  "commentCountText": "23",
+  "credits_charged": 1,
+  "credits_remaining": 18240,
+  "description": "One of the first questions I ask when we invest in a company is: \n\n“What’s stopping us from doing 10x more of what’s currently working?”\n\nOftentimes: nothing.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "approxDurationMs": "125653",
+        "audioChannels": 2,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "audioSampleRate": "48000",
+        "averageBitrate": 595850,
+        "bitrate": 596102,
+        "cdnUrl": "https://rr5---sn-uhvcpax0n5-5ua6.googlevideo.com/videoplayback?expire=1787934083&ei=I2GRap2vFp670_wP9M3AyAE&ip=172.58.3.145&id=o-AJ-C9tk6MOUnjd90tORkSxo892uoJmbhbaoNyh4Gb3si&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=242&met=1787912483%2C&mh=JX&mm=18%2C29&mn=sn-uhvcpax0n5-5ua6%2Csn-2o5ua5-5m&ms=aub%2Crdu&mv=m&mvi=5&pl=23&rms=aub%2Caub&initcwndbps=2296250&bui=AR3QkAlKIbRMVlIkQaZ4StvIscQ-eH-02_vYSD2SNJancyS6ks-j0EbDWkj74shRa_PzUDTx5xvm8eAG&spc=KBGBchp-2Dig45DMs5aNxJXm2WTDZ03iX5m4XPSRgFBrZvX189xS4P-vIVUTCS3hGL63q2bR5lY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=_RwhuAM0IkUK_LJj0WJA0pQX&rqh=1&gir=yes&clen=9358804&ratebypass=yes&dur=125.653&lmt=1787875773786613&mt=1787911966&fvip=1&fexp=51565115%2C52135441&c=WEB&sefc=1&txp=3310224&n=bGXFDkZGJnxjQ102Gl&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAN_9HRnMzvYXpbStdohQvSjsWiMjIa5sMIGA9-FU7z67AiEA9NUxahGJVDIjHONQI8W2l_HrICarmi1BViYMlbwor9k%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgd715uo6p6M90RoXjpAHbUEVr_vqnxZB0xxNEvAil5W4CIE_1ciQZG6vL0ymhhSfe1pqhavjAmamFT-SiRo96YCyD",
+        "codecs": "avc1.42001E, mp4a.40.2",
+        "contentLength": "9358804",
+        "expiresAt": "2026-08-28T16:21:23.000Z",
+        "fps": 30,
+        "hasAudio": true,
+        "hasVideo": true,
+        "height": 640,
+        "itag": 18,
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "projectionType": "RECTANGULAR",
+        "quality": "medium",
+        "qualityLabel": "360p",
+        "requiresSignatureDecipher": false,
+        "signatureCipher": null,
+        "url": "https://rr5---sn-uhvcpax0n5-5ua6.googlevideo.com/videoplayback?expire=1787934083&ei=I2GRap2vFp670_wP9M3AyAE&ip=172.58.3.145&id=o-AJ-C9tk6MOUnjd90tORkSxo892uoJmbhbaoNyh4Gb3si&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=242&met=1787912483%2C&mh=JX&mm=18%2C29&mn=sn-uhvcpax0n5-5ua6%2Csn-2o5ua5-5m&ms=aub%2Crdu&mv=m&mvi=5&pl=23&rms=aub%2Caub&initcwndbps=2296250&bui=AR3QkAlKIbRMVlIkQaZ4StvIscQ-eH-02_vYSD2SNJancyS6ks-j0EbDWkj74shRa_PzUDTx5xvm8eAG&spc=KBGBchp-2Dig45DMs5aNxJXm2WTDZ03iX5m4XPSRgFBrZvX189xS4P-vIVUTCS3hGL63q2bR5lY&vprv=1&svpuc=1&mime=video%2Fmp4&ns=_RwhuAM0IkUK_LJj0WJA0pQX&rqh=1&gir=yes&clen=9358804&ratebypass=yes&dur=125.653&lmt=1787875773786613&mt=1787911966&fvip=1&fexp=51565115%2C52135441&c=WEB&sefc=1&txp=3310224&n=bGXFDkZGJnxjQ102Gl&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAN_9HRnMzvYXpbStdohQvSjsWiMjIa5sMIGA9-FU7z67AiEA9NUxahGJVDIjHONQI8W2l_HrICarmi1BViYMlbwor9k%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRAIgd715uo6p6M90RoXjpAHbUEVr_vqnxZB0xxNEvAil5W4CIE_1ciQZG6vL0ymhhSfe1pqhavjAmamFT-SiRo96YCyD",
+        "width": 360
+      }
+    ],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:02:06",
+  "durationMs": 126000,
+  "genre": "Education",
+  "id": "8ZytH3iVE68",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 413,
+  "likeCountText": "413",
+  "most_replayed": null,
+  "publishDate": "2026-08-27T17:03:23-07:00",
+  "publishDateText": "Aug 27, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/8ZytH3iVE68/maxresdefault.jpg",
+  "title": "How to talk to staff that don’t want to sell",
+  "type": "video",
+  "viewCountInt": 11084,
+  "viewCountText": "11,084",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "s6tkRztZwYc",
+      "lengthInSeconds": 1256,
+      "lengthText": "20:56",
+      "publishDate": "2025-08-28T10:21:24.285Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-28T10:21:24.285Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/s6tkRztZwYc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAjOTaBM65OU_ERsuhsWJ5BImntqw",
+      "title": "How to Articulate Your Thoughts More Clearly Than 99% of People",
+      "videoUrl": "https://www.youtube.com/watch?v=s6tkRztZwYc",
+      "viewCountInt": 527000,
+      "viewCountText": "527K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-28T10:21:24.285Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-28T10:21:24.285Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "title": "GeoLogic and EuroFault",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "wFExA-o5geU",
+      "lengthInSeconds": 1435,
+      "lengthText": "23:55",
+      "publishDate": "2026-06-28T10:21:24.285Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-28T10:21:24.285Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/wFExA-o5geU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBlsvXEwbva3gpyHRYfCvm7wvvBqQ",
+      "title": "Why Atlanta Makes No Sense as a U.S. City",
+      "videoUrl": "https://www.youtube.com/watch?v=wFExA-o5geU",
+      "viewCountInt": 106000,
+      "viewCountText": "106K views"
+    },
+    {
+      "channel": {
+        "handle": "BusinessInsider",
+        "id": "UCcyq283he07B7_KUX07mmtA",
+        "title": "Business Insider",
+        "url": "https://www.youtube.com/@BusinessInsider"
+      },
+      "id": "CXhM3E1WhQc",
+      "lengthInSeconds": 1201,
+      "lengthText": "20:01",
+      "publishDate": "2026-08-24T10:21:24.285Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-24T10:21:24.285Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/CXhM3E1WhQc/hqdefault_custom_3.jpg?sqp=CNDBxdQG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAoIm7RCwDWiIYnuL650KyrPx0Tmg",
+      "title": "Inside The Busiest Kitchen On Uber Eats That Makes Indian And Pakistani Food",
+      "videoUrl": "https://www.youtube.com/watch?v=CXhM3E1WhQc",
+      "viewCountInt": 595000,
+      "viewCountText": "595K views"
+    },
+    {
+      "channel": {
+        "handle": "MikeRitland",
+        "id": "UCNZR15cy3w1fzGXgI5oy5aA",
+        "title": "Mike Ritland",
+        "url": "https://www.youtube.com/@MikeRitland"
+      },
+      "id": "4nD0I2TB318",
+      "lengthInSeconds": 1314,
+      "lengthText": "21:54",
+      "publishDate": "2026-08-24T10:21:24.285Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-24T10:21:24.285Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/4nD0I2TB318/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDmteXRDfNNARJ33oWtnqevXP9xbg",
+      "title": "Navy SEAL Takes Down 3 Gang Members in a Jail Cell",
+      "videoUrl": "https://www.youtube.com/watch?v=4nD0I2TB318",
+      "viewCountInt": 789000,
+      "viewCountText": "789K views"
+    },
+    {
+      "channel": {
+        "handle": "MovieGasm",
+        "id": "UCwBV-eg1dAkzrdjqJfyEj0w",
+        "title": "MovieGasm‍․com",
+        "url": "https://www.youtube.com/@MovieGasm"
+      },
+      "id": "80bkVen5CJI",
+      "lengthInSeconds": 238,
+      "lengthText": "3:58",
+      "publishDate": "2026-08-17T10:21:24.285Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-17T10:21:24.285Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/80bkVen5CJI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDezx8-IqD2lnx3vJYzlYotKyxhDQ",
+      "title": "AVENGERS: DOOMSDAY Trailer (2024) Extended | 4K UHD",
+      "videoUrl": "https://www.youtube.com/watch?v=80bkVen5CJI",
+      "viewCountInt": 944000,
+      "viewCountText": "944K views"
+    },
+    {
+      "channel": {
+        "handle": "TheRealEstateLawyer",
+        "id": "UCE2pv_U4_WKaps3tfBByf8g",
+        "title": "The Real Estate Lawyer",
+        "url": "https://www.youtube.com/@TheRealEstateLawyer"
+      },
+      "id": "DpBrjT6WDmY",
+      "lengthInSeconds": 400,
+      "lengthText": "6:40",
+      "publishDate": "2026-05-28T10:21:24.285Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-05-28T10:21:24.285Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/DpBrjT6WDmY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBDyYTZprxdvTqVs8KOTf4w6gAq2A",
+      "title": "NEVER Buy These 5 Types of Homes (I'm a Lawyer)",
+      "videoUrl": "https://www.youtube.com/watch?v=DpBrjT6WDmY",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T10:21:24.285Z",
+      "publishDateText": "9 days ago",
+      "publishedTime": "2026-08-19T10:21:24.285Z",
+      "publishedTimeText": "9 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 445000,
+      "viewCountText": "445K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "GFM9-Mq2Fuw",
+      "lengthInSeconds": 240,
+      "lengthText": "4:00",
+      "publishDate": "2024-08-28T10:21:24.285Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-08-28T10:21:24.285Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/GFM9-Mq2Fuw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCdrVvy2qpCU_YNXRn9KZ1s7ytkIg",
+      "title": "HR Meeting - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=GFM9-Mq2Fuw",
+      "viewCountInt": 10000000,
+      "viewCountText": "10M views"
+    },
+    {
+      "channel": {
+        "handle": "ycombinator",
+        "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+        "title": "Y Combinator",
+        "url": "https://www.youtube.com/@ycombinator"
+      },
+      "id": "sJ4VJWycX9M",
+      "lengthInSeconds": 1930,
+      "lengthText": "32:10",
+      "publishDate": "2026-07-31T10:21:24.285Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-31T10:21:24.285Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/sJ4VJWycX9M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSmzK3YuwYufULq15uxu8zcXCY8g",
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "videoUrl": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "viewCountInt": 220000,
+      "viewCountText": "220K views"
+    },
+    {
+      "channel": {
+        "handle": "CNBCMakeIt",
+        "id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+        "title": "CNBC Make It",
+        "url": "https://www.youtube.com/@CNBCMakeIt"
+      },
+      "id": "uk_2zKQd46g",
+      "lengthInSeconds": 531,
+      "lengthText": "8:51",
+      "publishDate": "2026-06-28T10:21:24.285Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-28T10:21:24.285Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/uk_2zKQd46g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZJNmUmSe8v0vmRQYWXCkM8hr9xA",
+      "title": "I Left The U.S. And Bought A House In Italy For $13K",
+      "videoUrl": "https://www.youtube.com/watch?v=uk_2zKQd46g",
+      "viewCountInt": 3400000,
+      "viewCountText": "3.4M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "mHER6vAr1bg",
+      "lengthInSeconds": 1150,
+      "lengthText": "19:10",
+      "publishDate": "2026-04-28T10:21:24.285Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-28T10:21:24.285Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/mHER6vAr1bg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt0g087QX2AClvjc56gKza19WCxg",
+      "title": "THIS Is #1 FASTEST Way To BURN Fat Around Your Organs",
+      "videoUrl": "https://www.youtube.com/watch?v=mHER6vAr1bg",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    }
+  ]
+}

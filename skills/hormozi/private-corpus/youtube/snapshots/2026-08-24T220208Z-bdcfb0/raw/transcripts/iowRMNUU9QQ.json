@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Are there companies right now that do"
+    },
+    {
+      "endMs": "4520",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "not have websites and make money?"
+    },
+    {
+      "endMs": "6280",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "Absolutely."
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4520",
+      "startTimeText": "0:04",
+      "text": "Do they make as much as they could?"
+    },
+    {
+      "endMs": "9880",
+      "startMs": "6280",
+      "startTimeText": "0:06",
+      "text": "Probably not. There are people today"
+    },
+    {
+      "endMs": "12640",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "that use fax machines. There are people"
+    },
+    {
+      "endMs": "14640",
+      "startMs": "9880",
+      "startTimeText": "0:09",
+      "text": "today who still count on their fingers."
+    },
+    {
+      "endMs": "16360",
+      "startMs": "12640",
+      "startTimeText": "0:12",
+      "text": "It doesn't mean that it makes them more"
+    },
+    {
+      "endMs": "17800",
+      "startMs": "14640",
+      "startTimeText": "0:14",
+      "text": "likely to compete. It means that they"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": "are competing and still winning with a"
+    },
+    {
+      "endMs": "21480",
+      "startMs": "17800",
+      "startTimeText": "0:17",
+      "text": "disadvantage, which means that they have"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "to be so much better in other in your"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "21480",
+      "startTimeText": "0:21",
+      "text": "arenas."
+    }
+  ],
+  "transcript_only_text": " Are  there  companies  right  now  that  do \n not  have  websites  and  make  money? \n Absolutely. \n Do  they  make  as  much  as  they  could? \n Probably  not.  There  are  people  today \n that  use  fax  machines.  There  are  people \n today  who  still  count  on  their  fingers. \n It  doesn't  mean  that  it  makes  them  more \n likely  to  compete.  It  means  that  they \n are  competing  and  still  winning  with  a \n disadvantage,  which  means  that  they  have \n to  be  so  much  better  in  other  in  your \n arenas.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iowRMNUU9QQ",
+  "videoId": "iowRMNUU9QQ"
+}

@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There are only four paths to becoming"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "ultra-wealthy. Number one, you bet other"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3680",
+      "startTimeText": "0:03",
+      "text": "people's money on other people's"
+    },
+    {
+      "endMs": "9000",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "businesses. This is what fund managers"
+    },
+    {
+      "endMs": "10120",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "do. Number two, you bet your money on"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "other people's businesses. That's"
+    },
+    {
+      "endMs": "14200",
+      "startMs": "10120",
+      "startTimeText": "0:10",
+      "text": "investing. Third, you bet other people's"
+    },
+    {
+      "endMs": "16360",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "money on your business. That's raising"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "14200",
+      "startTimeText": "0:14",
+      "text": "funds. Fourth, you bet your money on"
+    },
+    {
+      "endMs": "20440",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": "your own business, and that's"
+    },
+    {
+      "endMs": "20440",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "bootstrapping."
+    }
+  ],
+  "transcript_only_text": " There  are  only  four  paths  to  becoming \n ultra-wealthy.  Number  one,  you  bet  other \n people's  money  on  other  people's \n businesses.  This  is  what  fund  managers \n do.  Number  two,  you  bet  your  money  on \n other  people's  businesses.  That's \n investing.  Third,  you  bet  other  people's \n money  on  your  business.  That's  raising \n funds.  Fourth,  you  bet  your  money  on \n your  own  business,  and  that's \n bootstrapping.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YYxej3cD5FU",
+  "videoId": "YYxej3cD5FU"
+}

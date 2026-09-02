@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4799",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Everybody works their face off the first"
+    },
+    {
+      "endMs": "6799",
+      "startMs": "2080",
+      "startTimeText": "0:02",
+      "text": "10 years. 10 years, decade, first 10"
+    },
+    {
+      "endMs": "8000",
+      "startMs": "4799",
+      "startTimeText": "0:04",
+      "text": "years, you work your face off. And if"
+    },
+    {
+      "endMs": "10559",
+      "startMs": "6799",
+      "startTimeText": "0:06",
+      "text": "you haven't started working your face"
+    },
+    {
+      "endMs": "13120",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "off, the 10-year clock hasn't started."
+    },
+    {
+      "endMs": "15599",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "Like real real like if you live a"
+    },
+    {
+      "endMs": "17039",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "balanced life right now, your clock"
+    },
+    {
+      "endMs": "19279",
+      "startMs": "15599",
+      "startTimeText": "0:15",
+      "text": "hasn't started. You haven't gone pro"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "17039",
+      "startTimeText": "0:17",
+      "text": "yet. And so it's really just like do you"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "19279",
+      "startTimeText": "0:19",
+      "text": "want to be in the"
+    }
+  ],
+  "transcript_only_text": " Everybody  works  their  face  off  the  first \n 10  years.  10  years,  decade,  first  10 \n years,  you  work  your  face  off.  And  if \n you  haven't  started  working  your  face \n off,  the  10-year  clock  hasn't  started. \n Like  real  real  like  if  you  live  a \n balanced  life  right  now,  your  clock \n hasn't  started.  You  haven't  gone  pro \n yet.  And  so  it's  really  just  like  do  you \n want  to  be  in  the",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=cg2E6dyPWwc",
+  "videoId": "cg2E6dyPWwc"
+}

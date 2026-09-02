@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I think people don't do very much, and I"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "think the vast majority of people just"
+    },
+    {
+      "endMs": "5840",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": "wildly underestimate the volume that's"
+    },
+    {
+      "endMs": "7360",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "required. They're like, \"Hey, I've been"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "selling for 90 days.\" I'm like, \"Okay,"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "7360",
+      "startTimeText": "0:07",
+      "text": "so how many calls a day do you take?\""
+    },
+    {
+      "endMs": "10520",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "And they're like, \"Five or six live"
+    },
+    {
+      "endMs": "13160",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "calls.\" I'm like, \"Okay, you need to"
+    },
+    {
+      "endMs": "15520",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "take like 400 live calls.\" This is John."
+    },
+    {
+      "endMs": "17360",
+      "startMs": "13160",
+      "startTimeText": "0:13",
+      "text": "He's closed 4,000 deals. Not calls"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "15520",
+      "startTimeText": "0:15",
+      "text": "taken, deals. That's why he's better"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "17360",
+      "startTimeText": "0:17",
+      "text": "than you. It just comes down to number"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "18920",
+      "startTimeText": "0:18",
+      "text": "of actions taken per unit of time."
+    }
+  ],
+  "transcript_only_text": " I  think  people  don't  do  very  much,  and  I \n think  the  vast  majority  of  people  just \n wildly  underestimate  the  volume  that's \n required.  They're  like,  \"Hey,  I've  been \n selling  for  90  days.\"  I'm  like,  \"Okay, \n so  how  many  calls  a  day  do  you  take?\" \n And  they're  like,  \"Five  or  six  live \n calls.\"  I'm  like,  \"Okay,  you  need  to \n take  like  400  live  calls.\"  This  is  John. \n He's  closed  4,000  deals.  Not  calls \n taken,  deals.  That's  why  he's  better \n than  you.  It  just  comes  down  to  number \n of  actions  taken  per  unit  of  time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=k1ZjPHvO5HQ",
+  "videoId": "k1ZjPHvO5HQ"
+}

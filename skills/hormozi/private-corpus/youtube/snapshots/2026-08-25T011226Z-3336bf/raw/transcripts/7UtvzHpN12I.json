@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If the metrics that you have for the"
+    },
+    {
+      "endMs": "7840",
+      "startMs": "1960",
+      "startTimeText": "0:01",
+      "text": "thing that you love are above or at your"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "industry benchmark, leave it alone. It's"
+    },
+    {
+      "endMs": "10760",
+      "startMs": "7840",
+      "startTimeText": "0:07",
+      "text": "not the thing that's limiting your"
+    },
+    {
+      "endMs": "12680",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "business because you need to free up all"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "that bandwidth so that you can actually"
+    },
+    {
+      "endMs": "15720",
+      "startMs": "12680",
+      "startTimeText": "0:12",
+      "text": "learn the new skills or focus on the"
+    },
+    {
+      "endMs": "17040",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "thing that really is limiting your"
+    },
+    {
+      "endMs": "18640",
+      "startMs": "15720",
+      "startTimeText": "0:15",
+      "text": "business, which is probably the thing"
+    },
+    {
+      "endMs": "21440",
+      "startMs": "17040",
+      "startTimeText": "0:17",
+      "text": "you suck at and you don't like doing and"
+    },
+    {
+      "endMs": "21440",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "you outsource."
+    }
+  ],
+  "transcript_only_text": " If  the  metrics  that  you  have  for  the \n thing  that  you  love  are  above  or  at  your \n industry  benchmark,  leave  it  alone.  It's \n not  the  thing  that's  limiting  your \n business  because  you  need  to  free  up  all \n that  bandwidth  so  that  you  can  actually \n learn  the  new  skills  or  focus  on  the \n thing  that  really  is  limiting  your \n business,  which  is  probably  the  thing \n you  suck  at  and  you  don't  like  doing  and \n you  outsource.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7UtvzHpN12I",
+  "videoId": "7UtvzHpN12I"
+}

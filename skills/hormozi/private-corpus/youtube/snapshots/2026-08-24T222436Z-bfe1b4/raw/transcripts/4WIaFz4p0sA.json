@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Poor people stay poor because they wanta fast way to get rich."
+    },
+    {
+      "endMs": "8000",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "You'd be surprised how far you can getby only knowing what you want and not"
+    },
+    {
+      "endMs": "12040",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "accepting anything [music] else untilyou get it. It's very hard to have a"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "vision when you have bills to pay.Focusing on many things is a great way"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "to fill up your calendar and empty yourbank account."
+    }
+  ],
+  "transcript_only_text": " Poor people stay poor because they want\na fast way to get rich. You'd be surprised how far you can get\nby only knowing what you want and not accepting anything [music] else until\nyou get it. It's very hard to have a vision when you have bills to pay.\nFocusing on many things is a great way to fill up your calendar and empty your\nbank account.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4WIaFz4p0sA",
+  "videoId": "4WIaFz4p0sA"
+}

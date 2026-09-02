@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Everyone has this fallacy that the first"
+    },
+    {
+      "endMs": "4319",
+      "startMs": "1839",
+      "startTimeText": "0:01",
+      "text": "thing they pick is going to be the last"
+    },
+    {
+      "endMs": "5759",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "thing they pick. They think that's going"
+    },
+    {
+      "endMs": "7440",
+      "startMs": "4319",
+      "startTimeText": "0:04",
+      "text": "to be their business forever. But I've"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "5759",
+      "startTimeText": "0:05",
+      "text": "had a lot of businesses over my career"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "and you learn it each time. Like every"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "business I've had, I've I learned"
+    },
+    {
+      "endMs": "14240",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "lessons from the ones before. And it"
+    },
+    {
+      "endMs": "15759",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "took me nine businesses before I"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "14240",
+      "startTimeText": "0:14",
+      "text": "actually had my like first real"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "15759",
+      "startTimeText": "0:15",
+      "text": "successful"
+    }
+  ],
+  "transcript_only_text": " Everyone  has  this  fallacy  that  the  first \n thing  they  pick  is  going  to  be  the  last \n thing  they  pick.  They  think  that's  going \n to  be  their  business  forever.  But  I've \n had  a  lot  of  businesses  over  my  career \n and  you  learn  it  each  time.  Like  every \n business  I've  had,  I've  I  learned \n lessons  from  the  ones  before.  And  it \n took  me  nine  businesses  before  I \n actually  had  my  like  first  real \n successful",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-xmrCwm60hk",
+  "videoId": "-xmrCwm60hk"
+}

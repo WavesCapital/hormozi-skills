@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I think what takes time for"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "880",
+      "startTimeText": "0:00",
+      "text": "entrepreneurs is there's just so many"
+    },
+    {
+      "endMs": "7040",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "skills required to be a good"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "entrepreneur and you have to be like"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "7040",
+      "startTimeText": "0:07",
+      "text": "very good at all of them. That's why I"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "see entrepreneurship as the single"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "greatest path of personal development."
+    },
+    {
+      "endMs": "17280",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "Like you get real-time feedback that you"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "suck. It just takes time."
+    }
+  ],
+  "transcript_only_text": " I  think  what  takes  time  for \n entrepreneurs  is  there's  just  so  many \n skills  required  to  be  a  good \n entrepreneur  and  you  have  to  be  like \n very  good  at  all  of  them.  That's  why  I \n see  entrepreneurship  as  the  single \n greatest  path  of  personal  development. \n Like  you  get  real-time  feedback  that  you \n suck.  It  just  takes  time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8c5ig0yTj-s",
+  "videoId": "8c5ig0yTj-s"
+}

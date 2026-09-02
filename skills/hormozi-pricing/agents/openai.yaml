@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Pricing"
-  short_description: "Set prices and raise them safely"
-  default_prompt: "Use $hormozi-pricing to recommend pricing and package structure."
-
-policy:
-  allow_implicit_invocation: true

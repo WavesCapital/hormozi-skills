@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If I have 365 days a year,"
+    },
+    {
+      "endMs": "5320",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "what are my bottom 10% days going to"
+    },
+    {
+      "endMs": "8120",
+      "startMs": "3960",
+      "startTimeText": "0:03",
+      "text": "look like? Probably pretty shitty. How"
+    },
+    {
+      "endMs": "9800",
+      "startMs": "5320",
+      "startTimeText": "0:05",
+      "text": "many of those a year do I get? 36."
+    },
+    {
+      "endMs": "11280",
+      "startMs": "8120",
+      "startTimeText": "0:08",
+      "text": "Well, There's 12 months in a year."
+    },
+    {
+      "endMs": "12720",
+      "startMs": "9800",
+      "startTimeText": "0:09",
+      "text": "Okay, well, I'm getting three of those a"
+    },
+    {
+      "endMs": "15080",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "month."
+    },
+    {
+      "endMs": "16560",
+      "startMs": "12720",
+      "startTimeText": "0:12",
+      "text": "That's actually like fairly common. It's"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "15080",
+      "startTimeText": "0:15",
+      "text": "every 10 days."
+    },
+    {
+      "endMs": "21000",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "I have a bottom 10% day. And so, I think"
+    },
+    {
+      "endMs": "22720",
+      "startMs": "19480",
+      "startTimeText": "0:19",
+      "text": "about that a lot where I'm like, I don't"
+    },
+    {
+      "endMs": "24040",
+      "startMs": "21000",
+      "startTimeText": "0:21",
+      "text": "necessarily need to change anything. I"
+    },
+    {
+      "endMs": "25280",
+      "startMs": "22720",
+      "startTimeText": "0:22",
+      "text": "think my plan's fine. I just need to"
+    },
+    {
+      "endMs": "28960",
+      "startMs": "24040",
+      "startTimeText": "0:24",
+      "text": "increase my tolerance for the fact that"
+    },
+    {
+      "endMs": "28960",
+      "startMs": "25280",
+      "startTimeText": "0:25",
+      "text": "what bottom 10% days look like."
+    }
+  ],
+  "transcript_only_text": " If  I  have  365  days  a  year, \n what  are  my  bottom  10%  days  going  to \n look  like?  Probably  pretty  shitty.  How \n many  of  those  a  year  do  I  get?  36. \n Well,  There's  12  months  in  a  year. \n Okay,  well,  I'm  getting  three  of  those  a \n month. \n That's  actually  like  fairly  common.  It's \n every  10  days. \n I  have  a  bottom  10%  day.  And  so,  I  think \n about  that  a  lot  where  I'm  like,  I  don't \n necessarily  need  to  change  anything.  I \n think  my  plan's  fine.  I  just  need  to \n increase  my  tolerance  for  the  fact  that \n what  bottom  10%  days  look  like.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=tKFClubQ_kY",
+  "videoId": "tKFClubQ_kY"
+}

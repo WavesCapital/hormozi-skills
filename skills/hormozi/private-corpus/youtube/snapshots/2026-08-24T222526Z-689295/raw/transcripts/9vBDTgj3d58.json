@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Researchers tried to train dogs faster,"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "2280",
+      "startTimeText": "0:02",
+      "text": "and what they found was the more delay"
+    },
+    {
+      "endMs": "9520",
+      "startMs": "4800",
+      "startTimeText": "0:04",
+      "text": "they had in their feedback to the dog,"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "the more times they had to try repeating"
+    },
+    {
+      "endMs": "13240",
+      "startMs": "9520",
+      "startTimeText": "0:09",
+      "text": "the trick. So, that means that if you"
+    },
+    {
+      "endMs": "15040",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": "say sit and the dog sits and you"
+    },
+    {
+      "endMs": "17480",
+      "startMs": "13240",
+      "startTimeText": "0:13",
+      "text": "immediately give it the treat, you had"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "to have fewer times to train the dog."
+    },
+    {
+      "endMs": "21440",
+      "startMs": "17480",
+      "startTimeText": "0:17",
+      "text": "Whereas, if you said sit and then waited"
+    },
+    {
+      "endMs": "23480",
+      "startMs": "19480",
+      "startTimeText": "0:19",
+      "text": "30 seconds, you had to have a lot of"
+    },
+    {
+      "endMs": "25080",
+      "startMs": "21440",
+      "startTimeText": "0:21",
+      "text": "times of doing that before the dog got"
+    },
+    {
+      "endMs": "27160",
+      "startMs": "23480",
+      "startTimeText": "0:23",
+      "text": "it. When we try to learn or we're trying"
+    },
+    {
+      "endMs": "30000",
+      "startMs": "25080",
+      "startTimeText": "0:25",
+      "text": "to teach somebody else, an employee, a"
+    },
+    {
+      "endMs": "32279",
+      "startMs": "27160",
+      "startTimeText": "0:27",
+      "text": "teammate, a child, whatever, we want the"
+    },
+    {
+      "endMs": "34960",
+      "startMs": "30000",
+      "startTimeText": "0:30",
+      "text": "delay on the feedback to be as little as"
+    },
+    {
+      "endMs": "34960",
+      "startMs": "32279",
+      "startTimeText": "0:32",
+      "text": "possible."
+    }
+  ],
+  "transcript_only_text": " Researchers  tried  to  train  dogs  faster, \n and  what  they  found  was  the  more  delay \n they  had  in  their  feedback  to  the  dog, \n the  more  times  they  had  to  try  repeating \n the  trick.  So,  that  means  that  if  you \n say  sit  and  the  dog  sits  and  you \n immediately  give  it  the  treat,  you  had \n to  have  fewer  times  to  train  the  dog. \n Whereas,  if  you  said  sit  and  then  waited \n 30  seconds,  you  had  to  have  a  lot  of \n times  of  doing  that  before  the  dog  got \n it.  When  we  try  to  learn  or  we're  trying \n to  teach  somebody  else,  an  employee,  a \n teammate,  a  child,  whatever,  we  want  the \n delay  on  the  feedback  to  be  as  little  as \n possible.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=9vBDTgj3d58",
+  "videoId": "9vBDTgj3d58"
+}

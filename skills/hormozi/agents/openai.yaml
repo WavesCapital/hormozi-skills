@@ -1,0 +1,6 @@
+interface:
+  display_name: "Hormozi Advisor"
+  short_description: "Review business through the Hormozi lens"
+  default_prompt: "Use $hormozi to review this work, critique it, and tell me the best next move."
+policy:
+  allow_implicit_invocation: true

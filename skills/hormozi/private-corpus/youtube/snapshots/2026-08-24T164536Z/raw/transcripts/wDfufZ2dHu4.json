@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Being willing to walk away in total has"
+    },
+    {
+      "endMs": "7160",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "made me over 25 million dollars in cash"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "of money that I walked away from and"
+    },
+    {
+      "endMs": "11880",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "said I don't need the deal and then came"
+    },
+    {
+      "endMs": "14080",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "back and then they offered me my terms"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "11880",
+      "startTimeText": "0:11",
+      "text": "because they needed me, I didn't need"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "14080",
+      "startTimeText": "0:14",
+      "text": "them."
+    }
+  ],
+  "transcript_only_text": " Being  willing  to  walk  away  in  total  has \n made  me  over  25  million  dollars  in  cash \n of  money  that  I  walked  away  from  and \n said  I  don't  need  the  deal  and  then  came \n back  and  then  they  offered  me  my  terms \n because  they  needed  me,  I  didn't  need \n them.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wDfufZ2dHu4",
+  "videoId": "wDfufZ2dHu4"
+}

@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2879",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "The thing is a lot of things make money."
+    },
+    {
+      "endMs": "5040",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "Doesn't necessarily mean you should do"
+    },
+    {
+      "endMs": "6319",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "it. I could drive Uber. It makes money."
+    },
+    {
+      "endMs": "6720",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "I shouldn't do it. What's the money"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "6319",
+      "startTimeText": "0:06",
+      "text": "goal?"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": ">> I really haven't like thought about."
+    },
+    {
+      "endMs": "10880",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": ">> It's worth thinking about. I'll tell you"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "why. Because it's hard to optimize for a"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "goal that doesn't exist. Because then"
+    },
+    {
+      "endMs": "14719",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "what happens is you default to like,"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "well, this makes money. Fundamentally,"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "14719",
+      "startTimeText": "0:14",
+      "text": "like this question, even I said it uh"
+    },
+    {
+      "endMs": "19520",
+      "startMs": "16160",
+      "startTimeText": "0:16",
+      "text": "light-heartedly to you, is probably the"
+    },
+    {
+      "endMs": "22000",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "crux of your issue. You have to figure"
+    },
+    {
+      "endMs": "22000",
+      "startMs": "19520",
+      "startTimeText": "0:19",
+      "text": "out what you want."
+    }
+  ],
+  "transcript_only_text": " The  thing  is  a  lot  of  things  make  money. \n Doesn't  necessarily  mean  you  should  do \n it.  I  could  drive  Uber.  It  makes  money. \n I  shouldn't  do  it.  What's  the  money \n goal? \n >> I  really  haven't  like  thought  about. \n >> It's  worth  thinking  about.  I'll  tell  you \n why.  Because  it's  hard  to  optimize  for  a \n goal  that  doesn't  exist.  Because  then \n what  happens  is  you  default  to  like, \n well,  this  makes  money.  Fundamentally, \n like  this  question,  even  I  said  it  uh \n light-heartedly  to  you,  is  probably  the \n crux  of  your  issue.  You  have  to  figure \n out  what  you  want.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DTyxi4vPhRc",
+  "videoId": "DTyxi4vPhRc"
+}

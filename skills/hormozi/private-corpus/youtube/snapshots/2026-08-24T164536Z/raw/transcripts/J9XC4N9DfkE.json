@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3360",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When I started my first business, which"
+    },
+    {
+      "endMs": "5160",
+      "startMs": "1240",
+      "startTimeText": "0:01",
+      "text": "was a gym, I had no business starting a"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "business. The only reason I was able to"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "5160",
+      "startTimeText": "0:05",
+      "text": "start the business is because I was"
+    },
+    {
+      "endMs": "10360",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "ignorant of how deficient I really was."
+    },
+    {
+      "endMs": "11720",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "Because if I knew what I knew now, I"
+    },
+    {
+      "endMs": "14240",
+      "startMs": "10360",
+      "startTimeText": "0:10",
+      "text": "don't even know if I would have started"
+    },
+    {
+      "endMs": "16680",
+      "startMs": "11720",
+      "startTimeText": "0:11",
+      "text": "cuz it's so hard and I got so lucky so"
+    },
+    {
+      "endMs": "19440",
+      "startMs": "14240",
+      "startTimeText": "0:14",
+      "text": "many times to be where I am today. Just"
+    },
+    {
+      "endMs": "20880",
+      "startMs": "16680",
+      "startTimeText": "0:16",
+      "text": "sheer blind luck in a couple instances."
+    },
+    {
+      "endMs": "24120",
+      "startMs": "19440",
+      "startTimeText": "0:19",
+      "text": "But you sign up for that as an"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "20880",
+      "startTimeText": "0:20",
+      "text": "entrepreneur unknowingly."
+    }
+  ],
+  "transcript_only_text": " When  I  started  my  first  business,  which \n was  a  gym,  I  had  no  business  starting  a \n business.  The  only  reason  I  was  able  to \n start  the  business  is  because  I  was \n ignorant  of  how  deficient  I  really  was. \n Because  if  I  knew  what  I  knew  now,  I \n don't  even  know  if  I  would  have  started \n cuz  it's  so  hard  and  I  got  so  lucky  so \n many  times  to  be  where  I  am  today.  Just \n sheer  blind  luck  in  a  couple  instances. \n But  you  sign  up  for  that  as  an \n entrepreneur  unknowingly.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=J9XC4N9DfkE",
+  "videoId": "J9XC4N9DfkE"
+}

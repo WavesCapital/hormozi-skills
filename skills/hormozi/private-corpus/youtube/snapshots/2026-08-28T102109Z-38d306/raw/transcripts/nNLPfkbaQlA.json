@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6000",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "A friend who supports you is someone who"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "3679",
+      "startTimeText": "0:03",
+      "text": "deliberately decreases the possibility"
+    },
+    {
+      "endMs": "10559",
+      "startMs": "6000",
+      "startTimeText": "0:06",
+      "text": "of failure. Because imagine that you"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "have a 100% chance of hitting your goal"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "and you have three friends that have a"
+    },
+    {
+      "endMs": "15120",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "30% decrease. It's like you've got"
+    },
+    {
+      "endMs": "16880",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "somebody who's casting like a slow spell"
+    },
+    {
+      "endMs": "18240",
+      "startMs": "15120",
+      "startTimeText": "0:15",
+      "text": "on you and you're like moving so slow"
+    },
+    {
+      "endMs": "19760",
+      "startMs": "16880",
+      "startTimeText": "0:16",
+      "text": "and you're like weak and like all your"
+    },
+    {
+      "endMs": "21520",
+      "startMs": "18240",
+      "startTimeText": "0:18",
+      "text": "all your hits have like half power. And"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "19760",
+      "startTimeText": "0:19",
+      "text": "so if you look at your friends and you"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "21520",
+      "startTimeText": "0:21",
+      "text": "ask yourself, does this person increase"
+    },
+    {
+      "endMs": "28640",
+      "startMs": "24080",
+      "startTimeText": "0:24",
+      "text": "or decrease the possibility of failure"
+    },
+    {
+      "endMs": "31279",
+      "startMs": "26080",
+      "startTimeText": "0:26",
+      "text": "with my goal? If the answer is decrease"
+    },
+    {
+      "endMs": "31279",
+      "startMs": "28640",
+      "startTimeText": "0:28",
+      "text": "and get rid of"
+    }
+  ],
+  "transcript_only_text": " A  friend  who  supports  you  is  someone  who \n deliberately  decreases  the  possibility \n of  failure.  Because  imagine  that  you \n have  a  100%  chance  of  hitting  your  goal \n and  you  have  three  friends  that  have  a \n 30%  decrease.  It's  like  you've  got \n somebody  who's  casting  like  a  slow  spell \n on  you  and  you're  like  moving  so  slow \n and  you're  like  weak  and  like  all  your \n all  your  hits  have  like  half  power.  And \n so  if  you  look  at  your  friends  and  you \n ask  yourself,  does  this  person  increase \n or  decrease  the  possibility  of  failure \n with  my  goal?  If  the  answer  is  decrease \n and  get  rid  of",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nNLPfkbaQlA",
+  "videoId": "nNLPfkbaQlA"
+}

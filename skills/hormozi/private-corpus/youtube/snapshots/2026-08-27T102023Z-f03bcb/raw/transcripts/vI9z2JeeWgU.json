@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Most of the people in my life will not"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "be here for the rest of my life. Either"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3600",
+      "startTimeText": "0:03",
+      "text": "they will die or I will die, but one of"
+    },
+    {
+      "endMs": "9120",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "us will end. The idea that I'm going to"
+    },
+    {
+      "endMs": "10440",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "dictate the the few brief moments I have"
+    },
+    {
+      "endMs": "11720",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "in this existence based on someone"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "10440",
+      "startTimeText": "0:10",
+      "text": "else's perception of me feels like a"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "11720",
+      "startTimeText": "0:11",
+      "text": "pretty terrible way to live."
+    }
+  ],
+  "transcript_only_text": " Most  of  the  people  in  my  life  will  not \n be  here  for  the  rest  of  my  life.  Either \n they  will  die  or  I  will  die,  but  one  of \n us  will  end.  The  idea  that  I'm  going  to \n dictate  the  the  few  brief  moments  I  have \n in  this  existence  based  on  someone \n else's  perception  of  me  feels  like  a \n pretty  terrible  way  to  live.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vI9z2JeeWgU",
+  "videoId": "vI9z2JeeWgU"
+}

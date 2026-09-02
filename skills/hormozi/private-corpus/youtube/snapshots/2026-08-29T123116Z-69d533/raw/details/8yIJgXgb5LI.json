@@ -1,0 +1,302 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=8yIJgXgb5LI&ei=MdGSarLnN5KGkucP18Xu4A8&caps=asr&opi=112496729&exp=xpe&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788031905&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=6B80B1F743482FA408E1ECB2B18389897B019E8F.C3905B52BF71347DBA95A0C62E250E7F85D24A64&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 26,
+  "commentCountText": "26",
+  "credits_charged": 1,
+  "credits_remaining": 18134,
+  "description": "Beginners overvalue thinking and undervalue doing—\n\n—Advanced do the opposite.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:56",
+  "durationMs": 56000,
+  "genre": "Education",
+  "id": "8yIJgXgb5LI",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1212,
+  "likeCountText": "1212",
+  "most_replayed": null,
+  "publishDate": "2026-08-28T09:18:17-07:00",
+  "publishDateText": "Aug 28, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/8yIJgXgb5LI/maxresdefault.jpg",
+  "title": "How I Cut Training By 90%",
+  "type": "video",
+  "viewCountInt": 22550,
+  "viewCountText": "22,550",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "NoelDeyzel",
+        "id": "UCMp-0bU-PA7BNNR-zIvEydA",
+        "title": "Noel Deyzel",
+        "url": "https://www.youtube.com/@NoelDeyzel"
+      },
+      "id": "tDRvdj_HqFc",
+      "lengthInSeconds": 866,
+      "lengthText": "14:26",
+      "publishDate": "2026-08-08T12:31:46.808Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-08T12:31:46.808Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/tDRvdj_HqFc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD0906C8BTTfKkibe-VtUOWB1RA7w",
+      "title": "fitness content lately…",
+      "videoUrl": "https://www.youtube.com/watch?v=tDRvdj_HqFc",
+      "viewCountInt": 563000,
+      "viewCountText": "563K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "R7McLmx73Xw",
+      "lengthInSeconds": 3347,
+      "lengthText": "55:47",
+      "publishDate": "2026-08-28T20:31:46.808Z",
+      "publishDateText": "Streamed 16 hours ago",
+      "publishedTime": "2026-08-28T20:31:46.808Z",
+      "publishedTimeText": "Streamed 16 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/R7McLmx73Xw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAIrMsoMJaLeXOyn73qlrwi75BD7g",
+      "title": "I Live Streamed For 30 Days. Here's What I Learned.",
+      "videoUrl": "https://www.youtube.com/watch?v=R7McLmx73Xw",
+      "viewCountInt": 51000,
+      "viewCountText": "51K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "SCi464zfAUM",
+      "lengthInSeconds": 831,
+      "lengthText": "13:51",
+      "publishDate": "2026-08-28T12:31:46.808Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-08-28T12:31:46.808Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/SCi464zfAUM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDWIiksXiLkO4MYHknyFFeYr_GkyQ",
+      "title": "If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton",
+      "videoUrl": "https://www.youtube.com/watch?v=SCi464zfAUM",
+      "viewCountInt": 71000,
+      "viewCountText": "71K views"
+    },
+    {
+      "channel": {
+        "handle": "almondtheartist9635",
+        "id": "UC1bjg7WzEK6xJdwAMvwWd1g",
+        "title": "AlmondTheArtist",
+        "url": "https://www.youtube.com/@almondtheartist9635"
+      },
+      "id": "0AljicvbT4I",
+      "lengthInSeconds": 613,
+      "lengthText": "10:13",
+      "publishDate": "2026-07-29T12:31:46.808Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-29T12:31:46.808Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/0AljicvbT4I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBfom9Tb9fYuOVh3YSQYVOUa6J_iA",
+      "title": "The Unfair Advantages Of Your Height",
+      "videoUrl": "https://www.youtube.com/watch?v=0AljicvbT4I",
+      "viewCountInt": 947000,
+      "viewCountText": "947K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "Uj5XKwW0Vbs",
+      "lengthInSeconds": 3633,
+      "lengthText": "1:00:33",
+      "publishDate": "2026-08-28T12:31:46.808Z",
+      "publishDateText": "Streamed 1 day ago",
+      "publishedTime": "2026-08-28T12:31:46.808Z",
+      "publishedTimeText": "Streamed 1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/Uj5XKwW0Vbs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBCZz8thdFf4V_vF-X0eFJiWUyK1Q",
+      "title": "What really matters at the end of life (life & death discussion)",
+      "videoUrl": "https://www.youtube.com/watch?v=Uj5XKwW0Vbs",
+      "viewCountInt": 70000,
+      "viewCountText": "70K views"
+    },
+    {
+      "channel": {
+        "handle": "ChrisWillx",
+        "id": "UCIaH-gZIVC432YRjNVvnyCA",
+        "title": "Chris Williamson",
+        "url": "https://www.youtube.com/@ChrisWillx"
+      },
+      "id": "pO5ynxYzZPU",
+      "lengthInSeconds": 753,
+      "lengthText": "12:33",
+      "publishDate": "2024-08-29T12:31:46.808Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-08-29T12:31:46.808Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/pO5ynxYzZPU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBLv1J9qjjVL7YsHE4FOGxLlq6img",
+      "title": "1 Clear Rule I Learned From Thousands of Women - Dan Bilzerian",
+      "videoUrl": "https://www.youtube.com/watch?v=pO5ynxYzZPU",
+      "viewCountInt": 1900000,
+      "viewCountText": "1.9M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T07:31:46.808Z",
+      "publishDateText": "5 hours ago",
+      "publishedTime": "2026-08-29T07:31:46.808Z",
+      "publishedTimeText": "5 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "If You Have a Service Business, Here's How To Get Rich In 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 23000,
+      "viewCountText": "23K views"
+    },
+    {
+      "channel": {
+        "handle": "chainsfr",
+        "id": "UCOuwU6aYcIgpKDdbekbUS2Q",
+        "title": "ChainsFR",
+        "url": "https://www.youtube.com/@chainsfr"
+      },
+      "id": "iLBfE_kE7JA",
+      "lengthInSeconds": 716,
+      "lengthText": "11:56",
+      "publishDate": "2026-07-29T12:31:46.808Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-29T12:31:46.808Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/iLBfE_kE7JA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDCKBp30T4i3cVz87Mtn5tq06Wh1A",
+      "title": "School Bops In 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=iLBfE_kE7JA",
+      "viewCountInt": 5000000,
+      "viewCountText": "5M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T12:31:46.824Z",
+      "publishDateText": "10 days ago",
+      "publishedTime": "2026-08-19T12:31:46.824Z",
+      "publishedTimeText": "10 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 456000,
+      "viewCountText": "456K views"
+    },
+    {
+      "channel": {
+        "handle": "FossilVideos",
+        "id": "UCOf0CzjuS5rjLju4muJi7Gg",
+        "title": "Fossil",
+        "url": "https://www.youtube.com/@FossilVideos"
+      },
+      "id": "nAWpLtG-kNs",
+      "lengthInSeconds": 971,
+      "lengthText": "16:11",
+      "publishDate": "2026-08-15T12:31:46.824Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-15T12:31:46.824Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/nAWpLtG-kNs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDMMsprtLp_vz_s8e7NpcNfOxBVwg",
+      "title": "How Long You’d Last in Every Prehistoric Era",
+      "videoUrl": "https://www.youtube.com/watch?v=nAWpLtG-kNs",
+      "viewCountInt": 912000,
+      "viewCountText": "912K views"
+    },
+    {
+      "channel": {
+        "handle": "TheoVonClips",
+        "id": "UCiEKV_MOhwZ7OEcgFyLKilw",
+        "title": "Theo Von Clips",
+        "url": "https://www.youtube.com/@TheoVonClips"
+      },
+      "id": "RZfmlRqoezw",
+      "lengthInSeconds": 1623,
+      "lengthText": "27:03",
+      "publishDate": "2026-08-26T12:31:46.824Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-08-26T12:31:46.824Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/RZfmlRqoezw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC8Yjh2qF36W_mPD8kaIUFhGXyrRg",
+      "title": "Professor Jiang Breaks Down the Greater Israel Project",
+      "videoUrl": "https://www.youtube.com/watch?v=RZfmlRqoezw",
+      "viewCountInt": 780000,
+      "viewCountText": "780K views"
+    },
+    {
+      "channel": {
+        "handle": "Browney",
+        "id": "UC0r_-7jgl1yl0oWzGEJ6o3w",
+        "title": "Browney",
+        "url": "https://www.youtube.com/@Browney"
+      },
+      "id": "I9aKECY6caU",
+      "lengthInSeconds": 1857,
+      "lengthText": "30:57",
+      "publishDate": "2026-08-23T12:31:46.824Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-23T12:31:46.824Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/I9aKECY6caU/hqdefault_custom_2.jpg?sqp=CMihy9QG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCxodV_b8-q3kfpWvPMHun4392OJg",
+      "title": "I Trained Shoulders Every Day, This is What Happened",
+      "videoUrl": "https://www.youtube.com/watch?v=I9aKECY6caU",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    }
+  ]
+}

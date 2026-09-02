@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Criticism, which I know you've you both"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "have tons of experience with, right?"
+    },
+    {
+      "endMs": "8360",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "It's like if you do nothing at all,"
+    },
+    {
+      "endMs": "11040",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "you'll get criticized. If you do"
+    },
+    {
+      "endMs": "13000",
+      "startMs": "8360",
+      "startTimeText": "0:08",
+      "text": "anything at all, you'll get criticized."
+    },
+    {
+      "endMs": "15040",
+      "startMs": "11040",
+      "startTimeText": "0:11",
+      "text": "So, criticism becomes a fixed cost of"
+    },
+    {
+      "endMs": "17200",
+      "startMs": "13000",
+      "startTimeText": "0:13",
+      "text": "living. I love what you said. It's life"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "overhead. Yeah."
+    },
+    {
+      "endMs": "20960",
+      "startMs": "17200",
+      "startTimeText": "0:17",
+      "text": "The only people who don't have that are"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "dead."
+    }
+  ],
+  "transcript_only_text": " Criticism,  which  I  know  you've  you  both \n have  tons  of  experience  with,  right? \n It's  like  if  you  do  nothing  at  all, \n you'll  get  criticized.  If  you  do \n anything  at  all,  you'll  get  criticized. \n So,  criticism  becomes  a  fixed  cost  of \n living.  I  love  what  you  said.  It's  life \n overhead.  Yeah. \n The  only  people  who  don't  have  that  are \n dead.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mKRwWZlOQlk",
+  "videoId": "mKRwWZlOQlk"
+}

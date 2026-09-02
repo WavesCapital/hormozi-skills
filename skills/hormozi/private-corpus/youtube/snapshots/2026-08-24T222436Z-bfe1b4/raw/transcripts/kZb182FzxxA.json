@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I have a saying that I tell myself a lot"
+    },
+    {
+      "endMs": "4080",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "when I'm doing something that I don't"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "3000",
+      "startTimeText": "0:03",
+      "text": "want to do."
+    },
+    {
+      "endMs": "7960",
+      "startMs": "4080",
+      "startTimeText": "0:04",
+      "text": "And it's I will do what is required."
+    },
+    {
+      "endMs": "9200",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "It's not about doing your best. It's"
+    },
+    {
+      "endMs": "10560",
+      "startMs": "7960",
+      "startTimeText": "0:07",
+      "text": "about doing what's required because"
+    },
+    {
+      "endMs": "11760",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "what's required might be better than"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "10560",
+      "startTimeText": "0:10",
+      "text": "your best is right now. But the good"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "11760",
+      "startTimeText": "0:11",
+      "text": "news is that your best can get better."
+    }
+  ],
+  "transcript_only_text": " I  have  a  saying  that  I  tell  myself  a  lot \n when  I'm  doing  something  that  I  don't \n want  to  do. \n And  it's  I  will  do  what  is  required. \n It's  not  about  doing  your  best.  It's \n about  doing  what's  required  because \n what's  required  might  be  better  than \n your  best  is  right  now.  But  the  good \n news  is  that  your  best  can  get  better.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=kZb182FzxxA",
+  "videoId": "kZb182FzxxA"
+}

@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "I hire far more for general intelligence"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "2159",
+      "startTimeText": "0:02",
+      "text": "now. I want someone who has just"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "3600",
+      "startTimeText": "0:03",
+      "text": "significantly higher horsepower."
+    },
+    {
+      "endMs": "9840",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "Intelligence will allow someone to"
+    },
+    {
+      "endMs": "10719",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "bridge the skill gap faster. I want"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "somebody who has high intelligence"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "10719",
+      "startTimeText": "0:10",
+      "text": "because I define intelligence as rate of"
+    },
+    {
+      "endMs": "15360",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "learning. If I can get someone who has a"
+    },
+    {
+      "endMs": "16880",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "high rate of learning versus somebody"
+    },
+    {
+      "endMs": "18160",
+      "startMs": "15360",
+      "startTimeText": "0:15",
+      "text": "else, maybe that person starts a little"
+    },
+    {
+      "endMs": "19439",
+      "startMs": "16880",
+      "startTimeText": "0:16",
+      "text": "bit behind, but in six months they're"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "18160",
+      "startTimeText": "0:18",
+      "text": "going to pass the other person who might"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "19439",
+      "startTimeText": "0:19",
+      "text": "have experience."
+    }
+  ],
+  "transcript_only_text": " I  hire  far  more  for  general  intelligence \n now.  I  want  someone  who  has  just \n significantly  higher  horsepower. \n Intelligence  will  allow  someone  to \n bridge  the  skill  gap  faster.  I  want \n somebody  who  has  high  intelligence \n because  I  define  intelligence  as  rate  of \n learning.  If  I  can  get  someone  who  has  a \n high  rate  of  learning  versus  somebody \n else,  maybe  that  person  starts  a  little \n bit  behind,  but  in  six  months  they're \n going  to  pass  the  other  person  who  might \n have  experience.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=pgp87jE3gTo",
+  "videoId": "pgp87jE3gTo"
+}

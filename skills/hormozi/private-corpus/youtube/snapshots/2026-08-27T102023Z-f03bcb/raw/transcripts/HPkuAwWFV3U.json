@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Final question, we ask this to every"
+    },
+    {
+      "endMs": "5120",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "guest who has ever been on the show. If"
+    },
+    {
+      "endMs": "8600",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "you could create one law that everyone"
+    },
+    {
+      "endMs": "8600",
+      "startMs": "5120",
+      "startTimeText": "0:05",
+      "text": "had to follow, what would it be?"
+    },
+    {
+      "endMs": "14680",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": ">> Everyone has to give all their wealth"
+    },
+    {
+      "endMs": "17600",
+      "startMs": "13160",
+      "startTimeText": "0:13",
+      "text": "away at the end of their life."
+    },
+    {
+      "endMs": "17600",
+      "startMs": "14680",
+      "startTimeText": "0:14",
+      "text": ">> I love that one."
+    }
+  ],
+  "transcript_only_text": " Final  question,  we  ask  this  to  every \n guest  who  has  ever  been  on  the  show.  If \n you  could  create  one  law  that  everyone \n had  to  follow,  what  would  it  be? \n >> Everyone  has  to  give  all  their  wealth \n away  at  the  end  of  their  life. \n >> I  love  that  one.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HPkuAwWFV3U",
+  "videoId": "HPkuAwWFV3U"
+}

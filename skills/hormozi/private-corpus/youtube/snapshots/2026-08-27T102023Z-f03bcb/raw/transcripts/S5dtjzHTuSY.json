@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5920",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people if you can"
+    },
+    {
+      "endMs": "7205",
+      "startMs": "3400",
+      "startTimeText": "0:03",
+      "text": "master the shame of rejection, the"
+    },
+    {
+      "endMs": "7400",
+      "startMs": "5920",
+      "startTimeText": "0:05",
+      "text": "boredom of repetition,"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "7205",
+      "startTimeText": "0:07",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "11720",
+      "startMs": "7400",
+      "startTimeText": "0:07",
+      "text": ">> and the pain of feedback."
+    },
+    {
+      "endMs": "13600",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "You can be almost anyone at anything if"
+    },
+    {
+      "endMs": "15960",
+      "startMs": "11720",
+      "startTimeText": "0:11",
+      "text": "you're willing to fail 20 times in a"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "13600",
+      "startTimeText": "0:13",
+      "text": "row, look stupid in front of people that"
+    },
+    {
+      "endMs": "22440",
+      "startMs": "15960",
+      "startTimeText": "0:15",
+      "text": "you care about, and keep going long"
+    },
+    {
+      "endMs": "22440",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "after it stopped being convenient."
+    }
+  ],
+  "transcript_only_text": " You  can  beat  99%  of  people  if  you  can \n master  the  shame  of  rejection,  the \n boredom  of  repetition, \n >> [music] \n >> and  the  pain  of  feedback. \n You  can  be  almost  anyone  at  anything  if \n you're  willing  to  fail  20  times  in  a \n row,  look  stupid  in  front  of  people  that \n you  care  about,  and  keep  going  long \n after  it  stopped  being  convenient.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=S5dtjzHTuSY",
+  "videoId": "S5dtjzHTuSY"
+}

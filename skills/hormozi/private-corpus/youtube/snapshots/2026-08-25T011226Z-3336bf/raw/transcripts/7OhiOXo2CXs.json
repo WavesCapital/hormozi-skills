@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5839",
+      "startMs": "320",
+      "startTimeText": "0:00",
+      "text": "Richer people won't judge you for saving"
+    },
+    {
+      "endMs": "8639",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "your money. Fitter people won't judge"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "5839",
+      "startTimeText": "0:05",
+      "text": "you for cutting calories or packing your"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "8639",
+      "startTimeText": "0:08",
+      "text": "food or deciding to eat a certain way."
+    },
+    {
+      "endMs": "15679",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "Right? Higher status people aren't going"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "to judge you for cutting bad friends."
+    },
+    {
+      "endMs": "19600",
+      "startMs": "15679",
+      "startTimeText": "0:15",
+      "text": "It's the people going nowhere who have"
+    },
+    {
+      "endMs": "22640",
+      "startMs": "18000",
+      "startTimeText": "0:18",
+      "text": "the most to save because they have"
+    },
+    {
+      "endMs": "22640",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "nothing to do."
+    }
+  ],
+  "transcript_only_text": " Richer  people  won't  judge  you  for  saving \n your  money.  Fitter  people  won't  judge \n you  for  cutting  calories  or  packing  your \n food  or  deciding  to  eat  a  certain  way. \n Right?  Higher  status  people  aren't  going \n to  judge  you  for  cutting  bad  friends. \n It's  the  people  going  nowhere  who  have \n the  most  to  save  because  they  have \n nothing  to  do.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7OhiOXo2CXs",
+  "videoId": "7OhiOXo2CXs"
+}

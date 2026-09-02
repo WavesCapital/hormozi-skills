@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The only way that you can get canceled"
+    },
+    {
+      "endMs": "8320",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "is if you choose to accept being"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "canceled or some external power makes it"
+    },
+    {
+      "endMs": "11880",
+      "startMs": "8320",
+      "startTimeText": "0:08",
+      "text": "impossible for you to amplify your"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "message. Meaning, if you get"
+    },
+    {
+      "endMs": "15720",
+      "startMs": "11880",
+      "startTimeText": "0:11",
+      "text": "deplatformed from everything and no"
+    },
+    {
+      "endMs": "17960",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "platform allows you to post and they"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "15720",
+      "startTimeText": "0:15",
+      "text": "have AI that searches every video that"
+    },
+    {
+      "endMs": "21240",
+      "startMs": "17960",
+      "startTimeText": "0:17",
+      "text": "anybody else makes about you and removes"
+    },
+    {
+      "endMs": "23960",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "it automatically, yeah, you got"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "21240",
+      "startTimeText": "0:21",
+      "text": "canceled. But short of that,"
+    },
+    {
+      "endMs": "28080",
+      "startMs": "23960",
+      "startTimeText": "0:23",
+      "text": "the only other way you get canceled is"
+    },
+    {
+      "endMs": "30480",
+      "startMs": "25920",
+      "startTimeText": "0:25",
+      "text": "if you choose to accept being canceled"
+    },
+    {
+      "endMs": "32920",
+      "startMs": "28080",
+      "startTimeText": "0:28",
+      "text": "and choose to stop making your message"
+    },
+    {
+      "endMs": "32920",
+      "startMs": "30480",
+      "startTimeText": "0:30",
+      "text": "known."
+    }
+  ],
+  "transcript_only_text": " The  only  way  that  you  can  get  canceled \n is  if  you  choose  to  accept  being \n canceled  or  some  external  power  makes  it \n impossible  for  you  to  amplify  your \n message.  Meaning,  if  you  get \n deplatformed  from  everything  and  no \n platform  allows  you  to  post  and  they \n have  AI  that  searches  every  video  that \n anybody  else  makes  about  you  and  removes \n it  automatically,  yeah,  you  got \n canceled.  But  short  of  that, \n the  only  other  way  you  get  canceled  is \n if  you  choose  to  accept  being  canceled \n and  choose  to  stop  making  your  message \n known.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=eFdLMRcbiUU",
+  "videoId": "eFdLMRcbiUU"
+}

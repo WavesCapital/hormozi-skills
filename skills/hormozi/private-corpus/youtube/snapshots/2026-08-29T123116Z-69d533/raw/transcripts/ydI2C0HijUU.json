@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The single greatest skill that you"
+    },
+    {
+      "endMs": "5720",
+      "startMs": "1964",
+      "startTimeText": "0:01",
+      "text": "[music] can develop is being in a great"
+    },
+    {
+      "endMs": "7240",
+      "startMs": "3720",
+      "startTimeText": "0:03",
+      "text": "mood in the absence of things to be in a"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "5720",
+      "startTimeText": "0:05",
+      "text": "great mood about. Most people [music]"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "7240",
+      "startTimeText": "0:07",
+      "text": "don't question someone who's in a bad"
+    },
+    {
+      "endMs": "12040",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "mood. Like, I'm just in a bad mood. So,"
+    },
+    {
+      "endMs": "13320",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "it's like, well, if you can be in a bad"
+    },
+    {
+      "endMs": "15240",
+      "startMs": "12040",
+      "startTimeText": "0:12",
+      "text": "mood for no reason, it's like you might"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "as well be in a good mood for no reason."
+    },
+    {
+      "endMs": "18560",
+      "startMs": "15240",
+      "startTimeText": "0:15",
+      "text": "Cuz that one at least serves you."
+    }
+  ],
+  "transcript_only_text": " The  single  greatest  skill  that  you \n [music]  can  develop  is  being  in  a  great \n mood  in  the  absence  of  things  to  be  in  a \n great  mood  about.  Most  people  [music] \n don't  question  someone  who's  in  a  bad \n mood.  Like,  I'm  just  in  a  bad  mood.  So, \n it's  like,  well,  if  you  can  be  in  a  bad \n mood  for  no  reason,  it's  like  you  might \n as  well  be  in  a  good  mood  for  no  reason. \n Cuz  that  one  at  least  serves  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ydI2C0HijUU",
+  "videoId": "ydI2C0HijUU"
+}

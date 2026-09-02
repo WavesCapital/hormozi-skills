@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Hooks"
-  short_description: "Generate and adapt strong hooks"
-  default_prompt: "Use $hormozi-hooks to generate and adapt hooks for this offer."
-
-policy:
-  allow_implicit_invocation: true

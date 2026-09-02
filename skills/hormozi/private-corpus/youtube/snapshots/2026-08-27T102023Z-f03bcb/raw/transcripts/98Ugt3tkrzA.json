@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5600",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "The best salespeople, they're very good"
+    },
+    {
+      "endMs": "7120",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "at letting silence sit. And so if you"
+    },
+    {
+      "endMs": "8480",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "tend to be more talkative in terms of"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "7120",
+      "startTimeText": "0:07",
+      "text": "talk time, I would encourage you to try"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "this. If someone says something, instead"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "of immediately jabbing back, sometimes"
+    },
+    {
+      "endMs": "17840",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "just let them talk more. Just give them"
+    },
+    {
+      "endMs": "20080",
+      "startMs": "15440",
+      "startTimeText": "0:15",
+      "text": "more time to talk because the more they"
+    },
+    {
+      "endMs": "21439",
+      "startMs": "17840",
+      "startTimeText": "0:17",
+      "text": "talk, the more rapport you have because"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "20080",
+      "startTimeText": "0:20",
+      "text": "people like talking about themselves. So"
+    },
+    {
+      "endMs": "25359",
+      "startMs": "21439",
+      "startTimeText": "0:21",
+      "text": "they'll think that you're amazing"
+    },
+    {
+      "endMs": "25359",
+      "startMs": "22480",
+      "startTimeText": "0:22",
+      "text": "without you ever saying"
+    }
+  ],
+  "transcript_only_text": " The  best  salespeople,  they're  very  good \n at  letting  silence  sit.  And  so  if  you \n tend  to  be  more  talkative  in  terms  of \n talk  time,  I  would  encourage  you  to  try \n this.  If  someone  says  something,  instead \n of  immediately  jabbing  back,  sometimes \n just  let  them  talk  more.  Just  give  them \n more  time  to  talk  because  the  more  they \n talk,  the  more  rapport  you  have  because \n people  like  talking  about  themselves.  So \n they'll  think  that  you're  amazing \n without  you  ever  saying",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=98Ugt3tkrzA",
+  "videoId": "98Ugt3tkrzA"
+}

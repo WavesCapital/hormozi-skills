@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3919",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "There are zerocost decisions that can"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "2080",
+      "startTimeText": "0:02",
+      "text": "change your life. Sticking to anything"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "3919",
+      "startTimeText": "0:03",
+      "text": "for an entire year. Upgrading romantic"
+    },
+    {
+      "endMs": "10559",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "partners, moving cities, eliminating"
+    },
+    {
+      "endMs": "13040",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "drinking and actually saves you money."
+    },
+    {
+      "endMs": "15040",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "Saying no to shiny objects, going to bed"
+    },
+    {
+      "endMs": "17520",
+      "startMs": "13040",
+      "startTimeText": "0:13",
+      "text": "at 900 p.m. daily. If you don't like"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "where you're at, just try one. Life can"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "change fast."
+    }
+  ],
+  "transcript_only_text": " There  are  zerocost  decisions  that  can \n change  your  life.  Sticking  to  anything \n for  an  entire  year.  Upgrading  romantic \n partners,  moving  cities,  eliminating \n drinking  and  actually  saves  you  money. \n Saying  no  to  shiny  objects,  going  to  bed \n at  900  p.m.  daily.  If  you  don't  like \n where  you're  at,  just  try  one.  Life  can \n change  fast.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=iBe_yrjFFk0",
+  "videoId": "iBe_yrjFFk0"
+}

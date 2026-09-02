@@ -1,0 +1,293 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 3,
+  "commentCountText": "3",
+  "credits_charged": 1,
+  "description": "The importance of betting big:\n\nIn entrepreneurship, you will lose more times than you win. So you just need to make sure that when you win, you win so big, it overshadows all your losses.\n\nNo one cares about small victories or defeats.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:09",
+  "durationMs": 69000,
+  "genre": "Education",
+  "id": "AqD4wxjQ9bI",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 547,
+  "likeCountText": "547",
+  "most_replayed": null,
+  "publishDate": "2026-08-06T22:01:14-07:00",
+  "publishDateText": "Aug 6, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/AqD4wxjQ9bI/maxresdefault.jpg",
+  "title": "You're Playing $10 Blackjack as a Millionaire",
+  "type": "video",
+  "viewCountInt": 11525,
+  "viewCountText": "11,525",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-02T10:38:30.534Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:38:30.534Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-02T10:38:30.534Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:38:30.534Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "Blackjackapprenticeship",
+        "id": "UCdnKUMfRVRHuGrciZAqaCwQ",
+        "title": "Blackjack Apprenticeship",
+        "url": "https://www.youtube.com/@Blackjackapprenticeship"
+      },
+      "id": "XOCBH8YU1ig",
+      "lengthInSeconds": 692,
+      "lengthText": "11:32",
+      "publishDate": "2024-09-02T10:38:30.534Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-09-02T10:38:30.534Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/XOCBH8YU1ig/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC5IAK9-sZt01GHKoazcnqL_CS6Uw",
+      "title": "Watching a Casino Catch a Card Counter",
+      "videoUrl": "https://www.youtube.com/watch?v=XOCBH8YU1ig",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "TopTalentTV",
+        "id": "UCD2GdZBCsUa0TIssLai6Skw",
+        "title": "Top Talent",
+        "url": "https://www.youtube.com/@TopTalentTV"
+      },
+      "id": "PMPyfKrbsW8",
+      "lengthInSeconds": 316,
+      "lengthText": "5:16",
+      "publishDate": "2026-08-02T10:38:30.534Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:38:30.534Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/PMPyfKrbsW8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFHvW5NI8GMwAYps9akEcvefbweQ",
+      "title": "ONE Rope. ONE Girl. You CANNOT Look Away!",
+      "videoUrl": "https://www.youtube.com/watch?v=PMPyfKrbsW8",
+      "viewCountInt": 3600000,
+      "viewCountText": "3.6M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T10:38:30.534Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:38:30.534Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 505000,
+      "viewCountText": "505K views"
+    },
+    {
+      "channel": {
+        "handle": "JayYangInspires",
+        "id": "UC3dZFDFfGZzBWnGYh0TMddg",
+        "title": "Jay Yang",
+        "url": "https://www.youtube.com/@JayYangInspires"
+      },
+      "id": "kstGHf469OU",
+      "lengthInSeconds": 1051,
+      "lengthText": "17:31",
+      "publishDate": "2026-08-12T10:38:30.534Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-12T10:38:30.534Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/kstGHf469OU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDNr1Zfoc9dRy4eVZiru7z9ljfj5w",
+      "title": "Everything I Learned Working With Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=kstGHf469OU",
+      "viewCountInt": 62000,
+      "viewCountText": "62K views"
+    },
+    {
+      "channel": {
+        "handle": "KeyAndPeele",
+        "id": "UCdN4aXTrHAtfgbVG9HjBmxQ",
+        "title": "Key & Peele",
+        "url": "https://www.youtube.com/@KeyAndPeele"
+      },
+      "id": "OjFUJEoq8k0",
+      "lengthInSeconds": 223,
+      "lengthText": "3:43",
+      "publishDate": "2020-09-02T10:38:30.534Z",
+      "publishDateText": "6 years ago",
+      "publishedTime": "2020-09-02T10:38:30.534Z",
+      "publishedTimeText": "6 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/OjFUJEoq8k0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAWJ5T9hAuumX6g-HSMNVy2fqVaJQ",
+      "title": "Trying Not to Laugh When Your Friend Is Crying - Key & Peele",
+      "videoUrl": "https://www.youtube.com/watch?v=OjFUJEoq8k0",
+      "viewCountInt": 16000000,
+      "viewCountText": "16M views"
+    },
+    {
+      "channel": {
+        "handle": "Yoonj",
+        "id": "UCTR1ZDG4Ahy2AZXFc7-s4XQ",
+        "title": "Yoonj Kim",
+        "url": "https://www.youtube.com/@Yoonj"
+      },
+      "id": "rz7IhwDnyK4",
+      "lengthInSeconds": 419,
+      "lengthText": "6:59",
+      "publishDate": "2026-08-19T10:38:30.534Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:38:30.534Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/rz7IhwDnyK4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD9wfjeBeSyjxZDr11tCPLDyaRjGA",
+      "title": "I Traced Every Condo in This LA Skyscraper. The Rumor Is True",
+      "videoUrl": "https://www.youtube.com/watch?v=rz7IhwDnyK4",
+      "viewCountInt": 1300000,
+      "viewCountText": "1.3M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "8VqSFBMMS4M",
+      "lengthInSeconds": 2172,
+      "lengthText": "36:12",
+      "publishDate": "2026-08-02T10:38:30.534Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:38:30.534Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/8VqSFBMMS4M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCD9GkGEENx3iuVC3NNlLhYLX9bRQ",
+      "title": "If You Hate Selling, Please Watch This | Scale or Fail",
+      "videoUrl": "https://www.youtube.com/watch?v=8VqSFBMMS4M",
+      "viewCountInt": 165000,
+      "viewCountText": "165K views"
+    },
+    {
+      "channel": {
+        "handle": "ycombinator",
+        "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+        "title": "Y Combinator",
+        "url": "https://www.youtube.com/@ycombinator"
+      },
+      "id": "sJ4VJWycX9M",
+      "lengthInSeconds": 1930,
+      "lengthText": "32:10",
+      "publishDate": "2026-08-02T10:38:30.534Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:38:30.534Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/sJ4VJWycX9M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSmzK3YuwYufULq15uxu8zcXCY8g",
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "videoUrl": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "viewCountInt": 242000,
+      "viewCountText": "242K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:38:30.534Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-29T10:38:30.534Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 657000,
+      "viewCountText": "657K views"
+    },
+    {
+      "channel": {
+        "handle": "BrandonWilliamyt",
+        "id": "UCz4vf16zgUMxpaDiPQ1XU2A",
+        "title": "Brandon William",
+        "url": "https://www.youtube.com/@BrandonWilliamyt"
+      },
+      "id": "jgsA06VCB24",
+      "lengthInSeconds": 615,
+      "lengthText": "10:15",
+      "publishDate": "2026-08-02T10:38:30.534Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:38:30.534Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/jgsA06VCB24/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDPCypmG27CdZvT_igab7niGCpkaA",
+      "title": "Can Average Men Beat A Professional Woman?",
+      "videoUrl": "https://www.youtube.com/watch?v=jgsA06VCB24",
+      "viewCountInt": 547000,
+      "viewCountText": "547K views"
+    }
+  ]
+}

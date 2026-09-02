@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2920",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If your business isn't making a hundred"
+    },
+    {
+      "endMs": "4760",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "thousand dollars a month, number one,"
+    },
+    {
+      "endMs": "6760",
+      "startMs": "2920",
+      "startTimeText": "0:02",
+      "text": "grab a kitchen timer and then turn it to"
+    },
+    {
+      "endMs": "7960",
+      "startMs": "4760",
+      "startTimeText": "0:04",
+      "text": "four hours. Number two, advertise until"
+    },
+    {
+      "endMs": "10440",
+      "startMs": "6760",
+      "startTimeText": "0:06",
+      "text": "the timer is up. You can do warm"
+    },
+    {
+      "endMs": "12920",
+      "startMs": "7960",
+      "startTimeText": "0:07",
+      "text": "outbound, cold outbound, content, paid"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "10440",
+      "startTimeText": "0:10",
+      "text": "ads. Don't do all of them, just pick one"
+    },
+    {
+      "endMs": "15240",
+      "startMs": "12920",
+      "startTimeText": "0:12",
+      "text": "until you get to a hundred thousand"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "dollars a month. And when that four-hour"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "15240",
+      "startTimeText": "0:15",
+      "text": "timer is up and the day is done, just do"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "it again tomorrow."
+    }
+  ],
+  "transcript_only_text": " If  your  business  isn't  making  a  hundred \n thousand  dollars  a  month,  number  one, \n grab  a  kitchen  timer  and  then  turn  it  to \n four  hours.  Number  two,  advertise  until \n the  timer  is  up.  You  can  do  warm \n outbound,  cold  outbound,  content,  paid \n ads.  Don't  do  all  of  them,  just  pick  one \n until  you  get  to  a  hundred  thousand \n dollars  a  month.  And  when  that  four-hour \n timer  is  up  and  the  day  is  done,  just  do \n it  again  tomorrow.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zWI-lKjJJzw",
+  "videoId": "zWI-lKjJJzw"
+}

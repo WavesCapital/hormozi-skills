@@ -1,0 +1,302 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=Ps2me4rcd3s&ei=adGSaoEZ1djL-w-Z8L3AAg&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788031961&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=AEB2B7C77CEEF405FC5BBB56BEEF45F8D23B2535.89B04EC6C71A2F7889E88C84B311AFBDC81F048C&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 5,
+  "commentCountText": "5",
+  "credits_charged": 1,
+  "credits_remaining": 18126,
+  "description": "If you have no money, you should have no shame.\n\nKnock.\nCall.\nEmail.\nText. \nDM.\nAsk. \n\nLife-changing doors don’t open themselves.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:29",
+  "durationMs": 29000,
+  "genre": "Education",
+  "id": "Ps2me4rcd3s",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 253,
+  "likeCountText": "253",
+  "most_replayed": null,
+  "publishDate": "2026-08-28T17:00:56-07:00",
+  "publishDateText": "Aug 28, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/Ps2me4rcd3s/maxresdefault.jpg",
+  "title": "If You Have No Money, You Have No Shame",
+  "type": "video",
+  "viewCountInt": 3627,
+  "viewCountText": "3,627",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T12:32:41.829Z",
+      "publishDateText": "10 days ago",
+      "publishedTime": "2026-08-19T12:32:41.829Z",
+      "publishedTimeText": "10 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 456000,
+      "viewCountText": "456K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "mHER6vAr1bg",
+      "lengthInSeconds": 1150,
+      "lengthText": "19:10",
+      "publishDate": "2026-04-29T12:32:41.829Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-29T12:32:41.829Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/mHER6vAr1bg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt0g087QX2AClvjc56gKza19WCxg",
+      "title": "THIS Is #1 FASTEST Way To BURN Fat Around Your Organs",
+      "videoUrl": "https://www.youtube.com/watch?v=mHER6vAr1bg",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "DouglasKrugerSpeaker",
+        "id": "UCKdsTRuRTqVUV7PWuADCTgg",
+        "title": "Douglas Kruger - Big Ideas That Drive Prosperity",
+        "url": "https://www.youtube.com/@DouglasKrugerSpeaker"
+      },
+      "id": "CZaAc6w3azM",
+      "lengthInSeconds": 938,
+      "lengthText": "15:38",
+      "publishDate": "2026-08-28T13:32:41.829Z",
+      "publishDateText": "23 hours ago",
+      "publishedTime": "2026-08-28T13:32:41.829Z",
+      "publishedTimeText": "23 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/CZaAc6w3azM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFxl3-agHhN7Cx71RvN6kpHHg1_A",
+      "title": "20 Beliefs That Quietly Keep You POOR",
+      "videoUrl": "https://www.youtube.com/watch?v=CZaAc6w3azM",
+      "viewCountInt": 418,
+      "viewCountText": "418 views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T07:32:41.829Z",
+      "publishDateText": "5 hours ago",
+      "publishedTime": "2026-08-29T07:32:41.829Z",
+      "publishedTimeText": "5 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 23000,
+      "viewCountText": "23K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "jfW6gL6hKhk",
+      "lengthInSeconds": 945,
+      "lengthText": "15:45",
+      "publishDate": "2026-03-29T12:32:41.829Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-29T12:32:41.829Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jfW6gL6hKhk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0G9_a7JX0L7DKWNPguRCmRo0OoA",
+      "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
+      "videoUrl": "https://www.youtube.com/watch?v=jfW6gL6hKhk",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "FelixFriends",
+        "id": "UCJtfma0mE_XrBAD9uakcjfA",
+        "title": "Felix & Friends (Goat Academy)",
+        "url": "https://www.youtube.com/@FelixFriends"
+      },
+      "id": "SXhkSyopG74",
+      "lengthInSeconds": 1585,
+      "lengthText": "26:25",
+      "publishDate": "2026-08-27T12:32:41.829Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-27T12:32:41.829Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/SXhkSyopG74/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAr6aZtdS49LKi1tvPDhMGByhvxbg",
+      "title": "The UNTHINKABLE is About to Happened to the Dollar (& Why Gold and Silver are Next)",
+      "videoUrl": "https://www.youtube.com/watch?v=SXhkSyopG74",
+      "viewCountInt": 1800000,
+      "viewCountText": "1.8M views"
+    },
+    {
+      "channel": {
+        "handle": "MikeRitland",
+        "id": "UCNZR15cy3w1fzGXgI5oy5aA",
+        "title": "Mike Ritland",
+        "url": "https://www.youtube.com/@MikeRitland"
+      },
+      "id": "4nD0I2TB318",
+      "lengthInSeconds": 1314,
+      "lengthText": "21:54",
+      "publishDate": "2026-08-24T12:32:41.829Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-24T12:32:41.829Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/4nD0I2TB318/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDmteXRDfNNARJ33oWtnqevXP9xbg",
+      "title": "Navy SEAL Takes Down 3 Gang Members in a Jail Cell",
+      "videoUrl": "https://www.youtube.com/watch?v=4nD0I2TB318",
+      "viewCountInt": 955000,
+      "viewCountText": "955K views"
+    },
+    {
+      "channel": {
+        "handle": "redfilechannel",
+        "id": "UCNpjH9MosivtBOa45Hbu39g",
+        "title": "Red File",
+        "url": "https://www.youtube.com/@redfilechannel"
+      },
+      "id": "rJYy0pHZDxA",
+      "lengthInSeconds": 2500,
+      "lengthText": "41:40",
+      "publishDate": "2026-08-15T12:32:41.829Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-15T12:32:41.829Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/rJYy0pHZDxA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC4r8pu62VuNBDTkP4zMXqhLjVqPQ",
+      "title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+      "videoUrl": "https://www.youtube.com/watch?v=rJYy0pHZDxA",
+      "viewCountInt": 7400000,
+      "viewCountText": "7.4M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T12:32:41.829Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-08-22T12:32:41.829Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 178000,
+      "viewCountText": "178K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-29T12:32:41.829Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-29T12:32:41.829Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "WorldBuild668",
+        "id": "UCQYetX_9k4Sl-r-HOLVvKnA",
+        "title": "World Build",
+        "url": "https://www.youtube.com/@WorldBuild668"
+      },
+      "id": "7-NCOGnZjKE",
+      "lengthInSeconds": 2617,
+      "lengthText": "43:37",
+      "publishDate": "2026-06-29T12:32:41.829Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-29T12:32:41.829Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/7-NCOGnZjKE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAFytbRNWGJFtjqj28ubtMFWM3jnw",
+      "title": "Man Spent Two Years Building HUGE Wooden House for his Family | Start to Finish by @bjornbrenton",
+      "videoUrl": "https://www.youtube.com/watch?v=7-NCOGnZjKE",
+      "viewCountInt": 4900000,
+      "viewCountText": "4.9M views"
+    },
+    {
+      "channel": {
+        "handle": "JayShettyPodcast.",
+        "id": "UCbk_QsfaFZG6PdQeCvaYXJQ",
+        "title": "Jay Shetty Podcast",
+        "url": "https://www.youtube.com/@JayShettyPodcast."
+      },
+      "id": "-pZFywOMqNc",
+      "lengthInSeconds": 1566,
+      "lengthText": "26:06",
+      "publishDate": "2026-08-15T12:32:41.829Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-15T12:32:41.829Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/-pZFywOMqNc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuR5M-BgnrBrxX4GTOKcT4bkflug",
+      "title": "Alex Hormozi: The 4 Steps To Your First Dollars Tomorrow",
+      "videoUrl": "https://www.youtube.com/watch?v=-pZFywOMqNc",
+      "viewCountInt": 135000,
+      "viewCountText": "135K views"
+    }
+  ]
+}

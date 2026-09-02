@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5440",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "To be the top 1% you need to enter a"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "3040",
+      "startTimeText": "0:03",
+      "text": "room of a 100 people and leave number"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "one. [music] To be the top 0.1% you need"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "to enter a room of a thousand people"
+    },
+    {
+      "endMs": "16320",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "like a local high school and leave"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "number one. To be the top 01% you need"
+    },
+    {
+      "endMs": "21359",
+      "startMs": "16320",
+      "startTimeText": "0:16",
+      "text": "to enter an arena of 10,000 people and"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "leave number one. Think about it. A"
+    },
+    {
+      "endMs": "24800",
+      "startMs": "21359",
+      "startTimeText": "0:21",
+      "text": "stadium. And in a battle to the death in"
+    },
+    {
+      "endMs": "27519",
+      "startMs": "23920",
+      "startTimeText": "0:23",
+      "text": "that stadium [music]"
+    },
+    {
+      "endMs": "32039",
+      "startMs": "24800",
+      "startTimeText": "0:24",
+      "text": "you have to come out on top. You beat"
+    },
+    {
+      "endMs": "32039",
+      "startMs": "27519",
+      "startTimeText": "0:27",
+      "text": "everyone. Not almost everyone."
+    }
+  ],
+  "transcript_only_text": " To  be  the  top  1%  you  need  to  enter  a \n room  of  a  100  people  and  leave  number \n one.  [music]  To  be  the  top  0.1%  you  need \n to  enter  a  room  of  a  thousand  people \n like  a  local  high  school  and  leave \n number  one.  To  be  the  top  01%  you  need \n to  enter  an  arena  of  10,000  people  and \n leave  number  one.  Think  about  it.  A \n stadium.  And  in  a  battle  to  the  death  in \n that  stadium  [music] \n you  have  to  come  out  on  top.  You  beat \n everyone.  Not  almost  everyone.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fe6lrcUddgI",
+  "videoId": "fe6lrcUddgI"
+}

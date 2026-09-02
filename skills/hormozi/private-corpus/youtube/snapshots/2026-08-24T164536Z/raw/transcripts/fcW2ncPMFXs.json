@@ -1,0 +1,215 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Two guys ran a research study to figure"
+    },
+    {
+      "endMs": "5839",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "out how to get the perfect price for any"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "product. And they did it by asking four"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "5839",
+      "startTimeText": "0:05",
+      "text": "questions. And when getting those"
+    },
+    {
+      "endMs": "10559",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "answers, they could plot them on a graph"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "to find the perfect spot where you'd"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "have the highest price with the most"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "number of units sold, which is typically"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "13920",
+      "startTimeText": "0:13",
+      "text": "where you'll make the most profit. The"
+    },
+    {
+      "endMs": "19119",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "first question you ask is at what price"
+    },
+    {
+      "endMs": "20880",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "would this be so cheap that you wouldn't"
+    },
+    {
+      "endMs": "22320",
+      "startMs": "19119",
+      "startTimeText": "0:19",
+      "text": "even believe this would work? And this"
+    },
+    {
+      "endMs": "24320",
+      "startMs": "20880",
+      "startTimeText": "0:20",
+      "text": "honestly is where a lot of people who"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "22320",
+      "startTimeText": "0:22",
+      "text": "are beginners actually are. They price"
+    },
+    {
+      "endMs": "27199",
+      "startMs": "24320",
+      "startTimeText": "0:24",
+      "text": "so low that no one actually thinks they"
+    },
+    {
+      "endMs": "28960",
+      "startMs": "25920",
+      "startTimeText": "0:25",
+      "text": "could even deliver on the thing they're"
+    },
+    {
+      "endMs": "30800",
+      "startMs": "27199",
+      "startTimeText": "0:27",
+      "text": "promising. The second question you ask"
+    },
+    {
+      "endMs": "32399",
+      "startMs": "28960",
+      "startTimeText": "0:28",
+      "text": "is at what price would this be so high"
+    },
+    {
+      "endMs": "34079",
+      "startMs": "30800",
+      "startTimeText": "0:30",
+      "text": "you wouldn't even consider buying it."
+    },
+    {
+      "endMs": "35600",
+      "startMs": "32399",
+      "startTimeText": "0:32",
+      "text": "This gives you the upper range for that"
+    },
+    {
+      "endMs": "38239",
+      "startMs": "34079",
+      "startTimeText": "0:34",
+      "text": "particular customer. The next question"
+    },
+    {
+      "endMs": "39920",
+      "startMs": "35600",
+      "startTimeText": "0:35",
+      "text": "you ask is at what price would this be a"
+    },
+    {
+      "endMs": "41360",
+      "startMs": "38239",
+      "startTimeText": "0:38",
+      "text": "great deal? You believe it would work"
+    },
+    {
+      "endMs": "43680",
+      "startMs": "39920",
+      "startTimeText": "0:39",
+      "text": "but it would be a bargain. And then"
+    },
+    {
+      "endMs": "45680",
+      "startMs": "41360",
+      "startTimeText": "0:41",
+      "text": "fourth and last at what price do you"
+    },
+    {
+      "endMs": "48000",
+      "startMs": "43680",
+      "startTimeText": "0:43",
+      "text": "think this would barely be in your range"
+    },
+    {
+      "endMs": "50000",
+      "startMs": "45680",
+      "startTimeText": "0:45",
+      "text": "but you'd end up buying it anyways. And"
+    },
+    {
+      "endMs": "51440",
+      "startMs": "48000",
+      "startTimeText": "0:48",
+      "text": "then this one tends to be the price"
+    },
+    {
+      "endMs": "53360",
+      "startMs": "50000",
+      "startTimeText": "0:50",
+      "text": "point where you generate the most"
+    },
+    {
+      "endMs": "56000",
+      "startMs": "51440",
+      "startTimeText": "0:51",
+      "text": "profit. And then by doing that, you can"
+    },
+    {
+      "endMs": "59360",
+      "startMs": "53360",
+      "startTimeText": "0:53",
+      "text": "select a price, not by guesswork, but by"
+    },
+    {
+      "endMs": "59360",
+      "startMs": "56000",
+      "startTimeText": "0:56",
+      "text": "data that'll make you the most"
+    }
+  ],
+  "transcript_only_text": " Two  guys  ran  a  research  study  to  figure \n out  how  to  get  the  perfect  price  for  any \n product.  And  they  did  it  by  asking  four \n questions.  And  when  getting  those \n answers,  they  could  plot  them  on  a  graph \n to  find  the  perfect  spot  where  you'd \n have  the  highest  price  with  the  most \n number  of  units  sold,  which  is  typically \n where  you'll  make  the  most  profit.  The \n first  question  you  ask  is  at  what  price \n would  this  be  so  cheap  that  you  wouldn't \n even  believe  this  would  work?  And  this \n honestly  is  where  a  lot  of  people  who \n are  beginners  actually  are.  They  price \n so  low  that  no  one  actually  thinks  they \n could  even  deliver  on  the  thing  they're \n promising.  The  second  question  you  ask \n is  at  what  price  would  this  be  so  high \n you  wouldn't  even  consider  buying  it. \n This  gives  you  the  upper  range  for  that \n particular  customer.  The  next  question \n you  ask  is  at  what  price  would  this  be  a \n great  deal?  You  believe  it  would  work \n but  it  would  be  a  bargain.  And  then \n fourth  and  last  at  what  price  do  you \n think  this  would  barely  be  in  your  range \n but  you'd  end  up  buying  it  anyways.  And \n then  this  one  tends  to  be  the  price \n point  where  you  generate  the  most \n profit.  And  then  by  doing  that,  you  can \n select  a  price,  not  by  guesswork,  but  by \n data  that'll  make  you  the  most",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fcW2ncPMFXs",
+  "videoId": "fcW2ncPMFXs"
+}

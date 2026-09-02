@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I can promise you that if you're good at"
+    },
+    {
+      "endMs": "3360",
+      "startMs": "1120",
+      "startTimeText": "0:01",
+      "text": "something, you'll like doing it. And the"
+    },
+    {
+      "endMs": "4560",
+      "startMs": "2200",
+      "startTimeText": "0:02",
+      "text": "only way that you get good at something"
+    },
+    {
+      "endMs": "5800",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "is by doing things that you suck at and"
+    },
+    {
+      "endMs": "7600",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "doing a lot of it. That's where I think"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "5800",
+      "startTimeText": "0:05",
+      "text": "one of the fundamental fallacies of"
+    },
+    {
+      "endMs": "11040",
+      "startMs": "7600",
+      "startTimeText": "0:07",
+      "text": "young people is who are trying to pursue"
+    },
+    {
+      "endMs": "12720",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "careers is that they think they should"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "11040",
+      "startTimeText": "0:11",
+      "text": "find the thing that they love. And"
+    },
+    {
+      "endMs": "16880",
+      "startMs": "12720",
+      "startTimeText": "0:12",
+      "text": "really, like, do something that"
+    },
+    {
+      "endMs": "18840",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "interests you, and then do it a lot, and"
+    },
+    {
+      "endMs": "21400",
+      "startMs": "16880",
+      "startTimeText": "0:16",
+      "text": "then by developing skills, you will"
+    },
+    {
+      "endMs": "21400",
+      "startMs": "18840",
+      "startTimeText": "0:18",
+      "text": "enjoy it."
+    }
+  ],
+  "transcript_only_text": " I  can  promise  you  that  if  you're  good  at \n something,  you'll  like  doing  it.  And  the \n only  way  that  you  get  good  at  something \n is  by  doing  things  that  you  suck  at  and \n doing  a  lot  of  it.  That's  where  I  think \n one  of  the  fundamental  fallacies  of \n young  people  is  who  are  trying  to  pursue \n careers  is  that  they  think  they  should \n find  the  thing  that  they  love.  And \n really,  like,  do  something  that \n interests  you,  and  then  do  it  a  lot,  and \n then  by  developing  skills,  you  will \n enjoy  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=p1UmipQOx-M",
+  "videoId": "p1UmipQOx-M"
+}

@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Only thing that is guaranteed is that if"
+    },
+    {
+      "endMs": "4160",
+      "startMs": "1400",
+      "startTimeText": "0:01",
+      "text": "you want everything from life you will"
+    },
+    {
+      "endMs": "6120",
+      "startMs": "2600",
+      "startTimeText": "0:02",
+      "text": "get nothing. The hard choices that you"
+    },
+    {
+      "endMs": "7600",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "have are hard because you've used up all"
+    },
+    {
+      "endMs": "9720",
+      "startMs": "6120",
+      "startTimeText": "0:06",
+      "text": "your easy decisions already. Wishing"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "7600",
+      "startTimeText": "0:07",
+      "text": "that they were easier does not make them"
+    },
+    {
+      "endMs": "12600",
+      "startMs": "9720",
+      "startTimeText": "0:09",
+      "text": "easier. And you've got to pick"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "and you've got to live with the"
+    },
+    {
+      "endMs": "15400",
+      "startMs": "12600",
+      "startTimeText": "0:12",
+      "text": "consequences. The more irreversible"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "decisions you make, the better you get"
+    },
+    {
+      "endMs": "19280",
+      "startMs": "15400",
+      "startTimeText": "0:15",
+      "text": "at making them."
+    },
+    {
+      "endMs": "19280",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "But you got to start."
+    }
+  ],
+  "transcript_only_text": " Only  thing  that  is  guaranteed  is  that  if \n you  want  everything  from  life  you  will \n get  nothing.  The  hard  choices  that  you \n have  are  hard  because  you've  used  up  all \n your  easy  decisions  already.  Wishing \n that  they  were  easier  does  not  make  them \n easier.  And  you've  got  to  pick \n and  you've  got  to  live  with  the \n consequences.  The  more  irreversible \n decisions  you  make,  the  better  you  get \n at  making  them. \n But  you  got  to  start.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WZ9goyJ0cjU",
+  "videoId": "WZ9goyJ0cjU"
+}

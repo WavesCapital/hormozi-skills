@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/hormozi/business-sidecar.schema.json",
+  "title": "Hormozi Business Context Sidecar",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "profile", "validation", "authorities", "authority_summary"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "generated_at": {"type": "string", "format": "date-time"},
+    "profile": {"$ref": "#/$defs/file"},
+    "validation": {
+      "type": "object",
+      "required": ["valid", "approved", "errors", "missing_sections", "matched_sections"]
+    },
+    "authorities": {"type": "array", "items": {"type": "object"}},
+    "authority_summary": {"type": "object"}
+  },
+  "$defs": {
+    "file": {
+      "type": "object",
+      "required": ["path", "sha256", "size", "mtime_ns"],
+      "properties": {
+        "path": {"type": "string"},
+        "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+        "size": {"type": "integer", "minimum": 0},
+        "mtime_ns": {"type": "integer", "minimum": 0}
+      }
+    }
+  }
+}

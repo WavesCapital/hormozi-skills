@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can learn anything you want as long"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "as you're willing to look dumb in front"
+    },
+    {
+      "endMs": "9240",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "of other people for an extended period"
+    },
+    {
+      "endMs": "11680",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "of time. I think the most underrated"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "9240",
+      "startTimeText": "0:09",
+      "text": "money-making habit [music] is being"
+    },
+    {
+      "endMs": "16375",
+      "startMs": "11680",
+      "startTimeText": "0:11",
+      "text": "willing to look stupid because one of"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "the surest ways to never succeed in life"
+    },
+    {
+      "endMs": "20040",
+      "startMs": "16375",
+      "startTimeText": "0:16",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "22760",
+      "startMs": "16520",
+      "startTimeText": "0:16",
+      "text": ">> is to avoid looking dumb. Is to avoid"
+    },
+    {
+      "endMs": "22760",
+      "startMs": "20040",
+      "startTimeText": "0:20",
+      "text": "failing."
+    }
+  ],
+  "transcript_only_text": " You  can  learn  anything  you  want  as  long \n as  you're  willing  to  look  dumb  in  front \n of  other  people  for  an  extended  period \n of  time.  I  think  the  most  underrated \n money-making  habit  [music]  is  being \n willing  to  look  stupid  because  one  of \n the  surest  ways  to  never  succeed  in  life \n >> [music] \n >> is  to  avoid  looking  dumb.  Is  to  avoid \n failing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=cx3jW5uMxBQ",
+  "videoId": "cx3jW5uMxBQ"
+}

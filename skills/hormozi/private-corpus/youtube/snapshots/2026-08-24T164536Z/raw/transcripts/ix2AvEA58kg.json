@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3439",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "friend of mine was in the fitness space"
+    },
+    {
+      "endMs": "5040",
+      "startMs": "1520",
+      "startTimeText": "0:01",
+      "text": "and he was making content and the big"
+    },
+    {
+      "endMs": "8720",
+      "startMs": "3439",
+      "startTimeText": "0:03",
+      "text": "issue when I was talking to him I was"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "like bro you don't look in shape I told"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "8720",
+      "startTimeText": "0:08",
+      "text": "you know this particular individual I"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "said you got to go pro man I was like if"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "you want to be a professional I was like"
+    },
+    {
+      "endMs": "16320",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "you got to look like this is what you do"
+    },
+    {
+      "endMs": "17520",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "full-time like this is not negotiable"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "16320",
+      "startTimeText": "0:16",
+      "text": "every business has this type of thing"
+    },
+    {
+      "endMs": "20400",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "it's like if you're a web design"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "18560",
+      "startTimeText": "0:18",
+      "text": "business and you have a terrible website"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "20400",
+      "startTimeText": "0:20",
+      "text": "like sometimes it's the big obvious"
+    }
+  ],
+  "transcript_only_text": " friend  of  mine  was  in  the  fitness  space \n and  he  was  making  content  and  the  big \n issue  when  I  was  talking  to  him  I  was \n like  bro  you  don't  look  in  shape  I  told \n you  know  this  particular  individual  I \n said  you  got  to  go  pro  man  I  was  like  if \n you  want  to  be  a  professional  I  was  like \n you  got  to  look  like  this  is  what  you  do \n full-time  like  this  is  not  negotiable \n every  business  has  this  type  of  thing \n it's  like  if  you're  a  web  design \n business  and  you  have a  terrible  website \n like  sometimes  it's  the  big  obvious",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ix2AvEA58kg",
+  "videoId": "ix2AvEA58kg"
+}

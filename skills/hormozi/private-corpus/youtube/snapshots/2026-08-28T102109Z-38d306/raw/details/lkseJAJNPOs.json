@@ -1,0 +1,298 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=lkseJAJNPOs&ei=jQ-QaumZGoyHy_sPupPL2Q8&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787851261&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=10126ACA5D835FD17DF69D641B0DCE9E2F7D3AAB.B46FE35084FD8727B2D9B9E62603F55D5D5C8400&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 37,
+  "commentCountText": "37",
+  "credits_charged": 1,
+  "credits_remaining": 18303,
+  "description": "The reason you’re confused about what opportunity to pursue is that your only goal is to make money. \n\nAnd since there are so many ways to do it, you can’t figure out which one to pick.\n\nFix: Figure out what you wanna DO. Then within that context, which version makes you money.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:02:26",
+  "durationMs": 146000,
+  "genre": "Education",
+  "id": "lkseJAJNPOs",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 788,
+  "likeCountText": "788",
+  "most_replayed": null,
+  "publishDate": "2026-08-26T17:03:14-07:00",
+  "publishDateText": "Aug 26, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/lkseJAJNPOs/maxresdefault.jpg",
+  "title": "Why You Can't Pick a Business to Start",
+  "type": "video",
+  "viewCountInt": 8436,
+  "viewCountText": "8,436",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "MPHn-nW30QU",
+      "lengthInSeconds": 3310,
+      "lengthText": "55:10",
+      "publishDate": "2026-08-26T21:21:02.483Z",
+      "publishDateText": "Streamed 13 hours ago",
+      "publishedTime": "2026-08-26T21:21:02.483Z",
+      "publishedTimeText": "Streamed 13 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/MPHn-nW30QU/hqdefault.jpg?sqp=-oaymwFECKgBEF5IWvKriqkDNwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBLKD8wD7gC8xg=&rs=AOn4CLCQD57HNmCqytPypueIsWcaBif2sw",
+      "title": "14 Years of Actually Good Advice",
+      "videoUrl": "https://www.youtube.com/watch?v=MPHn-nW30QU",
+      "viewCountInt": 20000,
+      "viewCountText": "20K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:21:02.483Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:21:02.483Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBuimB2ElgJrBx7WaIkuN9-2kStTA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 150000,
+      "viewCountText": "150K views"
+    },
+    {
+      "channel": {
+        "handle": "CNBCMakeIt",
+        "id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+        "title": "CNBC Make It",
+        "url": "https://www.youtube.com/@CNBCMakeIt"
+      },
+      "id": "uk_2zKQd46g",
+      "lengthInSeconds": 531,
+      "lengthText": "8:51",
+      "publishDate": "2026-07-27T10:21:02.483Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-27T10:21:02.483Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/uk_2zKQd46g/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLAo0MyMqSJrqyj7c95ocZjoAaC44g",
+      "title": "I Left The U.S. And Bought A House In Italy For $13K",
+      "videoUrl": "https://www.youtube.com/watch?v=uk_2zKQd46g",
+      "viewCountInt": 3400000,
+      "viewCountText": "3.4M views"
+    },
+    {
+      "channel": {
+        "handle": "iamdanharrison",
+        "id": "UCsaposjX2IR0HY3YhrkUnMg",
+        "title": "Dan Harrison",
+        "url": "https://www.youtube.com/@iamdanharrison"
+      },
+      "id": "ZKnovpDGWWM",
+      "lengthInSeconds": 1954,
+      "lengthText": "32:34",
+      "publishDate": "2026-08-13T10:21:02.483Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-13T10:21:02.483Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/ZKnovpDGWWM/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLA3HvYG6sIxrJ9M8dEou0kTfYUN-Q",
+      "title": "Hormozi's Model Works… Until You Have Kids.",
+      "videoUrl": "https://www.youtube.com/watch?v=ZKnovpDGWWM",
+      "viewCountInt": 23000,
+      "viewCountText": "23K views"
+    },
+    {
+      "channel": {
+        "handle": "ShaneHummus",
+        "id": "UCLKZ20yD2tNMBOkSDZo4FeQ",
+        "title": "Shane Hummus",
+        "url": "https://www.youtube.com/@ShaneHummus"
+      },
+      "id": "67kBE8awFkI",
+      "lengthInSeconds": 1219,
+      "lengthText": "20:19",
+      "publishDate": "2026-08-26T10:21:02.483Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-08-26T10:21:02.483Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/67kBE8awFkI/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBHtb-1KuIiD9bplCYahJxyGjYHRA",
+      "title": "5 Jobs That Hire Literally Anyone With a Pulse",
+      "videoUrl": "https://www.youtube.com/watch?v=67kBE8awFkI",
+      "viewCountInt": 30000,
+      "viewCountText": "30K views"
+    },
+    {
+      "channel": {
+        "handle": "WillTennyson",
+        "id": "UCB2wtYpfbCpYDc5TeTwuqFA",
+        "title": "Will Tennyson",
+        "url": "https://www.youtube.com/@WillTennyson"
+      },
+      "id": "9dNPbViH8Po",
+      "lengthInSeconds": 2083,
+      "lengthText": "34:43",
+      "publishDate": "2026-07-27T10:21:02.483Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-27T10:21:02.483Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/9dNPbViH8Po/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLCVwI_rwYXCSUZ7jgv0u-aMDfJrNw",
+      "title": "I Quit EVERY Modern Day Poison",
+      "videoUrl": "https://www.youtube.com/watch?v=9dNPbViH8Po",
+      "viewCountInt": 7300000,
+      "viewCountText": "7.3M views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Better Offline",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "Lf5oqGOCRCM",
+      "lengthInSeconds": 8870,
+      "lengthText": "2:27:50",
+      "publishDate": "2026-08-27T07:21:02.483Z",
+      "publishDateText": "3 hours ago",
+      "publishedTime": "2026-08-27T07:21:02.483Z",
+      "publishedTimeText": "3 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/Lf5oqGOCRCM/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLCUglK89MMVve1HlFKHP2ZJaGvbLQ",
+      "title": "The Man Who Calls BS On AI: They’re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
+      "videoUrl": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
+      "viewCountInt": 168000,
+      "viewCountText": "168K views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "4XQ50qWSRO4",
+      "lengthInSeconds": 1704,
+      "lengthText": "28:24",
+      "publishDate": "2026-08-22T10:21:02.483Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-22T10:21:02.483Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/4XQ50qWSRO4/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBSl4NNG9SggKKypeW4yw8xqpLYOw",
+      "title": "Success is Hard Until You Understand This Formula",
+      "videoUrl": "https://www.youtube.com/watch?v=4XQ50qWSRO4",
+      "viewCountInt": 21000,
+      "viewCountText": "21K views"
+    },
+    {
+      "channel": {
+        "title": "The Calum Johnson Show and Oliur Online",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "XWWbIDQuHJc",
+      "lengthInSeconds": 3565,
+      "lengthText": "59:25",
+      "publishDate": "2026-07-27T10:21:02.483Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-27T10:21:02.483Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/XWWbIDQuHJc/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLB8QGvYzaF4ZvLueqB2dGd6kQjh1A",
+      "title": "I Made $20K In 7 Days: The Fastest Way To Use AI Agents To Make Money & Be More Productive (No Code)",
+      "videoUrl": "https://www.youtube.com/watch?v=XWWbIDQuHJc",
+      "viewCountInt": 338000,
+      "viewCountText": "338K views"
+    },
+    {
+      "channel": {
+        "handle": "tomdavisofficial",
+        "id": "UC-TFajjG5CMAmUrJG1ONtKQ",
+        "title": "Tom Davis Dog Training ",
+        "url": "https://www.youtube.com/@tomdavisofficial"
+      },
+      "id": "wmhR3ZKRBvw",
+      "lengthInSeconds": 481,
+      "lengthText": "8:01",
+      "publishDate": "2026-04-27T10:21:02.483Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-27T10:21:02.483Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/wmhR3ZKRBvw/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLDxPJY2e4i1oSPCz3IMhpmLfn8_dQ",
+      "title": "If Your Dog Stretches When They See You… This Is What It Really Means",
+      "videoUrl": "https://www.youtube.com/watch?v=wmhR3ZKRBvw",
+      "viewCountInt": 2200000,
+      "viewCountText": "2.2M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "sGakuNs9mT4",
+      "lengthInSeconds": 1289,
+      "lengthText": "21:29",
+      "publishDate": "2025-11-27T10:21:02.483Z",
+      "publishDateText": "9 months ago",
+      "publishedTime": "2025-11-27T10:21:02.483Z",
+      "publishedTimeText": "9 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/sGakuNs9mT4/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLC41lIVJ_Oq1Mx1_t5-SgbKvBgZiA",
+      "title": "How to Speak So Well People Give You Money",
+      "videoUrl": "https://www.youtube.com/watch?v=sGakuNs9mT4",
+      "viewCountInt": 432000,
+      "viewCountText": "432K views"
+    },
+    {
+      "channel": {
+        "handle": "MattandJulia",
+        "id": "UCnrHlFu6ZueDosGPt9R3nHw",
+        "title": "Matt and Julia",
+        "url": "https://www.youtube.com/@MattandJulia"
+      },
+      "id": "_GMgofd_Agw",
+      "lengthInSeconds": 2218,
+      "lengthText": "36:58",
+      "publishDate": "2026-08-26T10:21:02.483Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-08-26T10:21:02.483Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/_GMgofd_Agw/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBL8G_lGBVLic2T5ceHqQ5oCTcuWg",
+      "title": "INSIDE IRAN IN 2026 (Intense)",
+      "videoUrl": "https://www.youtube.com/watch?v=_GMgofd_Agw",
+      "viewCountInt": 709000,
+      "viewCountText": "709K views"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I have a closer, which is, let"
+    }
+  ],
+  "transcript_only_text": " I  have  a  closer,  which  is,  let",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=A_0buD4xzk8",
+  "videoId": "A_0buD4xzk8"
+}

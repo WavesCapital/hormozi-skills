@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Sadness comes from a lack of options,"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "2360",
+      "startTimeText": "0:02",
+      "text": "which is why it feels like hopelessness."
+    },
+    {
+      "endMs": "8280",
+      "startMs": "4480",
+      "startTimeText": "0:04",
+      "text": "Anxiety comes from many options, but a"
+    },
+    {
+      "endMs": "10120",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": "lack of priorities, which is why it"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "8280",
+      "startTimeText": "0:08",
+      "text": "feels like paralysis. And so, you solve"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "10120",
+      "startTimeText": "0:10",
+      "text": "sadness with knowledge, and anxiety with"
+    },
+    {
+      "endMs": "17880",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "a decision. And so, if you don't know"
+    },
+    {
+      "endMs": "20280",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "what to do, you have to find out what to"
+    },
+    {
+      "endMs": "23880",
+      "startMs": "17880",
+      "startTimeText": "0:17",
+      "text": "do. And so, decision solves anxiety,"
+    },
+    {
+      "endMs": "23880",
+      "startMs": "20280",
+      "startTimeText": "0:20",
+      "text": "knowledge solves sadness."
+    }
+  ],
+  "transcript_only_text": " Sadness  comes  from  a  lack  of  options, \n which  is  why  it  feels  like  hopelessness. \n Anxiety  comes  from  many  options,  but  a \n lack  of  priorities,  which  is  why  it \n feels  like  paralysis.  And  so,  you  solve \n sadness  with  knowledge,  and  anxiety  with \n a  decision.  And  so,  if  you  don't  know \n what  to  do,  you  have  to  find  out  what  to \n do.  And  so,  decision  solves  anxiety, \n knowledge  solves  sadness.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=j12TvAddjJs",
+  "videoId": "j12TvAddjJs"
+}

@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Consistent people beat inconsistent"
+    },
+    {
+      "endMs": "6040",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "people, which is everyone. You must"
+    },
+    {
+      "endMs": "7880",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "first become consistent before you can"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "6040",
+      "startTimeText": "0:06",
+      "text": "become exceptional. A lot of success"
+    },
+    {
+      "endMs": "10600",
+      "startMs": "7880",
+      "startTimeText": "0:07",
+      "text": "comes down to sticking with something"
+    },
+    {
+      "endMs": "12560",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "long enough to make the number of"
+    },
+    {
+      "endMs": "14080",
+      "startMs": "10600",
+      "startTimeText": "0:10",
+      "text": "mistakes required to actually figure it"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "12560",
+      "startTimeText": "0:12",
+      "text": "out. Otherwise, you keep starting from"
+    },
+    {
+      "endMs": "20200",
+      "startMs": "14080",
+      "startTimeText": "0:14",
+      "text": "zero month after month after month"
+    },
+    {
+      "endMs": "20200",
+      "startMs": "16960",
+      "startTimeText": "0:16",
+      "text": "without ever making progress."
+    }
+  ],
+  "transcript_only_text": " Consistent  people  beat  inconsistent \n people,  which  is  everyone.  You  must \n first  become  consistent  before  you  can \n become  exceptional.  A  lot  of  success \n comes  down  to  sticking  with  something \n long  enough  to  make  the  number  of \n mistakes  required  to  actually  figure  it \n out.  Otherwise,  you  keep  starting  from \n zero  month  after  month  after  month \n without  ever  making  progress.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=X9OQvuQ8gtY",
+  "videoId": "X9OQvuQ8gtY"
+}

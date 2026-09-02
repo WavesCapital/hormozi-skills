@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "How did you choose the people that you"
+    },
+    {
+      "endMs": "4440",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "keep in your circle? I just always"
+    },
+    {
+      "endMs": "5720",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "think, \"Does this person help me become"
+    },
+    {
+      "endMs": "7320",
+      "startMs": "4440",
+      "startTimeText": "0:04",
+      "text": "the person I want to become? [music] Do"
+    },
+    {
+      "endMs": "9120",
+      "startMs": "5720",
+      "startTimeText": "0:05",
+      "text": "they get me closer or further?\" If they"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "7320",
+      "startTimeText": "0:07",
+      "text": "get me closer, then I want them closer"
+    },
+    {
+      "endMs": "11135",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "to me. If they get me further, I want"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "them further from me."
+    },
+    {
+      "endMs": "12240",
+      "startMs": "11135",
+      "startTimeText": "0:11",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": ">> And I don't think that's I don't think"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "12240",
+      "startTimeText": "0:12",
+      "text": "that's binary. I think that that happens"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "naturally over time."
+    }
+  ],
+  "transcript_only_text": " How  did  you  choose  the  people  that  you \n keep  in  your  circle?  I  just  always \n think,  \"Does  this  person  help  me  become \n the  person  I  want  to  become?  [music]  Do \n they  get  me  closer  or  further?\"  If  they \n get  me  closer,  then  I  want  them  closer \n to  me.  If  they  get  me  further,  I  want \n them  further  from  me. \n >> [music] \n >> And  I  don't  think  that's  I  don't  think \n that's  binary.  I  think  that  that  happens \n naturally  over  time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=g5E3WeVOjCk",
+  "videoId": "g5E3WeVOjCk"
+}

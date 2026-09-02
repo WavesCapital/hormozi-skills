@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2560",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "Paul Graham said this quote on Twitter"
+    },
+    {
+      "endMs": "3919",
+      "startMs": "1360",
+      "startTimeText": "0:01",
+      "text": "the other day and I really liked it. He"
+    },
+    {
+      "endMs": "5359",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "said, \"If you want to make a million"
+    },
+    {
+      "endMs": "7359",
+      "startMs": "3919",
+      "startTimeText": "0:03",
+      "text": "dollars, you must endure a million"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "5359",
+      "startTimeText": "0:05",
+      "text": "dollars of pain. I like to consider how"
+    },
+    {
+      "endMs": "10639",
+      "startMs": "7359",
+      "startTimeText": "0:07",
+      "text": "much enterprise value I'll get on the"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "other side of this concrete wall to bash"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "10639",
+      "startTimeText": "0:10",
+      "text": "my head into. If the number is big"
+    },
+    {
+      "endMs": "16400",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "enough and I've got a strong enough"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "13920",
+      "startTimeText": "0:13",
+      "text": "helmet, I will keep bashing into it so I"
+    },
+    {
+      "endMs": "19359",
+      "startMs": "16400",
+      "startTimeText": "0:16",
+      "text": "can get to the other side.\" And that's"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "what keeps motivating me. And if I get"
+    },
+    {
+      "endMs": "22880",
+      "startMs": "19359",
+      "startTimeText": "0:19",
+      "text": "to the bottom of it and I find out that"
+    },
+    {
+      "endMs": "26400",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "my underlying assumption is wrong, I"
+    },
+    {
+      "endMs": "26400",
+      "startMs": "22880",
+      "startTimeText": "0:22",
+      "text": "have to change. And that's just as hard."
+    }
+  ],
+  "transcript_only_text": " Paul  Graham  said  this  quote  on  Twitter \n the  other  day  and  I  really  liked  it.  He \n said,  \"If  you  want  to  make  a  million \n dollars,  you  must  endure  a  million \n dollars  of  pain.  I  like  to  consider  how \n much  enterprise  value  I'll  get  on  the \n other  side  of  this  concrete  wall  to  bash \n my  head  into.  If  the  number  is  big \n enough  and  I've  got  a  strong  enough \n helmet,  I  will  keep  bashing  into  it  so  I \n can  get  to  the  other  side.\"  And  that's \n what  keeps  motivating  me.  And  if  I  get \n to  the  bottom  of  it  and  I  find  out  that \n my  underlying  assumption  is  wrong,  I \n have  to  change.  And  that's  just  as  hard.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=L98DI9CAGz4",
+  "videoId": "L98DI9CAGz4"
+}

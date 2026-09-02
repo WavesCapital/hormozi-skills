@@ -1,0 +1,155 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "We run an online program. What's the"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "best way you found to measure like"
+    },
+    {
+      "endMs": "7360",
+      "startMs": "3800",
+      "startTimeText": "0:03",
+      "text": "customer success and happiness?"
+    },
+    {
+      "endMs": "9080",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": ">> You're measuring any kind of indicator,"
+    },
+    {
+      "endMs": "11000",
+      "startMs": "7360",
+      "startTimeText": "0:07",
+      "text": "you always want to have paired metrics."
+    },
+    {
+      "endMs": "12880",
+      "startMs": "9080",
+      "startTimeText": "0:09",
+      "text": "So, a classic example is like speed and"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "11000",
+      "startTimeText": "0:11",
+      "text": "quality. Is you want things that offset"
+    },
+    {
+      "endMs": "15480",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "one another."
+    },
+    {
+      "endMs": "16640",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "And so, for me for content, for example,"
+    },
+    {
+      "endMs": "18360",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "it's like I want to have as many views"
+    },
+    {
+      "endMs": "19440",
+      "startMs": "16640",
+      "startTimeText": "0:16",
+      "text": "as possible as long as our CPMs are high"
+    },
+    {
+      "endMs": "21800",
+      "startMs": "18360",
+      "startTimeText": "0:18",
+      "text": "cuz then I know that it's business"
+    },
+    {
+      "endMs": "25000",
+      "startMs": "19440",
+      "startTimeText": "0:19",
+      "text": "owners. Customer happiness really means"
+    },
+    {
+      "endMs": "26720",
+      "startMs": "21800",
+      "startTimeText": "0:21",
+      "text": "I want my CSAT score to be above X. So,"
+    },
+    {
+      "endMs": "28560",
+      "startMs": "25000",
+      "startTimeText": "0:25",
+      "text": "for your business, it's I want to"
+    },
+    {
+      "endMs": "31120",
+      "startMs": "26720",
+      "startTimeText": "0:26",
+      "text": "maximize how many people ascend and"
+    },
+    {
+      "endMs": "32599",
+      "startMs": "28560",
+      "startTimeText": "0:28",
+      "text": "retain while"
+    },
+    {
+      "endMs": "33680",
+      "startMs": "31120",
+      "startTimeText": "0:31",
+      "text": "keeping our CSAT scores really high. If"
+    },
+    {
+      "endMs": "34560",
+      "startMs": "32599",
+      "startTimeText": "0:32",
+      "text": "that's what you want to do, or NPS"
+    },
+    {
+      "endMs": "35440",
+      "startMs": "33680",
+      "startTimeText": "0:33",
+      "text": "scores."
+    },
+    {
+      "endMs": "37720",
+      "startMs": "34560",
+      "startTimeText": "0:34",
+      "text": ">> Makes sense. Thank you."
+    },
+    {
+      "endMs": "37720",
+      "startMs": "35440",
+      "startTimeText": "0:35",
+      "text": ">> Yeah."
+    }
+  ],
+  "transcript_only_text": " We  run  an  online  program.  What's  the \n best  way  you  found  to  measure  like \n customer  success  and  happiness? \n >> You're  measuring  any  kind  of  indicator, \n you  always  want  to  have  paired  metrics. \n So,  a  classic  example  is  like  speed  and \n quality.  Is  you  want  things  that  offset \n one  another. \n And  so,  for  me  for  content,  for  example, \n it's  like  I  want  to  have  as  many  views \n as  possible  as  long  as  our  CPMs  are  high \n cuz  then  I  know  that  it's  business \n owners.  Customer  happiness  really  means \n I  want  my  CSAT  score  to  be  above  X.  So, \n for  your  business,  it's  I  want  to \n maximize  how  many  people  ascend  and \n retain  while \n keeping  our  CSAT  scores  really  high.  If \n that's  what  you  want  to  do,  or  NPS \n scores. \n >> Makes  sense.  Thank  you. \n >> Yeah.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=NeaZlDWNYl4",
+  "videoId": "NeaZlDWNYl4"
+}

@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2520",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I had a year that I basically went into"
+    },
+    {
+      "endMs": "3274",
+      "startMs": "1400",
+      "startTimeText": "0:01",
+      "text": "retirement trying to figure out what I"
+    },
+    {
+      "endMs": "3480",
+      "startMs": "2520",
+      "startTimeText": "0:02",
+      "text": "wanted to do"
+    },
+    {
+      "endMs": "5720",
+      "startMs": "3274",
+      "startTimeText": "0:03",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "7860",
+      "startMs": "3480",
+      "startTimeText": "0:03",
+      "text": ">> and the thesis that I came out with was"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "5720",
+      "startTimeText": "0:05",
+      "text": "that hard work is the goal. And so the"
+    },
+    {
+      "endMs": "11040",
+      "startMs": "7860",
+      "startTimeText": "0:07",
+      "text": "[music] fact that there's something that"
+    },
+    {
+      "endMs": "12920",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "happens as a result of hard work is"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "11040",
+      "startTimeText": "0:11",
+      "text": "really just a secondary effect. It's a"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "12920",
+      "startTimeText": "0:12",
+      "text": "consequence. But the goal is the work"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "itself."
+    }
+  ],
+  "transcript_only_text": " I  had  a  year  that  I  basically  went  into \n retirement  trying  to  figure  out  what  I \n wanted  to  do \n >> [music] \n >> and  the  thesis  that  I  came  out  with  was \n that  hard  work  is  the  goal.  And  so  the \n [music]  fact  that  there's  something  that \n happens  as  a  result  of  hard  work  is \n really  just  a  secondary  effect.  It's  a \n consequence.  But  the  goal  is  the  work \n itself.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nbHMeopNtDg",
+  "videoId": "nbHMeopNtDg"
+}

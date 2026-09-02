@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The single greatest razor that I have"
+    },
+    {
+      "endMs": "10600",
+      "startMs": "2760",
+      "startTimeText": "0:02",
+      "text": "for defining reality more accurately has"
+    },
+    {
+      "endMs": "14120",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "been removing all sentiment, emotion,"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "10600",
+      "startTimeText": "0:10",
+      "text": "and quote psychology from the equation"
+    },
+    {
+      "endMs": "20400",
+      "startMs": "14120",
+      "startTimeText": "0:14",
+      "text": "and only looking at it from a"
+    },
+    {
+      "endMs": "20400",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "behaviorist frame of what can I observe."
+    }
+  ],
+  "transcript_only_text": " The  single  greatest  razor  that  I  have \n for  defining  reality  more  accurately  has \n been  removing  all  sentiment,  emotion, \n and  quote  psychology  from  the  equation \n and  only  looking  at  it  from  a \n behaviorist  frame  of  what  can  I  observe.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6PkwfEUSmPQ",
+  "videoId": "6PkwfEUSmPQ"
+}

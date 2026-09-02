@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Everything you want is on the other side"
+    },
+    {
+      "endMs": "5480",
+      "startMs": "2040",
+      "startTimeText": "0:02",
+      "text": "of a few hard conversations that you"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "have been putting off. People either"
+    },
+    {
+      "endMs": "8480",
+      "startMs": "5480",
+      "startTimeText": "0:05",
+      "text": "grow into their potential or they keep"
+    },
+    {
+      "endMs": "10560",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "living the same 6 months of their life"
+    },
+    {
+      "endMs": "12200",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "over and over again. And the difference"
+    },
+    {
+      "endMs": "14080",
+      "startMs": "10560",
+      "startTimeText": "0:10",
+      "text": "is how many hard conversations you're"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "12200",
+      "startTimeText": "0:12",
+      "text": "willing to have and how fast you have"
+    },
+    {
+      "endMs": "18000",
+      "startMs": "14080",
+      "startTimeText": "0:14",
+      "text": "them once you realize you need to."
+    }
+  ],
+  "transcript_only_text": " Everything  you  want  is  on  the  other  side \n of  a  few  hard  conversations  that  you \n have  been  putting  off.  People  either \n grow  into  their  potential  or  they  keep \n living  the  same  6  months  of  their  life \n over  and  over  again.  And  the  difference \n is  how  many  hard  conversations  you're \n willing  to  have  and  how  fast  you  have \n them  once  you  realize  you  need  to.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=atRdkHDRKY0",
+  "videoId": "atRdkHDRKY0"
+}

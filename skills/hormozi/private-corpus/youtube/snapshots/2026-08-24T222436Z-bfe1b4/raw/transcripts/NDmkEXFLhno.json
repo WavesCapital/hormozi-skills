@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So, here's the thing about the 996,"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "2720",
+      "startTimeText": "0:02",
+      "text": "which is 9:00 a.m. to 9:00 p.m. 6 days a"
+    },
+    {
+      "endMs": "8280",
+      "startMs": "5120",
+      "startTimeText": "0:05",
+      "text": "week."
+    },
+    {
+      "endMs": "10760",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "Is what about"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "8280",
+      "startTimeText": "0:08",
+      "text": "the seventh day?"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "Boom! Still got it."
+    }
+  ],
+  "transcript_only_text": " So,  here's  the  thing  about  the  996, \n which  is  9:00  a.m.  to  9:00  p.m.  6  days  a \n week. \n Is  what  about \n the  seventh  day? \n Boom!  Still  got  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=NDmkEXFLhno",
+  "videoId": "NDmkEXFLhno"
+}

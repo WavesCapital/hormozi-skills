@@ -1,0 +1,371 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I run a investment community called"
+    },
+    {
+      "endMs": "4280",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "Yacht School."
+    },
+    {
+      "endMs": "6920",
+      "startMs": "4000",
+      "startTimeText": "0:04",
+      "text": ">> Okay."
+    },
+    {
+      "endMs": "8800",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": ">> We did about 3.2 million in revenue."
+    },
+    {
+      "endMs": "10880",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "When I launched it and started it 18"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "months ago, I just went straight from"
+    },
+    {
+      "endMs": "16120",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "reels, pushed them into a live webinar."
+    },
+    {
+      "endMs": "18080",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "Now, that's just not hitting as well."
+    },
+    {
+      "endMs": "20520",
+      "startMs": "16120",
+      "startTimeText": "0:16",
+      "text": "Typically, 400 people register, 200"
+    },
+    {
+      "endMs": "22680",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "people show up, and then from there, we"
+    },
+    {
+      "endMs": "24560",
+      "startMs": "20520",
+      "startTimeText": "0:20",
+      "text": "end up usually getting 10% of people"
+    },
+    {
+      "endMs": "27520",
+      "startMs": "22680",
+      "startTimeText": "0:22",
+      "text": "will book a call with their closer, and"
+    },
+    {
+      "endMs": "28360",
+      "startMs": "24560",
+      "startTimeText": "0:24",
+      "text": "then they'll close, you know, 50 to 60%."
+    },
+    {
+      "endMs": "29520",
+      "startMs": "27520",
+      "startTimeText": "0:27",
+      "text": ">> What's price point?"
+    },
+    {
+      "endMs": "30400",
+      "startMs": "28360",
+      "startTimeText": "0:28",
+      "text": ">> 6,500."
+    },
+    {
+      "endMs": "31760",
+      "startMs": "29520",
+      "startTimeText": "0:29",
+      "text": ">> I actually don't think you need to"
+    },
+    {
+      "endMs": "33600",
+      "startMs": "30400",
+      "startTimeText": "0:30",
+      "text": "optimize too much on your existing"
+    },
+    {
+      "endMs": "35960",
+      "startMs": "31760",
+      "startTimeText": "0:31",
+      "text": "funnel. So, your show rates are really"
+    },
+    {
+      "endMs": "37760",
+      "startMs": "33600",
+      "startTimeText": "0:33",
+      "text": "good. Your close rates during the"
+    },
+    {
+      "endMs": "38960",
+      "startMs": "35960",
+      "startTimeText": "0:35",
+      "text": "webinar are a little low. I don't know"
+    },
+    {
+      "endMs": "40680",
+      "startMs": "37760",
+      "startTimeText": "0:37",
+      "text": "if you score leads on the front end when"
+    },
+    {
+      "endMs": "41880",
+      "startMs": "38960",
+      "startTimeText": "0:38",
+      "text": "they opt in. Do you do that? As in, do"
+    },
+    {
+      "endMs": "42640",
+      "startMs": "40680",
+      "startTimeText": "0:40",
+      "text": "you actually see if they're a"
+    },
+    {
+      "endMs": "44280",
+      "startMs": "41880",
+      "startTimeText": "0:41",
+      "text": "high-income earner?"
+    },
+    {
+      "endMs": "45360",
+      "startMs": "42640",
+      "startTimeText": "0:42",
+      "text": ">> Not when they get into the registration"
+    },
+    {
+      "endMs": "46280",
+      "startMs": "44280",
+      "startTimeText": "0:44",
+      "text": "page. No, we do not."
+    },
+    {
+      "endMs": "46600",
+      "startMs": "45360",
+      "startTimeText": "0:45",
+      "text": ">> I would add that"
+    },
+    {
+      "endMs": "47600",
+      "startMs": "46280",
+      "startTimeText": "0:46",
+      "text": ">> Okay."
+    },
+    {
+      "endMs": "49120",
+      "startMs": "46600",
+      "startTimeText": "0:46",
+      "text": ">> because it'll give you a lot of good"
+    },
+    {
+      "endMs": "51560",
+      "startMs": "47600",
+      "startTimeText": "0:47",
+      "text": "data on whether or not, like, if you're"
+    },
+    {
+      "endMs": "52520",
+      "startMs": "49120",
+      "startTimeText": "0:49",
+      "text": "closing 10%, but maybe only 20% of the"
+    },
+    {
+      "endMs": "54120",
+      "startMs": "51560",
+      "startTimeText": "0:51",
+      "text": "people who were who were showing up for"
+    },
+    {
+      "endMs": "55840",
+      "startMs": "52520",
+      "startTimeText": "0:52",
+      "text": "the webinar are actually qualified, you"
+    },
+    {
+      "endMs": "57600",
+      "startMs": "54120",
+      "startTimeText": "0:54",
+      "text": "might be actually closing 50%, and then"
+    },
+    {
+      "endMs": "59400",
+      "startMs": "55840",
+      "startTimeText": "0:55",
+      "text": "the other 80% aren't good. For anybody"
+    },
+    {
+      "endMs": "60840",
+      "startMs": "57600",
+      "startTimeText": "0:57",
+      "text": "who does one-to-many"
+    },
+    {
+      "endMs": "62520",
+      "startMs": "59400",
+      "startTimeText": "0:59",
+      "text": "selling environments, you have to"
+    },
+    {
+      "endMs": "64360",
+      "startMs": "60840",
+      "startTimeText": "1:00",
+      "text": "qualify the room, otherwise you'll get"
+    },
+    {
+      "endMs": "66160",
+      "startMs": "62520",
+      "startTimeText": "1:02",
+      "text": "this volatility in your selling, and"
+    },
+    {
+      "endMs": "67440",
+      "startMs": "64360",
+      "startTimeText": "1:04",
+      "text": "you'll think that you're going nuts. But"
+    },
+    {
+      "endMs": "69400",
+      "startMs": "66160",
+      "startTimeText": "1:06",
+      "text": "if you know what percentage of the"
+    },
+    {
+      "endMs": "71480",
+      "startMs": "67440",
+      "startTimeText": "1:07",
+      "text": "accounts are quote sellable accounts or"
+    },
+    {
+      "endMs": "72800",
+      "startMs": "69400",
+      "startTimeText": "1:09",
+      "text": "are marketing qualified leads, your"
+    },
+    {
+      "endMs": "73960",
+      "startMs": "71480",
+      "startTimeText": "1:11",
+      "text": "close rates will become significantly"
+    },
+    {
+      "endMs": "76640",
+      "startMs": "72800",
+      "startTimeText": "1:12",
+      "text": "more stable, and you'll stop going"
+    },
+    {
+      "endMs": "79000",
+      "startMs": "73960",
+      "startTimeText": "1:13",
+      "text": "insane. So, when I hear your numbers,"
+    },
+    {
+      "endMs": "82400",
+      "startMs": "76640",
+      "startTimeText": "1:16",
+      "text": "50% show rate, really good. Close rate"
+    },
+    {
+      "endMs": "84240",
+      "startMs": "79000",
+      "startTimeText": "1:19",
+      "text": "at 10% at a 10K price point for booking"
+    },
+    {
+      "endMs": "87120",
+      "startMs": "82400",
+      "startTimeText": "1:22",
+      "text": "a call, typically you can get about 20"
+    },
+    {
+      "endMs": "88280",
+      "startMs": "84240",
+      "startTimeText": "1:24",
+      "text": "if the the the list quality is good. So,"
+    },
+    {
+      "endMs": "89840",
+      "startMs": "87120",
+      "startTimeText": "1:27",
+      "text": "that's the only one that's a little bit"
+    },
+    {
+      "endMs": "91880",
+      "startMs": "88280",
+      "startTimeText": "1:28",
+      "text": "low. But your close rates on the call on"
+    },
+    {
+      "endMs": "93720",
+      "startMs": "89840",
+      "startTimeText": "1:29",
+      "text": "the back end at 50-60% post webinar,"
+    },
+    {
+      "endMs": "94640",
+      "startMs": "91880",
+      "startTimeText": "1:31",
+      "text": "that all makes sense. The TLDR is I"
+    },
+    {
+      "endMs": "96760",
+      "startMs": "93720",
+      "startTimeText": "1:33",
+      "text": "don't think you actually have a"
+    },
+    {
+      "endMs": "97880",
+      "startMs": "94640",
+      "startTimeText": "1:34",
+      "text": "conversion issue in your actual funnel."
+    },
+    {
+      "endMs": "102000",
+      "startMs": "96760",
+      "startTimeText": "1:36",
+      "text": "I think it's more likely that you just"
+    },
+    {
+      "endMs": "102000",
+      "startMs": "97880",
+      "startTimeText": "1:37",
+      "text": "need to do way more by running more ads."
+    }
+  ],
+  "transcript_only_text": " I  run  a  investment  community  called \n Yacht  School. \n >> Okay. \n >> We  did  about  3.2  million  in  revenue. \n When  I  launched  it  and  started  it  18 \n months  ago,  I  just  went  straight  from \n reels,  pushed  them  into  a  live  webinar. \n Now,  that's  just  not  hitting  as  well. \n Typically,  400  people  register,  200 \n people  show  up,  and  then  from  there,  we \n end  up  usually  getting  10%  of  people \n will  book  a  call  with  their  closer,  and \n then  they'll  close,  you  know,  50  to  60%. \n >> What's  price  point? \n >> 6,500. \n >> I  actually  don't  think  you  need  to \n optimize  too  much  on  your  existing \n funnel.  So,  your  show  rates  are  really \n good.  Your  close  rates  during  the \n webinar  are  a  little  low.  I  don't  know \n if  you  score  leads  on  the  front  end  when \n they  opt  in.  Do  you  do  that?  As  in,  do \n you  actually  see  if  they're  a \n high-income  earner? \n >> Not  when  they  get  into  the  registration \n page.  No,  we  do  not. \n >> I  would  add  that \n >> Okay. \n >> because  it'll  give  you  a  lot  of  good \n data  on  whether  or  not,  like,  if  you're \n closing  10%,  but  maybe  only  20%  of  the \n people  who  were  who  were  showing  up  for \n the  webinar  are  actually  qualified,  you \n might  be  actually  closing  50%,  and  then \n the  other  80%  aren't  good.  For  anybody \n who  does  one-to-many \n selling  environments,  you  have  to \n qualify  the  room,  otherwise  you'll  get \n this  volatility  in  your  selling,  and \n you'll  think  that  you're  going  nuts.  But \n if  you  know  what  percentage  of  the \n accounts  are  quote  sellable  accounts  or \n are  marketing  qualified  leads,  your \n close  rates  will  become  significantly \n more  stable,  and  you'll  stop  going \n insane.  So,  when  I  hear  your  numbers, \n 50%  show  rate,  really  good.  Close  rate \n at  10%  at  a  10K  price  point  for  booking \n a  call,  typically  you  can  get  about  20 \n if  the  the  the  list  quality  is  good.  So, \n that's  the  only  one  that's  a  little  bit \n low.  But  your  close  rates  on  the  call  on \n the  back  end  at  50-60%  post  webinar, \n that  all  makes  sense.  The  TLDR  is  I \n don't  think  you  actually  have  a \n conversion  issue  in  your  actual  funnel. \n I  think  it's  more  likely  that  you  just \n need  to  do  way  more  by  running  more  ads.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nUqkSN9bU7M",
+  "videoId": "nUqkSN9bU7M"
+}

@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3919",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "You're not out of business when your"
+    },
+    {
+      "endMs": "6160",
+      "startMs": "2320",
+      "startTimeText": "0:02",
+      "text": "bank account runs out. You're out of"
+    },
+    {
+      "endMs": "9120",
+      "startMs": "3919",
+      "startTimeText": "0:03",
+      "text": "business when you have padlocks on your"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "6160",
+      "startTimeText": "0:06",
+      "text": "door and people physically stop you from"
+    },
+    {
+      "endMs": "14799",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "doing work. The main point of this is"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": "that the rules society pretends to have."
+    },
+    {
+      "endMs": "18960",
+      "startMs": "14799",
+      "startTimeText": "0:14",
+      "text": "They are made up. Until someone"
+    },
+    {
+      "endMs": "21359",
+      "startMs": "16960",
+      "startTimeText": "0:16",
+      "text": "physically restrains you from working,"
+    },
+    {
+      "endMs": "24480",
+      "startMs": "18960",
+      "startTimeText": "0:18",
+      "text": "you can keep going. The vast majority of"
+    },
+    {
+      "endMs": "27960",
+      "startMs": "21359",
+      "startTimeText": "0:21",
+      "text": "people stop because of perceived failure"
+    },
+    {
+      "endMs": "27960",
+      "startMs": "24480",
+      "startTimeText": "0:24",
+      "text": "in their mind."
+    }
+  ],
+  "transcript_only_text": " You're  not  out  of  business  when  your \n bank  account  runs  out.  You're  out  of \n business  when  you  have  padlocks  on  your \n door  and  people  physically  stop  you  from \n doing  work.  The  main  point  of  this  is \n that  the  rules  society  pretends  to  have. \n They  are  made  up.  Until  someone \n physically  restrains  you  from  working, \n you  can  keep  going.  The  vast  majority  of \n people  stop  because  of  perceived  failure \n in  their  mind.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Q93d7vkWKII",
+  "videoId": "Q93d7vkWKII"
+}

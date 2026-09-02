@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "In the beginning when you're anentrepreneur, you have no money, and you"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "have lots of time. And so you have tolearn everything in order for anything"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "4800",
+      "startTimeText": "0:04",
+      "text": "to get done. But once you have a littlebit of money, you buy other people's"
+    },
+    {
+      "endMs": "13200",
+      "startMs": "8120",
+      "startTimeText": "0:08",
+      "text": "time. It's not even buying their timefrom a labor perspective. I want to buy"
+    },
+    {
+      "endMs": "16280",
+      "startMs": "11040",
+      "startTimeText": "0:11",
+      "text": "the time you put in before here. I wantto buy the 10 years of experience so"
+    },
+    {
+      "endMs": "19120",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "that I don't have to make the mistakesthat the two other companies you worked"
+    },
+    {
+      "endMs": "22880",
+      "startMs": "17560",
+      "startTimeText": "0:17",
+      "text": "at made. I want you to come in withthose solutions so we can start at year"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "21080",
+      "startTimeText": "0:21",
+      "text": "10 of your career rather than at dayzero of mine."
+    }
+  ],
+  "transcript_only_text": " In the beginning when you're an\nentrepreneur, you have no money, and you have lots of time. And so you have to\nlearn everything in order for anything to get done. But once you have a little\nbit of money, you buy other people's time. It's not even buying their time\nfrom a labor perspective. I want to buy the time you put in before here. I want\nto buy the 10 years of experience so that I don't have to make the mistakes\nthat the two other companies you worked at made. I want you to come in with\nthose solutions so we can start at year 10 of your career rather than at day\nzero of mine.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mYBrXgjTYRI",
+  "videoId": "mYBrXgjTYRI"
+}

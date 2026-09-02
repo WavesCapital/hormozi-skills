@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5839",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "A piece of advice you wish you received"
+    },
+    {
+      "endMs": "9240",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "sooner."
+    },
+    {
+      "endMs": "9240",
+      "startMs": "5839",
+      "startTimeText": "0:05",
+      "text": ">> That's a good one."
+    },
+    {
+      "endMs": "13599",
+      "startMs": "9599",
+      "startTimeText": "0:09",
+      "text": "Find people better than you. Do whatever"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "you can to get them to help you,"
+    },
+    {
+      "endMs": "17599",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "including helping them first without"
+    },
+    {
+      "endMs": "17599",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "expectation."
+    }
+  ],
+  "transcript_only_text": " A  piece  of  advice  you  wish  you  received \n sooner. \n >> That's  a  good  one. \n Find  people  better  than  you.  Do  whatever \n you  can  to  get  them  to  help  you, \n including  helping  them  first  without \n expectation.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_S4-ngATxMg",
+  "videoId": "_S4-ngATxMg"
+}

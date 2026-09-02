@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Don't build confidence, build evidence."
+    },
+    {
+      "endMs": "6760",
+      "startMs": "2840",
+      "startTimeText": "0:02",
+      "text": "Confidence comes as a result of"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "evidence. Confidence without evidence is"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "6760",
+      "startTimeText": "0:06",
+      "text": "a delusion. It's you beating your chest,"
+    },
+    {
+      "endMs": "11560",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "looking yourself in the mirror, trying"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "to pretend you're something you're not."
+    },
+    {
+      "endMs": "15440",
+      "startMs": "11560",
+      "startTimeText": "0:11",
+      "text": "Even in statistics, what is your"
+    },
+    {
+      "endMs": "16800",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "confidence metric? This is 0.7, 0.8."
+    },
+    {
+      "endMs": "18000",
+      "startMs": "15440",
+      "startTimeText": "0:15",
+      "text": "It's literally just what the percentage"
+    },
+    {
+      "endMs": "19720",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "likelihood that what you think is going"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "18000",
+      "startTimeText": "0:18",
+      "text": "to happen is going to happen. And so,"
+    },
+    {
+      "endMs": "21720",
+      "startMs": "19720",
+      "startTimeText": "0:19",
+      "text": "how do you increase the likelihood that"
+    },
+    {
+      "endMs": "23480",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "what you think is going to happen is"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "21720",
+      "startTimeText": "0:21",
+      "text": "going to happen? Have it have happened"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "23480",
+      "startTimeText": "0:23",
+      "text": "already."
+    }
+  ],
+  "transcript_only_text": " Don't  build  confidence,  build  evidence. \n Confidence  comes  as  a  result  of \n evidence.  Confidence  without  evidence  is \n a  delusion.  It's  you  beating  your  chest, \n looking  yourself  in  the  mirror,  trying \n to  pretend  you're  something  you're  not. \n Even  in  statistics,  what  is  your \n confidence  metric?  This  is  0.7,  0.8. \n It's  literally  just  what  the  percentage \n likelihood  that  what  you  think  is  going \n to  happen  is  going  to  happen.  And  so, \n how  do  you  increase  the  likelihood  that \n what  you  think  is  going  to  happen  is \n going  to  happen?  Have  it  have  happened \n already.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=k0c-tSAMjKA",
+  "videoId": "k0c-tSAMjKA"
+}

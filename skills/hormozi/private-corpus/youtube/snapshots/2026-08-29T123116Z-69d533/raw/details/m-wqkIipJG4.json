@@ -1,0 +1,302 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=m-wqkIipJG4&ei=PmGRas_KB6aV2_gPgqva4Qg&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787937710&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=4BA0D527B0D0D430FCD6D228E6DF4FF390A307F3.3A0E0C8AEF8721265F12B9A2D20BECB166336387&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 6,
+  "commentCountText": "6",
+  "credits_charged": 1,
+  "credits_remaining": 18228,
+  "description": "The largest gains in operational efficiency come from realizing something’s not worth doing anymore.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:48",
+  "durationMs": 48000,
+  "genre": "Education",
+  "id": "m-wqkIipJG4",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 486,
+  "likeCountText": "486",
+  "most_replayed": null,
+  "publishDate": "2026-08-27T10:17:03-07:00",
+  "publishDateText": "Aug 27, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/m-wqkIipJG4/maxresdefault.jpg",
+  "title": "Don’t Use AI Until You’ve Watched This",
+  "type": "video",
+  "viewCountInt": 12948,
+  "viewCountText": "12,948",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "TopTalentTV",
+        "id": "UCD2GdZBCsUa0TIssLai6Skw",
+        "title": "Top Talent",
+        "url": "https://www.youtube.com/@TopTalentTV"
+      },
+      "id": "PMPyfKrbsW8",
+      "lengthInSeconds": 316,
+      "lengthText": "5:16",
+      "publishDate": "2026-07-28T10:21:50.971Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-28T10:21:50.971Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/PMPyfKrbsW8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFHvW5NI8GMwAYps9akEcvefbweQ",
+      "title": "ONE Rope. ONE Girl. You CANNOT Look Away!",
+      "videoUrl": "https://www.youtube.com/watch?v=PMPyfKrbsW8",
+      "viewCountInt": 3500000,
+      "viewCountText": "3.5M views"
+    },
+    {
+      "channel": {
+        "handle": "newscomauhq",
+        "id": "UCtWWry0cgjWi9C0Ye9sh6og",
+        "title": "news.com.au",
+        "url": "https://www.youtube.com/@newscomauhq"
+      },
+      "id": "XgnBN8BLc-o",
+      "lengthInSeconds": 242,
+      "lengthText": "4:02",
+      "publishDate": "2026-08-25T10:21:50.971Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-08-25T10:21:50.971Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/XgnBN8BLc-o/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBMvGfbhDcgEeRo_4fArEoUR0dXUA",
+      "title": "Biggest fails from the 2026 World Humanoid Robot Games in China",
+      "videoUrl": "https://www.youtube.com/watch?v=XgnBN8BLc-o",
+      "viewCountInt": 336000,
+      "viewCountText": "336K views"
+    },
+    {
+      "channel": {
+        "handle": "KARATEbyJesse",
+        "id": "UCRIeMHsEdzA9RroG19kXdYg",
+        "title": "Jesse Enkamp",
+        "url": "https://www.youtube.com/@KARATEbyJesse"
+      },
+      "id": "EAJ2vt8wUbY",
+      "lengthInSeconds": 487,
+      "lengthText": "8:07",
+      "publishDate": "2024-08-28T10:21:50.971Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-08-28T10:21:50.971Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/EAJ2vt8wUbY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDwZjoXrsAUSFpfveQ6KF5iJHv51Q",
+      "title": "I Entered A Jiu-Jitsu Tournament To Prove It Doesn't Work",
+      "videoUrl": "https://www.youtube.com/watch?v=EAJ2vt8wUbY",
+      "viewCountInt": 12000000,
+      "viewCountText": "12M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-28T10:21:50.971Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-28T10:21:50.971Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "hamptonlawfirm",
+        "id": "UCyDxFedFQ6_Ll3yAXqcmXvw",
+        "title": "Hampton Law",
+        "url": "https://www.youtube.com/@hamptonlawfirm"
+      },
+      "id": "VxMWdoDn93E",
+      "lengthInSeconds": 516,
+      "lengthText": "8:36",
+      "publishDate": "2026-07-28T10:21:50.971Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-28T10:21:50.971Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/VxMWdoDn93E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDUnpKaBQIAtVAf3FxyKHIQCXhvzA",
+      "title": "If Cops Ask \"Where You Headed?\" - Say THIS (Simple Phrase)",
+      "videoUrl": "https://www.youtube.com/watch?v=VxMWdoDn93E",
+      "viewCountInt": 1300000,
+      "viewCountText": "1.3M views"
+    },
+    {
+      "channel": {
+        "handle": "CNBCMakeIt",
+        "id": "UCH5_L3ytGbBziX0CLuYdQ1Q",
+        "title": "CNBC Make It",
+        "url": "https://www.youtube.com/@CNBCMakeIt"
+      },
+      "id": "uk_2zKQd46g",
+      "lengthInSeconds": 531,
+      "lengthText": "8:51",
+      "publishDate": "2026-06-28T10:21:50.971Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-06-28T10:21:50.971Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/uk_2zKQd46g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDZJNmUmSe8v0vmRQYWXCkM8hr9xA",
+      "title": "I Left The U.S. And Bought A House In Italy For $13K",
+      "videoUrl": "https://www.youtube.com/watch?v=uk_2zKQd46g",
+      "viewCountInt": 3400000,
+      "viewCountText": "3.4M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "QyCXBNNkT7k",
+      "lengthInSeconds": 1258,
+      "lengthText": "20:58",
+      "publishDate": "2026-08-15T10:21:50.971Z",
+      "publishDateText": "13 days ago",
+      "publishedTime": "2026-08-15T10:21:50.971Z",
+      "publishedTimeText": "13 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/QyCXBNNkT7k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC-ZG_34qhg1QS4dJMAPcuXFha1gg",
+      "title": "THIS Is #1 FASTEST Way To Burn Fat WITHOUT Trying",
+      "videoUrl": "https://www.youtube.com/watch?v=QyCXBNNkT7k",
+      "viewCountInt": 275000,
+      "viewCountText": "275K views"
+    },
+    {
+      "channel": {
+        "handle": "KinoCheck.com",
+        "id": "UCLRlryMfL8ffxzrtqv0_k_w",
+        "title": "KinoCheck.com",
+        "url": "https://www.youtube.com/@KinoCheck.com"
+      },
+      "id": "KtmJlPV6hMY",
+      "lengthInSeconds": 175,
+      "lengthText": "2:55",
+      "publishDate": "2026-07-28T10:21:50.971Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-28T10:21:50.971Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KtmJlPV6hMY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDNSmkusHJOjrRClekWX061mDGTEQ",
+      "title": "MAYDAY Official Trailer (2026) Ryan Reynolds",
+      "videoUrl": "https://www.youtube.com/watch?v=KtmJlPV6hMY",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "BBCNews",
+        "id": "UC16niRr50-MSBwiO3YDb3RA",
+        "title": "BBC News",
+        "url": "https://www.youtube.com/@BBCNews"
+      },
+      "id": "yQAH4Crser8",
+      "lengthInSeconds": 815,
+      "lengthText": "13:35",
+      "publishDate": "2026-08-27T20:21:50.971Z",
+      "publishDateText": "14 hours ago",
+      "publishedTime": "2026-08-27T20:21:50.971Z",
+      "publishedTimeText": "14 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/yQAH4Crser8/hqdefault_custom_2.jpg?sqp=CNDBxdQG-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAfRPm1dPDuyQVNgFFxY6Se1frHCg",
+      "title": "Did a glacier collapse trigger Nepal’s deadly floods? | BBC News",
+      "videoUrl": "https://www.youtube.com/watch?v=yQAH4Crser8",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "HubermanLabClips",
+        "id": "UCkZjTZNvuxq1CYMS3cwZa1Q",
+        "title": "Huberman Lab Clips",
+        "url": "https://www.youtube.com/@HubermanLabClips"
+      },
+      "id": "5g2Kyc8Ra5U",
+      "lengthInSeconds": 554,
+      "lengthText": "9:14",
+      "publishDate": "2026-04-28T10:21:50.971Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-04-28T10:21:50.971Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/5g2Kyc8Ra5U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAfeTzf9HlPEc1B8-n3pLrmIb3wvQ",
+      "title": "Habit Stacking: Structure Your Day for Peak Focus | James Clear & Dr. Andrew Huberman",
+      "videoUrl": "https://www.youtube.com/watch?v=5g2Kyc8Ra5U",
+      "viewCountInt": 444000,
+      "viewCountText": "444K views"
+    },
+    {
+      "channel": {
+        "handle": "ycombinator",
+        "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+        "title": "Y Combinator",
+        "url": "https://www.youtube.com/@ycombinator"
+      },
+      "id": "sJ4VJWycX9M",
+      "lengthInSeconds": 1930,
+      "lengthText": "32:10",
+      "publishDate": "2026-07-31T10:21:50.971Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-07-31T10:21:50.971Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/sJ4VJWycX9M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSmzK3YuwYufULq15uxu8zcXCY8g",
+      "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+      "videoUrl": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+      "viewCountInt": 220000,
+      "viewCountText": "220K views"
+    },
+    {
+      "channel": {
+        "handle": "davidhartley94",
+        "id": "UCydX8ueOwv5_bvd7Uj0HBHw",
+        "title": "David Hartley",
+        "url": "https://www.youtube.com/@davidhartley94"
+      },
+      "id": "WPKHKkylciI",
+      "lengthInSeconds": 1457,
+      "lengthText": "24:17",
+      "publishDate": "2026-02-28T10:21:50.971Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-02-28T10:21:50.971Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/WPKHKkylciI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDvQZKrPOVINccLDsaRsraDogx_bQ",
+      "title": "The world's greatest song that simply shouldn't exist",
+      "videoUrl": "https://www.youtube.com/watch?v=WPKHKkylciI",
+      "viewCountInt": 5800000,
+      "viewCountText": "5.8M views"
+    }
+  ]
+}

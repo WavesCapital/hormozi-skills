@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5759",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "What's your downside? Shame."
+    },
+    {
+      "endMs": "7440",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "Shame is your downside. Someone wagging"
+    },
+    {
+      "endMs": "10559",
+      "startMs": "5759",
+      "startTimeText": "0:05",
+      "text": "their finger at you, saying, \"You broke"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "a rule that doesn't exist that I made up"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "to make you feel bad.\""
+    },
+    {
+      "endMs": "19960",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": "[ __ ] them. [music]"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "You're going to die."
+    },
+    {
+      "endMs": "23880",
+      "startMs": "20240",
+      "startTimeText": "0:20",
+      "text": "And so are they."
+    },
+    {
+      "endMs": "27519",
+      "startMs": "24320",
+      "startTimeText": "0:24",
+      "text": "So get what you want."
+    }
+  ],
+  "transcript_only_text": " What's  your  downside?  Shame. \n Shame  is  your  downside.  Someone  wagging \n their  finger  at  you,  saying,  \"You  broke \n a  rule  that  doesn't  exist  that  I  made  up \n to  make  you  feel  bad.\" \n [ __ ]  them.  [music] \n You're  going  to  die. \n And  so  are  they. \n So  get  what  you  want.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Ahh5QYgWHEs",
+  "videoId": "Ahh5QYgWHEs"
+}

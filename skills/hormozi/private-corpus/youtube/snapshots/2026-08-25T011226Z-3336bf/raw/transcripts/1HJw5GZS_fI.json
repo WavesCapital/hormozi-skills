@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Follow the [ __ ] script. If your team"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "does not follow the script, there is no"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "point in having a script. Script"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "adherence, in my opinion, is the first"
+    },
+    {
+      "endMs": "11640",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "thing that you drill. I would rather"
+    },
+    {
+      "endMs": "13320",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "have 100% of my team saying script word"
+    },
+    {
+      "endMs": "15160",
+      "startMs": "11640",
+      "startTimeText": "0:11",
+      "text": "for word and us close no one, because"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "then I could then change the script and"
+    },
+    {
+      "endMs": "18840",
+      "startMs": "15160",
+      "startTimeText": "0:15",
+      "text": "then get everyone to close. If people"
+    },
+    {
+      "endMs": "20760",
+      "startMs": "17280",
+      "startTimeText": "0:17",
+      "text": "aren't following the script, you can't"
+    },
+    {
+      "endMs": "22960",
+      "startMs": "18840",
+      "startTimeText": "0:18",
+      "text": "change anything. The first part of the"
+    },
+    {
+      "endMs": "27640",
+      "startMs": "20760",
+      "startTimeText": "0:20",
+      "text": "sale, the first 2/3 of the sale, should"
+    },
+    {
+      "endMs": "27640",
+      "startMs": "22960",
+      "startTimeText": "0:22",
+      "text": "be pretty much word for word the same."
+    }
+  ],
+  "transcript_only_text": " Follow  the  [ __ ]  script.  If  your  team \n does  not  follow  the  script,  there  is  no \n point  in  having  a  script.  Script \n adherence,  in  my  opinion,  is  the  first \n thing  that  you  drill.  I  would  rather \n have  100%  of  my  team  saying  script  word \n for  word  and  us  close  no  one,  because \n then  I  could  then  change  the  script  and \n then  get  everyone  to  close.  If  people \n aren't  following  the  script,  you  can't \n change  anything.  The  first  part  of  the \n sale,  the  first  2/3  of  the  sale,  should \n be  pretty  much  word  for  word  the  same.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1HJw5GZS_fI",
+  "videoId": "1HJw5GZS_fI"
+}

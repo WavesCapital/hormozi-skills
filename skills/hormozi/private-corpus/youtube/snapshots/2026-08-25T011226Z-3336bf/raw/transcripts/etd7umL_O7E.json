@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you're feeling unmotivated at the end"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "1439",
+      "startTimeText": "0:01",
+      "text": "of the year, hear me out. If you don't"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "have confidence, build evidence. If you"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "don't have evidence, build skills. If"
+    },
+    {
+      "endMs": "13280",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "you don't have skills, build discipline."
+    },
+    {
+      "endMs": "14559",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "And if you don't have discipline, you"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "13280",
+      "startTimeText": "0:13",
+      "text": "need to reframe the things you've done"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "14559",
+      "startTimeText": "0:14",
+      "text": "in the past. Realize that you have that"
+    },
+    {
+      "endMs": "19680",
+      "startMs": "16160",
+      "startTimeText": "0:16",
+      "text": "discipline just in different domains. So"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "17920",
+      "startTimeText": "0:17",
+      "text": "you have the core skill, you should do"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "19680",
+      "startTimeText": "0:19",
+      "text": "apply it to a new domain. And then give"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "21680",
+      "startTimeText": "0:21",
+      "text": "time"
+    }
+  ],
+  "transcript_only_text": " If  you're  feeling  unmotivated  at  the  end \n of  the  year,  hear  me  out.  If  you  don't \n have  confidence,  build  evidence.  If  you \n don't  have  evidence,  build  skills.  If \n you  don't  have  skills,  build  discipline. \n And  if  you  don't  have  discipline,  you \n need  to  reframe  the  things  you've  done \n in  the  past.  Realize  that  you  have  that \n discipline  just  in  different  domains.  So \n you  have  the  core  skill,  you  should  do \n apply  it  to  a  new  domain.  And  then  give \n time",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=etd7umL_O7E",
+  "videoId": "etd7umL_O7E"
+}

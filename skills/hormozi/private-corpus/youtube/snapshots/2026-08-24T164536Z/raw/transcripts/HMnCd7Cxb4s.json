@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Like the algorithm for ads and the"
+    },
+    {
+      "endMs": "5040",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "algorithm for content are the same. Is"
+    },
+    {
+      "endMs": "6400",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "the future of how ads are working? Like"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "it has merged. If the platform could"
+    },
+    {
+      "endMs": "9640",
+      "startMs": "6400",
+      "startTimeText": "0:06",
+      "text": "ever every single content creator making"
+    },
+    {
+      "endMs": "11400",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "ads and the ads are just more content"
+    },
+    {
+      "endMs": "12840",
+      "startMs": "9640",
+      "startTimeText": "0:09",
+      "text": "than that means the entire platform"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "11400",
+      "startTimeText": "0:11",
+      "text": "would be quote ad-free and still"
+    },
+    {
+      "endMs": "15640",
+      "startMs": "12840",
+      "startTimeText": "0:12",
+      "text": "generating revenue, which is a superior"
+    },
+    {
+      "endMs": "19520",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "experience for the users, which is"
+    },
+    {
+      "endMs": "19520",
+      "startMs": "15640",
+      "startTimeText": "0:15",
+      "text": "exactly what the platform wants."
+    }
+  ],
+  "transcript_only_text": " Like  the  algorithm  for  ads  and  the \n algorithm  for  content  are  the  same.  Is \n the  future  of  how  ads  are  working?  Like \n it  has  merged.  If  the  platform  could \n ever  every  single  content  creator  making \n ads  and  the  ads  are  just  more  content \n than  that  means  the  entire  platform \n would  be  quote  ad-free  and  still \n generating  revenue,  which  is  a  superior \n experience  for  the  users,  which  is \n exactly  what  the  platform  wants.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HMnCd7Cxb4s",
+  "videoId": "HMnCd7Cxb4s"
+}

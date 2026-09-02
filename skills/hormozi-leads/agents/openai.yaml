@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Leads"
-  short_description: "Choose and improve lead systems"
-  default_prompt: "Use $hormozi-leads to diagnose acquisition and build a lead strategy."
-
-policy:
-  allow_implicit_invocation: true

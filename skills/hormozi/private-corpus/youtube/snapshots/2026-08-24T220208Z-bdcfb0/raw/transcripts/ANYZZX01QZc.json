@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5680",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Life is short, but youth is evenshorter. And so use it while you got it."
+    },
+    {
+      "endMs": "9679",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "Unless you die, you can still get backup and try again. And so for me, it took"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "7839",
+      "startTimeText": "0:07",
+      "text": "me realizing that the people who weretelling me what I need to do with my"
+    },
+    {
+      "endMs": "16240",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "life had smaller goals than me. Becauseif I told them what I really wanted,"
+    },
+    {
+      "endMs": "19520",
+      "startMs": "14559",
+      "startTimeText": "0:14",
+      "text": "they'd be like, \"Dude, get real.\" And soyou might have that, too. Some people in"
+    },
+    {
+      "endMs": "22240",
+      "startMs": "18160",
+      "startTimeText": "0:18",
+      "text": "your life may be like, \"Be realistic.\"It's like, \"I'm not trying to be"
+    },
+    {
+      "endMs": "24640",
+      "startMs": "20480",
+      "startTimeText": "0:20",
+      "text": "realistic, man. I got one life. I'mgonna die."
+    }
+  ],
+  "transcript_only_text": " Life is short, but youth is even\nshorter. And so use it while you got it. Unless you die, you can still get back\nup and try again. And so for me, it took me realizing that the people who were\ntelling me what I need to do with my life had smaller goals than me. Because\nif I told them what I really wanted, they'd be like, \"Dude, get real.\" And so\nyou might have that, too. Some people in your life may be like, \"Be realistic.\"\nIt's like, \"I'm not trying to be realistic, man. I got one life. I'm\ngonna die.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ANYZZX01QZc",
+  "videoId": "ANYZZX01QZc"
+}

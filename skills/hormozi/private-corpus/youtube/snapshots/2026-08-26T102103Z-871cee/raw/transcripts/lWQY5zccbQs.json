@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The hard part about the plan is not"
+    },
+    {
+      "endMs": "6520",
+      "startMs": "2040",
+      "startTimeText": "0:02",
+      "text": "creating the plan or even following the"
+    },
+    {
+      "endMs": "8680",
+      "startMs": "4240",
+      "startTimeText": "0:04",
+      "text": "plan, it's sticking with the plan."
+    },
+    {
+      "endMs": "10320",
+      "startMs": "6520",
+      "startTimeText": "0:06",
+      "text": "That's the hard part. Your plans aren't"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "8680",
+      "startTimeText": "0:08",
+      "text": "working because the plans are wrong. The"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "plans aren't working because you're not"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "working on the plan."
+    }
+  ],
+  "transcript_only_text": " The  hard  part  about  the  plan  is  not \n creating  the  plan  or  even  following  the \n plan,  it's  sticking  with  the  plan. \n That's  the  hard  part.  Your  plans  aren't \n working  because  the  plans  are  wrong.  The \n plans  aren't  working  because  you're  not \n working  on  the  plan.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=lWQY5zccbQs",
+  "videoId": "lWQY5zccbQs"
+}

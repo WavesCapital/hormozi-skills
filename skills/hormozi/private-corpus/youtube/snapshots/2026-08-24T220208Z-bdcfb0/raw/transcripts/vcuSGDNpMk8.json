@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you have something that can double"
+    },
+    {
+      "endMs": "4040",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "the business with one move that takes 10"
+    },
+    {
+      "endMs": "5800",
+      "startMs": "2880",
+      "startTimeText": "0:02",
+      "text": "seconds,"
+    },
+    {
+      "endMs": "6880",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "why would you do four? Right? If that's"
+    },
+    {
+      "endMs": "8520",
+      "startMs": "5800",
+      "startTimeText": "0:05",
+      "text": "the thing that is holding the business"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "6880",
+      "startTimeText": "0:06",
+      "text": "back, then what what else could you put"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "8520",
+      "startTimeText": "0:08",
+      "text": "your resources towards that would yield"
+    },
+    {
+      "endMs": "13640",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "a higher return? The answer is nothing."
+    },
+    {
+      "endMs": "14760",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "And so, I really love to ask this"
+    },
+    {
+      "endMs": "15920",
+      "startMs": "13640",
+      "startTimeText": "0:13",
+      "text": "question, which is like, if only one"
+    },
+    {
+      "endMs": "17840",
+      "startMs": "14760",
+      "startTimeText": "0:14",
+      "text": "thing were true at the end of the year"
+    },
+    {
+      "endMs": "19200",
+      "startMs": "15920",
+      "startTimeText": "0:15",
+      "text": "that's not true right now, what one"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "17840",
+      "startTimeText": "0:17",
+      "text": "thing, if it were true, would make the"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "19200",
+      "startTimeText": "0:19",
+      "text": "biggest difference in the business?"
+    }
+  ],
+  "transcript_only_text": " If  you  have  something  that  can  double \n the  business  with  one  move  that  takes  10 \n seconds, \n why  would  you  do  four?  Right?  If  that's \n the  thing  that  is  holding  the  business \n back,  then  what  what  else  could  you  put \n your  resources  towards  that  would  yield \n a  higher  return?  The  answer  is  nothing. \n And  so,  I  really  love  to  ask  this \n question,  which  is  like,  if  only  one \n thing  were  true  at  the  end  of  the  year \n that's  not  true  right  now,  what  one \n thing,  if  it  were  true,  would  make  the \n biggest  difference  in  the  business?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vcuSGDNpMk8",
+  "videoId": "vcuSGDNpMk8"
+}

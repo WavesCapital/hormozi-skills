@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3080",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Who was the number one merchant in Egypt"
+    },
+    {
+      "endMs": "3880",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "5,000 years ago?"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "3080",
+      "startTimeText": "0:03",
+      "text": ">> No idea."
+    },
+    {
+      "endMs": "8520",
+      "startMs": "3880",
+      "startTimeText": "0:03",
+      "text": ">> Who was the number one merchant 2,000,"
+    },
+    {
+      "endMs": "10280",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "1,000 years ago, 200 years ago? No one"
+    },
+    {
+      "endMs": "12040",
+      "startMs": "8520",
+      "startTimeText": "0:08",
+      "text": "knows. We have this idea that we're"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10280",
+      "startTimeText": "0:10",
+      "text": "somehow going to become number one, but"
+    },
+    {
+      "endMs": "15640",
+      "startMs": "12040",
+      "startTimeText": "0:12",
+      "text": "I'm like, at what? All the players on"
+    },
+    {
+      "endMs": "18280",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "the board are going to get swapped in"
+    },
+    {
+      "endMs": "21520",
+      "startMs": "15640",
+      "startTimeText": "0:15",
+      "text": "100 years. All the players, the whole"
+    },
+    {
+      "endMs": "21520",
+      "startMs": "18280",
+      "startTimeText": "0:18",
+      "text": "board gets wiped."
+    }
+  ],
+  "transcript_only_text": " Who  was  the  number  one  merchant  in  Egypt \n 5,000  years  ago? \n >> No  idea. \n >> Who  was  the  number  one  merchant  2,000, \n 1,000  years  ago,  200  years  ago?  No  one \n knows.  We  have  this  idea  that  we're \n somehow  going  to  become  number  one,  but \n I'm  like,  at  what?  All  the  players  on \n the  board  are  going  to  get  swapped  in \n 100  years.  All  the  players,  the  whole \n board  gets  wiped.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fOE5IR9_4Ik",
+  "videoId": "fOE5IR9_4Ik"
+}

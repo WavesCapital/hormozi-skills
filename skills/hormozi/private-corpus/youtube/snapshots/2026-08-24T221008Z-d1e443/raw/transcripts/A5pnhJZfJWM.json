@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "To be a top 1% podcaster, you have to"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "2720",
+      "startTimeText": "0:02",
+      "text": "upload 21 podcasts. 21, top 1%. 90% of"
+    },
+    {
+      "endMs": "13960",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "people don't get past one. 9% don't get"
+    },
+    {
+      "endMs": "15840",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "past 20. And then 1% of podcasters, of"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "13960",
+      "startTimeText": "0:13",
+      "text": "all of them, make it to 21 plus. The"
+    },
+    {
+      "endMs": "19680",
+      "startMs": "15840",
+      "startTimeText": "0:15",
+      "text": "world belongs to those who can keep"
+    },
+    {
+      "endMs": "21280",
+      "startMs": "17920",
+      "startTimeText": "0:17",
+      "text": "doing without seeing the result of their"
+    },
+    {
+      "endMs": "22880",
+      "startMs": "19680",
+      "startTimeText": "0:19",
+      "text": "doing. And the longer you can wait to"
+    },
+    {
+      "endMs": "25320",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "see the result of your doing while still"
+    },
+    {
+      "endMs": "28680",
+      "startMs": "22880",
+      "startTimeText": "0:22",
+      "text": "continuing to do, is the extent to which"
+    },
+    {
+      "endMs": "28680",
+      "startMs": "25320",
+      "startTimeText": "0:25",
+      "text": "you can win big in life."
+    }
+  ],
+  "transcript_only_text": " To  be  a  top  1%  podcaster,  you  have  to \n upload  21  podcasts.  21,  top  1%.  90%  of \n people  don't  get  past  one.  9%  don't  get \n past  20.  And  then  1%  of  podcasters,  of \n all  of  them,  make  it  to  21  plus.  The \n world  belongs  to  those  who  can  keep \n doing  without  seeing  the  result  of  their \n doing.  And  the  longer  you  can  wait  to \n see  the  result  of  your  doing  while  still \n continuing  to  do,  is  the  extent  to  which \n you  can  win  big  in  life.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=A5pnhJZfJWM",
+  "videoId": "A5pnhJZfJWM"
+}

@@ -1,0 +1,131 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2480",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "One of our editors were looking at a"
+    },
+    {
+      "endMs": "3520",
+      "startMs": "1439",
+      "startTimeText": "0:01",
+      "text": "short video that they were like, \"Man, I"
+    },
+    {
+      "endMs": "5120",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "really thought this was a good video.\""
+    },
+    {
+      "endMs": "6319",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "And it totally tanked. It got like 4,000"
+    },
+    {
+      "endMs": "7680",
+      "startMs": "5120",
+      "startTimeText": "0:05",
+      "text": "views, which for us was a tank. They"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "6319",
+      "startTimeText": "0:06",
+      "text": "looked at it, made some notes, and all"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "they did was they chopped the first 5"
+    },
+    {
+      "endMs": "12719",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "seconds. Basically, just redid the first"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "5 seconds of the video. And that one"
+    },
+    {
+      "endMs": "16560",
+      "startMs": "12719",
+      "startTimeText": "0:12",
+      "text": "change took it from 4,000 views to"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "850,000 views. With that one change,"
+    },
+    {
+      "endMs": "20880",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "that's a 200x increase from one change,"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "18880",
+      "startTimeText": "0:18",
+      "text": "which is how people framed the value"
+    },
+    {
+      "endMs": "24160",
+      "startMs": "20880",
+      "startTimeText": "0:20",
+      "text": "that they were about to consume. If the"
+    },
+    {
+      "endMs": "26560",
+      "startMs": "22400",
+      "startTimeText": "0:22",
+      "text": "first 5 seconds is what immediately"
+    },
+    {
+      "endMs": "28320",
+      "startMs": "24160",
+      "startTimeText": "0:24",
+      "text": "sorts 80 90% of the traffic that you"
+    },
+    {
+      "endMs": "32080",
+      "startMs": "26560",
+      "startTimeText": "0:26",
+      "text": "have, then isn't it crazy that we don't"
+    },
+    {
+      "endMs": "32080",
+      "startMs": "28320",
+      "startTimeText": "0:28",
+      "text": "spend more time testing that one piece?"
+    }
+  ],
+  "transcript_only_text": " One  of  our  editors  were  looking  at  a \n short  video  that  they  were  like, \"Man,  I \n really  thought  this  was  a  good  video.\" \n And  it  totally  tanked.  It  got  like  4,000 \n views,  which  for  us  was  a  tank.  They \n looked  at  it,  made  some  notes,  and  all \n they  did  was  they  chopped  the  first  5 \n seconds.  Basically,  just  redid  the  first \n 5  seconds  of  the  video.  And  that  one \n change  took  it  from  4,000  views  to \n 850,000  views.  With  that  one  change, \n that's  a  200x  increase  from  one  change, \n which  is  how  people  framed  the  value \n that  they  were  about  to  consume.  If  the \n first  5  seconds  is  what  immediately \n sorts  80  90%  of  the  traffic  that  you \n have,  then  isn't  it  crazy  that  we  don't \n spend  more  time  testing  that  one  piece?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=V-loNBSqdWY",
+  "videoId": "V-loNBSqdWY"
+}

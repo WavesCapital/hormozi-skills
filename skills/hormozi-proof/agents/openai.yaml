@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Proof"
-  short_description: "Find and deploy better proof"
-  default_prompt: "Use $hormozi-proof to audit missing proof and trust assets."
-
-policy:
-  allow_implicit_invocation: true

@@ -1,0 +1,125 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "1800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Do you do any social media?"
+    },
+    {
+      "endMs": "4040",
+      "startMs": "1160",
+      "startTimeText": "0:01",
+      "text": ">> Yeah."
+    },
+    {
+      "endMs": "4560",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": ">> Okay. Can you do like a before and"
+    },
+    {
+      "endMs": "6200",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "after?"
+    },
+    {
+      "endMs": "8920",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": ">> Like house full and house empty?"
+    },
+    {
+      "endMs": "11160",
+      "startMs": "6200",
+      "startTimeText": "0:06",
+      "text": ">> Yeah. And then also empty to full. It's"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "before after at site one, before after"
+    },
+    {
+      "endMs": "14880",
+      "startMs": "11160",
+      "startTimeText": "0:11",
+      "text": "at site two, clipped into one. So"
+    },
+    {
+      "endMs": "16360",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "literally shows the full"
+    },
+    {
+      "endMs": "18360",
+      "startMs": "14880",
+      "startTimeText": "0:14",
+      "text": "Right. End to end. And if you get the"
+    },
+    {
+      "endMs": "18640",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": "review, put the five-star review at the"
+    },
+    {
+      "endMs": "19400",
+      "startMs": "18360",
+      "startTimeText": "0:18",
+      "text": "end."
+    },
+    {
+      "endMs": "20480",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": ">> Got it. Okay."
+    },
+    {
+      "endMs": "21560",
+      "startMs": "19400",
+      "startTimeText": "0:19",
+      "text": ">> So it's like this is what it was, this"
+    },
+    {
+      "endMs": "22680",
+      "startMs": "20480",
+      "startTimeText": "0:20",
+      "text": "is what we did, this is where we went,"
+    },
+    {
+      "endMs": "25200",
+      "startMs": "21560",
+      "startTimeText": "0:21",
+      "text": "this is what happened, and they said it"
+    },
+    {
+      "endMs": "25200",
+      "startMs": "22680",
+      "startTimeText": "0:22",
+      "text": "was awesome."
+    }
+  ],
+  "transcript_only_text": " Do  you  do  any  social  media? \n >> Yeah. \n >> Okay.  Can  you  do  like  a  before  and \n after? \n >> Like  house  full  and  house  empty? \n >> Yeah.  And  then  also  empty  to  full.  It's \n before  after  at  site  one,  before  after \n at  site  two,  clipped  into  one.  So \n literally  shows  the  full \n Right.  End  to  end.  And  if  you  get  the \n review,  put  the  five-star  review  at  the \n end. \n >> Got  it.  Okay. \n >> So  it's  like  this  is  what  it  was,  this \n is  what  we  did,  this  is  where  we  went, \n this  is  what  happened,  and  they  said  it \n was  awesome.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nvF65h-e_c0",
+  "videoId": "nvF65h-e_c0"
+}

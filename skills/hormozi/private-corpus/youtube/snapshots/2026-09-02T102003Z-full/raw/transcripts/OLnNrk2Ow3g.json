@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Elon Musk owns 20% of Tesla. Jeff Bezos"
+    },
+    {
+      "endMs": "8000",
+      "startMs": "3080",
+      "startTimeText": "0:03",
+      "text": "owns 9% of Amazon. Jensen Huang owns 4%"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": "of Nvidia. All of these"
+    },
+    {
+      "endMs": "12040",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "centibillionaires understand one thing."
+    },
+    {
+      "endMs": "13720",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "The more money you make other people,"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "12040",
+      "startTimeText": "0:12",
+      "text": "the more money you make for yourself,"
+    },
+    {
+      "endMs": "18160",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "even if the pie is not 100% yours. Any"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "big goal is something that's far away."
+    },
+    {
+      "endMs": "21800",
+      "startMs": "18160",
+      "startTimeText": "0:18",
+      "text": "And the African proverb is, if you want"
+    },
+    {
+      "endMs": "24200",
+      "startMs": "19960",
+      "startTimeText": "0:19",
+      "text": "to go fast, go alone. If you want to go"
+    },
+    {
+      "endMs": "26640",
+      "startMs": "21800",
+      "startTimeText": "0:21",
+      "text": "far, go together. Because no one person"
+    },
+    {
+      "endMs": "30240",
+      "startMs": "24200",
+      "startTimeText": "0:24",
+      "text": "can know everything that's required to"
+    },
+    {
+      "endMs": "30240",
+      "startMs": "26640",
+      "startTimeText": "0:26",
+      "text": "build a trillion-dollar company."
+    }
+  ],
+  "transcript_only_text": " Elon  Musk  owns  20%  of  Tesla.  Jeff  Bezos \n owns  9%  of  Amazon.  Jensen  Huang  owns  4% \n of  Nvidia.  All  of  these \n centibillionaires  understand  one  thing. \n The  more  money  you  make  other  people, \n the  more  money  you  make  for  yourself, \n even  if  the  pie  is  not  100%  yours.  Any \n big  goal  is  something  that's  far  away. \n And  the  African  proverb  is,  if  you  want \n to  go  fast,  go  alone.  If  you  want  to  go \n far,  go  together.  Because  no  one  person \n can  know  everything  that's  required  to \n build  a  trillion-dollar  company.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=OLnNrk2Ow3g",
+  "videoId": "OLnNrk2Ow3g"
+}

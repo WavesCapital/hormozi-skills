@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7040",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "When someone says must be nice, you can"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "just say yeah it is."
+    },
+    {
+      "endMs": "11360",
+      "startMs": "7040",
+      "startTimeText": "0:07",
+      "text": "or someone says, \"Man, you must have"
+    },
+    {
+      "endMs": "13040",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "exceptional genetics to have the body"
+    },
+    {
+      "endMs": "15759",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "you have, and it just happens so easily"
+    },
+    {
+      "endMs": "17359",
+      "startMs": "13040",
+      "startTimeText": "0:13",
+      "text": "for you.\" And you're like, \"Yeah.\" By"
+    },
+    {
+      "endMs": "19119",
+      "startMs": "15759",
+      "startTimeText": "0:15",
+      "text": "leaning into it, you also eliminate a"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "17359",
+      "startTimeText": "0:17",
+      "text": "competitor because if I just affirm the"
+    },
+    {
+      "endMs": "22160",
+      "startMs": "19119",
+      "startTimeText": "0:19",
+      "text": "fact that they think it happened"
+    },
+    {
+      "endMs": "24160",
+      "startMs": "20240",
+      "startTimeText": "0:20",
+      "text": "overnight or that it was genetic or"
+    },
+    {
+      "endMs": "26640",
+      "startMs": "22160",
+      "startTimeText": "0:22",
+      "text": "whatever, make it more average,"
+    },
+    {
+      "endMs": "26640",
+      "startMs": "24160",
+      "startTimeText": "0:24",
+      "text": ">> right?"
+    }
+  ],
+  "transcript_only_text": " When  someone  says  must  be  nice,  you  can \n just  say  yeah  it  is. \n or  someone  says,  \"Man,  you  must  have \n exceptional  genetics  to  have  the  body \n you  have,  and  it  just  happens  so  easily \n for  you.\"  And  you're  like,  \"Yeah.\"  By \n leaning  into  it,  you  also  eliminate  a \n competitor  because  if  I  just  affirm  the \n fact  that  they  think  it  happened \n overnight  or  that  it  was  genetic  or \n whatever,  make  it  more  average, \n >> right?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=amIqe5SiPQQ",
+  "videoId": "amIqe5SiPQQ"
+}

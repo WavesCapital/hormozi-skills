@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4400",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "A lot of the correct moves in"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "entrepreneurship are counterintuitive"
+    },
+    {
+      "endMs": "7839",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "because all the intuitive ones you've"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "already done. You do those naturally."
+    },
+    {
+      "endMs": "9440",
+      "startMs": "7839",
+      "startTimeText": "0:07",
+      "text": "You wouldn't you don't think about it"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "because all the things that are"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "9440",
+      "startTimeText": "0:09",
+      "text": "intuitive, you already did it and they"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "already worked. Where you get stuck is"
+    },
+    {
+      "endMs": "15599",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "the counterintuitive solutions or the"
+    },
+    {
+      "endMs": "17359",
+      "startMs": "13599",
+      "startTimeText": "0:13",
+      "text": "ones where you're like, \"Wait, so for me"
+    },
+    {
+      "endMs": "18800",
+      "startMs": "15599",
+      "startTimeText": "0:15",
+      "text": "to grow, I need to sell fewer people and"
+    },
+    {
+      "endMs": "20080",
+      "startMs": "17359",
+      "startTimeText": "0:17",
+      "text": "have higher qualifications.\" It's hard"
+    },
+    {
+      "endMs": "23359",
+      "startMs": "18800",
+      "startTimeText": "0:18",
+      "text": "to do. That's why most people don't do"
+    },
+    {
+      "endMs": "23359",
+      "startMs": "20080",
+      "startTimeText": "0:20",
+      "text": "it. It's also why most people don't make"
+    }
+  ],
+  "transcript_only_text": " A  lot  of  the  correct  moves  in \n entrepreneurship  are  counterintuitive \n because  all  the  intuitive  ones  you've \n already  done.  You  do  those  naturally. \n You  wouldn't  you  don't  think  about  it \n because  all  the  things  that  are \n intuitive,  you  already  did  it  and  they \n already  worked.  Where  you  get  stuck  is \n the  counterintuitive  solutions  or  the \n ones  where  you're  like,  \"Wait,  so  for  me \n to  grow,  I  need  to  sell  fewer  people  and \n have  higher  qualifications.\"  It's  hard \n to  do.  That's  why  most  people  don't  do \n it.  It's  also  why  most  people  don't  make",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zUwEIFWZc2U",
+  "videoId": "zUwEIFWZc2U"
+}

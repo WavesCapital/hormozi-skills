@@ -1,0 +1,291 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 7,
+  "commentCountText": "7",
+  "credits_charged": 1,
+  "description": "People say “do or die” like it’s a choice.\nReality is you’re going to die either way. \nSo you might as well do something cool before you do.\nAnd if you don’t, the only person who loses out is you.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:07",
+  "durationMs": 67000,
+  "genre": "Education",
+  "id": "DX7GE207iFw",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 788,
+  "likeCountText": "788",
+  "most_replayed": null,
+  "publishDate": "2026-08-03T08:01:59-07:00",
+  "publishDateText": "Aug 3, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/DX7GE207iFw/maxresdefault.jpg",
+  "title": "You're Not Losing by Choosing, You're Losing by Not Deciding",
+  "type": "video",
+  "viewCountInt": 24590,
+  "viewCountText": "24,590",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "Movazzi",
+        "id": "UCXy7f__PFrlh2gFc71NSeFw",
+        "title": "Movazzi",
+        "url": "https://www.youtube.com/@Movazzi"
+      },
+      "id": "RuJwensYh_M",
+      "lengthInSeconds": 681,
+      "lengthText": "11:21",
+      "publishDate": "2026-08-02T10:39:02.797Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:39:02.797Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/RuJwensYh_M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAsGtH8RyjC6vKrYXr_296RZ-knoA",
+      "title": "Tom Holland Being Unintentionally Funny for 11 Minutes Straight!",
+      "videoUrl": "https://www.youtube.com/watch?v=RuJwensYh_M",
+      "viewCountInt": 921000,
+      "viewCountText": "921K views"
+    },
+    {
+      "channel": {
+        "handle": "CounterpointStudios",
+        "id": "UCTOji6NgxrlwjE2NEDZ3lQA",
+        "title": "Counterpoint",
+        "url": "https://www.youtube.com/@CounterpointStudios"
+      },
+      "id": "Lm90eneDPOo",
+      "lengthInSeconds": 2154,
+      "lengthText": "35:54",
+      "publishDate": "2026-08-02T10:39:02.797Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:39:02.797Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/Lm90eneDPOo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD5n864qi5Ag87XG9kt5r0CH1L7pg",
+      "title": "Single Women vs Single Men: Are Our Relationship Expectations Realistic? | Part 2",
+      "videoUrl": "https://www.youtube.com/watch?v=Lm90eneDPOo",
+      "viewCountInt": 79000,
+      "viewCountText": "79K views"
+    },
+    {
+      "channel": {
+        "handle": "TuckerCarlson",
+        "id": "UCGttrUON87gWfU6dMWm1fcA",
+        "title": "Tucker Carlson",
+        "url": "https://www.youtube.com/@TuckerCarlson"
+      },
+      "id": "Y0-nwlJFNl8",
+      "lengthInSeconds": 3421,
+      "lengthText": "57:01",
+      "publishDate": "2026-09-01T10:39:02.797Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-01T10:39:02.797Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/Y0-nwlJFNl8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBHIOrGZtndFYUxypDEYXN0OjNb6Q",
+      "title": "Trump Ushers in 300,000 Tons of Foreign Mystery Meat and Sends American Farmers Into Bankruptcy",
+      "videoUrl": "https://www.youtube.com/watch?v=Y0-nwlJFNl8",
+      "viewCountInt": 701000,
+      "viewCountText": "701K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:39:02.797Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-29T10:39:02.797Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 657000,
+      "viewCountText": "657K views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "I6UoWlOKFfU",
+      "lengthInSeconds": 636,
+      "lengthText": "10:36",
+      "publishDate": "2026-08-19T10:39:02.797Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:39:02.797Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/I6UoWlOKFfU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC6u8aIMKcFK36mEphjjviComAWrA",
+      "title": "Live Like You Have Nothing Left to Prove! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=I6UoWlOKFfU",
+      "viewCountInt": 159,
+      "viewCountText": "159 views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Better Offline",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "Lf5oqGOCRCM",
+      "lengthInSeconds": 8870,
+      "lengthText": "2:27:50",
+      "publishDate": "2026-08-27T10:39:02.797Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-27T10:39:02.797Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/Lf5oqGOCRCM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAWMM-7UkBSkGxvSUAZoVZrO5KQkQ",
+      "title": "The Man Who Calls BS On AI: They’re LYING About AI, 2027 Is When It All Breaks! | Ed Zitron",
+      "videoUrl": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
+      "viewCountInt": 5900000,
+      "viewCountText": "5.9M views"
+    },
+    {
+      "channel": {
+        "handle": "tradgedyandhope",
+        "id": "UCFyAgi9phA7ErVY_bPC1Cjg",
+        "title": "T&H - Inspiration & Motivation",
+        "url": "https://www.youtube.com/@tradgedyandhope"
+      },
+      "id": "-y7VSp9ErLg",
+      "lengthInSeconds": 1707,
+      "lengthText": "28:27",
+      "publishDate": "2026-08-19T10:39:02.797Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:39:02.797Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/-y7VSp9ErLg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBmdzP1myyj1F4qFaIqwNcjhtE05Q",
+      "title": "I wasted 33 years trapped in my own head before Anthony Bourdain explained this in 30 minutes…",
+      "videoUrl": "https://www.youtube.com/watch?v=-y7VSp9ErLg",
+      "viewCountInt": 238000,
+      "viewCountText": "238K views"
+    },
+    {
+      "channel": {
+        "handle": "ChrisWillx",
+        "id": "UCIaH-gZIVC432YRjNVvnyCA",
+        "title": "Chris Williamson",
+        "url": "https://www.youtube.com/@ChrisWillx"
+      },
+      "id": "1YkVKsvNHOg",
+      "lengthInSeconds": 333,
+      "lengthText": "5:33",
+      "publishDate": "2025-09-02T10:39:02.797Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:39:02.797Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/1YkVKsvNHOg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBCo9qm8PlXAp_20d78iTLvWlcbzw",
+      "title": "How To Move On From A Breakup - Dr John Delony",
+      "videoUrl": "https://www.youtube.com/watch?v=1YkVKsvNHOg",
+      "viewCountInt": 76000,
+      "viewCountText": "76K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-02T10:39:02.797Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:39:02.797Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "TristanSpohnAKASpiderman",
+        "id": "UCiyPxBxD8fkxoG3tHD7496g",
+        "title": "Tristan Spohn",
+        "url": "https://www.youtube.com/@TristanSpohnAKASpiderman"
+      },
+      "id": "Y3Lc67fxR0U",
+      "lengthInSeconds": 747,
+      "lengthText": "12:27",
+      "publishDate": "2025-09-02T10:39:02.797Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:39:02.797Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/Y3Lc67fxR0U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC55ui4R_BcpjIYHivIe4lAACwKtw",
+      "title": "AI vs Oscar Winning Actor (Same Scene)",
+      "videoUrl": "https://www.youtube.com/watch?v=Y3Lc67fxR0U",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "DeepProductivity",
+        "id": "UCDAm-9IznFtHZ8xSbG71t7Q",
+        "title": "Deep Productivity",
+        "url": "https://www.youtube.com/@DeepProductivity"
+      },
+      "id": "eo1gKGt6h9M",
+      "lengthInSeconds": 7284,
+      "lengthText": "2:01:24",
+      "publishDate": "2026-04-02T10:39:02.797Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:39:02.797Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/eo1gKGt6h9M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAT6YtPOybF-bRV5yVd2y9cTtAVxg",
+      "title": "Hyper Focus Mode | Concentration Music Productivity | Work Focus Background | Deep Flow 2026",
+      "videoUrl": "https://www.youtube.com/watch?v=eo1gKGt6h9M",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-19T10:39:02.797Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:39:02.797Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 505000,
+      "viewCountText": "505K views"
+    }
+  ]
+}

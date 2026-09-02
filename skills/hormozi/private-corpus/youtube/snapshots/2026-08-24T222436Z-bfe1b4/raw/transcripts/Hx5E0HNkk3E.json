@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You're allowed to be happy before you"
+    },
+    {
+      "endMs": "5960",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "hit your goal. Just not satisfied."
+    },
+    {
+      "endMs": "7560",
+      "startMs": "4440",
+      "startTimeText": "0:04",
+      "text": "There's a very big difference between"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "5960",
+      "startTimeText": "0:05",
+      "text": "being content with your life, content"
+    },
+    {
+      "endMs": "10560",
+      "startMs": "7560",
+      "startTimeText": "0:07",
+      "text": "with your work, and complacent, [music]"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "meaning you're not going to take any"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "10560",
+      "startTimeText": "0:10",
+      "text": "more action. There's a great Asian"
+    },
+    {
+      "endMs": "17200",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "proverb that's behind mountains are more"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "mountains. It's kind of like after every"
+    },
+    {
+      "endMs": "21280",
+      "startMs": "17200",
+      "startTimeText": "0:17",
+      "text": "peak, you can just see more peaks ahead"
+    },
+    {
+      "endMs": "24680",
+      "startMs": "18880",
+      "startTimeText": "0:18",
+      "text": "of you. The work works on you more than"
+    },
+    {
+      "endMs": "24680",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "you [music] work on it."
+    }
+  ],
+  "transcript_only_text": " You're  allowed  to  be  happy  before  you \n hit  your  goal.  Just  not  satisfied. \n There's  a  very  big  difference  between \n being  content  with  your  life,  content \n with  your  work,  and  complacent,  [music] \n meaning  you're  not  going  to  take  any \n more  action.  There's  a  great  Asian \n proverb  that's  behind  mountains  are  more \n mountains.  It's  kind  of  like  after  every \n peak,  you  can  just  see  more  peaks  ahead \n of  you.  The  work  works  on  you  more  than \n you  [music]  work  on  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Hx5E0HNkk3E",
+  "videoId": "Hx5E0HNkk3E"
+}

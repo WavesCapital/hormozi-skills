@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "All right, moment of truth."
+    },
+    {
+      "endMs": "7880",
+      "startMs": "2840",
+      "startTimeText": "0:02",
+      "text": "It's 4:00."
+    },
+    {
+      "endMs": "7880",
+      "startMs": "4760",
+      "startTimeText": "0:04",
+      "text": "Let's use here."
+    },
+    {
+      "endMs": "14560",
+      "startMs": "9000",
+      "startTimeText": "0:09",
+      "text": "No one be curious why I am up so early"
+    },
+    {
+      "endMs": "16320",
+      "startMs": "12560",
+      "startTimeText": "0:12",
+      "text": "consistently. It's not because I'm more"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "14560",
+      "startTimeText": "0:14",
+      "text": "disciplined, it's because I just wake up"
+    },
+    {
+      "endMs": "21080",
+      "startMs": "16320",
+      "startTimeText": "0:16",
+      "text": "early and I go to sleep early."
+    },
+    {
+      "endMs": "23200",
+      "startMs": "18920",
+      "startTimeText": "0:18",
+      "text": "And I honestly wish I could go to sleep"
+    },
+    {
+      "endMs": "25000",
+      "startMs": "21080",
+      "startTimeText": "0:21",
+      "text": "later. I just pass out early and when"
+    },
+    {
+      "endMs": "28080",
+      "startMs": "23200",
+      "startTimeText": "0:23",
+      "text": "you go to sleep at 9:00, you can wake up"
+    },
+    {
+      "endMs": "31000",
+      "startMs": "25000",
+      "startTimeText": "0:25",
+      "text": "at 4:00 pretty easily. So, um"
+    },
+    {
+      "endMs": "31000",
+      "startMs": "28080",
+      "startTimeText": "0:28",
+      "text": "that's the secret."
+    }
+  ],
+  "transcript_only_text": " All  right,  moment  of  truth. \n It's  4:00. \n Let's  use  here. \n No  one  be  curious  why  I  am  up  so  early \n consistently.  It's  not  because  I'm  more \n disciplined,  it's  because  I  just  wake  up \n early  and  I  go  to  sleep  early. \n And  I  honestly  wish  I  could  go  to  sleep \n later.  I  just  pass  out  early  and  when \n you  go  to  sleep  at  9:00,  you  can  wake  up \n at  4:00  pretty  easily.  So,  um \n that's  the  secret.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=W7i2YoZCj-g",
+  "videoId": "W7i2YoZCj-g"
+}

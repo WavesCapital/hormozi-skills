@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Most people don't need to work harder."
+    },
+    {
+      "endMs": "6760",
+      "startMs": "2520",
+      "startTimeText": "0:02",
+      "text": "They [music] need to think clearer. You"
+    },
+    {
+      "endMs": "9170",
+      "startMs": "4480",
+      "startTimeText": "0:04",
+      "text": "can sprint full speed, but if you're"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "6760",
+      "startTimeText": "0:06",
+      "text": "running the wrong way, you'll still"
+    },
+    {
+      "endMs": "12600",
+      "startMs": "9170",
+      "startTimeText": "0:09",
+      "text": "[music] lose and you're not going to get"
+    },
+    {
+      "endMs": "15000",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "there. The biggest bottleneck isn't"
+    },
+    {
+      "endMs": "16840",
+      "startMs": "12600",
+      "startTimeText": "0:12",
+      "text": "effort, it's direction. The better your"
+    },
+    {
+      "endMs": "17640",
+      "startMs": "15000",
+      "startTimeText": "0:15",
+      "text": "direction, the less energy you'll waste,"
+    },
+    {
+      "endMs": "19040",
+      "startMs": "16840",
+      "startTimeText": "0:16",
+      "text": "and then the [music] faster you'll"
+    },
+    {
+      "endMs": "20360",
+      "startMs": "17640",
+      "startTimeText": "0:17",
+      "text": "ultimately succeed because the vast"
+    },
+    {
+      "endMs": "23880",
+      "startMs": "19040",
+      "startTimeText": "0:19",
+      "text": "majority of your energy is actually"
+    },
+    {
+      "endMs": "23880",
+      "startMs": "20360",
+      "startTimeText": "0:20",
+      "text": "pointed in the right direction."
+    }
+  ],
+  "transcript_only_text": " Most  people  don't  need  to  work  harder. \n They  [music]  need  to  think  clearer.  You \n can  sprint  full  speed,  but  if  you're \n running  the  wrong  way,  you'll  still \n [music]  lose  and  you're  not  going  to  get \n there.  The  biggest  bottleneck  isn't \n effort,  it's  direction.  The  better  your \n direction,  the  less  energy  you'll  waste, \n and  then  the  [music]  faster  you'll \n ultimately  succeed  because  the  vast \n majority  of  your  energy  is  actually \n pointed  in  the  right  direction.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fHes8kAGJHs",
+  "videoId": "fHes8kAGJHs"
+}

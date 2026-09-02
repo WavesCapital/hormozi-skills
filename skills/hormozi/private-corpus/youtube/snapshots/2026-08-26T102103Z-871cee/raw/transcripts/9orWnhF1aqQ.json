@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Here's the uncomfortable truth. Winners"
+    },
+    {
+      "endMs": "5880",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "focus on winning, losers focus on"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "winners, and you never receive hate from"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "5880",
+      "startTimeText": "0:05",
+      "text": "above, always below, because winners"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "have their eyes on the goal, not on"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "other people. You have to decide whether"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "you want to be a loser or a winner. It's"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "never been easier than it is today to be"
+    },
+    {
+      "endMs": "20680",
+      "startMs": "15560",
+      "startTimeText": "0:15",
+      "text": "successful. It's also never been easier"
+    },
+    {
+      "endMs": "20680",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "to be distracted."
+    }
+  ],
+  "transcript_only_text": " Here's  the  uncomfortable  truth.  Winners \n focus  on  winning,  losers  focus  on \n winners,  and  you  never  receive  hate  from \n above,  always  below,  because  winners \n have  their  eyes  on  the  goal,  not  on \n other  people.  You  have  to  decide  whether \n you  want  to  be  a  loser  or  a  winner.  It's \n never  been  easier  than  it  is  today  to  be \n successful.  It's  also  never  been  easier \n to  be  distracted.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=9orWnhF1aqQ",
+  "videoId": "9orWnhF1aqQ"
+}

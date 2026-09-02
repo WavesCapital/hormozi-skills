@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "A cheat code that I know at 34 that I"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "wish I knew at 24. Anything worth doing"
+    },
+    {
+      "endMs": "7760",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "takes exceptionally longer than you"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "expected it to. And until you've worked"
+    },
+    {
+      "endMs": "11560",
+      "startMs": "7760",
+      "startTimeText": "0:07",
+      "text": "a thousand hours on one single project,"
+    },
+    {
+      "endMs": "12840",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "you don't even understand the amount of"
+    },
+    {
+      "endMs": "15160",
+      "startMs": "11560",
+      "startTimeText": "0:11",
+      "text": "work that it takes to make something"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "12840",
+      "startTimeText": "0:12",
+      "text": "great. And by extension, why you can"
+    },
+    {
+      "endMs": "20440",
+      "startMs": "15160",
+      "startTimeText": "0:15",
+      "text": "really not do many things at all if you"
+    },
+    {
+      "endMs": "20440",
+      "startMs": "17280",
+      "startTimeText": "0:17",
+      "text": "want them to be worth doing."
+    }
+  ],
+  "transcript_only_text": " A  cheat  code  that  I  know  at  34  that  I \n wish  I  knew  at  24.  Anything  worth  doing \n takes  exceptionally  longer  than  you \n expected  it  to.  And  until  you've  worked \n a  thousand  hours  on  one  single  project, \n you  don't  even  understand  the  amount  of \n work  that  it  takes  to  make  something \n great.  And  by  extension,  why  you  can \n really  not  do  many  things  at  all  if  you \n want  them  to  be  worth  doing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nzFGAQbVqX4",
+  "videoId": "nzFGAQbVqX4"
+}

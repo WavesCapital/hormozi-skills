@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When I'm forced to make a decisionbetween two things, I prefer to choose"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "the one that's the more epic story. I'vethought about that frame a lot and it's"
+    },
+    {
+      "endMs": "12240",
+      "startMs": "7320",
+      "startTimeText": "0:07",
+      "text": "still continued to win out. Becauseeither you have an epic story of failure"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "or you have an epic story of success,but no 85-year-olds are regretting their"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "14160",
+      "startTimeText": "0:14",
+      "text": "epic stories. They are regretting thestories they never told."
+    }
+  ],
+  "transcript_only_text": " When I'm forced to make a decision\nbetween two things, I prefer to choose the one that's the more epic story. I've\nthought about that frame a lot and it's still continued to win out. Because\neither you have an epic story of failure or you have an epic story of success,\nbut no 85-year-olds are regretting their epic stories. They are regretting the\nstories they never told.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4UhvmwlxRLM",
+  "videoId": "4UhvmwlxRLM"
+}

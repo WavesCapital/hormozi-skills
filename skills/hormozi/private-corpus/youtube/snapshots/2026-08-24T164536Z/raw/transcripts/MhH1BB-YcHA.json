@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Here's a decade plus of business lessons"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "summarized in a 60 seconds. Promise"
+    },
+    {
+      "endMs": "10720",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "late, deliver early, learn fast, trust"
+    },
+    {
+      "endMs": "13240",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "slow. Bet big, test small. Give first,"
+    },
+    {
+      "endMs": "15600",
+      "startMs": "10720",
+      "startTimeText": "0:10",
+      "text": "ask last. Ignore opinions, treasure"
+    },
+    {
+      "endMs": "17560",
+      "startMs": "13240",
+      "startTimeText": "0:13",
+      "text": "facts. Always promote, never slander."
+    },
+    {
+      "endMs": "21720",
+      "startMs": "15600",
+      "startTimeText": "0:15",
+      "text": "Disregard doubters, believe in you."
+    },
+    {
+      "endMs": "21720",
+      "startMs": "17560",
+      "startTimeText": "0:17",
+      "text": "Persist always and stop never."
+    }
+  ],
+  "transcript_only_text": " Here's  a  decade  plus  of  business  lessons \n summarized  in  a  60  seconds.  Promise \n late,  deliver  early,  learn  fast,  trust \n slow.  Bet  big,  test  small.  Give  first, \n ask  last.  Ignore  opinions,  treasure \n facts.  Always  promote,  never  slander. \n Disregard  doubters,  believe  in  you. \n Persist  always  and  stop  never.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MhH1BB-YcHA",
+  "videoId": "MhH1BB-YcHA"
+}

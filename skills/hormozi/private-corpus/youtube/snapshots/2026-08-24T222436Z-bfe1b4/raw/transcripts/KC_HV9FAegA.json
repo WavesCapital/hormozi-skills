@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My requirement for a friend isn't"
+    },
+    {
+      "endMs": "4120",
+      "startMs": "1200",
+      "startTimeText": "0:01",
+      "text": "necessarily that they make the same or"
+    },
+    {
+      "endMs": "5160",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "more money than me at all. Do they make"
+    },
+    {
+      "endMs": "6400",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "me better?"
+    },
+    {
+      "endMs": "8360",
+      "startMs": "5160",
+      "startTimeText": "0:05",
+      "text": "Do they have my best intentions in"
+    },
+    {
+      "endMs": "10120",
+      "startMs": "6400",
+      "startTimeText": "0:06",
+      "text": "heart? Already two incredibly difficult"
+    },
+    {
+      "endMs": "11240",
+      "startMs": "8360",
+      "startTimeText": "0:08",
+      "text": "things to pass. But if someone passes"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "10120",
+      "startTimeText": "0:10",
+      "text": "both those things, then they are a"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "11240",
+      "startTimeText": "0:11",
+      "text": "friend."
+    }
+  ],
+  "transcript_only_text": " My  requirement  for  a  friend  isn't \n necessarily  that  they  make  the  same  or \n more  money  than  me  at  all.  Do  they  make \n me  better? \n Do  they  have  my  best  intentions  in \n heart?  Already  two  incredibly  difficult \n things  to  pass.  But  if  someone  passes \n both  those  things,  then  they  are  a \n friend.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KC_HV9FAegA",
+  "videoId": "KC_HV9FAegA"
+}

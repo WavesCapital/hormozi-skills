@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The biggest issue when you're starting"
+    },
+    {
+      "endMs": "4760",
+      "startMs": "1240",
+      "startTimeText": "0:01",
+      "text": "out is just picking the path and being"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "2600",
+      "startTimeText": "0:02",
+      "text": "willing to commit to it with the"
+    },
+    {
+      "endMs": "7800",
+      "startMs": "4760",
+      "startTimeText": "0:04",
+      "text": "uncertainty that comes with it."
+    },
+    {
+      "endMs": "9440",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "Because like every entrepreneurial path"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "7800",
+      "startTimeText": "0:07",
+      "text": "has uncertainty. Like and that's what"
+    },
+    {
+      "endMs": "12960",
+      "startMs": "9440",
+      "startTimeText": "0:09",
+      "text": "makes entrepreneurship hard. It's"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "literally the not knowing and the pain"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "12960",
+      "startTimeText": "0:12",
+      "text": "of suffering consequences for ignorance."
+    },
+    {
+      "endMs": "17720",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "For things that you've learned now that"
+    },
+    {
+      "endMs": "19240",
+      "startMs": "16440",
+      "startTimeText": "0:16",
+      "text": "you're like, \"If I had only known then"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "17720",
+      "startTimeText": "0:17",
+      "text": "what I know now.\" And that's every"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "19240",
+      "startTimeText": "0:19",
+      "text": "entrepreneur until the day they die."
+    }
+  ],
+  "transcript_only_text": " The  biggest  issue  when  you're  starting \n out  is  just  picking  the  path  and  being \n willing  to  commit  to  it  with  the \n uncertainty  that  comes  with  it. \n Because  like  every  entrepreneurial  path \n has  uncertainty.  Like  and  that's  what \n makes  entrepreneurship  hard.  It's \n literally  the  not  knowing  and  the  pain \n of  suffering  consequences  for  ignorance. \n For  things  that  you've  learned  now  that \n you're  like,  \"If  I  had  only  known  then \n what  I  know  now.\"  And  that's  every \n entrepreneur  until  the  day  they  die.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=foTdYbsx6KQ",
+  "videoId": "foTdYbsx6KQ"
+}

@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Don't expect to be accepted if you want"
+    },
+    {
+      "endMs": "7720",
+      "startMs": "2920",
+      "startTimeText": "0:02",
+      "text": "to be exceptional. Because to be"
+    },
+    {
+      "endMs": "10720",
+      "startMs": "5000",
+      "startTimeText": "0:05",
+      "text": "exceptional, by definition, you have to"
+    },
+    {
+      "endMs": "12960",
+      "startMs": "7720",
+      "startTimeText": "0:07",
+      "text": "be the exception, which means no one"
+    },
+    {
+      "endMs": "14960",
+      "startMs": "10720",
+      "startTimeText": "0:10",
+      "text": "will be just like you. They won't agree,"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "12960",
+      "startTimeText": "0:12",
+      "text": "they won't understand, and the"
+    },
+    {
+      "endMs": "20120",
+      "startMs": "14960",
+      "startTimeText": "0:14",
+      "text": "willingness to be disagreed with and"
+    },
+    {
+      "endMs": "22560",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "misunderstood is what allows you to not"
+    },
+    {
+      "endMs": "26680",
+      "startMs": "20120",
+      "startTimeText": "0:20",
+      "text": "be like everyone else, which makes you"
+    },
+    {
+      "endMs": "26680",
+      "startMs": "22560",
+      "startTimeText": "0:22",
+      "text": "the exception and thereby exceptional."
+    }
+  ],
+  "transcript_only_text": " Don't  expect  to  be  accepted  if  you  want \n to  be  exceptional.  Because  to  be \n exceptional,  by  definition,  you  have  to \n be  the  exception,  which  means  no  one \n will  be  just  like  you.  They  won't  agree, \n they  won't  understand,  and  the \n willingness  to  be  disagreed  with  and \n misunderstood  is  what  allows  you  to  not \n be  like  everyone  else,  which  makes  you \n the  exception  and  thereby  exceptional.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=31WQ21L6kE8",
+  "videoId": "31WQ21L6kE8"
+}

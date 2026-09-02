@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5080",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Going into 2026, it's the first year in"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "2080",
+      "startTimeText": "0:02",
+      "text": "my life where making more money has not"
+    },
+    {
+      "endMs": "9880",
+      "startMs": "5080",
+      "startTimeText": "0:05",
+      "text": "been my goal. Most of my goals are very"
+    },
+    {
+      "endMs": "11040",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "ambitious, but I also can recognize when"
+    },
+    {
+      "endMs": "12760",
+      "startMs": "9880",
+      "startTimeText": "0:09",
+      "text": "enough is enough. I don't need to be the"
+    },
+    {
+      "endMs": "15040",
+      "startMs": "11040",
+      "startTimeText": "0:11",
+      "text": "richest man in the world. At this point"
+    },
+    {
+      "endMs": "17360",
+      "startMs": "12760",
+      "startTimeText": "0:12",
+      "text": "right now, I don't want to only win the"
+    },
+    {
+      "endMs": "19200",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "business game. Business is a game"
+    },
+    {
+      "endMs": "20680",
+      "startMs": "17360",
+      "startTimeText": "0:17",
+      "text": "and there are mini games within the"
+    },
+    {
+      "endMs": "22120",
+      "startMs": "19200",
+      "startTimeText": "0:19",
+      "text": "larger context of the life game. And I"
+    },
+    {
+      "endMs": "24880",
+      "startMs": "20680",
+      "startTimeText": "0:20",
+      "text": "would prefer to win at life than just"
+    },
+    {
+      "endMs": "24880",
+      "startMs": "22120",
+      "startTimeText": "0:22",
+      "text": "win at business."
+    }
+  ],
+  "transcript_only_text": " Going  into  2026,  it's  the  first  year  in \n my  life  where  making  more  money  has  not \n been  my  goal.  Most  of  my  goals  are  very \n ambitious,  but  I  also  can  recognize  when \n enough  is  enough.  I  don't  need  to  be  the \n richest  man  in  the  world.  At  this  point \n right  now,  I  don't  want  to  only  win  the \n business  game.  Business  is  a  game \n and  there  are  mini  games  within  the \n larger  context  of  the  life  game.  And  I \n would  prefer  to  win  at  life  than  just \n win  at  business.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=c0DTWTnyQW0",
+  "videoId": "c0DTWTnyQW0"
+}

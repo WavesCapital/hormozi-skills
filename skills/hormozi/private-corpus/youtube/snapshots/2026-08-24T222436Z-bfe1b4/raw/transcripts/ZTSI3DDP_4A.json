@@ -1,0 +1,3281 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "A couple things that that took me a long"
+    },
+    {
+      "endMs": "3840",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "time to figure out."
+    },
+    {
+      "endMs": "5200",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "Um"
+    },
+    {
+      "endMs": "7000",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "there's this very there's these two"
+    },
+    {
+      "endMs": "9080",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "opposing forces of like make good [ __ ]"
+    },
+    {
+      "endMs": "10800",
+      "startMs": "7000",
+      "startTimeText": "0:07",
+      "text": "and then make lots of [ __ ]"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9080",
+      "startTimeText": "0:09",
+      "text": "That you have people on both sides. I"
+    },
+    {
+      "endMs": "16120",
+      "startMs": "10800",
+      "startTimeText": "0:10",
+      "text": "tend to be on the make lots of [ __ ]"
+    },
+    {
+      "endMs": "17960",
+      "startMs": "12440",
+      "startTimeText": "0:12",
+      "text": "category. Um but these are two apparent"
+    },
+    {
+      "endMs": "19360",
+      "startMs": "16120",
+      "startTimeText": "0:16",
+      "text": "extremes that sit where the magic is in"
+    },
+    {
+      "endMs": "21280",
+      "startMs": "17960",
+      "startTimeText": "0:17",
+      "text": "the middle."
+    },
+    {
+      "endMs": "23880",
+      "startMs": "19360",
+      "startTimeText": "0:19",
+      "text": "And so we've referred internally as this"
+    },
+    {
+      "endMs": "26160",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "middle spot as qualium. Which is how do"
+    },
+    {
+      "endMs": "27720",
+      "startMs": "23880",
+      "startTimeText": "0:23",
+      "text": "we create quality volume. And if you"
+    },
+    {
+      "endMs": "28680",
+      "startMs": "26160",
+      "startTimeText": "0:26",
+      "text": "guys haven't read this book, it recently"
+    },
+    {
+      "endMs": "31520",
+      "startMs": "27720",
+      "startTimeText": "0:27",
+      "text": "I think it recently came out. It's"
+    },
+    {
+      "endMs": "34880",
+      "startMs": "28680",
+      "startTimeText": "0:28",
+      "text": "called uh the algorithm. It's from"
+    },
+    {
+      "endMs": "36520",
+      "startMs": "31520",
+      "startTimeText": "0:31",
+      "text": "Tesla's former president who kind of"
+    },
+    {
+      "endMs": "38760",
+      "startMs": "34880",
+      "startTimeText": "0:34",
+      "text": "reimagined some of their stuff. And"
+    },
+    {
+      "endMs": "41320",
+      "startMs": "36520",
+      "startTimeText": "0:36",
+      "text": "basically it's it's it's Elon's approach"
+    },
+    {
+      "endMs": "43240",
+      "startMs": "38760",
+      "startTimeText": "0:38",
+      "text": "to manufacturing anything, right? And so"
+    },
+    {
+      "endMs": "44720",
+      "startMs": "41320",
+      "startTimeText": "0:41",
+      "text": "if you think about what content creation"
+    },
+    {
+      "endMs": "45960",
+      "startMs": "43240",
+      "startTimeText": "0:43",
+      "text": "is, it's a manufacturing process. It's"
+    },
+    {
+      "endMs": "48280",
+      "startMs": "44720",
+      "startTimeText": "0:44",
+      "text": "digital manufacturing, but you're taking"
+    },
+    {
+      "endMs": "49760",
+      "startMs": "45960",
+      "startTimeText": "0:45",
+      "text": "a raw input of just like recording some"
+    },
+    {
+      "endMs": "52000",
+      "startMs": "48280",
+      "startTimeText": "0:48",
+      "text": "video and then there's an output which"
+    },
+    {
+      "endMs": "53120",
+      "startMs": "49760",
+      "startTimeText": "0:49",
+      "text": "is going to be a post on social media or"
+    },
+    {
+      "endMs": "54960",
+      "startMs": "52000",
+      "startTimeText": "0:52",
+      "text": "multiple posts on social media. They're"
+    },
+    {
+      "endMs": "56760",
+      "startMs": "53120",
+      "startTimeText": "0:53",
+      "text": "going to get views, likes, shares,"
+    },
+    {
+      "endMs": "58840",
+      "startMs": "54960",
+      "startTimeText": "0:54",
+      "text": "leads, etc., right?"
+    },
+    {
+      "endMs": "60720",
+      "startMs": "56760",
+      "startTimeText": "0:56",
+      "text": "And so the five steps of algorithm and"
+    },
+    {
+      "endMs": "61840",
+      "startMs": "58840",
+      "startTimeText": "0:58",
+      "text": "I'll walk you through them. Um I I made"
+    },
+    {
+      "endMs": "64000",
+      "startMs": "60720",
+      "startTimeText": "1:00",
+      "text": "this mandatory for all the people who"
+    },
+    {
+      "endMs": "67440",
+      "startMs": "61840",
+      "startTimeText": "1:01",
+      "text": "report to me because this is this is the"
+    },
+    {
+      "endMs": "69600",
+      "startMs": "64000",
+      "startTimeText": "1:04",
+      "text": "process that I I've I first heard about"
+    },
+    {
+      "endMs": "71560",
+      "startMs": "67440",
+      "startTimeText": "1:07",
+      "text": "this 2 years ago"
+    },
+    {
+      "endMs": "72840",
+      "startMs": "69600",
+      "startTimeText": "1:09",
+      "text": "uh from some interview that Elon did and"
+    },
+    {
+      "endMs": "73840",
+      "startMs": "71560",
+      "startTimeText": "1:11",
+      "text": "I was like, \"Man, this is really good.\""
+    },
+    {
+      "endMs": "75120",
+      "startMs": "72840",
+      "startTimeText": "1:12",
+      "text": "Uh and they finally came out with a book"
+    },
+    {
+      "endMs": "76200",
+      "startMs": "73840",
+      "startTimeText": "1:13",
+      "text": "on it. So, let me just walk you through"
+    },
+    {
+      "endMs": "77920",
+      "startMs": "75120",
+      "startTimeText": "1:15",
+      "text": "it and then we'll get into content"
+    },
+    {
+      "endMs": "79120",
+      "startMs": "76200",
+      "startTimeText": "1:16",
+      "text": "questions, all right? So, the first step"
+    },
+    {
+      "endMs": "81280",
+      "startMs": "77920",
+      "startTimeText": "1:17",
+      "text": "is question the requirements and I'll"
+    },
+    {
+      "endMs": "82760",
+      "startMs": "79120",
+      "startTimeText": "1:19",
+      "text": "give you an example. So, I say, \"Okay,"
+    },
+    {
+      "endMs": "84160",
+      "startMs": "81280",
+      "startTimeText": "1:21",
+      "text": "why does it take?\" And the great the"
+    },
+    {
+      "endMs": "85720",
+      "startMs": "82760",
+      "startTimeText": "1:22",
+      "text": "first great way to know that something"
+    },
+    {
+      "endMs": "87760",
+      "startMs": "84160",
+      "startTimeText": "1:24",
+      "text": "is taking way too long is to say, \"How"
+    },
+    {
+      "endMs": "89920",
+      "startMs": "85720",
+      "startTimeText": "1:25",
+      "text": "much actual time are you working on the"
+    },
+    {
+      "endMs": "91840",
+      "startMs": "87760",
+      "startTimeText": "1:27",
+      "text": "thing?\" So, whether this is client work"
+    },
+    {
+      "endMs": "92840",
+      "startMs": "89920",
+      "startTimeText": "1:29",
+      "text": "uh or this is like you're on you know,"
+    },
+    {
+      "endMs": "94840",
+      "startMs": "91840",
+      "startTimeText": "1:31",
+      "text": "you're doing home services and you're"
+    },
+    {
+      "endMs": "97160",
+      "startMs": "92840",
+      "startTimeText": "1:32",
+      "text": "working on a project. Whatever it is,"
+    },
+    {
+      "endMs": "100920",
+      "startMs": "94840",
+      "startTimeText": "1:34",
+      "text": "like there's a certain amount of work"
+    },
+    {
+      "endMs": "102680",
+      "startMs": "97160",
+      "startTimeText": "1:37",
+      "text": "that um that has to be done, right? Now,"
+    },
+    {
+      "endMs": "104400",
+      "startMs": "100920",
+      "startTimeText": "1:40",
+      "text": "let's say the total time on task or"
+    },
+    {
+      "endMs": "106640",
+      "startMs": "102680",
+      "startTimeText": "1:42",
+      "text": "total total time that the work is being"
+    },
+    {
+      "endMs": "107600",
+      "startMs": "104400",
+      "startTimeText": "1:44",
+      "text": "done is say 10 hours, right? But all of"
+    },
+    {
+      "endMs": "109960",
+      "startMs": "106640",
+      "startTimeText": "1:46",
+      "text": "a sudden you're like, \"But then why is"
+    },
+    {
+      "endMs": "112320",
+      "startMs": "107600",
+      "startTimeText": "1:47",
+      "text": "it taking us a week to get this"
+    },
+    {
+      "endMs": "115680",
+      "startMs": "109960",
+      "startTimeText": "1:49",
+      "text": "delivered, right? It should in a perfect"
+    },
+    {
+      "endMs": "117960",
+      "startMs": "112320",
+      "startTimeText": "1:52",
+      "text": "world go from they sign and then 10"
+    },
+    {
+      "endMs": "119880",
+      "startMs": "115680",
+      "startTimeText": "1:55",
+      "text": "hours later they get.\" Right? So"
+    },
+    {
+      "endMs": "122120",
+      "startMs": "117960",
+      "startTimeText": "1:57",
+      "text": "everything that's outside of 10 hours is"
+    },
+    {
+      "endMs": "123720",
+      "startMs": "119880",
+      "startTimeText": "1:59",
+      "text": "waste from a business perspective"
+    },
+    {
+      "endMs": "126080",
+      "startMs": "122120",
+      "startTimeText": "2:02",
+      "text": "because it's basically uncaptured"
+    },
+    {
+      "endMs": "127520",
+      "startMs": "123720",
+      "startTimeText": "2:03",
+      "text": "potential value. All right. And so the"
+    },
+    {
+      "endMs": "128679",
+      "startMs": "126080",
+      "startTimeText": "2:06",
+      "text": "idea when we asked the first step is"
+    },
+    {
+      "endMs": "131240",
+      "startMs": "127520",
+      "startTimeText": "2:07",
+      "text": "when we question the requirements is"
+    },
+    {
+      "endMs": "132560",
+      "startMs": "128679",
+      "startTimeText": "2:08",
+      "text": "like why must these things happen in"
+    },
+    {
+      "endMs": "133840",
+      "startMs": "131240",
+      "startTimeText": "2:11",
+      "text": "this order? Why are we doing all these"
+    },
+    {
+      "endMs": "136080",
+      "startMs": "132560",
+      "startTimeText": "2:12",
+      "text": "requirements? Why must it take this long"
+    },
+    {
+      "endMs": "137520",
+      "startMs": "133840",
+      "startTimeText": "2:13",
+      "text": "etc. right? And so with the questioning"
+    },
+    {
+      "endMs": "138720",
+      "startMs": "136080",
+      "startTimeText": "2:16",
+      "text": "of the requirements, one of the things"
+    },
+    {
+      "endMs": "140040",
+      "startMs": "137520",
+      "startTimeText": "2:17",
+      "text": "that came up I was like okay. They're"
+    },
+    {
+      "endMs": "142560",
+      "startMs": "138720",
+      "startTimeText": "2:18",
+      "text": "like well one of the things that we do"
+    },
+    {
+      "endMs": "144600",
+      "startMs": "140040",
+      "startTimeText": "2:20",
+      "text": "in this these 10 hours for example is"
+    },
+    {
+      "endMs": "146720",
+      "startMs": "142560",
+      "startTimeText": "2:22",
+      "text": "that we color grade. Right? And I was"
+    },
+    {
+      "endMs": "149040",
+      "startMs": "144600",
+      "startTimeText": "2:24",
+      "text": "like okay. Uh do we think color grading"
+    },
+    {
+      "endMs": "150400",
+      "startMs": "146720",
+      "startTimeText": "2:26",
+      "text": "even [ __ ] matters? And if we look at"
+    },
+    {
+      "endMs": "151600",
+      "startMs": "149040",
+      "startTimeText": "2:29",
+      "text": "some of the best videos that I have they"
+    },
+    {
+      "endMs": "153120",
+      "startMs": "150400",
+      "startTimeText": "2:30",
+      "text": "weren't color graded and there's some"
+    },
+    {
+      "endMs": "155959",
+      "startMs": "151600",
+      "startTimeText": "2:31",
+      "text": "absolute bombs that are color graded."
+    },
+    {
+      "endMs": "157440",
+      "startMs": "153120",
+      "startTimeText": "2:33",
+      "text": "And I'm like okay. So how much time is"
+    },
+    {
+      "endMs": "159160",
+      "startMs": "155959",
+      "startTimeText": "2:35",
+      "text": "this?"
+    },
+    {
+      "endMs": "160760",
+      "startMs": "157440",
+      "startTimeText": "2:37",
+      "text": "And is it a requirement? Who decided"
+    },
+    {
+      "endMs": "163520",
+      "startMs": "159160",
+      "startTimeText": "2:39",
+      "text": "that we must color grade everything?"
+    },
+    {
+      "endMs": "165040",
+      "startMs": "160760",
+      "startTimeText": "2:40",
+      "text": "What what what god on the throne of of"
+    },
+    {
+      "endMs": "166920",
+      "startMs": "163520",
+      "startTimeText": "2:43",
+      "text": "YouTube and Instagram said that color"
+    },
+    {
+      "endMs": "169120",
+      "startMs": "165040",
+      "startTimeText": "2:45",
+      "text": "grading was super important? The answer"
+    },
+    {
+      "endMs": "171640",
+      "startMs": "166920",
+      "startTimeText": "2:46",
+      "text": "is there wasn't really one. Right? So we"
+    },
+    {
+      "endMs": "173000",
+      "startMs": "169120",
+      "startTimeText": "2:49",
+      "text": "remove color grading"
+    },
+    {
+      "endMs": "174600",
+      "startMs": "171640",
+      "startTimeText": "2:51",
+      "text": "from our from our process step. And it's"
+    },
+    {
+      "endMs": "176720",
+      "startMs": "173000",
+      "startTimeText": "2:53",
+      "text": "like what else can we cut? Right? And so"
+    },
+    {
+      "endMs": "178280",
+      "startMs": "174600",
+      "startTimeText": "2:54",
+      "text": "the idea is once you figure out all the"
+    },
+    {
+      "endMs": "179320",
+      "startMs": "176720",
+      "startTimeText": "2:56",
+      "text": "requirements that exist, we have to"
+    },
+    {
+      "endMs": "180480",
+      "startMs": "178280",
+      "startTimeText": "2:58",
+      "text": "question the requirements and I'll give"
+    },
+    {
+      "endMs": "182519",
+      "startMs": "179320",
+      "startTimeText": "2:59",
+      "text": "you the three step questions that I"
+    },
+    {
+      "endMs": "184120",
+      "startMs": "180480",
+      "startTimeText": "3:00",
+      "text": "asked. This is not Elon's. Which is what"
+    },
+    {
+      "endMs": "185880",
+      "startMs": "182519",
+      "startTimeText": "3:02",
+      "text": "does that mean?"
+    },
+    {
+      "endMs": "187280",
+      "startMs": "184120",
+      "startTimeText": "3:04",
+      "text": "How do you know that?"
+    },
+    {
+      "endMs": "189160",
+      "startMs": "185880",
+      "startTimeText": "3:05",
+      "text": "So what?"
+    },
+    {
+      "endMs": "190959",
+      "startMs": "187280",
+      "startTimeText": "3:07",
+      "text": "Right? So we have to color grade. Okay."
+    },
+    {
+      "endMs": "192480",
+      "startMs": "189160",
+      "startTimeText": "3:09",
+      "text": "What does that mean? It means we have to"
+    },
+    {
+      "endMs": "194920",
+      "startMs": "190959",
+      "startTimeText": "3:10",
+      "text": "do all this [ __ ] to the video. Okay. Now"
+    },
+    {
+      "endMs": "197560",
+      "startMs": "192480",
+      "startTimeText": "3:12",
+      "text": "that you say that, so what? Do we have"
+    },
+    {
+      "endMs": "199360",
+      "startMs": "194920",
+      "startTimeText": "3:14",
+      "text": "any evidence? Right? That that this is"
+    },
+    {
+      "endMs": "200680",
+      "startMs": "197560",
+      "startTimeText": "3:17",
+      "text": "going to do anything to the video? No,"
+    },
+    {
+      "endMs": "202360",
+      "startMs": "199360",
+      "startTimeText": "3:19",
+      "text": "we have no evidence. All right. So why"
+    },
+    {
+      "endMs": "203840",
+      "startMs": "200680",
+      "startTimeText": "3:20",
+      "text": "should I care?"
+    },
+    {
+      "endMs": "205080",
+      "startMs": "202360",
+      "startTimeText": "3:22",
+      "text": "There isn't. And so when I question the"
+    },
+    {
+      "endMs": "206680",
+      "startMs": "203840",
+      "startTimeText": "3:23",
+      "text": "requirements I answer ask those two"
+    },
+    {
+      "endMs": "208680",
+      "startMs": "205080",
+      "startTimeText": "3:25",
+      "text": "questions. What does that mean?"
+    },
+    {
+      "endMs": "210160",
+      "startMs": "206680",
+      "startTimeText": "3:26",
+      "text": "How do you know that? And so what?"
+    },
+    {
+      "endMs": "211720",
+      "startMs": "208680",
+      "startTimeText": "3:28",
+      "text": "Right? Once we have that it's like boom."
+    },
+    {
+      "endMs": "212840",
+      "startMs": "210160",
+      "startTimeText": "3:30",
+      "text": "That's the first thing. When you have"
+    },
+    {
+      "endMs": "213840",
+      "startMs": "211720",
+      "startTimeText": "3:31",
+      "text": "the answers to all those questions and"
+    },
+    {
+      "endMs": "215519",
+      "startMs": "212840",
+      "startTimeText": "3:32",
+      "text": "requirements and you say okay. Well"
+    },
+    {
+      "endMs": "217840",
+      "startMs": "213840",
+      "startTimeText": "3:33",
+      "text": "let's just delete a [ __ ] load of stuff."
+    },
+    {
+      "endMs": "219360",
+      "startMs": "215519",
+      "startTimeText": "3:35",
+      "text": "And one of Elon's rules of thumb is we"
+    },
+    {
+      "endMs": "221200",
+      "startMs": "217840",
+      "startTimeText": "3:37",
+      "text": "should delete so much that we have to"
+    },
+    {
+      "endMs": "222400",
+      "startMs": "219360",
+      "startTimeText": "3:39",
+      "text": "add stuff back. Which is a great litmus"
+    },
+    {
+      "endMs": "224040",
+      "startMs": "221200",
+      "startTimeText": "3:41",
+      "text": "test because everyone's always afraid of"
+    },
+    {
+      "endMs": "225040",
+      "startMs": "222400",
+      "startTimeText": "3:42",
+      "text": "deletion because everyone's afraid of"
+    },
+    {
+      "endMs": "226440",
+      "startMs": "224040",
+      "startTimeText": "3:44",
+      "text": "like messing something up. But you can"
+    },
+    {
+      "endMs": "228120",
+      "startMs": "225040",
+      "startTimeText": "3:45",
+      "text": "always add stuff back. It's very"
+    },
+    {
+      "endMs": "230640",
+      "startMs": "226440",
+      "startTimeText": "3:46",
+      "text": "unlikely that in a process especially"
+    },
+    {
+      "endMs": "232000",
+      "startMs": "228120",
+      "startTimeText": "3:48",
+      "text": "when you're building something that Um,"
+    },
+    {
+      "endMs": "232840",
+      "startMs": "230640",
+      "startTimeText": "3:50",
+      "text": "an irreversible door. You know what I"
+    },
+    {
+      "endMs": "234000",
+      "startMs": "232000",
+      "startTimeText": "3:52",
+      "text": "mean? It's not like you're going to blow"
+    },
+    {
+      "endMs": "235520",
+      "startMs": "232840",
+      "startTimeText": "3:52",
+      "text": "up a machine you have or you're going to"
+    },
+    {
+      "endMs": "237440",
+      "startMs": "234000",
+      "startTimeText": "3:54",
+      "text": "like, you know, one of your editors"
+    },
+    {
+      "endMs": "238680",
+      "startMs": "235520",
+      "startTimeText": "3:55",
+      "text": "going to disappear from the planet. No,"
+    },
+    {
+      "endMs": "240000",
+      "startMs": "237440",
+      "startTimeText": "3:57",
+      "text": "it's like the step the step in the"
+    },
+    {
+      "endMs": "241720",
+      "startMs": "238680",
+      "startTimeText": "3:58",
+      "text": "process that we can we can add back if"
+    },
+    {
+      "endMs": "243160",
+      "startMs": "240000",
+      "startTimeText": "4:00",
+      "text": "we want to. Let's just see what happens."
+    },
+    {
+      "endMs": "244080",
+      "startMs": "241720",
+      "startTimeText": "4:01",
+      "text": "And so when I first started doing this,"
+    },
+    {
+      "endMs": "246720",
+      "startMs": "243160",
+      "startTimeText": "4:03",
+      "text": "you might have seen this video that I"
+    },
+    {
+      "endMs": "248240",
+      "startMs": "244080",
+      "startTimeText": "4:04",
+      "text": "posted on YouTube which was um"
+    },
+    {
+      "endMs": "249800",
+      "startMs": "246720",
+      "startTimeText": "4:06",
+      "text": "it was like if you're broke, watch this"
+    },
+    {
+      "endMs": "251120",
+      "startMs": "248240",
+      "startTimeText": "4:08",
+      "text": "or something like that. Um, which I"
+    },
+    {
+      "endMs": "253440",
+      "startMs": "249800",
+      "startTimeText": "4:09",
+      "text": "guess that's every [ __ ] video on"
+    },
+    {
+      "endMs": "255640",
+      "startMs": "251120",
+      "startTimeText": "4:11",
+      "text": "YouTube, but whatever."
+    },
+    {
+      "endMs": "258040",
+      "startMs": "253440",
+      "startTimeText": "4:13",
+      "text": "I won't rant on that. Whatever, I'll let"
+    },
+    {
+      "endMs": "259959",
+      "startMs": "255640",
+      "startTimeText": "4:15",
+      "text": "that go. But it was me on a plane and I"
+    },
+    {
+      "endMs": "261400",
+      "startMs": "258040",
+      "startTimeText": "4:18",
+      "text": "did it with an iPhone. And I did it that"
+    },
+    {
+      "endMs": "263080",
+      "startMs": "259959",
+      "startTimeText": "4:19",
+      "text": "way because I was so angry, let me"
+    },
+    {
+      "endMs": "264200",
+      "startMs": "261400",
+      "startTimeText": "4:21",
+      "text": "honest, I was I was a little peeved at"
+    },
+    {
+      "endMs": "267240",
+      "startMs": "263080",
+      "startTimeText": "4:23",
+      "text": "the team because they were like, \"We"
+    },
+    {
+      "endMs": "269200",
+      "startMs": "264200",
+      "startTimeText": "4:24",
+      "text": "have to do all these things.\" And"
+    },
+    {
+      "endMs": "270518",
+      "startMs": "267240",
+      "startTimeText": "4:27",
+      "text": "thankfully all almost all that team is"
+    },
+    {
+      "endMs": "270600",
+      "startMs": "269200",
+      "startTimeText": "4:29",
+      "text": "is not with us anymore."
+    },
+    {
+      "endMs": "273880",
+      "startMs": "270518",
+      "startTimeText": "4:30",
+      "text": ">> [laughter]"
+    },
+    {
+      "endMs": "276200",
+      "startMs": "270600",
+      "startTimeText": "4:30",
+      "text": ">> So, and so when we did the video, right,"
+    },
+    {
+      "endMs": "278120",
+      "startMs": "273880",
+      "startTimeText": "4:33",
+      "text": "and we posted it, it became a mando one"
+    },
+    {
+      "endMs": "279440",
+      "startMs": "276200",
+      "startTimeText": "4:36",
+      "text": "out of 10 video because the thing that"
+    },
+    {
+      "endMs": "281480",
+      "startMs": "278120",
+      "startTimeText": "4:38",
+      "text": "mattered is the stuff in the [ __ ]"
+    },
+    {
+      "endMs": "283120",
+      "startMs": "279440",
+      "startTimeText": "4:39",
+      "text": "video, right? And so everyone wants to"
+    },
+    {
+      "endMs": "284160",
+      "startMs": "281480",
+      "startTimeText": "4:41",
+      "text": "to major in the minors, right? Which is"
+    },
+    {
+      "endMs": "285680",
+      "startMs": "283120",
+      "startTimeText": "4:43",
+      "text": "part of the reason that I'm doing these"
+    },
+    {
+      "endMs": "287760",
+      "startMs": "284160",
+      "startTimeText": "4:44",
+      "text": "raw videos like this cuz like it was"
+    },
+    {
+      "endMs": "289440",
+      "startMs": "285680",
+      "startTimeText": "4:45",
+      "text": "never about the [ __ ] production,"
+    },
+    {
+      "endMs": "291600",
+      "startMs": "287760",
+      "startTimeText": "4:47",
+      "text": "right? And some of you guys are worried"
+    },
+    {
+      "endMs": "293760",
+      "startMs": "289440",
+      "startTimeText": "4:49",
+      "text": "about your makeup and for the girls,"
+    },
+    {
+      "endMs": "295040",
+      "startMs": "291600",
+      "startTimeText": "4:51",
+      "text": "right? Or the lighting or to be fair,"
+    },
+    {
+      "endMs": "296480",
+      "startMs": "293760",
+      "startTimeText": "4:53",
+      "text": "this is an epic background, so this is"
+    },
+    {
+      "endMs": "297720",
+      "startMs": "295040",
+      "startTimeText": "4:55",
+      "text": "probably a little off. But like most of"
+    },
+    {
+      "endMs": "299760",
+      "startMs": "296480",
+      "startTimeText": "4:56",
+      "text": "the time my background looks absolute"
+    },
+    {
+      "endMs": "301720",
+      "startMs": "297720",
+      "startTimeText": "4:57",
+      "text": "dog [ __ ] and is either, you know, blurry"
+    },
+    {
+      "endMs": "304200",
+      "startMs": "299760",
+      "startTimeText": "4:59",
+      "text": "in my death star of a production center,"
+    },
+    {
+      "endMs": "305919",
+      "startMs": "301720",
+      "startTimeText": "5:01",
+      "text": "which I also hate, but um, or it's in my"
+    },
+    {
+      "endMs": "307720",
+      "startMs": "304200",
+      "startTimeText": "5:04",
+      "text": "office, which looks horrible, right? And"
+    },
+    {
+      "endMs": "309400",
+      "startMs": "305919",
+      "startTimeText": "5:05",
+      "text": "so my point is this is that like the"
+    },
+    {
+      "endMs": "311240",
+      "startMs": "307720",
+      "startTimeText": "5:07",
+      "text": "thing that matters is the stuff inside."
+    },
+    {
+      "endMs": "313160",
+      "startMs": "309400",
+      "startTimeText": "5:09",
+      "text": "It's the stuff inside of the content."
+    },
+    {
+      "endMs": "315480",
+      "startMs": "311240",
+      "startTimeText": "5:11",
+      "text": "The content is the container, right? The"
+    },
+    {
+      "endMs": "317080",
+      "startMs": "313160",
+      "startTimeText": "5:13",
+      "text": "stuff inside is what matters. And so if"
+    },
+    {
+      "endMs": "318280",
+      "startMs": "315480",
+      "startTimeText": "5:15",
+      "text": "you don't have the stuff, like focus on"
+    },
+    {
+      "endMs": "320120",
+      "startMs": "317080",
+      "startTimeText": "5:17",
+      "text": "the stuff. That's where the quality"
+    },
+    {
+      "endMs": "321520",
+      "startMs": "318280",
+      "startTimeText": "5:18",
+      "text": "comes from. The volume is like how much"
+    },
+    {
+      "endMs": "322600",
+      "startMs": "320120",
+      "startTimeText": "5:20",
+      "text": "stuff I'm going to put out. All right."
+    },
+    {
+      "endMs": "323600",
+      "startMs": "321520",
+      "startTimeText": "5:21",
+      "text": "So number one, what what question"
+    },
+    {
+      "endMs": "325400",
+      "startMs": "322600",
+      "startTimeText": "5:22",
+      "text": "requirements? Here's our big list of"
+    },
+    {
+      "endMs": "326560",
+      "startMs": "323600",
+      "startTimeText": "5:23",
+      "text": "[ __ ] Number two, we delete the stuff"
+    },
+    {
+      "endMs": "327680",
+      "startMs": "325400",
+      "startTimeText": "5:25",
+      "text": "that doesn't matter. We should delete so"
+    },
+    {
+      "endMs": "329880",
+      "startMs": "326560",
+      "startTimeText": "5:26",
+      "text": "much that we have to add stuff back"
+    },
+    {
+      "endMs": "331200",
+      "startMs": "327680",
+      "startTimeText": "5:27",
+      "text": "later. Three is simplify. Another way of"
+    },
+    {
+      "endMs": "332680",
+      "startMs": "329880",
+      "startTimeText": "5:29",
+      "text": "saying that is optimize. What do we get"
+    },
+    {
+      "endMs": "335600",
+      "startMs": "331200",
+      "startTimeText": "5:31",
+      "text": "the most for the least? So even though"
+    },
+    {
+      "endMs": "336640",
+      "startMs": "332680",
+      "startTimeText": "5:32",
+      "text": "something um, might give us a return,"
+    },
+    {
+      "endMs": "338680",
+      "startMs": "335600",
+      "startTimeText": "5:35",
+      "text": "let's say color grading gives us a"
+    },
+    {
+      "endMs": "339760",
+      "startMs": "336640",
+      "startTimeText": "5:36",
+      "text": "return, I'll just make it up. Um, and"
+    },
+    {
+      "endMs": "342600",
+      "startMs": "338680",
+      "startTimeText": "5:38",
+      "text": "let's say we can prove that, which we"
+    },
+    {
+      "endMs": "346000",
+      "startMs": "339760",
+      "startTimeText": "5:39",
+      "text": "can't. But let's say we can prove it."
+    },
+    {
+      "endMs": "347880",
+      "startMs": "342600",
+      "startTimeText": "5:42",
+      "text": "Okay. Um, if we can prove it, is it"
+    },
+    {
+      "endMs": "352080",
+      "startMs": "346000",
+      "startTimeText": "5:46",
+      "text": "worth it? Right? Which is a separate"
+    },
+    {
+      "endMs": "353160",
+      "startMs": "347880",
+      "startTimeText": "5:47",
+      "text": "question. Is it worth it? So, we can get"
+    },
+    {
+      "endMs": "354560",
+      "startMs": "352080",
+      "startTimeText": "5:52",
+      "text": "um"
+    },
+    {
+      "endMs": "356680",
+      "startMs": "353160",
+      "startTimeText": "5:53",
+      "text": "let's say let's say the total thing"
+    },
+    {
+      "endMs": "358360",
+      "startMs": "354560",
+      "startTimeText": "5:54",
+      "text": "takes 10 hours. Okay. Let's say four of"
+    },
+    {
+      "endMs": "361680",
+      "startMs": "356680",
+      "startTimeText": "5:56",
+      "text": "those hours are color grading. All"
+    },
+    {
+      "endMs": "363720",
+      "startMs": "358360",
+      "startTimeText": "5:58",
+      "text": "right. Is it 40% of the quality of the"
+    },
+    {
+      "endMs": "365200",
+      "startMs": "361680",
+      "startTimeText": "6:01",
+      "text": "output?"
+    },
+    {
+      "endMs": "368840",
+      "startMs": "363720",
+      "startTimeText": "6:03",
+      "text": "No."
+    },
+    {
+      "endMs": "371360",
+      "startMs": "365200",
+      "startTimeText": "6:05",
+      "text": "Is it 5%? Maybe."
+    },
+    {
+      "endMs": "373600",
+      "startMs": "368840",
+      "startTimeText": "6:08",
+      "text": "Is it worth 40% of the costs? My"
+    },
+    {
+      "endMs": "375600",
+      "startMs": "371360",
+      "startTimeText": "6:11",
+      "text": "argument, no. I would rather because we"
+    },
+    {
+      "endMs": "377800",
+      "startMs": "373600",
+      "startTimeText": "6:13",
+      "text": "have to put the opportunity cost. If I"
+    },
+    {
+      "endMs": "378800",
+      "startMs": "375600",
+      "startTimeText": "6:15",
+      "text": "had if my team had nothing else to edit,"
+    },
+    {
+      "endMs": "380240",
+      "startMs": "377800",
+      "startTimeText": "6:17",
+      "text": "then it would make sense to take the"
+    },
+    {
+      "endMs": "381440",
+      "startMs": "378800",
+      "startTimeText": "6:18",
+      "text": "extra time. But they have so much other"
+    },
+    {
+      "endMs": "384040",
+      "startMs": "380240",
+      "startTimeText": "6:20",
+      "text": "stuff to edit and it would make more"
+    },
+    {
+      "endMs": "387120",
+      "startMs": "381440",
+      "startTimeText": "6:21",
+      "text": "sense for us to do two videos or one and"
+    },
+    {
+      "endMs": "390440",
+      "startMs": "384040",
+      "startTimeText": "6:24",
+      "text": "a half videos at 95% than one video at"
+    },
+    {
+      "endMs": "392560",
+      "startMs": "387120",
+      "startTimeText": "6:27",
+      "text": "100. All right. So, hear me out on that."
+    },
+    {
+      "endMs": "395360",
+      "startMs": "390440",
+      "startTimeText": "6:30",
+      "text": "After simplifying or optimizing most for"
+    },
+    {
+      "endMs": "397120",
+      "startMs": "392560",
+      "startTimeText": "6:32",
+      "text": "the least, then you go to step four,"
+    },
+    {
+      "endMs": "399040",
+      "startMs": "395360",
+      "startTimeText": "6:35",
+      "text": "which is accelerate. How do you pull up"
+    },
+    {
+      "endMs": "400840",
+      "startMs": "397120",
+      "startTimeText": "6:37",
+      "text": "timelines? I'll give you my my version"
+    },
+    {
+      "endMs": "402080",
+      "startMs": "399040",
+      "startTimeText": "6:39",
+      "text": "of doing this when I'm in a meeting. So,"
+    },
+    {
+      "endMs": "403960",
+      "startMs": "400840",
+      "startTimeText": "6:40",
+      "text": "anybody who's worked with me knows that"
+    },
+    {
+      "endMs": "406040",
+      "startMs": "402080",
+      "startTimeText": "6:42",
+      "text": "I like to finish meetings with who,"
+    },
+    {
+      "endMs": "407320",
+      "startMs": "403960",
+      "startTimeText": "6:43",
+      "text": "what, when. So, it's my very simple"
+    },
+    {
+      "endMs": "408240",
+      "startMs": "406040",
+      "startTimeText": "6:46",
+      "text": "management algorithm. That's about it."
+    },
+    {
+      "endMs": "409760",
+      "startMs": "407320",
+      "startTimeText": "6:47",
+      "text": "Everything else you can learn from"
+    },
+    {
+      "endMs": "410600",
+      "startMs": "408240",
+      "startTimeText": "6:48",
+      "text": "Layla, but these three, this is what I"
+    },
+    {
+      "endMs": "411520",
+      "startMs": "409760",
+      "startTimeText": "6:49",
+      "text": "do."
+    },
+    {
+      "endMs": "414200",
+      "startMs": "410600",
+      "startTimeText": "6:50",
+      "text": "And so, at the end of our meeting, I'm"
+    },
+    {
+      "endMs": "416160",
+      "startMs": "411520",
+      "startTimeText": "6:51",
+      "text": "like, who, what, when, right? Who is"
+    },
+    {
+      "endMs": "418320",
+      "startMs": "414200",
+      "startTimeText": "6:54",
+      "text": "going to do what by when? Very, very"
+    },
+    {
+      "endMs": "420520",
+      "startMs": "416160",
+      "startTimeText": "6:56",
+      "text": "simple, right? And here's where if you"
+    },
+    {
+      "endMs": "422880",
+      "startMs": "418320",
+      "startTimeText": "6:58",
+      "text": "want to go to the 201 level, whenever"
+    },
+    {
+      "endMs": "424160",
+      "startMs": "420520",
+      "startTimeText": "7:00",
+      "text": "someone tells you the by when, you"
+    },
+    {
+      "endMs": "425480",
+      "startMs": "422880",
+      "startTimeText": "7:02",
+      "text": "actually ask the question I started"
+    },
+    {
+      "endMs": "428280",
+      "startMs": "424160",
+      "startTimeText": "7:04",
+      "text": "with, which is"
+    },
+    {
+      "endMs": "430200",
+      "startMs": "425480",
+      "startTimeText": "7:05",
+      "text": "okay, uh today's Monday and you want to"
+    },
+    {
+      "endMs": "431800",
+      "startMs": "428280",
+      "startTimeText": "7:08",
+      "text": "do this by next meeting next Monday, how"
+    },
+    {
+      "endMs": "434000",
+      "startMs": "430200",
+      "startTimeText": "7:10",
+      "text": "much actual time is this going to take?"
+    },
+    {
+      "endMs": "435800",
+      "startMs": "431800",
+      "startTimeText": "7:11",
+      "text": "Time on task. And so, people will be"
+    },
+    {
+      "endMs": "437280",
+      "startMs": "434000",
+      "startTimeText": "7:14",
+      "text": "like, uh I think it'll take me 4 hours."
+    },
+    {
+      "endMs": "438960",
+      "startMs": "435800",
+      "startTimeText": "7:15",
+      "text": "It's like, okay."
+    },
+    {
+      "endMs": "441840",
+      "startMs": "437280",
+      "startTimeText": "7:17",
+      "text": "What are you doing in the next 4 hours"
+    },
+    {
+      "endMs": "443520",
+      "startMs": "438960",
+      "startTimeText": "7:18",
+      "text": "that is more important than this?"
+    },
+    {
+      "endMs": "445600",
+      "startMs": "441840",
+      "startTimeText": "7:21",
+      "text": "A lot of times the answer is nothing. In"
+    },
+    {
+      "endMs": "446480",
+      "startMs": "443520",
+      "startTimeText": "7:23",
+      "text": "which case, great. Do it do it by end of"
+    },
+    {
+      "endMs": "448120",
+      "startMs": "445600",
+      "startTimeText": "7:25",
+      "text": "day."
+    },
+    {
+      "endMs": "450200",
+      "startMs": "446480",
+      "startTimeText": "7:26",
+      "text": "And let me know. And so, if you ever"
+    },
+    {
+      "endMs": "452360",
+      "startMs": "448120",
+      "startTimeText": "7:28",
+      "text": "want to speed up the movement of a team,"
+    },
+    {
+      "endMs": "454240",
+      "startMs": "450200",
+      "startTimeText": "7:30",
+      "text": "increase communication cycles. So, that"
+    },
+    {
+      "endMs": "456640",
+      "startMs": "452360",
+      "startTimeText": "7:32",
+      "text": "means instead of going end of week, go"
+    },
+    {
+      "endMs": "458640",
+      "startMs": "454240",
+      "startTimeText": "7:34",
+      "text": "end of day. It's 7x is the speed of a"
+    },
+    {
+      "endMs": "461760",
+      "startMs": "456640",
+      "startTimeText": "7:36",
+      "text": "team. You will be amazed at how much"
+    },
+    {
+      "endMs": "464280",
+      "startMs": "458640",
+      "startTimeText": "7:38",
+      "text": "more you get done. So, who, what, when?"
+    },
+    {
+      "endMs": "465720",
+      "startMs": "461760",
+      "startTimeText": "7:41",
+      "text": "So, who's going to do what by when? And"
+    },
+    {
+      "endMs": "467000",
+      "startMs": "464280",
+      "startTimeText": "7:44",
+      "text": "then when they tell you when, you ask"
+    },
+    {
+      "endMs": "468240",
+      "startMs": "465720",
+      "startTimeText": "7:45",
+      "text": "why can't you do it earlier? Now, to be"
+    },
+    {
+      "endMs": "469560",
+      "startMs": "467000",
+      "startTimeText": "7:47",
+      "text": "clear, if someone says I got this other"
+    },
+    {
+      "endMs": "470600",
+      "startMs": "468240",
+      "startTimeText": "7:48",
+      "text": "[ __ ] that's going on that you told me to"
+    },
+    {
+      "endMs": "471800",
+      "startMs": "469560",
+      "startTimeText": "7:49",
+      "text": "do, right? You're like, \"Oh yeah, I did"
+    },
+    {
+      "endMs": "472880",
+      "startMs": "470600",
+      "startTimeText": "7:50",
+      "text": "tell you to do that.\" Then it's like,"
+    },
+    {
+      "endMs": "474440",
+      "startMs": "471800",
+      "startTimeText": "7:51",
+      "text": "\"Great, we'll do that after that,"
+    },
+    {
+      "endMs": "476000",
+      "startMs": "472880",
+      "startTimeText": "7:52",
+      "text": "right?\" And then that way that constant"
+    },
+    {
+      "endMs": "477160",
+      "startMs": "474440",
+      "startTimeText": "7:54",
+      "text": "accountability"
+    },
+    {
+      "endMs": "478520",
+      "startMs": "476000",
+      "startTimeText": "7:56",
+      "text": "just drives the whole thing forward. And"
+    },
+    {
+      "endMs": "481520",
+      "startMs": "477160",
+      "startTimeText": "7:57",
+      "text": "so, I promise you if you want a project"
+    },
+    {
+      "endMs": "484200",
+      "startMs": "478520",
+      "startTimeText": "7:58",
+      "text": "to go faster, ask for updates every day,"
+    },
+    {
+      "endMs": "486560",
+      "startMs": "481520",
+      "startTimeText": "8:01",
+      "text": "twice a day, five times a day,"
+    },
+    {
+      "endMs": "488000",
+      "startMs": "484200",
+      "startTimeText": "8:04",
+      "text": "every hour. I'm telling you, like, I've"
+    },
+    {
+      "endMs": "489200",
+      "startMs": "486560",
+      "startTimeText": "8:06",
+      "text": "done this with vendors, too. So, if I'm"
+    },
+    {
+      "endMs": "490320",
+      "startMs": "488000",
+      "startTimeText": "8:08",
+      "text": "like, \"Hey,"
+    },
+    {
+      "endMs": "491640",
+      "startMs": "489200",
+      "startTimeText": "8:09",
+      "text": "uh hey, I need this thing.\" And they're"
+    },
+    {
+      "endMs": "492840",
+      "startMs": "490320",
+      "startTimeText": "8:10",
+      "text": "like, \"Okay, cool, we'll get it to you"
+    },
+    {
+      "endMs": "493600",
+      "startMs": "491640",
+      "startTimeText": "8:11",
+      "text": "tomorrow.\" I'll just call them in an"
+    },
+    {
+      "endMs": "495160",
+      "startMs": "492840",
+      "startTimeText": "8:12",
+      "text": "hour and be like, \"Hey, what's our"
+    },
+    {
+      "endMs": "496240",
+      "startMs": "493600",
+      "startTimeText": "8:13",
+      "text": "progress update on that?\" And they're"
+    },
+    {
+      "endMs": "497640",
+      "startMs": "495160",
+      "startTimeText": "8:15",
+      "text": "like, \"I I said I'll get it to you.\" I'm"
+    },
+    {
+      "endMs": "499400",
+      "startMs": "496240",
+      "startTimeText": "8:16",
+      "text": "like, \"This is very important to me."
+    },
+    {
+      "endMs": "501400",
+      "startMs": "497640",
+      "startTimeText": "8:17",
+      "text": "Like, can we can we please get this done"
+    },
+    {
+      "endMs": "502200",
+      "startMs": "499400",
+      "startTimeText": "8:19",
+      "text": "sooner?\" And then you call them again in"
+    },
+    {
+      "endMs": "503080",
+      "startMs": "501400",
+      "startTimeText": "8:21",
+      "text": "an hour. They're like, \"Dude, I'll"
+    },
+    {
+      "endMs": "504320",
+      "startMs": "502200",
+      "startTimeText": "8:22",
+      "text": "[ __ ] get it done.\" It's like,"
+    },
+    {
+      "endMs": "505640",
+      "startMs": "503080",
+      "startTimeText": "8:23",
+      "text": "\"Right.\" So, I will force the"
+    },
+    {
+      "endMs": "508120",
+      "startMs": "504320",
+      "startTimeText": "8:24",
+      "text": "accountability on a vendor if I need to"
+    },
+    {
+      "endMs": "509919",
+      "startMs": "505640",
+      "startTimeText": "8:25",
+      "text": "pull [ __ ] forward. And so, that's fourth"
+    },
+    {
+      "endMs": "511280",
+      "startMs": "508120",
+      "startTimeText": "8:28",
+      "text": "step is how do we pull up cycles? How do"
+    },
+    {
+      "endMs": "514039",
+      "startMs": "509919",
+      "startTimeText": "8:29",
+      "text": "we how do we take what the expected"
+    },
+    {
+      "endMs": "515479",
+      "startMs": "511280",
+      "startTimeText": "8:31",
+      "text": "timeline is and then reduce it?"
+    },
+    {
+      "endMs": "516919",
+      "startMs": "514039",
+      "startTimeText": "8:34",
+      "text": "And then, and this is the big this is"
+    },
+    {
+      "endMs": "518640",
+      "startMs": "515479",
+      "startTimeText": "8:35",
+      "text": "the big one which AI has destroyed for"
+    },
+    {
+      "endMs": "520719",
+      "startMs": "516919",
+      "startTimeText": "8:36",
+      "text": "everyone."
+    },
+    {
+      "endMs": "521960",
+      "startMs": "518640",
+      "startTimeText": "8:38",
+      "text": "Step five is automate. Which is okay,"
+    },
+    {
+      "endMs": "524440",
+      "startMs": "520719",
+      "startTimeText": "8:40",
+      "text": "how do we get the machines to do it?"
+    },
+    {
+      "endMs": "525880",
+      "startMs": "521960",
+      "startTimeText": "8:41",
+      "text": "Now, here's the here's the uh here's the"
+    },
+    {
+      "endMs": "528080",
+      "startMs": "524440",
+      "startTimeText": "8:44",
+      "text": "magic behind this."
+    },
+    {
+      "endMs": "529920",
+      "startMs": "525880",
+      "startTimeText": "8:45",
+      "text": "Because the access to AI has become so"
+    },
+    {
+      "endMs": "531600",
+      "startMs": "528080",
+      "startTimeText": "8:48",
+      "text": "prevalent and so easy for everyone,"
+    },
+    {
+      "endMs": "533280",
+      "startMs": "529920",
+      "startTimeText": "8:49",
+      "text": "everyone thinks in the first step the"
+    },
+    {
+      "endMs": "534640",
+      "startMs": "531600",
+      "startTimeText": "8:51",
+      "text": "last step first. They try and automate"
+    },
+    {
+      "endMs": "535520",
+      "startMs": "533280",
+      "startTimeText": "8:53",
+      "text": "[ __ ] that should not be done to begin"
+    },
+    {
+      "endMs": "537160",
+      "startMs": "534640",
+      "startTimeText": "8:54",
+      "text": "with."
+    },
+    {
+      "endMs": "538720",
+      "startMs": "535520",
+      "startTimeText": "8:55",
+      "text": "With like cuz the only thing that is"
+    },
+    {
+      "endMs": "540680",
+      "startMs": "537160",
+      "startTimeText": "8:57",
+      "text": "more efficient than automation is"
+    },
+    {
+      "endMs": "541800",
+      "startMs": "538720",
+      "startTimeText": "8:58",
+      "text": "elimination. It's choosing not to do"
+    },
+    {
+      "endMs": "543120",
+      "startMs": "540680",
+      "startTimeText": "9:00",
+      "text": "something is more efficient than"
+    },
+    {
+      "endMs": "545080",
+      "startMs": "541800",
+      "startTimeText": "9:01",
+      "text": "automating it because it wasn't worth to"
+    },
+    {
+      "endMs": "547360",
+      "startMs": "543120",
+      "startTimeText": "9:03",
+      "text": "do it to begin with. And so, the easiest"
+    },
+    {
+      "endMs": "551040",
+      "startMs": "545080",
+      "startTimeText": "9:05",
+      "text": "litmus test for many of you people uh"
+    },
+    {
+      "endMs": "553280",
+      "startMs": "547360",
+      "startTimeText": "9:07",
+      "text": "you people for many of you is"
+    },
+    {
+      "endMs": "555600",
+      "startMs": "551040",
+      "startTimeText": "9:11",
+      "text": "though I am using AI,"
+    },
+    {
+      "endMs": "557440",
+      "startMs": "553280",
+      "startTimeText": "9:13",
+      "text": "are we getting more views? Though I am"
+    },
+    {
+      "endMs": "559000",
+      "startMs": "555600",
+      "startTimeText": "9:15",
+      "text": "using AI, are we getting more leads?"
+    },
+    {
+      "endMs": "560160",
+      "startMs": "557440",
+      "startTimeText": "9:17",
+      "text": "Though I am using AI, am I making more"
+    },
+    {
+      "endMs": "561800",
+      "startMs": "559000",
+      "startTimeText": "9:19",
+      "text": "money?"
+    },
+    {
+      "endMs": "562960",
+      "startMs": "560160",
+      "startTimeText": "9:20",
+      "text": "And so, that's the very easy litmus test"
+    },
+    {
+      "endMs": "564520",
+      "startMs": "561800",
+      "startTimeText": "9:21",
+      "text": "to tell you whether or not this is"
+    },
+    {
+      "endMs": "566320",
+      "startMs": "562960",
+      "startTimeText": "9:22",
+      "text": "actually makes sense."
+    },
+    {
+      "endMs": "568080",
+      "startMs": "564520",
+      "startTimeText": "9:24",
+      "text": "And so, I will promise you that Claude"
+    },
+    {
+      "endMs": "570560",
+      "startMs": "566320",
+      "startTimeText": "9:26",
+      "text": "or, you know, Anthropic or, you know,"
+    },
+    {
+      "endMs": "571280",
+      "startMs": "568080",
+      "startTimeText": "9:28",
+      "text": "OpenAI, etc."
+    },
+    {
+      "endMs": "572560",
+      "startMs": "570560",
+      "startTimeText": "9:30",
+      "text": "Claude and Anthropic are the same"
+    },
+    {
+      "endMs": "573960",
+      "startMs": "571280",
+      "startTimeText": "9:31",
+      "text": "company, but, you know, company's doing"
+    },
+    {
+      "endMs": "576280",
+      "startMs": "572560",
+      "startTimeText": "9:32",
+      "text": "the billing, right?"
+    },
+    {
+      "endMs": "577800",
+      "startMs": "573960",
+      "startTimeText": "9:33",
+      "text": "Um Gemini, whatever. If they're billing"
+    },
+    {
+      "endMs": "579840",
+      "startMs": "576280",
+      "startTimeText": "9:36",
+      "text": "you, they're billing you whether what"
+    },
+    {
+      "endMs": "582000",
+      "startMs": "577800",
+      "startTimeText": "9:37",
+      "text": "you built was useful or not. And so if"
+    },
+    {
+      "endMs": "583680",
+      "startMs": "579840",
+      "startTimeText": "9:39",
+      "text": "you're noticing your tokens cost going"
+    },
+    {
+      "endMs": "585280",
+      "startMs": "582000",
+      "startTimeText": "9:42",
+      "text": "up month over month over month, but your"
+    },
+    {
+      "endMs": "587280",
+      "startMs": "583680",
+      "startTimeText": "9:43",
+      "text": "money's not going up month over month"
+    },
+    {
+      "endMs": "588720",
+      "startMs": "585280",
+      "startTimeText": "9:45",
+      "text": "over month, maybe you should consider"
+    },
+    {
+      "endMs": "591800",
+      "startMs": "587280",
+      "startTimeText": "9:47",
+      "text": "that you're actually just blowing money"
+    },
+    {
+      "endMs": "591800",
+      "startMs": "588720",
+      "startTimeText": "9:48",
+      "text": "on [ __ ] that doesn't matter."
+    },
+    {
+      "endMs": "597080",
+      "startMs": "592640",
+      "startTimeText": "9:52",
+      "text": "And so you maybe should start start with"
+    },
+    {
+      "endMs": "599920",
+      "startMs": "594920",
+      "startTimeText": "9:54",
+      "text": "that process of the algorithm. All"
+    },
+    {
+      "endMs": "602280",
+      "startMs": "597080",
+      "startTimeText": "9:57",
+      "text": "right? Question the requirements,"
+    },
+    {
+      "endMs": "604400",
+      "startMs": "599920",
+      "startTimeText": "9:59",
+      "text": "delete all stupid requirements, simplify"
+    },
+    {
+      "endMs": "605520",
+      "startMs": "602280",
+      "startTimeText": "10:02",
+      "text": "aka optimize get the most for the least,"
+    },
+    {
+      "endMs": "607640",
+      "startMs": "604400",
+      "startTimeText": "10:04",
+      "text": "speed up cycle cuz how do we do it"
+    },
+    {
+      "endMs": "608680",
+      "startMs": "605520",
+      "startTimeText": "10:05",
+      "text": "faster? And then finally then and only"
+    },
+    {
+      "endMs": "611120",
+      "startMs": "607640",
+      "startTimeText": "10:07",
+      "text": "then"
+    },
+    {
+      "endMs": "612440",
+      "startMs": "608680",
+      "startTimeText": "10:08",
+      "text": "do we bring up automation."
+    },
+    {
+      "endMs": "613560",
+      "startMs": "611120",
+      "startTimeText": "10:11",
+      "text": "Because then you're you're automating"
+    },
+    {
+      "endMs": "615440",
+      "startMs": "612440",
+      "startTimeText": "10:12",
+      "text": "something that has already been"
+    },
+    {
+      "endMs": "616520",
+      "startMs": "613560",
+      "startTimeText": "10:13",
+      "text": "maximized for effectiveness and now"
+    },
+    {
+      "endMs": "618120",
+      "startMs": "615440",
+      "startTimeText": "10:15",
+      "text": "you're just getting the last bit of"
+    },
+    {
+      "endMs": "619760",
+      "startMs": "616520",
+      "startTimeText": "10:16",
+      "text": "effectiveness out of it, which is"
+    },
+    {
+      "endMs": "621520",
+      "startMs": "618120",
+      "startTimeText": "10:18",
+      "text": "getting the robots to do it for you. All"
+    },
+    {
+      "endMs": "623560",
+      "startMs": "619760",
+      "startTimeText": "10:19",
+      "text": "right. Um"
+    },
+    {
+      "endMs": "625400",
+      "startMs": "621520",
+      "startTimeText": "10:21",
+      "text": "with that being said, uh we've we've"
+    },
+    {
+      "endMs": "626400",
+      "startMs": "623560",
+      "startTimeText": "10:23",
+      "text": "worked on our content a lot. This is the"
+    },
+    {
+      "endMs": "629040",
+      "startMs": "625400",
+      "startTimeText": "10:25",
+      "text": "year"
+    },
+    {
+      "endMs": "630440",
+      "startMs": "626400",
+      "startTimeText": "10:26",
+      "text": "of the trust economy. Um I think I"
+    },
+    {
+      "endMs": "632240",
+      "startMs": "629040",
+      "startTimeText": "10:29",
+      "text": "called this at the end of last year and"
+    },
+    {
+      "endMs": "635000",
+      "startMs": "630440",
+      "startTimeText": "10:30",
+      "text": "I feel like I'm more right. I think it"
+    },
+    {
+      "endMs": "636600",
+      "startMs": "632240",
+      "startTimeText": "10:32",
+      "text": "ages like a fine wine. Um we're in we're"
+    },
+    {
+      "endMs": "638120",
+      "startMs": "635000",
+      "startTimeText": "10:35",
+      "text": "in the we're in the show-me times, not"
+    },
+    {
+      "endMs": "640000",
+      "startMs": "636600",
+      "startTimeText": "10:36",
+      "text": "the tell-me times."
+    },
+    {
+      "endMs": "641360",
+      "startMs": "638120",
+      "startTimeText": "10:38",
+      "text": "All right? And so that means that we"
+    },
+    {
+      "endMs": "644560",
+      "startMs": "640000",
+      "startTimeText": "10:40",
+      "text": "need to you need to demonstrate"
+    },
+    {
+      "endMs": "647600",
+      "startMs": "641360",
+      "startTimeText": "10:41",
+      "text": "expertise in as many varied conditions"
+    },
+    {
+      "endMs": "649360",
+      "startMs": "644560",
+      "startTimeText": "10:44",
+      "text": "as possible with as many diverse avatars"
+    },
+    {
+      "endMs": "650920",
+      "startMs": "647600",
+      "startTimeText": "10:47",
+      "text": "or rather the avatars that represent"
+    },
+    {
+      "endMs": "652480",
+      "startMs": "649360",
+      "startTimeText": "10:49",
+      "text": "most broadly"
+    },
+    {
+      "endMs": "653760",
+      "startMs": "650920",
+      "startTimeText": "10:50",
+      "text": "uh the types of customers that you serve"
+    },
+    {
+      "endMs": "655320",
+      "startMs": "652480",
+      "startTimeText": "10:52",
+      "text": "solving the specific problems that they"
+    },
+    {
+      "endMs": "656160",
+      "startMs": "653760",
+      "startTimeText": "10:53",
+      "text": "have in the way that you want to solve"
+    },
+    {
+      "endMs": "657280",
+      "startMs": "655320",
+      "startTimeText": "10:55",
+      "text": "them that gets them the outcome they're"
+    },
+    {
+      "endMs": "659400",
+      "startMs": "656160",
+      "startTimeText": "10:56",
+      "text": "looking for."
+    },
+    {
+      "endMs": "660560",
+      "startMs": "657280",
+      "startTimeText": "10:57",
+      "text": "All right? That is content from an"
+    },
+    {
+      "endMs": "662440",
+      "startMs": "659400",
+      "startTimeText": "10:59",
+      "text": "education perspective that drives"
+    },
+    {
+      "endMs": "664000",
+      "startMs": "660560",
+      "startTimeText": "11:00",
+      "text": "commerce. That is content that drives"
+    },
+    {
+      "endMs": "666480",
+      "startMs": "662440",
+      "startTimeText": "11:02",
+      "text": "commerce. That is views that turn into"
+    },
+    {
+      "endMs": "667400",
+      "startMs": "664000",
+      "startTimeText": "11:04",
+      "text": "cash. Right? If you're just getting"
+    },
+    {
+      "endMs": "668240",
+      "startMs": "666480",
+      "startTimeText": "11:06",
+      "text": "you're like doing memes or doing"
+    },
+    {
+      "endMs": "669120",
+      "startMs": "667400",
+      "startTimeText": "11:07",
+      "text": "entertainment, there's nothing wrong"
+    },
+    {
+      "endMs": "670160",
+      "startMs": "668240",
+      "startTimeText": "11:08",
+      "text": "with that. It's just that you're just a"
+    },
+    {
+      "endMs": "672200",
+      "startMs": "669120",
+      "startTimeText": "11:09",
+      "text": "media business and eventually going to"
+    },
+    {
+      "endMs": "674000",
+      "startMs": "670160",
+      "startTimeText": "11:10",
+      "text": "sell eyeballs to an advertiser, right?"
+    },
+    {
+      "endMs": "676080",
+      "startMs": "672200",
+      "startTimeText": "11:12",
+      "text": "But if you want to sell from your own"
+    },
+    {
+      "endMs": "677360",
+      "startMs": "674000",
+      "startTimeText": "11:14",
+      "text": "[ __ ] right? Sell your own [ __ ] You"
+    },
+    {
+      "endMs": "680120",
+      "startMs": "676080",
+      "startTimeText": "11:16",
+      "text": "want to sell community own school. You"
+    },
+    {
+      "endMs": "681600",
+      "startMs": "677360",
+      "startTimeText": "11:17",
+      "text": "want to sell you want to sell fencing"
+    },
+    {
+      "endMs": "683440",
+      "startMs": "680120",
+      "startTimeText": "11:20",
+      "text": "services. You want to sell you want to"
+    },
+    {
+      "endMs": "685800",
+      "startMs": "681600",
+      "startTimeText": "11:21",
+      "text": "sell home design. You want to sell"
+    },
+    {
+      "endMs": "687760",
+      "startMs": "683440",
+      "startTimeText": "11:23",
+      "text": "solar. Whatever the hell you're selling,"
+    },
+    {
+      "endMs": "689120",
+      "startMs": "685800",
+      "startTimeText": "11:25",
+      "text": "education is the door, right? That is"
+    },
+    {
+      "endMs": "690160",
+      "startMs": "687760",
+      "startTimeText": "11:27",
+      "text": "how you gain influence. That is how you"
+    },
+    {
+      "endMs": "691200",
+      "startMs": "689120",
+      "startTimeText": "11:29",
+      "text": "gain authority. That you give people"
+    },
+    {
+      "endMs": "693240",
+      "startMs": "690160",
+      "startTimeText": "11:30",
+      "text": "instructions that they can follow and"
+    },
+    {
+      "endMs": "694040",
+      "startMs": "691200",
+      "startTimeText": "11:31",
+      "text": "good [ __ ] happens for them. Now, in"
+    },
+    {
+      "endMs": "695200",
+      "startMs": "693240",
+      "startTimeText": "11:33",
+      "text": "order for them to follow your"
+    },
+    {
+      "endMs": "697360",
+      "startMs": "694040",
+      "startTimeText": "11:34",
+      "text": "instructions, there's a couple things"
+    },
+    {
+      "endMs": "699040",
+      "startMs": "695200",
+      "startTimeText": "11:35",
+      "text": "that have to have to happen."
+    },
+    {
+      "endMs": "700800",
+      "startMs": "697360",
+      "startTimeText": "11:37",
+      "text": "Number one, the instructions have to be"
+    },
+    {
+      "endMs": "702320",
+      "startMs": "699040",
+      "startTimeText": "11:39",
+      "text": "easy to follow, right? Which means you"
+    },
+    {
+      "endMs": "703720",
+      "startMs": "700800",
+      "startTimeText": "11:40",
+      "text": "got to talk in the in words that other"
+    },
+    {
+      "endMs": "705840",
+      "startMs": "702320",
+      "startTimeText": "11:42",
+      "text": "people understand."
+    },
+    {
+      "endMs": "707720",
+      "startMs": "703720",
+      "startTimeText": "11:43",
+      "text": "All right? Number two,"
+    },
+    {
+      "endMs": "709000",
+      "startMs": "705840",
+      "startTimeText": "11:45",
+      "text": "they have to believe you that they"
+    },
+    {
+      "endMs": "710920",
+      "startMs": "707720",
+      "startTimeText": "11:47",
+      "text": "should that they are worth following."
+    },
+    {
+      "endMs": "712400",
+      "startMs": "709000",
+      "startTimeText": "11:49",
+      "text": "So, if we decrease the comprehension, we"
+    },
+    {
+      "endMs": "714920",
+      "startMs": "710920",
+      "startTimeText": "11:50",
+      "text": "decrease the cost of at least"
+    },
+    {
+      "endMs": "716000",
+      "startMs": "712400",
+      "startTimeText": "11:52",
+      "text": "understanding what to do. Right? Then we"
+    },
+    {
+      "endMs": "717400",
+      "startMs": "714920",
+      "startTimeText": "11:54",
+      "text": "have to increase conviction that they're"
+    },
+    {
+      "endMs": "718840",
+      "startMs": "716000",
+      "startTimeText": "11:56",
+      "text": "going to get the payoff, which makes the"
+    },
+    {
+      "endMs": "720560",
+      "startMs": "717400",
+      "startTimeText": "11:57",
+      "text": "risk or the gamble of taking those"
+    },
+    {
+      "endMs": "722560",
+      "startMs": "718840",
+      "startTimeText": "11:58",
+      "text": "actions worth it."
+    },
+    {
+      "endMs": "724520",
+      "startMs": "720560",
+      "startTimeText": "12:00",
+      "text": "Right? And so, this is why the proof in"
+    },
+    {
+      "endMs": "726560",
+      "startMs": "722560",
+      "startTimeText": "12:02",
+      "text": "this trust economy world is not in the"
+    },
+    {
+      "endMs": "727840",
+      "startMs": "724520",
+      "startTimeText": "12:04",
+      "text": "pudding, but it is the [ __ ] pudding."
+    },
+    {
+      "endMs": "729760",
+      "startMs": "726560",
+      "startTimeText": "12:06",
+      "text": "Right? The reason that proof is what"
+    },
+    {
+      "endMs": "731200",
+      "startMs": "727840",
+      "startTimeText": "12:07",
+      "text": "matters more than anything is because"
+    },
+    {
+      "endMs": "732720",
+      "startMs": "729760",
+      "startTimeText": "12:09",
+      "text": "tell me how you're going to grow my"
+    },
+    {
+      "endMs": "734920",
+      "startMs": "731200",
+      "startTimeText": "12:11",
+      "text": "e-commerce store except you've never run"
+    },
+    {
+      "endMs": "736360",
+      "startMs": "732720",
+      "startTimeText": "12:12",
+      "text": "an e-commerce store."
+    },
+    {
+      "endMs": "737560",
+      "startMs": "734920",
+      "startTimeText": "12:14",
+      "text": "Right? Tell me how you're going to teach"
+    },
+    {
+      "endMs": "739160",
+      "startMs": "736360",
+      "startTimeText": "12:16",
+      "text": "me how to sell except you've never sold"
+    },
+    {
+      "endMs": "740280",
+      "startMs": "737560",
+      "startTimeText": "12:17",
+      "text": "anything. Tell me how you're going to"
+    },
+    {
+      "endMs": "741640",
+      "startMs": "739160",
+      "startTimeText": "12:19",
+      "text": "help me make content, but you don't have"
+    },
+    {
+      "endMs": "743080",
+      "startMs": "740280",
+      "startTimeText": "12:20",
+      "text": "a personal brand."
+    },
+    {
+      "endMs": "744320",
+      "startMs": "741640",
+      "startTimeText": "12:21",
+      "text": "Right? Like it's just the big obvious"
+    },
+    {
+      "endMs": "745600",
+      "startMs": "743080",
+      "startTimeText": "12:23",
+      "text": "[ __ ] And I get these questions all the"
+    },
+    {
+      "endMs": "747840",
+      "startMs": "744320",
+      "startTimeText": "12:24",
+      "text": "time like, \"How do I build a personal"
+    },
+    {
+      "endMs": "749800",
+      "startMs": "745600",
+      "startTimeText": "12:25",
+      "text": "brand?\" It's like, \"Just do shit.\" You"
+    },
+    {
+      "endMs": "752400",
+      "startMs": "747840",
+      "startTimeText": "12:27",
+      "text": "will You will get a bigger personal"
+    },
+    {
+      "endMs": "754520",
+      "startMs": "749800",
+      "startTimeText": "12:29",
+      "text": "brand by doing [ __ ] in reality for 5"
+    },
+    {
+      "endMs": "756520",
+      "startMs": "752400",
+      "startTimeText": "12:32",
+      "text": "years and then starting your personal"
+    },
+    {
+      "endMs": "758360",
+      "startMs": "754520",
+      "startTimeText": "12:34",
+      "text": "brand. Now, to be clear, I think if you"
+    },
+    {
+      "endMs": "759360",
+      "startMs": "756520",
+      "startTimeText": "12:36",
+      "text": "want to document along the way, as long"
+    },
+    {
+      "endMs": "760320",
+      "startMs": "758360",
+      "startTimeText": "12:38",
+      "text": "as you state the facts and tell the"
+    },
+    {
+      "endMs": "762360",
+      "startMs": "759360",
+      "startTimeText": "12:39",
+      "text": "truth, you're good you're good in my"
+    },
+    {
+      "endMs": "763760",
+      "startMs": "760320",
+      "startTimeText": "12:40",
+      "text": "book. Right? But what happens is people"
+    },
+    {
+      "endMs": "765920",
+      "startMs": "762360",
+      "startTimeText": "12:42",
+      "text": "are like, \"How do I How do I counter"
+    },
+    {
+      "endMs": "767839",
+      "startMs": "763760",
+      "startTimeText": "12:43",
+      "text": "imposter syndrome?\" I'm like, \"Bro,"
+    },
+    {
+      "endMs": "770000",
+      "startMs": "765920",
+      "startTimeText": "12:45",
+      "text": "imposter syndrome is you feeling ashamed"
+    },
+    {
+      "endMs": "771520",
+      "startMs": "767839",
+      "startTimeText": "12:47",
+      "text": "for lying.\" Oops, there we go. Is you"
+    },
+    {
+      "endMs": "773160",
+      "startMs": "770000",
+      "startTimeText": "12:50",
+      "text": "feeling ashamed for lying because you"
+    },
+    {
+      "endMs": "774360",
+      "startMs": "771520",
+      "startTimeText": "12:51",
+      "text": "are misrepresenting the truth. Sorry,"
+    },
+    {
+      "endMs": "776280",
+      "startMs": "773160",
+      "startTimeText": "12:53",
+      "text": "I'm trying to adjust this thing so it's"
+    },
+    {
+      "endMs": "777839",
+      "startMs": "774360",
+      "startTimeText": "12:54",
+      "text": "not [ __ ] up. Here we go."
+    },
+    {
+      "endMs": "779440",
+      "startMs": "776280",
+      "startTimeText": "12:56",
+      "text": "Um is you misrepresenting the truth,"
+    },
+    {
+      "endMs": "781240",
+      "startMs": "777839",
+      "startTimeText": "12:57",
+      "text": "Jesus. This is why we can't have nice"
+    },
+    {
+      "endMs": "784280",
+      "startMs": "779440",
+      "startTimeText": "12:59",
+      "text": "things. Hold on."
+    },
+    {
+      "endMs": "787360",
+      "startMs": "781240",
+      "startTimeText": "13:01",
+      "text": "Yeah? Yeah? Ah, [ __ ] good enough."
+    },
+    {
+      "endMs": "788520",
+      "startMs": "784280",
+      "startTimeText": "13:04",
+      "text": "See if that works. All right. Um"
+    },
+    {
+      "endMs": "789760",
+      "startMs": "787360",
+      "startTimeText": "13:07",
+      "text": "And so, I'll give you an example of this"
+    },
+    {
+      "endMs": "791160",
+      "startMs": "788520",
+      "startTimeText": "13:08",
+      "text": "whole imposter syndrome thing that you"
+    },
+    {
+      "endMs": "793480",
+      "startMs": "789760",
+      "startTimeText": "13:09",
+      "text": "should probably just abolish from your"
+    },
+    {
+      "endMs": "795520",
+      "startMs": "791160",
+      "startTimeText": "13:11",
+      "text": "your mental whatever."
+    },
+    {
+      "endMs": "798240",
+      "startMs": "793480",
+      "startTimeText": "13:13",
+      "text": "Here it is. So, I had a guy who came up"
+    },
+    {
+      "endMs": "800520",
+      "startMs": "795520",
+      "startTimeText": "13:15",
+      "text": "to me uh at at one of our workshops in"
+    },
+    {
+      "endMs": "801680",
+      "startMs": "798240",
+      "startTimeText": "13:18",
+      "text": "Vegas and he was like, \"Hey, man. Um how"
+    },
+    {
+      "endMs": "802560",
+      "startMs": "800520",
+      "startTimeText": "13:20",
+      "text": "do you deal with imposter syndrome?\" I"
+    },
+    {
+      "endMs": "804680",
+      "startMs": "801680",
+      "startTimeText": "13:21",
+      "text": "was like, \"All right, what do you What"
+    },
+    {
+      "endMs": "806240",
+      "startMs": "802560",
+      "startTimeText": "13:22",
+      "text": "do you sell, man?\" He said, \"I help"
+    },
+    {
+      "endMs": "807520",
+      "startMs": "804680",
+      "startTimeText": "13:24",
+      "text": "agency owners"
+    },
+    {
+      "endMs": "809080",
+      "startMs": "806240",
+      "startTimeText": "13:26",
+      "text": "uh get booked appointments.\" And I was"
+    },
+    {
+      "endMs": "810800",
+      "startMs": "807520",
+      "startTimeText": "13:27",
+      "text": "like, \"Okay. uh, how do you do it?\" And"
+    },
+    {
+      "endMs": "812320",
+      "startMs": "809080",
+      "startTimeText": "13:29",
+      "text": "he's like, \"We run outbound teams.\" I"
+    },
+    {
+      "endMs": "813520",
+      "startMs": "810800",
+      "startTimeText": "13:30",
+      "text": "was like, \"Okay, that makes sense. I get"
+    },
+    {
+      "endMs": "814800",
+      "startMs": "812320",
+      "startTimeText": "13:32",
+      "text": "it.\" I was like, \"So, what are you"
+    },
+    {
+      "endMs": "816520",
+      "startMs": "813520",
+      "startTimeText": "13:33",
+      "text": "dealing with imposter syndrome for?\" And"
+    },
+    {
+      "endMs": "818120",
+      "startMs": "814800",
+      "startTimeText": "13:34",
+      "text": "he's like, \"Well,"
+    },
+    {
+      "endMs": "820160",
+      "startMs": "816520",
+      "startTimeText": "13:36",
+      "text": "you know, I had an agency, but the"
+    },
+    {
+      "endMs": "822160",
+      "startMs": "818120",
+      "startTimeText": "13:38",
+      "text": "agency didn't really work that that"
+    },
+    {
+      "endMs": "824000",
+      "startMs": "820160",
+      "startTimeText": "13:40",
+      "text": "well. Uh, I didn't really make any money"
+    },
+    {
+      "endMs": "825320",
+      "startMs": "822160",
+      "startTimeText": "13:42",
+      "text": "with it uh, because I knew how to get"
+    },
+    {
+      "endMs": "826280",
+      "startMs": "824000",
+      "startTimeText": "13:44",
+      "text": "customers, but I I couldn't really keep"
+    },
+    {
+      "endMs": "827920",
+      "startMs": "825320",
+      "startTimeText": "13:45",
+      "text": "them.\""
+    },
+    {
+      "endMs": "829000",
+      "startMs": "826280",
+      "startTimeText": "13:46",
+      "text": "I was like, \"Okay.\""
+    },
+    {
+      "endMs": "830760",
+      "startMs": "827920",
+      "startTimeText": "13:47",
+      "text": "Still trying to figure out where the"
+    },
+    {
+      "endMs": "832640",
+      "startMs": "829000",
+      "startTimeText": "13:49",
+      "text": "imposter syndrome coming from."
+    },
+    {
+      "endMs": "834200",
+      "startMs": "830760",
+      "startTimeText": "13:50",
+      "text": "And he was like, \"Well,\""
+    },
+    {
+      "endMs": "836200",
+      "startMs": "832640",
+      "startTimeText": "13:52",
+      "text": "I was like, \"Are you pretending like"
+    },
+    {
+      "endMs": "837560",
+      "startMs": "834200",
+      "startTimeText": "13:54",
+      "text": "you're good at running an agency?\" And"
+    },
+    {
+      "endMs": "840440",
+      "startMs": "836200",
+      "startTimeText": "13:56",
+      "text": "he was like,"
+    },
+    {
+      "endMs": "842880",
+      "startMs": "837560",
+      "startTimeText": "13:57",
+      "text": "\"Kind of.\" And I was like, \"Yeah, bro."
+    },
+    {
+      "endMs": "844600",
+      "startMs": "840440",
+      "startTimeText": "14:00",
+      "text": "That imposter syndrome is lying."
+    },
+    {
+      "endMs": "845960",
+      "startMs": "842880",
+      "startTimeText": "14:02",
+      "text": "So, yeah, you should feel bad about"
+    },
+    {
+      "endMs": "847760",
+      "startMs": "844600",
+      "startTimeText": "14:04",
+      "text": "lying."
+    },
+    {
+      "endMs": "849280",
+      "startMs": "845960",
+      "startTimeText": "14:05",
+      "text": "Okay? I was like, \"But if you told the"
+    },
+    {
+      "endMs": "852080",
+      "startMs": "847760",
+      "startTimeText": "14:07",
+      "text": "truth, it probably would be even more"
+    },
+    {
+      "endMs": "854120",
+      "startMs": "849280",
+      "startTimeText": "14:09",
+      "text": "effective. If you just said, 'Hey, I had"
+    },
+    {
+      "endMs": "856000",
+      "startMs": "852080",
+      "startTimeText": "14:12",
+      "text": "an agency. I sucked at running an"
+    },
+    {
+      "endMs": "857760",
+      "startMs": "854120",
+      "startTimeText": "14:14",
+      "text": "agency. I was really good at selling"
+    },
+    {
+      "endMs": "859640",
+      "startMs": "856000",
+      "startTimeText": "14:16",
+      "text": "agency clients. And so then I said,"
+    },
+    {
+      "endMs": "861000",
+      "startMs": "857760",
+      "startTimeText": "14:17",
+      "text": "well, why don't I just do that for"
+    },
+    {
+      "endMs": "862920",
+      "startMs": "859640",
+      "startTimeText": "14:19",
+      "text": "agency owners who are actually good at"
+    },
+    {
+      "endMs": "864800",
+      "startMs": "861000",
+      "startTimeText": "14:21",
+      "text": "delivering for clients?' And then this"
+    },
+    {
+      "endMs": "865960",
+      "startMs": "862920",
+      "startTimeText": "14:22",
+      "text": "business was born. Everyone would be"
+    },
+    {
+      "endMs": "867760",
+      "startMs": "864800",
+      "startTimeText": "14:24",
+      "text": "like, 'Oh, that actually makes a lot of"
+    },
+    {
+      "endMs": "869680",
+      "startMs": "865960",
+      "startTimeText": "14:25",
+      "text": "sense.' And so what you forget is that"
+    },
+    {
+      "endMs": "871040",
+      "startMs": "867760",
+      "startTimeText": "14:27",
+      "text": "the truth is the most compelling thing"
+    },
+    {
+      "endMs": "872520",
+      "startMs": "869680",
+      "startTimeText": "14:29",
+      "text": "out there from a marketing perspective."
+    },
+    {
+      "endMs": "874160",
+      "startMs": "871040",
+      "startTimeText": "14:31",
+      "text": "The reason that state the facts and tell"
+    },
+    {
+      "endMs": "875400",
+      "startMs": "872520",
+      "startTimeText": "14:32",
+      "text": "the truth is the number one thing that"
+    },
+    {
+      "endMs": "877920",
+      "startMs": "874160",
+      "startTimeText": "14:34",
+      "text": "we say"
+    },
+    {
+      "endMs": "880280",
+      "startMs": "875400",
+      "startTimeText": "14:35",
+      "text": "at acquisition.com in marketing is"
+    },
+    {
+      "endMs": "882280",
+      "startMs": "877920",
+      "startTimeText": "14:37",
+      "text": "because it sells the most. The truth"
+    },
+    {
+      "endMs": "885000",
+      "startMs": "880280",
+      "startTimeText": "14:40",
+      "text": "sells the most. I will say this again."
+    },
+    {
+      "endMs": "886200",
+      "startMs": "882280",
+      "startTimeText": "14:42",
+      "text": "The truth sells the most. The truth"
+    },
+    {
+      "endMs": "888839",
+      "startMs": "885000",
+      "startTimeText": "14:45",
+      "text": "converts."
+    },
+    {
+      "endMs": "890720",
+      "startMs": "886200",
+      "startTimeText": "14:46",
+      "text": "All right? Above everything else. But,"
+    },
+    {
+      "endMs": "893320",
+      "startMs": "888839",
+      "startTimeText": "14:48",
+      "text": "it has to be the whole [ __ ] truth."
+    },
+    {
+      "endMs": "895480",
+      "startMs": "890720",
+      "startTimeText": "14:50",
+      "text": "All right? It has to be the whole truth."
+    },
+    {
+      "endMs": "897640",
+      "startMs": "893320",
+      "startTimeText": "14:53",
+      "text": "And so he can't say"
+    },
+    {
+      "endMs": "898800",
+      "startMs": "895480",
+      "startTimeText": "14:55",
+      "text": "uh, just half of the story. You have to"
+    },
+    {
+      "endMs": "900920",
+      "startMs": "897640",
+      "startTimeText": "14:57",
+      "text": "say all the [ __ ] where you look bad,"
+    },
+    {
+      "endMs": "902600",
+      "startMs": "898800",
+      "startTimeText": "14:58",
+      "text": "too. And then people will believe the"
+    },
+    {
+      "endMs": "904920",
+      "startMs": "900920",
+      "startTimeText": "15:00",
+      "text": "[ __ ] where you look good."
+    },
+    {
+      "endMs": "907160",
+      "startMs": "902600",
+      "startTimeText": "15:02",
+      "text": "That's the That's the whole game."
+    },
+    {
+      "endMs": "908440",
+      "startMs": "904920",
+      "startTimeText": "15:04",
+      "text": "Right? I got asked a bunch of times"
+    },
+    {
+      "endMs": "910080",
+      "startMs": "907160",
+      "startTimeText": "15:07",
+      "text": "throughout my career. They're like, \"So,"
+    },
+    {
+      "endMs": "911839",
+      "startMs": "908440",
+      "startTimeText": "15:08",
+      "text": "should I think I was on Diary of a CEO.\""
+    },
+    {
+      "endMs": "913839",
+      "startMs": "910080",
+      "startTimeText": "15:10",
+      "text": "He's like, \"Alex, should people talk to"
+    },
+    {
+      "endMs": "915640",
+      "startMs": "911839",
+      "startTimeText": "15:11",
+      "text": "you about happiness?\" I'm like, \"No."
+    },
+    {
+      "endMs": "917360",
+      "startMs": "913839",
+      "startTimeText": "15:13",
+      "text": "That's not I don't have authority there."
+    },
+    {
+      "endMs": "918600",
+      "startMs": "915640",
+      "startTimeText": "15:15",
+      "text": "All right? I'm the like, \"Hey, you're"
+    },
+    {
+      "endMs": "920000",
+      "startMs": "917360",
+      "startTimeText": "15:17",
+      "text": "trying to figure out how to scale your"
+    },
+    {
+      "endMs": "921080",
+      "startMs": "918600",
+      "startTimeText": "15:18",
+      "text": "business?\" That's me. You're like,"
+    },
+    {
+      "endMs": "922600",
+      "startMs": "920000",
+      "startTimeText": "15:20",
+      "text": "\"Trying to how to figure out how to sell"
+    },
+    {
+      "endMs": "924280",
+      "startMs": "921080",
+      "startTimeText": "15:21",
+      "text": "shit?\" That's me. I can help you there."
+    },
+    {
+      "endMs": "926000",
+      "startMs": "922600",
+      "startTimeText": "15:22",
+      "text": "I got a lot of proof there. Real quick,"
+    },
+    {
+      "endMs": "929120",
+      "startMs": "924280",
+      "startTimeText": "15:24",
+      "text": "I'm going to show you the exact 10-stage"
+    },
+    {
+      "endMs": "931080",
+      "startMs": "926000",
+      "startTimeText": "15:26",
+      "text": "roadmap from zero to 100 million plus"
+    },
+    {
+      "endMs": "932720",
+      "startMs": "929120",
+      "startTimeText": "15:29",
+      "text": "that less than 1% of companies finish"
+    },
+    {
+      "endMs": "933920",
+      "startMs": "931080",
+      "startTimeText": "15:31",
+      "text": "I've now done multiple times. And so I"
+    },
+    {
+      "endMs": "935680",
+      "startMs": "932720",
+      "startTimeText": "15:32",
+      "text": "can say with a lot of confidence that"
+    },
+    {
+      "endMs": "938080",
+      "startMs": "933920",
+      "startTimeText": "15:33",
+      "text": "these are the stages as head count"
+    },
+    {
+      "endMs": "940000",
+      "startMs": "935680",
+      "startTimeText": "15:35",
+      "text": "increases that you need to get through."
+    },
+    {
+      "endMs": "941480",
+      "startMs": "938080",
+      "startTimeText": "15:38",
+      "text": "And I broke each of these down by eight"
+    },
+    {
+      "endMs": "943120",
+      "startMs": "940000",
+      "startTimeText": "15:40",
+      "text": "different functions of the business,"
+    },
+    {
+      "endMs": "944360",
+      "startMs": "941480",
+      "startTimeText": "15:41",
+      "text": "what the constraint feels like, like"
+    },
+    {
+      "endMs": "946120",
+      "startMs": "943120",
+      "startTimeText": "15:43",
+      "text": "what are the symptoms of it when you're"
+    },
+    {
+      "endMs": "947200",
+      "startMs": "944360",
+      "startTimeText": "15:44",
+      "text": "going through it, and then what steps we"
+    },
+    {
+      "endMs": "949200",
+      "startMs": "946120",
+      "startTimeText": "15:46",
+      "text": "actually took to graduate. And we've"
+    },
+    {
+      "endMs": "951560",
+      "startMs": "947200",
+      "startTimeText": "15:47",
+      "text": "done this across software, physical"
+    },
+    {
+      "endMs": "954120",
+      "startMs": "949200",
+      "startTimeText": "15:49",
+      "text": "products, uh service businesses, brick"
+    },
+    {
+      "endMs": "955440",
+      "startMs": "951560",
+      "startTimeText": "15:51",
+      "text": "and mortar, all of this, and it works."
+    },
+    {
+      "endMs": "956680",
+      "startMs": "954120",
+      "startTimeText": "15:54",
+      "text": "And it's my gift to you. It's absolutely"
+    },
+    {
+      "endMs": "957880",
+      "startMs": "955440",
+      "startTimeText": "15:55",
+      "text": "free. And so the link's in the"
+    },
+    {
+      "endMs": "959680",
+      "startMs": "956680",
+      "startTimeText": "15:56",
+      "text": "description, but you just go"
+    },
+    {
+      "endMs": "960720",
+      "startMs": "957880",
+      "startTimeText": "15:57",
+      "text": "acquisition.com/roadmap."
+    },
+    {
+      "endMs": "963720",
+      "startMs": "959680",
+      "startTimeText": "15:59",
+      "text": "Just enter your info and it'll spit it"
+    },
+    {
+      "endMs": "963720",
+      "startMs": "960720",
+      "startTimeText": "16:00",
+      "text": "right back to you, all free."
+    }
+  ],
+  "transcript_only_text": " A  couple  things  that  that  took  me  a  long \n time  to  figure  out. \n Um \n there's  this  very  there's  these  two \n opposing  forces  of  like  make  good  [ __ ] \n and  then  make  lots  of  [ __ ] \n That  you  have  people  on  both  sides.  I \n tend  to  be  on  the  make  lots  of  [ __ ] \n category.  Um  but  these  are  two  apparent \n extremes  that  sit  where  the  magic  is  in \n the  middle. \n And  so  we've  referred  internally  as  this \n middle  spot  as  qualium.  Which  is  how  do \n we  create  quality  volume.  And  if  you \n guys  haven't  read  this  book,  it  recently \n I  think  it  recently  came  out.  It's \n called  uh  the  algorithm.  It's  from \n Tesla's  former  president  who  kind  of \n reimagined  some  of  their  stuff.  And \n basically  it's  it's  it's  Elon's  approach \n to  manufacturing  anything,  right?  And  so \n if  you  think  about  what  content  creation \n is,  it's  a  manufacturing  process.  It's \n digital  manufacturing,  but  you're  taking \n a  raw  input  of  just  like  recording  some \n video  and  then  there's  an  output  which \n is  going  to  be  a  post  on  social  media  or \n multiple  posts  on  social  media.  They're \n going  to  get  views,  likes,  shares, \n leads,  etc.,  right? \n And  so  the  five  steps  of  algorithm  and \n I'll  walk  you  through  them.  Um  I  I  made \n this  mandatory  for  all  the  people  who \n report  to  me  because  this  is  this  is  the \n process  that  I  I've  I  first  heard  about \n this  2  years  ago \n uh  from  some  interview  that  Elon  did  and \n I  was  like,  \"Man,  this  is  really  good.\" \n Uh  and  they  finally  came  out  with  a  book \n on  it.  So,  let  me  just  walk  you  through \n it  and  then  we'll  get  into  content \n questions,  all  right?  So,  the  first  step \n is  question  the  requirements  and  I'll \n give  you  an  example.  So,  I  say,  \"Okay, \n why  does  it  take?\"  And  the  great  the \n first  great  way  to  know  that  something \n is  taking  way  too  long  is  to  say,  \"How \n much  actual  time  are  you  working  on  the \n thing?\"  So,  whether  this  is  client  work \n uh  or  this  is  like  you're  on  you  know, \n you're  doing  home  services  and  you're \n working  on  a  project.  Whatever  it  is, \n like  there's  a  certain  amount  of  work \n that  um  that  has  to  be  done,  right?  Now, \n let's  say  the  total  time  on  task  or \n total  total  time  that  the  work  is  being \n done  is  say  10  hours,  right?  But  all  of \n a  sudden  you're  like,  \"But  then  why  is \n it  taking  us  a  week  to  get  this \n delivered,  right?  It  should  in  a  perfect \n world  go  from  they  sign  and  then  10 \n hours  later  they  get.\"  Right?  So \n everything  that's  outside  of  10  hours  is \n waste  from  a  business  perspective \n because  it's  basically  uncaptured \n potential  value.  All  right.  And  so  the \n idea  when  we  asked  the  first  step  is \n when  we  question  the  requirements  is \n like  why  must  these  things  happen  in \n this  order?  Why  are  we  doing  all  these \n requirements?  Why  must  it  take  this  long \n etc.  right?  And  so  with  the  questioning \n of  the  requirements,  one  of  the  things \n that  came  up  I  was  like  okay.  They're \n like  well  one  of  the  things  that  we  do \n in  this  these  10  hours  for  example  is \n that  we  color  grade.  Right?  And  I  was \n like  okay.  Uh  do  we  think  color  grading \n even  [ __ ]  matters?  And  if  we  look  at \n some  of  the  best  videos  that  I  have  they \n weren't  color  graded  and  there's  some \n absolute  bombs  that  are  color  graded. \n And  I'm  like  okay.  So  how  much  time  is \n this? \n And  is  it  a  requirement?  Who  decided \n that  we  must  color  grade  everything? \n What  what  what  god  on  the  throne  of  of \n YouTube  and  Instagram  said  that  color \n grading  was  super  important?  The  answer \n is  there  wasn't  really  one.  Right?  So  we \n remove  color  grading \n from  our  from  our  process  step.  And  it's \n like  what  else  can  we  cut?  Right?  And  so \n the  idea  is  once  you  figure  out  all  the \n requirements  that  exist,  we  have  to \n question  the  requirements  and  I'll  give \n you  the  three  step  questions  that  I \n asked.  This  is  not  Elon's.  Which  is  what \n does  that  mean? \n How  do  you  know  that? \n So  what? \n Right?  So  we  have  to  color  grade.  Okay. \n What  does  that  mean?  It  means  we  have  to \n do  all  this  [ __ ]  to  the  video.  Okay.  Now \n that  you  say  that,  so  what?  Do  we  have \n any  evidence?  Right?  That  that  this  is \n going  to  do  anything  to  the  video?  No, \n we  have  no  evidence.  All  right.  So  why \n should  I  care? \n There  isn't.  And  so  when  I  question  the \n requirements  I  answer  ask  those  two \n questions.  What  does  that  mean? \n How  do  you  know  that?  And  so  what? \n Right?  Once  we  have  that  it's  like  boom. \n That's  the  first  thing.  When  you  have \n the  answers  to  all  those  questions  and \n requirements  and  you  say  okay.  Well \n let's  just  delete  a  [ __ ]  load  of  stuff. \n And  one  of  Elon's  rules  of  thumb  is  we \n should  delete  so  much  that  we  have  to \n add  stuff  back.  Which  is  a  great  litmus \n test  because  everyone's  always  afraid  of \n deletion  because  everyone's  afraid  of \n like  messing  something  up.  But  you  can \n always  add  stuff  back.  It's  very \n unlikely  that  in  a  process  especially \n when  you're  building  something  that  Um, \n an  irreversible  door.  You  know  what  I \n mean?  It's  not  like  you're  going  to  blow \n up  a  machine  you  have  or  you're  going  to \n like,  you  know,  one  of  your  editors \n going  to  disappear  from  the  planet.  No, \n it's  like  the  step  the  step  in  the \n process  that  we  can  we  can  add  back  if \n we  want  to.  Let's  just  see  what  happens. \n And  so  when  I  first  started  doing  this, \n you  might  have  seen  this  video  that  I \n posted  on  YouTube  which  was  um \n it  was  like  if  you're  broke,  watch  this \n or  something  like  that.  Um,  which  I \n guess  that's  every  [ __ ]  video  on \n YouTube,  but  whatever. \n I  won't  rant  on  that.  Whatever,  I'll  let \n that  go.  But  it  was  me  on  a  plane  and  I \n did  it  with  an  iPhone.  And  I  did  it  that \n way  because  I  was  so  angry,  let  me \n honest,  I  was  I  was  a  little  peeved  at \n the  team  because  they  were  like,  \"We \n have  to  do  all  these  things.\"  And \n thankfully  all  almost  all  that  team  is \n is  not  with  us  anymore. \n >> [laughter] \n >> So,  and  so  when  we  did  the  video,  right, \n and  we  posted  it,  it  became  a  mando  one \n out  of  10  video  because  the  thing  that \n mattered  is  the  stuff  in  the  [ __ ] \n video,  right?  And  so  everyone  wants  to \n to  major  in  the  minors,  right?  Which  is \n part  of  the  reason  that  I'm  doing  these \n raw  videos  like  this  cuz  like  it  was \n never  about  the  [ __ ]  production, \n right?  And  some  of  you  guys  are  worried \n about  your  makeup  and  for  the  girls, \n right?  Or  the  lighting  or  to  be  fair, \n this  is  an  epic  background,  so  this  is \n probably  a  little  off.  But  like  most  of \n the  time  my  background  looks  absolute \n dog  [ __ ]  and  is  either,  you  know,  blurry \n in  my  death  star  of  a  production  center, \n which  I  also  hate,  but  um,  or  it's  in  my \n office,  which  looks  horrible,  right?  And \n so  my  point  is  this  is  that  like  the \n thing  that  matters  is  the  stuff  inside. \n It's  the  stuff  inside  of  the  content. \n The  content  is  the  container,  right?  The \n stuff  inside  is  what  matters.  And  so  if \n you  don't  have  the  stuff,  like  focus  on \n the  stuff.  That's  where  the  quality \n comes  from.  The  volume  is  like  how  much \n stuff  I'm  going  to  put  out.  All  right. \n So  number  one,  what  what  question \n requirements?  Here's  our  big  list  of \n [ __ ]  Number  two,  we  delete  the  stuff \n that  doesn't  matter.  We  should  delete  so \n much  that  we  have  to  add  stuff  back \n later.  Three  is  simplify.  Another  way  of \n saying  that  is  optimize.  What  do  we  get \n the  most  for  the  least?  So  even  though \n something  um,  might  give  us  a  return, \n let's  say  color  grading  gives  us  a \n return,  I'll  just  make  it  up.  Um,  and \n let's  say  we  can  prove  that,  which  we \n can't.  But  let's  say  we  can  prove  it. \n Okay.  Um,  if  we  can  prove  it,  is  it \n worth  it?  Right?  Which  is  a  separate \n question.  Is  it  worth  it?  So,  we  can  get \n um \n let's  say  let's  say  the  total  thing \n takes  10  hours.  Okay.  Let's  say  four  of \n those  hours  are  color  grading.  All \n right.  Is  it  40%  of  the  quality  of  the \n output? \n No. \n Is  it  5%?  Maybe. \n Is  it  worth  40%  of  the  costs?  My \n argument,  no.  I  would  rather  because  we \n have  to  put  the  opportunity  cost.  If  I \n had  if  my  team  had  nothing  else  to  edit, \n then  it  would  make  sense  to  take  the \n extra  time.  But  they  have  so  much  other \n stuff  to  edit  and  it  would  make  more \n sense  for  us  to  do  two  videos  or  one  and \n a  half  videos  at  95%  than  one  video  at \n 100.  All  right.  So,  hear  me  out  on  that. \n After  simplifying  or  optimizing  most  for \n the  least,  then  you  go  to  step  four, \n which  is  accelerate.  How  do  you  pull  up \n timelines?  I'll  give  you  my  my  version \n of  doing  this  when  I'm  in  a  meeting.  So, \n anybody  who's  worked  with  me  knows  that \n I  like  to  finish  meetings  with  who, \n what,  when.  So,  it's  my  very  simple \n management  algorithm.  That's  about  it. \n Everything  else  you  can  learn  from \n Layla,  but  these  three,  this  is  what  I \n do. \n And  so,  at  the  end  of  our  meeting,  I'm \n like,  who,  what,  when,  right?  Who  is \n going  to  do  what  by  when?  Very,  very \n simple,  right?  And  here's  where  if  you \n want  to  go  to  the  201  level,  whenever \n someone  tells  you  the  by  when,  you \n actually  ask  the  question  I  started \n with,  which  is \n okay,  uh  today's  Monday  and  you  want  to \n do  this  by  next  meeting  next  Monday,  how \n much  actual  time  is  this  going  to  take? \n Time  on  task.  And  so,  people  will  be \n like,  uh  I  think  it'll  take  me  4  hours. \n It's  like,  okay. \n What  are  you  doing  in  the  next  4  hours \n that  is  more  important  than  this? \n A  lot  of  times  the  answer  is  nothing.  In \n which  case,  great.  Do  it  do  it  by  end  of \n day. \n And  let  me  know.  And  so,  if  you  ever \n want  to  speed  up  the  movement  of  a  team, \n increase  communication  cycles.  So,  that \n means  instead  of  going  end  of  week,  go \n end  of  day.  It's  7x  is  the  speed  of  a \n team.  You  will  be  amazed  at  how  much \n more  you  get  done.  So,  who,  what,  when? \n So,  who's  going  to  do  what  by  when?  And \n then  when  they  tell  you  when,  you  ask \n why  can't  you  do  it  earlier?  Now,  to  be \n clear,  if  someone  says  I  got  this  other \n [ __ ]  that's  going  on  that  you  told  me  to \n do,  right?  You're  like,  \"Oh  yeah,  I  did \n tell  you  to  do  that.\"  Then  it's  like, \n \"Great,  we'll  do  that  after  that, \n right?\"  And  then  that  way  that  constant \n accountability \n just  drives  the  whole  thing  forward.  And \n so,  I  promise  you  if  you  want  a  project \n to  go  faster,  ask  for  updates  every  day, \n twice  a  day,  five  times  a  day, \n every  hour.  I'm  telling  you,  like,  I've \n done  this  with  vendors,  too.  So,  if  I'm \n like,  \"Hey, \n uh  hey,  I  need  this  thing.\"  And  they're \n like,  \"Okay,  cool,  we'll  get  it  to  you \n tomorrow.\"  I'll  just  call  them  in  an \n hour  and  be  like,  \"Hey,  what's  our \n progress  update  on  that?\"  And  they're \n like,  \"I  I  said  I'll  get  it  to  you.\"  I'm \n like,  \"This  is  very  important  to  me. \n Like,  can  we  can  we  please  get  this  done \n sooner?\"  And  then  you  call  them  again  in \n an  hour.  They're  like,  \"Dude,  I'll \n [ __ ]  get  it  done.\"  It's  like, \n \"Right.\"  So,  I  will  force  the \n accountability  on  a  vendor  if  I  need  to \n pull  [ __ ]  forward.  And  so,  that's  fourth \n step  is  how  do  we  pull  up  cycles?  How  do \n we  how  do  we  take  what  the  expected \n timeline  is  and  then  reduce  it? \n And  then,  and  this  is  the  big  this  is \n the  big  one  which  AI  has  destroyed  for \n everyone. \n Step  five  is  automate.  Which  is  okay, \n how  do  we  get  the  machines  to  do  it? \n Now,  here's  the  here's  the  uh  here's  the \n magic  behind  this. \n Because  the  access  to  AI  has  become  so \n prevalent  and  so  easy  for  everyone, \n everyone  thinks  in  the  first  step  the \n last  step  first.  They  try  and  automate \n [ __ ]  that  should  not  be  done  to  begin \n with. \n With  like  cuz  the  only  thing  that  is \n more  efficient  than  automation  is \n elimination.  It's  choosing  not  to  do \n something  is  more  efficient  than \n automating  it  because  it  wasn't  worth  to \n do  it  to  begin  with.  And  so,  the  easiest \n litmus  test  for  many  of  you  people  uh \n you  people  for  many  of  you  is \n though  I  am  using  AI, \n are  we  getting  more  views?  Though  I  am \n using  AI,  are  we  getting  more  leads? \n Though  I  am  using  AI,  am  I  making  more \n money? \n And  so,  that's  the  very  easy  litmus  test \n to  tell  you  whether  or  not  this  is \n actually  makes  sense. \n And  so,  I  will  promise  you  that  Claude \n or,  you  know,  Anthropic  or,  you  know, \n OpenAI,  etc. \n Claude  and  Anthropic  are  the  same \n company,  but,  you  know,  company's  doing \n the  billing,  right? \n Um  Gemini,  whatever.  If  they're  billing \n you,  they're  billing  you  whether  what \n you  built  was  useful  or  not.  And  so  if \n you're  noticing  your  tokens  cost  going \n up  month  over  month  over  month,  but  your \n money's  not  going  up  month  over  month \n over  month,  maybe  you  should  consider \n that  you're  actually  just  blowing  money \n on  [ __ ]  that  doesn't  matter. \n And  so  you  maybe  should  start  start  with \n that  process  of  the  algorithm.  All \n right?  Question  the  requirements, \n delete  all  stupid  requirements,  simplify \n aka  optimize  get  the  most  for  the  least, \n speed  up  cycle  cuz  how  do  we  do  it \n faster?  And  then  finally  then  and  only \n then \n do  we  bring  up  automation. \n Because  then  you're  you're  automating \n something  that  has  already  been \n maximized  for  effectiveness  and  now \n you're  just  getting  the  last  bit  of \n effectiveness  out  of  it,  which  is \n getting  the  robots  to  do  it  for  you.  All \n right.  Um \n with  that  being  said,  uh  we've  we've \n worked  on  our  content  a  lot.  This  is  the \n year \n of  the  trust  economy.  Um  I  think  I \n called  this  at  the  end  of  last  year  and \n I  feel  like  I'm  more  right.  I  think  it \n ages  like  a  fine  wine.  Um  we're  in  we're \n in  the  we're  in  the  show-me  times,  not \n the  tell-me  times. \n All  right?  And  so  that  means  that  we \n need  to  you  need  to  demonstrate \n expertise  in  as  many  varied  conditions \n as  possible  with  as  many  diverse  avatars \n or  rather  the  avatars  that  represent \n most  broadly \n uh  the  types  of  customers  that  you  serve \n solving  the  specific  problems  that  they \n have  in  the  way  that  you  want  to  solve \n them  that  gets  them  the  outcome  they're \n looking  for. \n All  right?  That  is  content  from  an \n education  perspective  that  drives \n commerce.  That  is  content  that  drives \n commerce.  That  is  views  that  turn  into \n cash.  Right?  If  you're  just  getting \n you're  like  doing  memes  or  doing \n entertainment,  there's  nothing  wrong \n with  that.  It's  just  that  you're  just  a \n media  business  and  eventually  going  to \n sell  eyeballs  to  an  advertiser,  right? \n But  if  you  want  to  sell  from  your  own \n [ __ ]  right?  Sell  your  own  [ __ ]  You \n want  to  sell  community  own  school.  You \n want  to  sell  you  want  to  sell  fencing \n services.  You  want  to  sell  you  want  to \n sell  home  design.  You  want  to  sell \n solar.  Whatever  the  hell  you're  selling, \n education  is  the  door,  right?  That  is \n how  you  gain  influence.  That  is  how  you \n gain  authority.  That  you  give  people \n instructions  that  they  can  follow  and \n good  [ __ ]  happens  for  them.  Now,  in \n order  for  them  to  follow  your \n instructions,  there's  a  couple  things \n that  have  to  have  to  happen. \n Number  one,  the  instructions  have  to  be \n easy  to  follow,  right?  Which  means  you \n got  to  talk  in  the  in  words  that  other \n people  understand. \n All  right?  Number  two, \n they  have  to  believe  you  that  they \n should  that  they  are  worth  following. \n So,  if  we  decrease  the  comprehension,  we \n decrease  the  cost  of  at  least \n understanding  what  to  do.  Right?  Then  we \n have  to  increase  conviction  that  they're \n going  to  get  the  payoff,  which  makes  the \n risk  or  the  gamble  of  taking  those \n actions  worth  it. \n Right?  And  so,  this  is  why  the  proof  in \n this  trust  economy  world  is  not  in  the \n pudding,  but  it  is  the  [ __ ]  pudding. \n Right?  The  reason  that  proof  is  what \n matters  more  than  anything  is  because \n tell  me  how  you're  going  to  grow  my \n e-commerce  store  except  you've  never  run \n an  e-commerce  store. \n Right?  Tell  me  how  you're  going  to  teach \n me  how  to  sell  except  you've  never  sold \n anything.  Tell  me  how  you're  going  to \n help  me  make  content,  but  you  don't  have \n a  personal  brand. \n Right?  Like  it's  just  the  big  obvious \n [ __ ]  And  I  get  these  questions  all  the \n time  like,  \"How  do  I  build  a  personal \n brand?\"  It's  like,  \"Just  do  shit.\"  You \n will  You  will  get  a  bigger  personal \n brand  by  doing  [ __ ]  in  reality  for  5 \n years  and  then  starting  your  personal \n brand.  Now,  to  be  clear,  I  think  if  you \n want  to  document  along  the  way,  as  long \n as  you  state  the  facts  and  tell  the \n truth,  you're  good  you're  good  in  my \n book.  Right?  But  what  happens  is  people \n are  like,  \"How  do  I  How  do  I  counter \n imposter  syndrome?\"  I'm  like,  \"Bro, \n imposter  syndrome  is  you  feeling  ashamed \n for  lying.\"  Oops,  there  we  go.  Is  you \n feeling  ashamed  for  lying  because  you \n are  misrepresenting  the  truth.  Sorry, \n I'm  trying  to  adjust  this  thing  so  it's \n not  [ __ ]  up.  Here  we  go. \n Um  is  you  misrepresenting  the  truth, \n Jesus.  This  is  why  we  can't  have  nice \n things.  Hold  on. \n Yeah?  Yeah?  Ah,  [ __ ]  good  enough. \n See  if  that  works.  All  right.  Um \n And  so,  I'll  give  you  an  example  of  this \n whole  imposter  syndrome  thing  that  you \n should  probably  just  abolish  from  your \n your  mental  whatever. \n Here  it  is.  So,  I  had  a  guy  who  came  up \n to  me  uh  at  at  one  of  our  workshops  in \n Vegas  and  he  was  like,  \"Hey,  man.  Um  how \n do  you  deal  with  imposter  syndrome?\"  I \n was  like,  \"All  right,  what  do  you  What \n do  you  sell,  man?\"  He  said,  \"I  help \n agency  owners \n uh  get  booked  appointments.\"  And  I  was \n like,  \"Okay.  uh,  how  do  you  do  it?\"  And \n he's  like,  \"We  run  outbound  teams.\"  I \n was  like,  \"Okay,  that  makes  sense.  I  get \n it.\"  I  was  like,  \"So,  what  are  you \n dealing  with  imposter  syndrome  for?\"  And \n he's  like,  \"Well, \n you  know,  I  had  an  agency,  but  the \n agency  didn't  really  work  that  that \n well.  Uh,  I  didn't  really  make  any  money \n with  it  uh,  because  I  knew  how  to  get \n customers,  but  I  I  couldn't  really  keep \n them.\" \n I  was  like,  \"Okay.\" \n Still  trying  to  figure  out  where  the \n imposter  syndrome  coming  from. \n And  he  was  like,  \"Well,\" \n I  was  like,  \"Are  you  pretending  like \n you're  good  at  running  an  agency?\"  And \n he  was  like, \n \"Kind  of.\"  And  I  was  like,  \"Yeah,  bro. \n That  imposter  syndrome  is  lying. \n So,  yeah,  you  should  feel  bad  about \n lying. \n Okay?  I  was  like,  \"But  if  you  told  the \n truth,  it  probably  would  be  even  more \n effective.  If  you  just  said,  'Hey,  I  had \n an  agency.  I  sucked  at  running  an \n agency.  I  was  really  good  at  selling \n agency  clients.  And  so  then  I  said, \n well,  why  don't  I  just  do  that  for \n agency  owners  who  are  actually  good  at \n delivering  for  clients?'  And  then  this \n business  was  born.  Everyone  would  be \n like,  'Oh,  that  actually  makes  a  lot  of \n sense.'  And  so  what  you  forget  is  that \n the  truth  is  the  most  compelling  thing \n out  there  from  a  marketing  perspective. \n The  reason  that  state  the  facts  and  tell \n the  truth  is  the  number  one  thing  that \n we  say \n at  acquisition.com  in  marketing  is \n because  it  sells  the  most.  The  truth \n sells  the  most.  I  will  say  this  again. \n The  truth  sells  the  most.  The  truth \n converts. \n All  right?  Above  everything  else.  But, \n it  has  to  be  the  whole  [ __ ]  truth. \n All  right?  It  has  to  be  the  whole  truth. \n And  so  he  can't  say \n uh,  just  half  of  the  story.  You  have  to \n say  all  the  [ __ ]  where  you  look  bad, \n too.  And  then  people  will  believe  the \n [ __ ]  where  you  look  good. \n That's  the  That's  the  whole  game. \n Right?  I  got  asked  a  bunch  of  times \n throughout  my  career.  They're  like,  \"So, \n should  I  think  I  was  on  Diary  of  a  CEO.\" \n He's  like,  \"Alex,  should  people  talk  to \n you  about  happiness?\"  I'm  like,  \"No. \n That's  not  I  don't  have  authority  there. \n All  right?  I'm  the  like,  \"Hey,  you're \n trying  to  figure  out  how  to  scale  your \n business?\"  That's  me.  You're  like, \n \"Trying  to  how  to  figure  out  how  to  sell \n shit?\"  That's  me.  I  can  help  you  there. \n I  got  a  lot  of  proof  there.  Real  quick, \n I'm  going  to  show  you  the  exact  10-stage \n roadmap  from  zero  to  100  million  plus \n that  less  than  1%  of  companies  finish \n I've  now  done  multiple  times.  And  so  I \n can  say  with  a  lot  of  confidence  that \n these  are  the  stages  as  head  count \n increases  that  you  need  to  get  through. \n And  I  broke  each  of  these  down  by  eight \n different  functions  of  the  business, \n what  the  constraint  feels  like,  like \n what  are  the  symptoms  of  it  when  you're \n going  through  it,  and  then  what  steps  we \n actually  took  to  graduate.  And  we've \n done  this  across  software,  physical \n products,  uh  service  businesses,  brick \n and  mortar,  all  of  this,  and  it  works. \n And  it's  my  gift  to  you.  It's  absolutely \n free.  And  so  the  link's  in  the \n description,  but  you  just  go \n acquisition.com/roadmap. \n Just  enter  your  info  and  it'll  spit  it \n right  back  to  you,  all  free.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZTSI3DDP_4A",
+  "videoId": "ZTSI3DDP_4A"
+}

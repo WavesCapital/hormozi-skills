@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "There's a quote from Jo Willick that I"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "love that's recent that's been top of"
+    },
+    {
+      "endMs": "8240",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "mind for me which is besides death all"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "failure is psychological."
+    },
+    {
+      "endMs": "12480",
+      "startMs": "8240",
+      "startTimeText": "0:08",
+      "text": "All failure is just me drawing an"
+    },
+    {
+      "endMs": "13679",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "arbitrary line in the sand that I say"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "anything that does not meet the standard"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "13679",
+      "startTimeText": "0:13",
+      "text": "will force me to be upset."
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15440",
+      "startTimeText": "0:15",
+      "text": ">> Yeah. Yeah."
+    },
+    {
+      "endMs": "18480",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": ">> That's it."
+    },
+    {
+      "endMs": "21039",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "I can keep"
+    }
+  ],
+  "transcript_only_text": " There's  a  quote  from  Jo  Willick  that  I \n love  that's  recent  that's  been  top  of \n mind  for  me  which  is  besides  death  all \n failure  is  psychological. \n All  failure  is  just  me  drawing  an \n arbitrary  line  in  the  sand  that  I  say \n anything  that  does  not  meet  the  standard \n will  force  me  to  be  upset. \n >> Yeah.  Yeah. \n >> That's  it. \n I  can  keep",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mGALQkG4GRU",
+  "videoId": "mGALQkG4GRU"
+}

@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I built wealth without reading a book a"
+    },
+    {
+      "endMs": "5520",
+      "startMs": "2040",
+      "startTimeText": "0:02",
+      "text": "week, without making my bed, without"
+    },
+    {
+      "endMs": "7320",
+      "startMs": "3800",
+      "startTimeText": "0:03",
+      "text": "journaling, without a 2-hour morning"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "5520",
+      "startTimeText": "0:05",
+      "text": "routine, without giving up alcohol,"
+    },
+    {
+      "endMs": "10680",
+      "startMs": "7320",
+      "startTimeText": "0:07",
+      "text": "without giving up Netflix, without"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "waiting to marry, and without leverage."
+    },
+    {
+      "endMs": "14840",
+      "startMs": "10680",
+      "startTimeText": "0:10",
+      "text": "Because the only thing you actually have"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "to do is find people want, sell it"
+    },
+    {
+      "endMs": "19000",
+      "startMs": "14840",
+      "startTimeText": "0:14",
+      "text": "to them for more than it cost you many"
+    },
+    {
+      "endMs": "19000",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "times."
+    }
+  ],
+  "transcript_only_text": " I  built  wealth  without  reading  a  book  a \n week,  without  making  my  bed,  without \n journaling,  without  a  2-hour  morning \n routine,  without  giving  up  alcohol, \n without  giving  up  Netflix,  without \n waiting  to  marry,  and  without  leverage. \n Because  the  only  thing  you  actually  have \n to  do  is  find  people  want,  sell  it \n to  them  for  more  than  it  cost  you  many \n times.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ynqvkxtdf-M",
+  "videoId": "ynqvkxtdf-M"
+}

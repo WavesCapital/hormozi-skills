@@ -1,0 +1,49 @@
+# Hormozi Advisor Skill
+
+Canonical entry point: skills/hormozi/SKILL.md
+Agent metadata: skills/hormozi/agents/openai.yaml
+Business profile template: skills/hormozi/assets/business-profile-template.md
+Architecture: docs/architecture.md
+Install and migration: docs/install.md
+Source policy: docs/source-policy.md
+YouTube sync contract: docs/youtube-sync.md
+
+Operating references:
+- skills/hormozi/references/advisor-workflow.md
+- skills/hormozi/references/business-context.md
+- skills/hormozi/references/onboarding.md
+- skills/hormozi/references/answer-contract.md
+- skills/hormozi/references/communication-standard.md
+- skills/hormozi/references/source-policy.md
+- skills/hormozi/references/mode-index.md
+
+Public doctrine:
+- skills/hormozi/references/doctrine/index.md
+- skills/hormozi/references/doctrine/rule-index.json
+
+Deterministic helpers:
+- skills/hormozi/scripts/business_context.py
+- skills/hormozi/scripts/authority_packet.py
+- skills/hormozi/scripts/route.py
+- skills/hormozi/scripts/corpus.py
+- skills/hormozi/scripts/economics.py
+- skills/hormozi/scripts/plain_language.py
+- skills/hormozi/scripts/validate_doctrine.py
+
+Core commands:
+- Resolve business context: python3 skills/hormozi/scripts/business_context.py resolve --start /path/to/business
+- Import licensed text equivalents: python3 skills/hormozi/scripts/corpus.py import --source-root /path/to/source-root --manifest /path/to/source-manifest.jsonl --index skills/hormozi/private-corpus/index/hormozi.sqlite
+- Retrieve bounded file doctrine: python3 skills/hormozi/scripts/corpus.py query --corpus-root skills/hormozi/private-corpus --query "decision terms" --source-type file --limit 6
+- Retrieve reviewed recent-video evidence: python3 skills/hormozi/scripts/corpus.py query --corpus-root skills/hormozi/private-corpus --query "decision terms" --source-type youtube --limit 6
+- Check each user-facing draft: python3 skills/hormozi/scripts/plain_language.py --file /path/to/draft.md --target-grade 3 --strict
+
+YouTube sync ownership:
+- The package defines the source contract in docs/youtube-sync.md.
+- Each install owns its credentials and configured runner.
+- Synced YouTube records enter the bundled corpus and are queried through corpus.py.
+
+Important boundaries:
+- This package does not impersonate Alex Hormozi or imply endorsement.
+- Personalized advice requires an approved BUSINESS.md.
+- The full source library ships in `skills/hormozi/private-corpus/`.
+- Recent video material changes doctrine only after manual timestamp, speaker, context, and visual review.

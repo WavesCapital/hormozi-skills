@@ -1,0 +1,288 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 7,
+  "commentCountText": "7",
+  "credits_charged": 1,
+  "description": "When you sell services, if you do a good job, you can mark your progress by your ability to raise your prices because:\n\n1) you get better\n2) your reputation gets better\n3) you get better at selling\n4) you sell to better customers\n\nUnless your strategy is low cost.\nThis is the way",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:24",
+  "durationMs": 84000,
+  "genre": "Education",
+  "id": "ReNOZa95st4",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 870,
+  "likeCountText": "870",
+  "most_replayed": null,
+  "publishDate": "2026-07-09T12:03:12-07:00",
+  "publishDateText": "Jul 9, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/ReNOZa95st4/maxresdefault.jpg",
+  "type": "video",
+  "viewCountInt": 23028,
+  "viewCountText": "23,028",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "acyhw4Xing4",
+      "lengthInSeconds": 325,
+      "lengthText": "5:25",
+      "publishDate": "2022-08-24T18:36:50.036Z",
+      "publishDateText": "4 years ago",
+      "publishedTime": "2022-08-24T18:36:50.036Z",
+      "publishedTimeText": "4 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/acyhw4Xing4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLADlRXA1_jZiQYbu1gP98SOoljjrw",
+      "title": "Tombstone - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=acyhw4Xing4",
+      "viewCountInt": 5000000,
+      "viewCountText": "5M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "jfW6gL6hKhk",
+      "lengthInSeconds": 945,
+      "lengthText": "15:45",
+      "publishDate": "2026-03-24T18:36:50.036Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:36:50.036Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jfW6gL6hKhk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0G9_a7JX0L7DKWNPguRCmRo0OoA",
+      "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
+      "videoUrl": "https://www.youtube.com/watch?v=jfW6gL6hKhk",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-03-24T18:36:50.036Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:36:50.036Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "StVqS0jD7Ls",
+      "lengthInSeconds": 9241,
+      "lengthText": "2:34:01",
+      "publishDate": "2025-08-24T18:36:50.036Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-24T18:36:50.036Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/StVqS0jD7Ls/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDW1w3hw61FGWvgYTICOvXCe5GMPA",
+      "title": "The Ultimate Sales Training for 2026 [Full Course]",
+      "videoUrl": "https://www.youtube.com/watch?v=StVqS0jD7Ls",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "TheRestIsScience",
+        "id": "UCThg2IH7bNbIQF0hmXA9ECw",
+        "title": "The Rest Is Science",
+        "url": "https://www.youtube.com/@TheRestIsScience"
+      },
+      "id": "qZvmF1Bwwo8",
+      "lengthInSeconds": 3765,
+      "lengthText": "1:02:45",
+      "publishDate": "2026-08-23T21:36:50.036Z",
+      "publishDateText": "21 hours ago",
+      "publishedTime": "2026-08-23T21:36:50.036Z",
+      "publishedTimeText": "21 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/qZvmF1Bwwo8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDWTcFmcEidtMf29AD4VQa5Bi_-TQ",
+      "title": "The Worst Way To Get To Space",
+      "videoUrl": "https://www.youtube.com/watch?v=qZvmF1Bwwo8",
+      "viewCountInt": 168000,
+      "viewCountText": "168K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T18:36:50.036Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-22T18:36:50.036Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 89000,
+      "viewCountText": "89K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Alex Hormozi",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "HwmwyBgzj8c",
+      "lengthInSeconds": 8558,
+      "lengthText": "2:22:38",
+      "publishDate": "2026-07-24T18:36:50.036Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-07-24T18:36:50.036Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/HwmwyBgzj8c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChLnGf79sTsn9sq8TA5-fVrvA0fQ",
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "videoUrl": "https://www.youtube.com/watch?v=HwmwyBgzj8c",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "FUBVuvstPCs",
+      "lengthInSeconds": 219,
+      "lengthText": "3:39",
+      "publishDate": "2026-03-24T18:36:50.036Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-03-24T18:36:50.036Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/FUBVuvstPCs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBEm3Ux0lxXJondDVwP8Zb8KiufHA",
+      "title": "MAHAspital - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=FUBVuvstPCs",
+      "viewCountInt": 4200000,
+      "viewCountText": "4.2M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "FMzKk73iUhw",
+      "lengthInSeconds": 2503,
+      "lengthText": "41:43",
+      "publishDate": "2025-08-24T18:36:50.036Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-08-24T18:36:50.036Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/FMzKk73iUhw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAZXW-CCdlAwhE2-XdowNZD5Uhd7g",
+      "title": "How To Get Customers So Fast It Feels ILLEGAL",
+      "videoUrl": "https://www.youtube.com/watch?v=FMzKk73iUhw",
+      "viewCountInt": 724000,
+      "viewCountText": "724K views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": "2025-12-24T18:36:50.036Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2025-12-24T18:36:50.036Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_e8ed2ER_fNywLf4iQ_HJogacAQ",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 3900000,
+      "viewCountText": "3.9M views"
+    },
+    {
+      "channel": {
+        "handle": "BrandonMulrenin",
+        "id": "UCXyPlTs_8j93XWEUzDGYTcw",
+        "title": "Brandon Mulrenin",
+        "url": "https://www.youtube.com/@BrandonMulrenin"
+      },
+      "id": "Xfdhszx978Q",
+      "lengthInSeconds": 1770,
+      "lengthText": "29:30",
+      "publishDate": "2024-08-24T18:36:50.036Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-08-24T18:36:50.036Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/Xfdhszx978Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDpltuPXTTDKlqYtqUQx8Vk2DSijA",
+      "title": "Alex Hormozi Explains How to Succeed as a Realtor",
+      "videoUrl": "https://www.youtube.com/watch?v=Xfdhszx978Q",
+      "viewCountInt": 51000,
+      "viewCountText": "51K views"
+    },
+    {
+      "channel": {
+        "title": "Big Think Clips and 2 more",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "KHd-luu3M8s",
+      "lengthInSeconds": 2005,
+      "lengthText": "33:25",
+      "publishDate": "2026-08-13T18:36:50.036Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-13T18:36:50.036Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/KHd-luu3M8s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCDEl8rV6bwjLjXbdlPVBZTk4dKIg",
+      "title": "Your phone addiction is keeping you from achieving flow state | Arthur Brooks",
+      "videoUrl": "https://www.youtube.com/watch?v=KHd-luu3M8s",
+      "viewCountInt": 648000,
+      "viewCountText": "648K views"
+    }
+  ]
+}

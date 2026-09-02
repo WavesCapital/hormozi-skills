@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Manpower is almost always the limiter."
+    },
+    {
+      "endMs": "5560",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "Because if you had the best AI person in"
+    },
+    {
+      "endMs": "7480",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "the entire world, you could have a"
+    },
+    {
+      "endMs": "9320",
+      "startMs": "5560",
+      "startTimeText": "0:05",
+      "text": "multi-billion dollar company within the"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "7480",
+      "startTimeText": "0:07",
+      "text": "next 6 months. The problem is that guy"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "doesn't want to work for you. In my"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "opinion, a lot of the entrepreneurial"
+    },
+    {
+      "endMs": "15320",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "journey is creating the proof"
+    },
+    {
+      "endMs": "17320",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "that then allows you to attract the"
+    },
+    {
+      "endMs": "19040",
+      "startMs": "15320",
+      "startTimeText": "0:15",
+      "text": "talent that's required to build the next"
+    },
+    {
+      "endMs": "20440",
+      "startMs": "17320",
+      "startTimeText": "0:17",
+      "text": "thing. And so, it's like who do I need"
+    },
+    {
+      "endMs": "21880",
+      "startMs": "19040",
+      "startTimeText": "0:19",
+      "text": "to become and what do I need to build in"
+    },
+    {
+      "endMs": "24480",
+      "startMs": "20440",
+      "startTimeText": "0:20",
+      "text": "order to get that level of talent to"
+    },
+    {
+      "endMs": "24480",
+      "startMs": "21880",
+      "startTimeText": "0:21",
+      "text": "come with me?"
+    }
+  ],
+  "transcript_only_text": " Manpower  is  almost  always  the  limiter. \n Because  if  you  had  the  best  AI  person  in \n the  entire  world,  you  could  have  a \n multi-billion  dollar  company  within  the \n next  6  months.  The  problem  is  that  guy \n doesn't  want  to  work  for  you.  In  my \n opinion,  a  lot  of  the  entrepreneurial \n journey  is  creating  the  proof \n that  then  allows  you  to  attract  the \n talent  that's  required  to  build  the  next \n thing.  And  so,  it's  like  who  do  I  need \n to  become  and  what  do  I  need  to  build  in \n order  to  get  that  level  of  talent  to \n come  with  me?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=X-QPQEVN544",
+  "videoId": "X-QPQEVN544"
+}

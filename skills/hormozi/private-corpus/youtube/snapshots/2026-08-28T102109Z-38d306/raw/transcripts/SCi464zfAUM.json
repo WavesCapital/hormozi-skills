@@ -1,0 +1,2785 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=SCi464zfAUM&ei=LWGRatXKKZaGr9gPwbzjmAE&caps=asr&opi=112496729&exp=xpe&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1787937693&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=499AB738C4C21124FFF846F9CB06CDDD98A46C87.755B3F66DDB347F0592DD9EBD8C19DECF6C48483&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 18235,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So, what is X-Factor? In this tiny"
+    },
+    {
+      "endMs": "4320",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "presentation, I'm going to break down"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "what made Dolly Parton a superstar and"
+    },
+    {
+      "endMs": "7920",
+      "startMs": "4320",
+      "startTimeText": "0:04",
+      "text": "we can learn from her in making your own"
+    },
+    {
+      "endMs": "9400",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "content and impact on the world. So,"
+    },
+    {
+      "endMs": "11080",
+      "startMs": "7920",
+      "startTimeText": "0:07",
+      "text": "let's zoom out. In a world of infinite"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9400",
+      "startTimeText": "0:09",
+      "text": "content, in this world of AI, how do you"
+    },
+    {
+      "endMs": "14760",
+      "startMs": "11080",
+      "startTimeText": "0:11",
+      "text": "actually stand out when anyone can make"
+    },
+    {
+      "endMs": "16840",
+      "startMs": "12440",
+      "startTimeText": "0:12",
+      "text": "lots of stuff with a click of a button?"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "14760",
+      "startTimeText": "0:14",
+      "text": "In a single word, it's quality, right?"
+    },
+    {
+      "endMs": "19120",
+      "startMs": "16840",
+      "startTimeText": "0:16",
+      "text": "But quality has two components to it."
+    },
+    {
+      "endMs": "20560",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "There's a message and then there's the"
+    },
+    {
+      "endMs": "22600",
+      "startMs": "19120",
+      "startTimeText": "0:19",
+      "text": "messenger."
+    },
+    {
+      "endMs": "24640",
+      "startMs": "20560",
+      "startTimeText": "0:20",
+      "text": "Uh and the two are inextricably linked."
+    },
+    {
+      "endMs": "26400",
+      "startMs": "22600",
+      "startTimeText": "0:22",
+      "text": "So, you know, you could have a Trump or"
+    },
+    {
+      "endMs": "28000",
+      "startMs": "24640",
+      "startTimeText": "0:24",
+      "text": "a Bernie Sanders or a Dolly Parton and"
+    },
+    {
+      "endMs": "29480",
+      "startMs": "26400",
+      "startTimeText": "0:26",
+      "text": "they could say a super boring random"
+    },
+    {
+      "endMs": "31360",
+      "startMs": "28000",
+      "startTimeText": "0:28",
+      "text": "thing and still get millions of views."
+    },
+    {
+      "endMs": "32560",
+      "startMs": "29480",
+      "startTimeText": "0:29",
+      "text": "How? In that case, solely because of the"
+    },
+    {
+      "endMs": "34160",
+      "startMs": "31360",
+      "startTimeText": "0:31",
+      "text": "messenger."
+    },
+    {
+      "endMs": "36600",
+      "startMs": "32560",
+      "startTimeText": "0:32",
+      "text": "In a different situation, you could have"
+    },
+    {
+      "endMs": "37800",
+      "startMs": "34160",
+      "startTimeText": "0:34",
+      "text": "a no-name account go completely viral"
+    },
+    {
+      "endMs": "39120",
+      "startMs": "36600",
+      "startTimeText": "0:36",
+      "text": "and in that situation, would it be the"
+    },
+    {
+      "endMs": "40760",
+      "startMs": "37800",
+      "startTimeText": "0:37",
+      "text": "messenger or the message? It's the"
+    },
+    {
+      "endMs": "42280",
+      "startMs": "39120",
+      "startTimeText": "0:39",
+      "text": "message. And so, it's both of these"
+    },
+    {
+      "endMs": "44760",
+      "startMs": "40760",
+      "startTimeText": "0:40",
+      "text": "things together which create the entire"
+    },
+    {
+      "endMs": "46920",
+      "startMs": "42280",
+      "startTimeText": "0:42",
+      "text": "package. And so, there's a lot of stuff"
+    },
+    {
+      "endMs": "47960",
+      "startMs": "44760",
+      "startTimeText": "0:44",
+      "text": "on message and the the nature of content"
+    },
+    {
+      "endMs": "49600",
+      "startMs": "46920",
+      "startTimeText": "0:46",
+      "text": "out there, but there's very little"
+    },
+    {
+      "endMs": "51680",
+      "startMs": "47960",
+      "startTimeText": "0:47",
+      "text": "tactical stuff on the messenger. How"
+    },
+    {
+      "endMs": "53880",
+      "startMs": "49600",
+      "startTimeText": "0:49",
+      "text": "does the messenger themselves have"
+    },
+    {
+      "endMs": "54840",
+      "startMs": "51680",
+      "startTimeText": "0:51",
+      "text": "X-Factor? How are they more interesting?"
+    },
+    {
+      "endMs": "56040",
+      "startMs": "53880",
+      "startTimeText": "0:53",
+      "text": "It's one of the most common things that"
+    },
+    {
+      "endMs": "57760",
+      "startMs": "54840",
+      "startTimeText": "0:54",
+      "text": "I hear people use when describing"
+    },
+    {
+      "endMs": "60680",
+      "startMs": "56040",
+      "startTimeText": "0:56",
+      "text": "someone who becomes popular, aka they"
+    },
+    {
+      "endMs": "62880",
+      "startMs": "57760",
+      "startTimeText": "0:57",
+      "text": "garner interest above average,"
+    },
+    {
+      "endMs": "65199",
+      "startMs": "60680",
+      "startTimeText": "1:00",
+      "text": "uh is something called X-Factor, right?"
+    },
+    {
+      "endMs": "66640",
+      "startMs": "62880",
+      "startTimeText": "1:02",
+      "text": "And so, in different terms, it's used um"
+    },
+    {
+      "endMs": "68000",
+      "startMs": "65199",
+      "startTimeText": "1:05",
+      "text": "je ne sais quoi, which is like a French"
+    },
+    {
+      "endMs": "69680",
+      "startMs": "66640",
+      "startTimeText": "1:06",
+      "text": "word which literally just means I don't"
+    },
+    {
+      "endMs": "71520",
+      "startMs": "68000",
+      "startTimeText": "1:08",
+      "text": "know what. But the thing is is that"
+    },
+    {
+      "endMs": "72480",
+      "startMs": "69680",
+      "startTimeText": "1:09",
+      "text": "there has to be something, otherwise you"
+    },
+    {
+      "endMs": "73400",
+      "startMs": "71520",
+      "startTimeText": "1:11",
+      "text": "wouldn't recognize it. But it's"
+    },
+    {
+      "endMs": "75360",
+      "startMs": "72480",
+      "startTimeText": "1:12",
+      "text": "interesting that across different"
+    },
+    {
+      "endMs": "77280",
+      "startMs": "73400",
+      "startTimeText": "1:13",
+      "text": "languages, it's X, it's literally a"
+    },
+    {
+      "endMs": "80000",
+      "startMs": "75360",
+      "startTimeText": "1:15",
+      "text": "variable that could be anything. Or in"
+    },
+    {
+      "endMs": "81640",
+      "startMs": "77280",
+      "startTimeText": "1:17",
+      "text": "French, it's I don't know what it is. Um"
+    },
+    {
+      "endMs": "83760",
+      "startMs": "80000",
+      "startTimeText": "1:20",
+      "text": "but if we can recognize it, means"
+    },
+    {
+      "endMs": "84960",
+      "startMs": "81640",
+      "startTimeText": "1:21",
+      "text": "there's a pattern, right? And it's just"
+    },
+    {
+      "endMs": "86320",
+      "startMs": "83760",
+      "startTimeText": "1:23",
+      "text": "that our ability to recognize the"
+    },
+    {
+      "endMs": "88000",
+      "startMs": "84960",
+      "startTimeText": "1:24",
+      "text": "pattern surpasses our ability to"
+    },
+    {
+      "endMs": "89640",
+      "startMs": "86320",
+      "startTimeText": "1:26",
+      "text": "translate into the language. All right,"
+    },
+    {
+      "endMs": "91920",
+      "startMs": "88000",
+      "startTimeText": "1:28",
+      "text": "so my goal here is to translate X-Factor"
+    },
+    {
+      "endMs": "93720",
+      "startMs": "89640",
+      "startTimeText": "1:29",
+      "text": "from I don't know what into I know what,"
+    },
+    {
+      "endMs": "94800",
+      "startMs": "91920",
+      "startTimeText": "1:31",
+      "text": "to the best of my very limited ability."
+    },
+    {
+      "endMs": "96160",
+      "startMs": "93720",
+      "startTimeText": "1:33",
+      "text": "And so, since many of you are making"
+    },
+    {
+      "endMs": "97880",
+      "startMs": "94800",
+      "startTimeText": "1:34",
+      "text": "content and ads and putting yourself out"
+    },
+    {
+      "endMs": "99680",
+      "startMs": "96160",
+      "startTimeText": "1:36",
+      "text": "there, um let's start by defining"
+    },
+    {
+      "endMs": "101640",
+      "startMs": "97880",
+      "startTimeText": "1:37",
+      "text": "X-Factor, right? So, X-Factor is when a"
+    },
+    {
+      "endMs": "104960",
+      "startMs": "99680",
+      "startTimeText": "1:39",
+      "text": "person captures outsized interest by"
+    },
+    {
+      "endMs": "107400",
+      "startMs": "101640",
+      "startTimeText": "1:41",
+      "text": "demonstrating multiple rare skills and"
+    },
+    {
+      "endMs": "109520",
+      "startMs": "104960",
+      "startTimeText": "1:44",
+      "text": "or physical traits that do not typically"
+    },
+    {
+      "endMs": "112000",
+      "startMs": "107400",
+      "startTimeText": "1:47",
+      "text": "coexist. And the more rarities they"
+    },
+    {
+      "endMs": "115040",
+      "startMs": "109520",
+      "startTimeText": "1:49",
+      "text": "combine, the more the X-Factor and"
+    },
+    {
+      "endMs": "117240",
+      "startMs": "112000",
+      "startTimeText": "1:52",
+      "text": "interest, by extension, is multiplied."
+    },
+    {
+      "endMs": "119880",
+      "startMs": "115040",
+      "startTimeText": "1:55",
+      "text": "And so, here's kind of like a level of"
+    },
+    {
+      "endMs": "122640",
+      "startMs": "117240",
+      "startTimeText": "1:57",
+      "text": "thinking, levels of X Factor. So if you"
+    },
+    {
+      "endMs": "124720",
+      "startMs": "119880",
+      "startTimeText": "1:59",
+      "text": "have an a sea of average people, if you"
+    },
+    {
+      "endMs": "126800",
+      "startMs": "122640",
+      "startTimeText": "2:02",
+      "text": "have a hot small blonde, all of a sudden"
+    },
+    {
+      "endMs": "128880",
+      "startMs": "124720",
+      "startTimeText": "2:04",
+      "text": "that is rarer. And so there's a little"
+    },
+    {
+      "endMs": "130920",
+      "startMs": "126800",
+      "startTimeText": "2:06",
+      "text": "bit of X Factors. Are there a lot? No,"
+    },
+    {
+      "endMs": "132360",
+      "startMs": "128880",
+      "startTimeText": "2:08",
+      "text": "but there's more than none. Now let's"
+    },
+    {
+      "endMs": "134600",
+      "startMs": "130920",
+      "startTimeText": "2:10",
+      "text": "say that this small blonde has big"
+    },
+    {
+      "endMs": "137280",
+      "startMs": "132360",
+      "startTimeText": "2:12",
+      "text": "boobs. Okay, that's rarer than just"
+    },
+    {
+      "endMs": "139280",
+      "startMs": "134600",
+      "startTimeText": "2:14",
+      "text": "small hot blonde. Who then also grew up"
+    },
+    {
+      "endMs": "141720",
+      "startMs": "137280",
+      "startTimeText": "2:17",
+      "text": "in deep poverty. Huh, that's a little"
+    },
+    {
+      "endMs": "144560",
+      "startMs": "139280",
+      "startTimeText": "2:19",
+      "text": "bit different. Even rarer."
+    },
+    {
+      "endMs": "147760",
+      "startMs": "141720",
+      "startTimeText": "2:21",
+      "text": "But now she's really smart. That's even"
+    },
+    {
+      "endMs": "151080",
+      "startMs": "144560",
+      "startTimeText": "2:24",
+      "text": "rarer. Uh and also can sing amazingly"
+    },
+    {
+      "endMs": "152280",
+      "startMs": "147760",
+      "startTimeText": "2:27",
+      "text": "well. And can write really emotional"
+    },
+    {
+      "endMs": "155600",
+      "startMs": "151080",
+      "startTimeText": "2:31",
+      "text": "songs."
+    },
+    {
+      "endMs": "159480",
+      "startMs": "152280",
+      "startTimeText": "2:32",
+      "text": "And is incredibly self-aware and wise."
+    },
+    {
+      "endMs": "162000",
+      "startMs": "155600",
+      "startTimeText": "2:35",
+      "text": "And also a business tycoon."
+    },
+    {
+      "endMs": "164840",
+      "startMs": "159480",
+      "startTimeText": "2:39",
+      "text": "And also extremely feminine while being"
+    },
+    {
+      "endMs": "167440",
+      "startMs": "162000",
+      "startTimeText": "2:42",
+      "text": "a business tycoon. And also has no"
+    },
+    {
+      "endMs": "169760",
+      "startMs": "164840",
+      "startTimeText": "2:44",
+      "text": "scandals whatsoever for the entirety of"
+    },
+    {
+      "endMs": "171800",
+      "startMs": "167440",
+      "startTimeText": "2:47",
+      "text": "her life. And has incredibly strong"
+    },
+    {
+      "endMs": "173720",
+      "startMs": "169760",
+      "startTimeText": "2:49",
+      "text": "stances but is beloved by black people,"
+    },
+    {
+      "endMs": "175520",
+      "startMs": "171800",
+      "startTimeText": "2:51",
+      "text": "white people, old people, young people,"
+    },
+    {
+      "endMs": "178680",
+      "startMs": "173720",
+      "startTimeText": "2:53",
+      "text": "Republicans and Democrats."
+    },
+    {
+      "endMs": "179800",
+      "startMs": "175520",
+      "startTimeText": "2:55",
+      "text": "Is deeply kind. Is married for 50 plus"
+    },
+    {
+      "endMs": "180920",
+      "startMs": "178680",
+      "startTimeText": "2:58",
+      "text": "years and never shows her husband"
+    },
+    {
+      "endMs": "183720",
+      "startMs": "179800",
+      "startTimeText": "2:59",
+      "text": "publicly."
+    },
+    {
+      "endMs": "185320",
+      "startMs": "180920",
+      "startTimeText": "3:00",
+      "text": "And hit had a hit every single decade"
+    },
+    {
+      "endMs": "188800",
+      "startMs": "183720",
+      "startTimeText": "3:03",
+      "text": "for 60 years."
+    },
+    {
+      "endMs": "190280",
+      "startMs": "185320",
+      "startTimeText": "3:05",
+      "text": "Hit the charts. And is humble. And"
+    },
+    {
+      "endMs": "191959",
+      "startMs": "188800",
+      "startTimeText": "3:08",
+      "text": "whenever she's given uh you know"
+    },
+    {
+      "endMs": "195160",
+      "startMs": "190280",
+      "startTimeText": "3:10",
+      "text": "flowers, she constantly deflects with"
+    },
+    {
+      "endMs": "196400",
+      "startMs": "191959",
+      "startTimeText": "3:11",
+      "text": "jokes and credits God and good luck."
+    },
+    {
+      "endMs": "198000",
+      "startMs": "195160",
+      "startTimeText": "3:15",
+      "text": "And so obviously when you take all those"
+    },
+    {
+      "endMs": "199560",
+      "startMs": "196400",
+      "startTimeText": "3:16",
+      "text": "things together, that's a hell of a lot"
+    },
+    {
+      "endMs": "200920",
+      "startMs": "198000",
+      "startTimeText": "3:18",
+      "text": "of X Factor. And that gives you none"
+    },
+    {
+      "endMs": "202000",
+      "startMs": "199560",
+      "startTimeText": "3:19",
+      "text": "other than the great Dolly Parton."
+    },
+    {
+      "endMs": "204040",
+      "startMs": "200920",
+      "startTimeText": "3:20",
+      "text": "There's literally no other human being"
+    },
+    {
+      "endMs": "206120",
+      "startMs": "202000",
+      "startTimeText": "3:22",
+      "text": "on Earth who satisfies that criteria,"
+    },
+    {
+      "endMs": "208480",
+      "startMs": "204040",
+      "startTimeText": "3:24",
+      "text": "which makes her incredibly rare."
+    },
+    {
+      "endMs": "210800",
+      "startMs": "206120",
+      "startTimeText": "3:26",
+      "text": "And so what makes them so strong"
+    },
+    {
+      "endMs": "212720",
+      "startMs": "208480",
+      "startTimeText": "3:28",
+      "text": "specifically for her is how many of them"
+    },
+    {
+      "endMs": "215920",
+      "startMs": "210800",
+      "startTimeText": "3:30",
+      "text": "are both rare and also, this is the key"
+    },
+    {
+      "endMs": "218400",
+      "startMs": "212720",
+      "startTimeText": "3:32",
+      "text": "point, contradictory. She's sexy but"
+    },
+    {
+      "endMs": "220239",
+      "startMs": "215920",
+      "startTimeText": "3:35",
+      "text": "also saintly. She's a hillbilly but"
+    },
+    {
+      "endMs": "222239",
+      "startMs": "218400",
+      "startTimeText": "3:38",
+      "text": "she's also a business mogul. She's a"
+    },
+    {
+      "endMs": "224000",
+      "startMs": "220239",
+      "startTimeText": "3:40",
+      "text": "bombshell but she's also a songwriter."
+    },
+    {
+      "endMs": "226440",
+      "startMs": "222239",
+      "startTimeText": "3:42",
+      "text": "She's old but she's relevant. She's a"
+    },
+    {
+      "endMs": "228280",
+      "startMs": "224000",
+      "startTimeText": "3:44",
+      "text": "superstar and she's humble. Right? All"
+    },
+    {
+      "endMs": "230400",
+      "startMs": "226440",
+      "startTimeText": "3:46",
+      "text": "of these are what would appear to be"
+    },
+    {
+      "endMs": "232160",
+      "startMs": "228280",
+      "startTimeText": "3:48",
+      "text": "contradictions but they're both uh"
+    },
+    {
+      "endMs": "235280",
+      "startMs": "230400",
+      "startTimeText": "3:50",
+      "text": "they're all in the same person, which"
+    },
+    {
+      "endMs": "236800",
+      "startMs": "232160",
+      "startTimeText": "3:52",
+      "text": "makes her rare and interesting."
+    },
+    {
+      "endMs": "238760",
+      "startMs": "235280",
+      "startTimeText": "3:55",
+      "text": "And so, each of these are rare in their"
+    },
+    {
+      "endMs": "240080",
+      "startMs": "236800",
+      "startTimeText": "3:56",
+      "text": "own. They're rarer when someone has"
+    },
+    {
+      "endMs": "241520",
+      "startMs": "238760",
+      "startTimeText": "3:58",
+      "text": "multiple of them. Like, if someone's"
+    },
+    {
+      "endMs": "243920",
+      "startMs": "240080",
+      "startTimeText": "4:00",
+      "text": "just a sexy hillbilly, that's rare. A"
+    },
+    {
+      "endMs": "245440",
+      "startMs": "241520",
+      "startTimeText": "4:01",
+      "text": "bombshell, uh, and old, and a superstar."
+    },
+    {
+      "endMs": "246360",
+      "startMs": "243920",
+      "startTimeText": "4:03",
+      "text": "Like, each of these adds on top of one"
+    },
+    {
+      "endMs": "248040",
+      "startMs": "245440",
+      "startTimeText": "4:05",
+      "text": "another."
+    },
+    {
+      "endMs": "249360",
+      "startMs": "246360",
+      "startTimeText": "4:06",
+      "text": "But, they're rarest when they coexist"
+    },
+    {
+      "endMs": "250760",
+      "startMs": "248040",
+      "startTimeText": "4:08",
+      "text": "all together."
+    },
+    {
+      "endMs": "252400",
+      "startMs": "249360",
+      "startTimeText": "4:09",
+      "text": "And she managed to do all this while"
+    },
+    {
+      "endMs": "254000",
+      "startMs": "250760",
+      "startTimeText": "4:10",
+      "text": "staying likable because she never got"
+    },
+    {
+      "endMs": "255400",
+      "startMs": "252400",
+      "startTimeText": "4:12",
+      "text": "mixed in politics, and she stayed"
+    },
+    {
+      "endMs": "257120",
+      "startMs": "254000",
+      "startTimeText": "4:14",
+      "text": "relatable. So, both those things, like,"
+    },
+    {
+      "endMs": "258880",
+      "startMs": "255400",
+      "startTimeText": "4:15",
+      "text": "in terms of Alex's notes, those are"
+    },
+    {
+      "endMs": "260600",
+      "startMs": "257120",
+      "startTimeText": "4:17",
+      "text": "notes that I have. And just for God's"
+    },
+    {
+      "endMs": "262160",
+      "startMs": "258880",
+      "startTimeText": "4:18",
+      "text": "sakes, like, to to prove this point, her"
+    },
+    {
+      "endMs": "263680",
+      "startMs": "260600",
+      "startTimeText": "4:20",
+      "text": "number one song of all time is her"
+    },
+    {
+      "endMs": "265280",
+      "startMs": "262160",
+      "startTimeText": "4:22",
+      "text": "begging another woman not to steal her"
+    },
+    {
+      "endMs": "266320",
+      "startMs": "263680",
+      "startTimeText": "4:23",
+      "text": "man. Think about crazy this is. You've"
+    },
+    {
+      "endMs": "269320",
+      "startMs": "265280",
+      "startTimeText": "4:25",
+      "text": "got this"
+    },
+    {
+      "endMs": "273520",
+      "startMs": "266320",
+      "startTimeText": "4:26",
+      "text": "smoking hot bombshell, sweet, epitome of"
+    },
+    {
+      "endMs": "275120",
+      "startMs": "269320",
+      "startTimeText": "4:29",
+      "text": "femininity, class, right? Um,"
+    },
+    {
+      "endMs": "278919",
+      "startMs": "273520",
+      "startTimeText": "4:33",
+      "text": "who's wealthy beyond means and a"
+    },
+    {
+      "endMs": "280960",
+      "startMs": "275120",
+      "startTimeText": "4:35",
+      "text": "superstar, her main song is the most"
+    },
+    {
+      "endMs": "283360",
+      "startMs": "278919",
+      "startTimeText": "4:38",
+      "text": "humbling version of this. It's not like,"
+    },
+    {
+      "endMs": "285520",
+      "startMs": "280960",
+      "startTimeText": "4:40",
+      "text": "\"I'm so hot,\" right? From Mims, or \"This"
+    },
+    {
+      "endMs": "288040",
+      "startMs": "283360",
+      "startTimeText": "4:43",
+      "text": "is why I'm hot,\" right? By Mims. Uh, but"
+    },
+    {
+      "endMs": "289400",
+      "startMs": "285520",
+      "startTimeText": "4:45",
+      "text": "instead, is Jolene, about a bank teller"
+    },
+    {
+      "endMs": "290680",
+      "startMs": "288040",
+      "startTimeText": "4:48",
+      "text": "that she knew had a crush on her"
+    },
+    {
+      "endMs": "292880",
+      "startMs": "289400",
+      "startTimeText": "4:49",
+      "text": "husband, and she was begging her not to"
+    },
+    {
+      "endMs": "295240",
+      "startMs": "290680",
+      "startTimeText": "4:50",
+      "text": "steal her man. Like, how how much more"
+    },
+    {
+      "endMs": "296919",
+      "startMs": "292880",
+      "startTimeText": "4:52",
+      "text": "relatable could you be, right? And so,"
+    },
+    {
+      "endMs": "298240",
+      "startMs": "295240",
+      "startTimeText": "4:55",
+      "text": "that is why Dolly is not just a star,"
+    },
+    {
+      "endMs": "299720",
+      "startMs": "296919",
+      "startTimeText": "4:56",
+      "text": "but a superstar."
+    },
+    {
+      "endMs": "300840",
+      "startMs": "298240",
+      "startTimeText": "4:58",
+      "text": "And so, I'm making this because I"
+    },
+    {
+      "endMs": "302600",
+      "startMs": "299720",
+      "startTimeText": "4:59",
+      "text": "generally believe that there's many more"
+    },
+    {
+      "endMs": "304080",
+      "startMs": "300840",
+      "startTimeText": "5:00",
+      "text": "stars and superstars who are out there"
+    },
+    {
+      "endMs": "305960",
+      "startMs": "302600",
+      "startTimeText": "5:02",
+      "text": "that simply haven't recognized it in"
+    },
+    {
+      "endMs": "307600",
+      "startMs": "304080",
+      "startTimeText": "5:04",
+      "text": "themselves. And so, the reason they"
+    },
+    {
+      "endMs": "308840",
+      "startMs": "305960",
+      "startTimeText": "5:05",
+      "text": "aren't is because people take their"
+    },
+    {
+      "endMs": "310240",
+      "startMs": "307600",
+      "startTimeText": "5:07",
+      "text": "personalities off the shelf. They take"
+    },
+    {
+      "endMs": "312280",
+      "startMs": "308840",
+      "startTimeText": "5:08",
+      "text": "them stock. They take the default"
+    },
+    {
+      "endMs": "313200",
+      "startMs": "310240",
+      "startTimeText": "5:10",
+      "text": "option. And so, I I I put this meme"
+    },
+    {
+      "endMs": "314560",
+      "startMs": "312280",
+      "startTimeText": "5:12",
+      "text": "together that I remember seeing"
+    },
+    {
+      "endMs": "316320",
+      "startMs": "313200",
+      "startTimeText": "5:13",
+      "text": "somewhere or some version of this, but"
+    },
+    {
+      "endMs": "317520",
+      "startMs": "314560",
+      "startTimeText": "5:14",
+      "text": "it's like, white men turning 30, and"
+    },
+    {
+      "endMs": "319680",
+      "startMs": "316320",
+      "startTimeText": "5:16",
+      "text": "they're trying to pick between grilling"
+    },
+    {
+      "endMs": "321600",
+      "startMs": "317520",
+      "startTimeText": "5:17",
+      "text": "meat or craft beer as their new hobby,"
+    },
+    {
+      "endMs": "323560",
+      "startMs": "319680",
+      "startTimeText": "5:19",
+      "text": "right? And so, it's like, people just"
+    },
+    {
+      "endMs": "324600",
+      "startMs": "321600",
+      "startTimeText": "5:21",
+      "text": "stay incredibly confined in these boxes"
+    },
+    {
+      "endMs": "327520",
+      "startMs": "323560",
+      "startTimeText": "5:23",
+      "text": "because they think it's the only"
+    },
+    {
+      "endMs": "328919",
+      "startMs": "324600",
+      "startTimeText": "5:24",
+      "text": "acceptable option socially for them."
+    },
+    {
+      "endMs": "330760",
+      "startMs": "327520",
+      "startTimeText": "5:27",
+      "text": "But, that makes them just like everyone"
+    },
+    {
+      "endMs": "332680",
+      "startMs": "328919",
+      "startTimeText": "5:28",
+      "text": "else. And yes, you will fit in, but you"
+    },
+    {
+      "endMs": "333720",
+      "startMs": "330760",
+      "startTimeText": "5:30",
+      "text": "will never be exceptional. And so, I"
+    },
+    {
+      "endMs": "335360",
+      "startMs": "332680",
+      "startTimeText": "5:32",
+      "text": "want you to think I want you to do this"
+    },
+    {
+      "endMs": "337080",
+      "startMs": "333720",
+      "startTimeText": "5:33",
+      "text": "exercise with me. So, imagine a guy"
+    },
+    {
+      "endMs": "338480",
+      "startMs": "335360",
+      "startTimeText": "5:35",
+      "text": "wearing a trucker hat, uh, wearing a"
+    },
+    {
+      "endMs": "340120",
+      "startMs": "337080",
+      "startTimeText": "5:37",
+      "text": "flannel. Okay? Just think about that"
+    },
+    {
+      "endMs": "342760",
+      "startMs": "338480",
+      "startTimeText": "5:38",
+      "text": "guy. I have an image of just like a"
+    },
+    {
+      "endMs": "344320",
+      "startMs": "340120",
+      "startTimeText": "5:40",
+      "text": "stereotypical guy. All right? Now,"
+    },
+    {
+      "endMs": "345560",
+      "startMs": "342760",
+      "startTimeText": "5:42",
+      "text": "you don't know anything about this guy."
+    },
+    {
+      "endMs": "347919",
+      "startMs": "344320",
+      "startTimeText": "5:44",
+      "text": "But,"
+    },
+    {
+      "endMs": "348960",
+      "startMs": "345560",
+      "startTimeText": "5:45",
+      "text": "what are this guy's political views?"
+    },
+    {
+      "endMs": "349960",
+      "startMs": "347919",
+      "startTimeText": "5:47",
+      "text": "What does he drive? What do you think he"
+    },
+    {
+      "endMs": "350840",
+      "startMs": "348960",
+      "startTimeText": "5:48",
+      "text": "drives? If you look at this guy, if you"
+    },
+    {
+      "endMs": "351920",
+      "startMs": "349960",
+      "startTimeText": "5:49",
+      "text": "had to make a bet, what do you think he"
+    },
+    {
+      "endMs": "352920",
+      "startMs": "350840",
+      "startTimeText": "5:50",
+      "text": "drives?"
+    },
+    {
+      "endMs": "354600",
+      "startMs": "351920",
+      "startTimeText": "5:51",
+      "text": "What do you think his religion is if you"
+    },
+    {
+      "endMs": "356880",
+      "startMs": "352920",
+      "startTimeText": "5:52",
+      "text": "had to guess?"
+    },
+    {
+      "endMs": "358880",
+      "startMs": "354600",
+      "startTimeText": "5:54",
+      "text": "How do you think he likes his coffee?"
+    },
+    {
+      "endMs": "359840",
+      "startMs": "356880",
+      "startTimeText": "5:56",
+      "text": "Do you think he's a vegan?"
+    },
+    {
+      "endMs": "361680",
+      "startMs": "358880",
+      "startTimeText": "5:58",
+      "text": "What do you think his hobbies are or"
+    },
+    {
+      "endMs": "363480",
+      "startMs": "359840",
+      "startTimeText": "5:59",
+      "text": "skills are?"
+    },
+    {
+      "endMs": "366680",
+      "startMs": "361680",
+      "startTimeText": "6:01",
+      "text": "You probably, looking at this, could"
+    },
+    {
+      "endMs": "367920",
+      "startMs": "363480",
+      "startTimeText": "6:03",
+      "text": "make some pretty decent bets."
+    },
+    {
+      "endMs": "369240",
+      "startMs": "366680",
+      "startTimeText": "6:06",
+      "text": "And before you even talk to this person,"
+    },
+    {
+      "endMs": "370200",
+      "startMs": "367920",
+      "startTimeText": "6:07",
+      "text": "you have an idea of who they're going to"
+    },
+    {
+      "endMs": "371840",
+      "startMs": "369240",
+      "startTimeText": "6:09",
+      "text": "be."
+    },
+    {
+      "endMs": "372600",
+      "startMs": "370200",
+      "startTimeText": "6:10",
+      "text": "And even more, you'll have an idea of"
+    },
+    {
+      "endMs": "373400",
+      "startMs": "371840",
+      "startTimeText": "6:11",
+      "text": "whether or not you're going to like"
+    },
+    {
+      "endMs": "374480",
+      "startMs": "372600",
+      "startTimeText": "6:12",
+      "text": "them."
+    },
+    {
+      "endMs": "376640",
+      "startMs": "373400",
+      "startTimeText": "6:13",
+      "text": "And you can fill in the rest of the"
+    },
+    {
+      "endMs": "380800",
+      "startMs": "374480",
+      "startTimeText": "6:14",
+      "text": "details about this person and probably"
+    },
+    {
+      "endMs": "382800",
+      "startMs": "376640",
+      "startTimeText": "6:16",
+      "text": "be mostly right most of the time."
+    },
+    {
+      "endMs": "384880",
+      "startMs": "380800",
+      "startTimeText": "6:20",
+      "text": "And how is that possible? Because of"
+    },
+    {
+      "endMs": "387520",
+      "startMs": "382800",
+      "startTimeText": "6:22",
+      "text": "pattern recognition. Most people who"
+    },
+    {
+      "endMs": "389760",
+      "startMs": "384880",
+      "startTimeText": "6:24",
+      "text": "dress this way act this way. And that is"
+    },
+    {
+      "endMs": "392080",
+      "startMs": "387520",
+      "startTimeText": "6:27",
+      "text": "by nature judging a book by its cover."
+    },
+    {
+      "endMs": "394480",
+      "startMs": "389760",
+      "startTimeText": "6:29",
+      "text": "And I want to be very clear, this will"
+    },
+    {
+      "endMs": "396360",
+      "startMs": "392080",
+      "startTimeText": "6:32",
+      "text": "never stop. We can be as woke as we want"
+    },
+    {
+      "endMs": "398480",
+      "startMs": "394480",
+      "startTimeText": "6:34",
+      "text": "as a culture, people are never going to"
+    },
+    {
+      "endMs": "399640",
+      "startMs": "396360",
+      "startTimeText": "6:36",
+      "text": "stop judging a book by its cover because"
+    },
+    {
+      "endMs": "402200",
+      "startMs": "398480",
+      "startTimeText": "6:38",
+      "text": "it's asking humans not to make"
+    },
+    {
+      "endMs": "403720",
+      "startMs": "399640",
+      "startTimeText": "6:39",
+      "text": "predictive judgments, right? It's acting"
+    },
+    {
+      "endMs": "405080",
+      "startMs": "402200",
+      "startTimeText": "6:42",
+      "text": "asking human to stop recognizing"
+    },
+    {
+      "endMs": "407120",
+      "startMs": "403720",
+      "startTimeText": "6:43",
+      "text": "patterns. Of course, it's going to"
+    },
+    {
+      "endMs": "409800",
+      "startMs": "405080",
+      "startTimeText": "6:45",
+      "text": "happen. It's how we think. It's how we"
+    },
+    {
+      "endMs": "412520",
+      "startMs": "407120",
+      "startTimeText": "6:47",
+      "text": "manage our way through the world."
+    },
+    {
+      "endMs": "413560",
+      "startMs": "409800",
+      "startTimeText": "6:49",
+      "text": "So, in leveraging this innate human"
+    },
+    {
+      "endMs": "415960",
+      "startMs": "412520",
+      "startTimeText": "6:52",
+      "text": "trait that we will not be able to"
+    },
+    {
+      "endMs": "418160",
+      "startMs": "413560",
+      "startTimeText": "6:53",
+      "text": "change, how do you become interesting"
+    },
+    {
+      "endMs": "421440",
+      "startMs": "415960",
+      "startTimeText": "6:55",
+      "text": "and eventually have X factor and then"
+    },
+    {
+      "endMs": "423440",
+      "startMs": "418160",
+      "startTimeText": "6:58",
+      "text": "eventually become a superstar?"
+    },
+    {
+      "endMs": "425320",
+      "startMs": "421440",
+      "startTimeText": "7:01",
+      "text": "You have to break the pattern. You have"
+    },
+    {
+      "endMs": "427440",
+      "startMs": "423440",
+      "startTimeText": "7:03",
+      "text": "to be what they don't expect or they"
+    },
+    {
+      "endMs": "429520",
+      "startMs": "425320",
+      "startTimeText": "7:05",
+      "text": "don't predict. So, if that guy, if I"
+    },
+    {
+      "endMs": "430919",
+      "startMs": "427440",
+      "startTimeText": "7:07",
+      "text": "said, \"Hey, this guy drives a Tesla.\""
+    },
+    {
+      "endMs": "432840",
+      "startMs": "429520",
+      "startTimeText": "7:09",
+      "text": "And he's actually an atheist and he"
+    },
+    {
+      "endMs": "433600",
+      "startMs": "430919",
+      "startTimeText": "7:10",
+      "text": "likes Frappuccinos not black coffee,"
+    },
+    {
+      "endMs": "436000",
+      "startMs": "432840",
+      "startTimeText": "7:12",
+      "text": "which is probably what you would have"
+    },
+    {
+      "endMs": "437560",
+      "startMs": "433600",
+      "startTimeText": "7:13",
+      "text": "guessed. And he actually is a vegan,"
+    },
+    {
+      "endMs": "439800",
+      "startMs": "436000",
+      "startTimeText": "7:16",
+      "text": "right? And he's a world-class computer"
+    },
+    {
+      "endMs": "441640",
+      "startMs": "437560",
+      "startTimeText": "7:17",
+      "text": "hacker. That all of a sudden makes this"
+    },
+    {
+      "endMs": "443080",
+      "startMs": "439800",
+      "startTimeText": "7:19",
+      "text": "person way more interesting or different"
+    },
+    {
+      "endMs": "445560",
+      "startMs": "441640",
+      "startTimeText": "7:21",
+      "text": "than you probably would have expected."
+    },
+    {
+      "endMs": "447560",
+      "startMs": "443080",
+      "startTimeText": "7:23",
+      "text": "And maybe he's a violinist. Huh? These"
+    },
+    {
+      "endMs": "448880",
+      "startMs": "445560",
+      "startTimeText": "7:25",
+      "text": "things don't go together. And so, that"
+    },
+    {
+      "endMs": "450320",
+      "startMs": "447560",
+      "startTimeText": "7:27",
+      "text": "makes him more interesting cuz most"
+    },
+    {
+      "endMs": "452440",
+      "startMs": "448880",
+      "startTimeText": "7:28",
+      "text": "likely, he was able to think for"
+    },
+    {
+      "endMs": "454640",
+      "startMs": "450320",
+      "startTimeText": "7:30",
+      "text": "himself, have high agency, and as a"
+    },
+    {
+      "endMs": "456240",
+      "startMs": "452440",
+      "startTimeText": "7:32",
+      "text": "result, make his own decisions about the"
+    },
+    {
+      "endMs": "458000",
+      "startMs": "454640",
+      "startTimeText": "7:34",
+      "text": "world rather than just saying, \"I guess"
+    },
+    {
+      "endMs": "460000",
+      "startMs": "456240",
+      "startTimeText": "7:36",
+      "text": "I'm 30 and I'm a white guy. I got to go"
+    },
+    {
+      "endMs": "461880",
+      "startMs": "458000",
+      "startTimeText": "7:38",
+      "text": "craft beers or grilling meats. Which"
+    },
+    {
+      "endMs": "463040",
+      "startMs": "460000",
+      "startTimeText": "7:40",
+      "text": "Which am I going to pick?\" Right? Cuz he"
+    },
+    {
+      "endMs": "465560",
+      "startMs": "461880",
+      "startTimeText": "7:41",
+      "text": "actually decided to think for himself."
+    },
+    {
+      "endMs": "466760",
+      "startMs": "463040",
+      "startTimeText": "7:43",
+      "text": "Maybe I don't want any of those things."
+    },
+    {
+      "endMs": "468640",
+      "startMs": "465560",
+      "startTimeText": "7:45",
+      "text": "And the degree to which you break the"
+    },
+    {
+      "endMs": "471080",
+      "startMs": "466760",
+      "startTimeText": "7:46",
+      "text": "pattern, you'll garner general"
+    },
+    {
+      "endMs": "472920",
+      "startMs": "468640",
+      "startTimeText": "7:48",
+      "text": "attention. And degree to which you break"
+    },
+    {
+      "endMs": "475480",
+      "startMs": "471080",
+      "startTimeText": "7:51",
+      "text": "it and then they like the way that you"
+    },
+    {
+      "endMs": "477560",
+      "startMs": "472920",
+      "startTimeText": "7:52",
+      "text": "broke it, you'll get positive attention."
+    },
+    {
+      "endMs": "479160",
+      "startMs": "475480",
+      "startTimeText": "7:55",
+      "text": "And so you need to learn to fully lean"
+    },
+    {
+      "endMs": "480560",
+      "startMs": "477560",
+      "startTimeText": "7:57",
+      "text": "into and embrace the parts of you that"
+    },
+    {
+      "endMs": "481920",
+      "startMs": "479160",
+      "startTimeText": "7:59",
+      "text": "make you different. And these are"
+    },
+    {
+      "endMs": "483840",
+      "startMs": "480560",
+      "startTimeText": "8:00",
+      "text": "typically the parts of you that you hide"
+    },
+    {
+      "endMs": "484960",
+      "startMs": "481920",
+      "startTimeText": "8:01",
+      "text": "for fear of judgment and mockery. And"
+    },
+    {
+      "endMs": "486400",
+      "startMs": "483840",
+      "startTimeText": "8:03",
+      "text": "these are also the parts of you that"
+    },
+    {
+      "endMs": "487960",
+      "startMs": "484960",
+      "startTimeText": "8:04",
+      "text": "other people don't often like or they"
+    },
+    {
+      "endMs": "489160",
+      "startMs": "486400",
+      "startTimeText": "8:06",
+      "text": "think are weird or cringe or just"
+    },
+    {
+      "endMs": "490440",
+      "startMs": "487960",
+      "startTimeText": "8:07",
+      "text": "doesn't fit in with the pack, which"
+    },
+    {
+      "endMs": "492600",
+      "startMs": "489160",
+      "startTimeText": "8:09",
+      "text": "makes sense because how can you become"
+    },
+    {
+      "endMs": "494040",
+      "startMs": "490440",
+      "startTimeText": "8:10",
+      "text": "exceptional without being different?"
+    },
+    {
+      "endMs": "495480",
+      "startMs": "492600",
+      "startTimeText": "8:12",
+      "text": "Right? And sometimes these are things"
+    },
+    {
+      "endMs": "497520",
+      "startMs": "494040",
+      "startTimeText": "8:14",
+      "text": "you don't like about yourself."
+    },
+    {
+      "endMs": "499000",
+      "startMs": "495480",
+      "startTimeText": "8:15",
+      "text": "But that's okay."
+    },
+    {
+      "endMs": "499919",
+      "startMs": "497520",
+      "startTimeText": "8:17",
+      "text": "And so for example,"
+    },
+    {
+      "endMs": "501560",
+      "startMs": "499000",
+      "startTimeText": "8:19",
+      "text": "by different people throughout my"
+    },
+    {
+      "endMs": "502560",
+      "startMs": "499919",
+      "startTimeText": "8:19",
+      "text": "career, I was told adamantly, I want to"
+    },
+    {
+      "endMs": "503440",
+      "startMs": "501560",
+      "startTimeText": "8:21",
+      "text": "tell you four things that I was told"
+    },
+    {
+      "endMs": "505320",
+      "startMs": "502560",
+      "startTimeText": "8:22",
+      "text": "adamantly throughout my career. Number"
+    },
+    {
+      "endMs": "506840",
+      "startMs": "503440",
+      "startTimeText": "8:23",
+      "text": "one, don't try doing YouTube or getting"
+    },
+    {
+      "endMs": "507720",
+      "startMs": "505320",
+      "startTimeText": "8:25",
+      "text": "on camera. It's really hard and you're"
+    },
+    {
+      "endMs": "509040",
+      "startMs": "506840",
+      "startTimeText": "8:26",
+      "text": "probably not going to do well with it."
+    },
+    {
+      "endMs": "510640",
+      "startMs": "507720",
+      "startTimeText": "8:27",
+      "text": "This is what I was literally told, don't"
+    },
+    {
+      "endMs": "512280",
+      "startMs": "509040",
+      "startTimeText": "8:29",
+      "text": "do it."
+    },
+    {
+      "endMs": "513560",
+      "startMs": "510640",
+      "startTimeText": "8:30",
+      "text": "Number two, they told me to wear a suit"
+    },
+    {
+      "endMs": "514840",
+      "startMs": "512280",
+      "startTimeText": "8:32",
+      "text": "in order to be taken seriously in"
+    },
+    {
+      "endMs": "516360",
+      "startMs": "513560",
+      "startTimeText": "8:33",
+      "text": "business. This was like one of the first"
+    },
+    {
+      "endMs": "517680",
+      "startMs": "514840",
+      "startTimeText": "8:34",
+      "text": "piece of advice I had and you can still"
+    },
+    {
+      "endMs": "519800",
+      "startMs": "516360",
+      "startTimeText": "8:36",
+      "text": "see I think on my Facebook I still kept"
+    },
+    {
+      "endMs": "521280",
+      "startMs": "517680",
+      "startTimeText": "8:37",
+      "text": "the picture of me in a suit and I I put"
+    },
+    {
+      "endMs": "522760",
+      "startMs": "519800",
+      "startTimeText": "8:39",
+      "text": "this suit on cuz I thought that that's"
+    },
+    {
+      "endMs": "524600",
+      "startMs": "521280",
+      "startTimeText": "8:41",
+      "text": "what I needed to do."
+    },
+    {
+      "endMs": "526120",
+      "startMs": "522760",
+      "startTimeText": "8:42",
+      "text": "Um do not talk about your philosophy on"
+    },
+    {
+      "endMs": "527839",
+      "startMs": "524600",
+      "startTimeText": "8:44",
+      "text": "life because no one cares. This was"
+    },
+    {
+      "endMs": "529880",
+      "startMs": "526120",
+      "startTimeText": "8:46",
+      "text": "something that I was told kind of on my"
+    },
+    {
+      "endMs": "531120",
+      "startMs": "527839",
+      "startTimeText": "8:47",
+      "text": "way up uh in terms of like content"
+    },
+    {
+      "endMs": "532040",
+      "startMs": "529880",
+      "startTimeText": "8:49",
+      "text": "buckets and I was like I kind of talk"
+    },
+    {
+      "endMs": "532680",
+      "startMs": "531120",
+      "startTimeText": "8:51",
+      "text": "about this stuff even though it didn't"
+    },
+    {
+      "endMs": "534880",
+      "startMs": "532040",
+      "startTimeText": "8:52",
+      "text": "really have anything to do with"
+    },
+    {
+      "endMs": "535800",
+      "startMs": "532680",
+      "startTimeText": "8:52",
+      "text": "business. Um but it's now probably one"
+    },
+    {
+      "endMs": "536480",
+      "startMs": "534880",
+      "startTimeText": "8:54",
+      "text": "of the number one things that people"
+    },
+    {
+      "endMs": "537920",
+      "startMs": "535800",
+      "startTimeText": "8:55",
+      "text": "stop me in the street and they're like,"
+    },
+    {
+      "endMs": "539120",
+      "startMs": "536480",
+      "startTimeText": "8:56",
+      "text": "\"No, I love the business stuff but when"
+    },
+    {
+      "endMs": "540120",
+      "startMs": "537920",
+      "startTimeText": "8:57",
+      "text": "you kind of sprinkle in some of the life"
+    },
+    {
+      "endMs": "541920",
+      "startMs": "539120",
+      "startTimeText": "8:59",
+      "text": "pieces, like those are the things that"
+    },
+    {
+      "endMs": "542800",
+      "startMs": "540120",
+      "startTimeText": "9:00",
+      "text": "actually helped me the most.\" Um don't"
+    },
+    {
+      "endMs": "544440",
+      "startMs": "541920",
+      "startTimeText": "9:01",
+      "text": "talk about how much money you make"
+    },
+    {
+      "endMs": "547240",
+      "startMs": "542800",
+      "startTimeText": "9:02",
+      "text": "because it's really cringe."
+    },
+    {
+      "endMs": "549000",
+      "startMs": "544440",
+      "startTimeText": "9:04",
+      "text": "I I talk about money. It's just part of"
+    },
+    {
+      "endMs": "550120",
+      "startMs": "547240",
+      "startTimeText": "9:07",
+      "text": "who I am. Right? And it took me some"
+    },
+    {
+      "endMs": "551120",
+      "startMs": "549000",
+      "startTimeText": "9:09",
+      "text": "time to get over these things but I"
+    },
+    {
+      "endMs": "552280",
+      "startMs": "550120",
+      "startTimeText": "9:10",
+      "text": "ended up going against all of this"
+    },
+    {
+      "endMs": "553720",
+      "startMs": "551120",
+      "startTimeText": "9:11",
+      "text": "because it didn't feel natural to who I"
+    },
+    {
+      "endMs": "555880",
+      "startMs": "552280",
+      "startTimeText": "9:12",
+      "text": "am. Right? And I think about life every"
+    },
+    {
+      "endMs": "557160",
+      "startMs": "553720",
+      "startTimeText": "9:13",
+      "text": "day and I I think about those things. I"
+    },
+    {
+      "endMs": "559080",
+      "startMs": "555880",
+      "startTimeText": "9:15",
+      "text": "think about money and I talk about money"
+    },
+    {
+      "endMs": "560880",
+      "startMs": "557160",
+      "startTimeText": "9:17",
+      "text": "openly. Um I wear what I want to wear. I"
+    },
+    {
+      "endMs": "562440",
+      "startMs": "559080",
+      "startTimeText": "9:19",
+      "text": "want to wear what I'm comfortable with."
+    },
+    {
+      "endMs": "564000",
+      "startMs": "560880",
+      "startTimeText": "9:20",
+      "text": "And that'll change when I want it to"
+    },
+    {
+      "endMs": "567240",
+      "startMs": "562440",
+      "startTimeText": "9:22",
+      "text": "change. And I think the meta is just"
+    },
+    {
+      "endMs": "569560",
+      "startMs": "564000",
+      "startTimeText": "9:24",
+      "text": "like being you. Right? And to be clear,"
+    },
+    {
+      "endMs": "570960",
+      "startMs": "567240",
+      "startTimeText": "9:27",
+      "text": "I'm not saying that I'm a superstar."
+    },
+    {
+      "endMs": "572320",
+      "startMs": "569560",
+      "startTimeText": "9:29",
+      "text": "Dolly is in a league of her own. I'm"
+    },
+    {
+      "endMs": "573320",
+      "startMs": "570960",
+      "startTimeText": "9:30",
+      "text": "saying that this is an observation and"
+    },
+    {
+      "endMs": "574640",
+      "startMs": "572320",
+      "startTimeText": "9:32",
+      "text": "applying it to myself because I've"
+    },
+    {
+      "endMs": "576920",
+      "startMs": "573320",
+      "startTimeText": "9:33",
+      "text": "garnered above average interest and I'm"
+    },
+    {
+      "endMs": "578560",
+      "startMs": "574640",
+      "startTimeText": "9:34",
+      "text": "saying to help. And so there are parts"
+    },
+    {
+      "endMs": "579920",
+      "startMs": "576920",
+      "startTimeText": "9:36",
+      "text": "of yourself that make you different and"
+    },
+    {
+      "endMs": "581400",
+      "startMs": "578560",
+      "startTimeText": "9:38",
+      "text": "they make you an exception. They allow"
+    },
+    {
+      "endMs": "582840",
+      "startMs": "579920",
+      "startTimeText": "9:39",
+      "text": "you to break the pattern. And the more"
+    },
+    {
+      "endMs": "585280",
+      "startMs": "581400",
+      "startTimeText": "9:41",
+      "text": "different and rare they are, the more"
+    },
+    {
+      "endMs": "587160",
+      "startMs": "582840",
+      "startTimeText": "9:42",
+      "text": "exceptional they are. And the more of"
+    },
+    {
+      "endMs": "588600",
+      "startMs": "585280",
+      "startTimeText": "9:45",
+      "text": "the pattern they break."
+    },
+    {
+      "endMs": "590840",
+      "startMs": "587160",
+      "startTimeText": "9:47",
+      "text": "And so, I believe the reason people say"
+    },
+    {
+      "endMs": "592560",
+      "startMs": "588600",
+      "startTimeText": "9:48",
+      "text": "X factor and je ne sais quoi is because"
+    },
+    {
+      "endMs": "594280",
+      "startMs": "590840",
+      "startTimeText": "9:50",
+      "text": "of the truth of each of these statements"
+    },
+    {
+      "endMs": "596040",
+      "startMs": "592560",
+      "startTimeText": "9:52",
+      "text": "have embedded inside of them."
+    },
+    {
+      "endMs": "598880",
+      "startMs": "594280",
+      "startTimeText": "9:54",
+      "text": "And so, je ne sais quoi is I don't know"
+    },
+    {
+      "endMs": "600160",
+      "startMs": "596040",
+      "startTimeText": "9:56",
+      "text": "what because no single what is what"
+    },
+    {
+      "endMs": "601320",
+      "startMs": "598880",
+      "startTimeText": "9:58",
+      "text": "makes someone exceptional, right? It's"
+    },
+    {
+      "endMs": "602520",
+      "startMs": "600160",
+      "startTimeText": "10:00",
+      "text": "not just being blonde or having big"
+    },
+    {
+      "endMs": "604360",
+      "startMs": "601320",
+      "startTimeText": "10:01",
+      "text": "boobs or being humble or being good at"
+    },
+    {
+      "endMs": "605320",
+      "startMs": "602520",
+      "startTimeText": "10:02",
+      "text": "business or being a good singer, right?"
+    },
+    {
+      "endMs": "607760",
+      "startMs": "604360",
+      "startTimeText": "10:04",
+      "text": "If someone just has big boobs, are they"
+    },
+    {
+      "endMs": "608960",
+      "startMs": "605320",
+      "startTimeText": "10:05",
+      "text": "exceptional? Not really, right? What"
+    },
+    {
+      "endMs": "610600",
+      "startMs": "607760",
+      "startTimeText": "10:07",
+      "text": "about just being humble? Is that"
+    },
+    {
+      "endMs": "613320",
+      "startMs": "608960",
+      "startTimeText": "10:08",
+      "text": "exceptional? Not really. Just being good"
+    },
+    {
+      "endMs": "616280",
+      "startMs": "610600",
+      "startTimeText": "10:10",
+      "text": "at business? Not really, right?"
+    },
+    {
+      "endMs": "617560",
+      "startMs": "613320",
+      "startTimeText": "10:13",
+      "text": "Does that make you a star? No."
+    },
+    {
+      "endMs": "619400",
+      "startMs": "616280",
+      "startTimeText": "10:16",
+      "text": "And that's why it's difficult to put"
+    },
+    {
+      "endMs": "620560",
+      "startMs": "617560",
+      "startTimeText": "10:17",
+      "text": "this into words because when you name"
+    },
+    {
+      "endMs": "621800",
+      "startMs": "619400",
+      "startTimeText": "10:19",
+      "text": "one of them, it doesn't seem"
+    },
+    {
+      "endMs": "623240",
+      "startMs": "620560",
+      "startTimeText": "10:20",
+      "text": "extraordinary at all. It actually seems"
+    },
+    {
+      "endMs": "624920",
+      "startMs": "621800",
+      "startTimeText": "10:21",
+      "text": "almost ordinary."
+    },
+    {
+      "endMs": "626680",
+      "startMs": "623240",
+      "startTimeText": "10:23",
+      "text": "It's having them all, aka the full"
+    },
+    {
+      "endMs": "628240",
+      "startMs": "624920",
+      "startTimeText": "10:24",
+      "text": "package."
+    },
+    {
+      "endMs": "629840",
+      "startMs": "626680",
+      "startTimeText": "10:26",
+      "text": "And the second, like I said, so that's"
+    },
+    {
+      "endMs": "631080",
+      "startMs": "628240",
+      "startTimeText": "10:28",
+      "text": "the je ne sais quoi, that's the what."
+    },
+    {
+      "endMs": "632520",
+      "startMs": "629840",
+      "startTimeText": "10:29",
+      "text": "The second is the X factor, which is the"
+    },
+    {
+      "endMs": "634200",
+      "startMs": "631080",
+      "startTimeText": "10:31",
+      "text": "English version of this. And I think"
+    },
+    {
+      "endMs": "636440",
+      "startMs": "632520",
+      "startTimeText": "10:32",
+      "text": "about this is like X marks the spot,"
+    },
+    {
+      "endMs": "637920",
+      "startMs": "634200",
+      "startTimeText": "10:34",
+      "text": "right? And so, it's the cross-section of"
+    },
+    {
+      "endMs": "640040",
+      "startMs": "636440",
+      "startTimeText": "10:36",
+      "text": "all these things where stardom lives,"
+    },
+    {
+      "endMs": "641440",
+      "startMs": "637920",
+      "startTimeText": "10:37",
+      "text": "right? You got singer, classy, bimbo,"
+    },
+    {
+      "endMs": "642680",
+      "startMs": "640040",
+      "startTimeText": "10:40",
+      "text": "smart, business mogul. The"
+    },
+    {
+      "endMs": "644040",
+      "startMs": "641440",
+      "startTimeText": "10:41",
+      "text": "cross-section, like what's the Venn"
+    },
+    {
+      "endMs": "645920",
+      "startMs": "642680",
+      "startTimeText": "10:42",
+      "text": "diagram, the intersection of all those"
+    },
+    {
+      "endMs": "647800",
+      "startMs": "644040",
+      "startTimeText": "10:44",
+      "text": "points is one person. That is the X"
+    },
+    {
+      "endMs": "649200",
+      "startMs": "645920",
+      "startTimeText": "10:45",
+      "text": "factor."
+    },
+    {
+      "endMs": "650400",
+      "startMs": "647800",
+      "startTimeText": "10:47",
+      "text": "And I think that that's something that"
+    },
+    {
+      "endMs": "651480",
+      "startMs": "649200",
+      "startTimeText": "10:49",
+      "text": "we can all take from Dolly and we can"
+    },
+    {
+      "endMs": "653120",
+      "startMs": "650400",
+      "startTimeText": "10:50",
+      "text": "apply to our own lives is to be"
+    },
+    {
+      "endMs": "655320",
+      "startMs": "651480",
+      "startTimeText": "10:51",
+      "text": "violently ourselves with all of our"
+    },
+    {
+      "endMs": "656800",
+      "startMs": "653120",
+      "startTimeText": "10:53",
+      "text": "idiosyncrasies, our quirks, the atypical"
+    },
+    {
+      "endMs": "659280",
+      "startMs": "655320",
+      "startTimeText": "10:55",
+      "text": "ways that we have of behaving, accept"
+    },
+    {
+      "endMs": "661839",
+      "startMs": "656800",
+      "startTimeText": "10:56",
+      "text": "them as obviously different, but in so"
+    },
+    {
+      "endMs": "662920",
+      "startMs": "659280",
+      "startTimeText": "10:59",
+      "text": "doing make us exceptional."
+    },
+    {
+      "endMs": "664839",
+      "startMs": "661839",
+      "startTimeText": "11:01",
+      "text": "And to be clear, I don't want to end"
+    },
+    {
+      "endMs": "667000",
+      "startMs": "662920",
+      "startTimeText": "11:02",
+      "text": "this with a be yourself takeaway. If"
+    },
+    {
+      "endMs": "668480",
+      "startMs": "664839",
+      "startTimeText": "11:04",
+      "text": "Dolly couldn't sing or write hell of a"
+    },
+    {
+      "endMs": "670080",
+      "startMs": "667000",
+      "startTimeText": "11:07",
+      "text": "good songs like she did, she wouldn't"
+    },
+    {
+      "endMs": "672200",
+      "startMs": "668480",
+      "startTimeText": "11:08",
+      "text": "have been a star. You have to be really"
+    },
+    {
+      "endMs": "673440",
+      "startMs": "670080",
+      "startTimeText": "11:10",
+      "text": "[ __ ] good, period. End of state like"
+    },
+    {
+      "endMs": "675160",
+      "startMs": "672200",
+      "startTimeText": "11:12",
+      "text": "end of statement."
+    },
+    {
+      "endMs": "677240",
+      "startMs": "673440",
+      "startTimeText": "11:13",
+      "text": "But, there are a lot of really [ __ ]"
+    },
+    {
+      "endMs": "679440",
+      "startMs": "675160",
+      "startTimeText": "11:15",
+      "text": "good people who aren't stars or don't"
+    },
+    {
+      "endMs": "680800",
+      "startMs": "677240",
+      "startTimeText": "11:17",
+      "text": "stick. And that is because number one,"
+    },
+    {
+      "endMs": "682200",
+      "startMs": "679440",
+      "startTimeText": "11:19",
+      "text": "they're good, but they're not great."
+    },
+    {
+      "endMs": "683920",
+      "startMs": "680800",
+      "startTimeText": "11:20",
+      "text": "They're not really [ __ ] great. Or"
+    },
+    {
+      "endMs": "686280",
+      "startMs": "682200",
+      "startTimeText": "11:22",
+      "text": "number two, even if they are, they have"
+    },
+    {
+      "endMs": "687440",
+      "startMs": "683920",
+      "startTimeText": "11:23",
+      "text": "nothing else."
+    },
+    {
+      "endMs": "688760",
+      "startMs": "686280",
+      "startTimeText": "11:26",
+      "text": "And so, just like the French saying je"
+    },
+    {
+      "endMs": "691080",
+      "startMs": "687440",
+      "startTimeText": "11:27",
+      "text": "ne sais quoi,"
+    },
+    {
+      "endMs": "692520",
+      "startMs": "688760",
+      "startTimeText": "11:28",
+      "text": "it's not about having one thing."
+    },
+    {
+      "endMs": "694000",
+      "startMs": "691080",
+      "startTimeText": "11:31",
+      "text": "It's about having everything. It's about"
+    },
+    {
+      "endMs": "695960",
+      "startMs": "692520",
+      "startTimeText": "11:32",
+      "text": "having the full package. And that is"
+    },
+    {
+      "endMs": "697360",
+      "startMs": "694000",
+      "startTimeText": "11:34",
+      "text": "what X Factor is all about. And that's"
+    },
+    {
+      "endMs": "699160",
+      "startMs": "695960",
+      "startTimeText": "11:35",
+      "text": "how you stand out in a world that wants"
+    },
+    {
+      "endMs": "700720",
+      "startMs": "697360",
+      "startTimeText": "11:37",
+      "text": "to blend in is be really [ __ ] good"
+    },
+    {
+      "endMs": "702400",
+      "startMs": "699160",
+      "startTimeText": "11:39",
+      "text": "and be fully you and embrace the"
+    },
+    {
+      "endMs": "704560",
+      "startMs": "700720",
+      "startTimeText": "11:40",
+      "text": "components of yourself that don't"
+    },
+    {
+      "endMs": "706480",
+      "startMs": "702400",
+      "startTimeText": "11:42",
+      "text": "necessarily belong together. You want to"
+    },
+    {
+      "endMs": "707720",
+      "startMs": "704560",
+      "startTimeText": "11:44",
+      "text": "You want to have the pieces of yourself"
+    },
+    {
+      "endMs": "709480",
+      "startMs": "706480",
+      "startTimeText": "11:46",
+      "text": "that are"
+    },
+    {
+      "endMs": "711680",
+      "startMs": "707720",
+      "startTimeText": "11:47",
+      "text": "I think about death in a weird way. I'm"
+    },
+    {
+      "endMs": "713440",
+      "startMs": "709480",
+      "startTimeText": "11:49",
+      "text": "also kind of good at violin. I also kind"
+    },
+    {
+      "endMs": "715840",
+      "startMs": "711680",
+      "startTimeText": "11:51",
+      "text": "of like public speaking and I do some"
+    },
+    {
+      "endMs": "718240",
+      "startMs": "713440",
+      "startTimeText": "11:53",
+      "text": "coding. Like why do you think Joe Rogan"
+    },
+    {
+      "endMs": "722720",
+      "startMs": "715840",
+      "startTimeText": "11:55",
+      "text": "can talk about UFC you know fighting and"
+    },
+    {
+      "endMs": "724200",
+      "startMs": "718240",
+      "startTimeText": "11:58",
+      "text": "comedy and biohacking and politics and"
+    },
+    {
+      "endMs": "725320",
+      "startMs": "722720",
+      "startTimeText": "12:02",
+      "text": "aliens? Like all of these things don't"
+    },
+    {
+      "endMs": "726440",
+      "startMs": "724200",
+      "startTimeText": "12:04",
+      "text": "necessarily belong together, but the"
+    },
+    {
+      "endMs": "728800",
+      "startMs": "725320",
+      "startTimeText": "12:05",
+      "text": "only intersection of those points is"
+    },
+    {
+      "endMs": "730280",
+      "startMs": "726440",
+      "startTimeText": "12:06",
+      "text": "him, right? So like he has X Factor. He"
+    },
+    {
+      "endMs": "731840",
+      "startMs": "728800",
+      "startTimeText": "12:08",
+      "text": "has a star and typically all of that"
+    },
+    {
+      "endMs": "734240",
+      "startMs": "730280",
+      "startTimeText": "12:10",
+      "text": "comes from this level of agency of"
+    },
+    {
+      "endMs": "737040",
+      "startMs": "731840",
+      "startTimeText": "12:11",
+      "text": "self-acceptance, right? Is that she,"
+    },
+    {
+      "endMs": "739240",
+      "startMs": "734240",
+      "startTimeText": "12:14",
+      "text": "Dolly Parton, Joe Rogan are willing to"
+    },
+    {
+      "endMs": "741600",
+      "startMs": "737040",
+      "startTimeText": "12:17",
+      "text": "accept themselves as they were and just"
+    },
+    {
+      "endMs": "743600",
+      "startMs": "739240",
+      "startTimeText": "12:19",
+      "text": "say this is what I'm into. And by doing"
+    },
+    {
+      "endMs": "747240",
+      "startMs": "741600",
+      "startTimeText": "12:21",
+      "text": "that people"
+    },
+    {
+      "endMs": "749320",
+      "startMs": "743600",
+      "startTimeText": "12:23",
+      "text": "either admire that level of courage or"
+    },
+    {
+      "endMs": "751240",
+      "startMs": "747240",
+      "startTimeText": "12:27",
+      "text": "and or they see a part of themselves in"
+    },
+    {
+      "endMs": "753000",
+      "startMs": "749320",
+      "startTimeText": "12:29",
+      "text": "you because the more diverse the"
+    },
+    {
+      "endMs": "754680",
+      "startMs": "751240",
+      "startTimeText": "12:31",
+      "text": "different interests you have, the more"
+    },
+    {
+      "endMs": "756480",
+      "startMs": "753000",
+      "startTimeText": "12:33",
+      "text": "diverse of an audience you can also"
+    },
+    {
+      "endMs": "758680",
+      "startMs": "754680",
+      "startTimeText": "12:34",
+      "text": "merely attract, right? Because if you"
+    },
+    {
+      "endMs": "761320",
+      "startMs": "756480",
+      "startTimeText": "12:36",
+      "text": "are just the stock off the shelf, I"
+    },
+    {
+      "endMs": "763880",
+      "startMs": "758680",
+      "startTimeText": "12:38",
+      "text": "drink black coffee, I'm conservative, I"
+    },
+    {
+      "endMs": "765800",
+      "startMs": "761320",
+      "startTimeText": "12:41",
+      "text": "I wear flannels and a trucker hat and I"
+    },
+    {
+      "endMs": "767360",
+      "startMs": "763880",
+      "startTimeText": "12:43",
+      "text": "have a Christian worldview"
+    },
+    {
+      "endMs": "768280",
+      "startMs": "765800",
+      "startTimeText": "12:45",
+      "text": "etc. etc. right? Like right off the"
+    },
+    {
+      "endMs": "769160",
+      "startMs": "767360",
+      "startTimeText": "12:47",
+      "text": "shelf. And again, I'm not saying there's"
+    },
+    {
+      "endMs": "770440",
+      "startMs": "768280",
+      "startTimeText": "12:48",
+      "text": "nothing wrong with that. I'm just saying"
+    },
+    {
+      "endMs": "772160",
+      "startMs": "769160",
+      "startTimeText": "12:49",
+      "text": "it's common."
+    },
+    {
+      "endMs": "774160",
+      "startMs": "770440",
+      "startTimeText": "12:50",
+      "text": "The likelihood that you have to be able"
+    },
+    {
+      "endMs": "776080",
+      "startMs": "772160",
+      "startTimeText": "12:52",
+      "text": "to put other things in that bucket."
+    },
+    {
+      "endMs": "777320",
+      "startMs": "774160",
+      "startTimeText": "12:54",
+      "text": "What's the something you know something"
+    },
+    {
+      "endMs": "780640",
+      "startMs": "776080",
+      "startTimeText": "12:56",
+      "text": "spice and everything nice or whatever"
+    },
+    {
+      "endMs": "782640",
+      "startMs": "777320",
+      "startTimeText": "12:57",
+      "text": "the the little child saying is."
+    },
+    {
+      "endMs": "785240",
+      "startMs": "780640",
+      "startTimeText": "13:00",
+      "text": "You have to have X Factor which means"
+    },
+    {
+      "endMs": "786560",
+      "startMs": "782640",
+      "startTimeText": "13:02",
+      "text": "that usually there's parts of you and"
+    },
+    {
+      "endMs": "789120",
+      "startMs": "785240",
+      "startTimeText": "13:05",
+      "text": "this is why I believe this genuinely is"
+    },
+    {
+      "endMs": "791640",
+      "startMs": "786560",
+      "startTimeText": "13:06",
+      "text": "that people all have unique elements of"
+    },
+    {
+      "endMs": "792920",
+      "startMs": "789120",
+      "startTimeText": "13:09",
+      "text": "themselves that are more unique, but"
+    },
+    {
+      "endMs": "794040",
+      "startMs": "791640",
+      "startTimeText": "13:11",
+      "text": "because they're afraid of judgment,"
+    },
+    {
+      "endMs": "795880",
+      "startMs": "792920",
+      "startTimeText": "13:12",
+      "text": "they're unwilling to share them because"
+    },
+    {
+      "endMs": "798720",
+      "startMs": "794040",
+      "startTimeText": "13:14",
+      "text": "they want to be included in the group,"
+    },
+    {
+      "endMs": "802760",
+      "startMs": "795880",
+      "startTimeText": "13:15",
+      "text": "which makes sense evolutionarily, but"
+    },
+    {
+      "endMs": "804760",
+      "startMs": "798720",
+      "startTimeText": "13:18",
+      "text": "not in terms of achieving kind of"
+    },
+    {
+      "endMs": "806800",
+      "startMs": "802760",
+      "startTimeText": "13:22",
+      "text": "exceptionalism. And to be clear, I'm not"
+    },
+    {
+      "endMs": "808560",
+      "startMs": "804760",
+      "startTimeText": "13:24",
+      "text": "saying that being exceptional is the"
+    },
+    {
+      "endMs": "809640",
+      "startMs": "806800",
+      "startTimeText": "13:26",
+      "text": "goal."
+    },
+    {
+      "endMs": "810640",
+      "startMs": "808560",
+      "startTimeText": "13:28",
+      "text": "You know, you can choose whether you"
+    },
+    {
+      "endMs": "812280",
+      "startMs": "809640",
+      "startTimeText": "13:29",
+      "text": "want to be happy or you want to be"
+    },
+    {
+      "endMs": "813360",
+      "startMs": "810640",
+      "startTimeText": "13:30",
+      "text": "special. Like those are not necessarily"
+    },
+    {
+      "endMs": "814680",
+      "startMs": "812280",
+      "startTimeText": "13:32",
+      "text": "always the same thing. They're different"
+    },
+    {
+      "endMs": "816760",
+      "startMs": "813360",
+      "startTimeText": "13:33",
+      "text": "goals. Sometimes they they can't"
+    },
+    {
+      "endMs": "817520",
+      "startMs": "814680",
+      "startTimeText": "13:34",
+      "text": "overlap. I think Dolly was both."
+    },
+    {
+      "endMs": "818880",
+      "startMs": "816760",
+      "startTimeText": "13:36",
+      "text": "Um,"
+    },
+    {
+      "endMs": "820560",
+      "startMs": "817520",
+      "startTimeText": "13:37",
+      "text": "but they are different objectives. And"
+    },
+    {
+      "endMs": "822320",
+      "startMs": "818880",
+      "startTimeText": "13:38",
+      "text": "so I have a huge amount of respect for"
+    },
+    {
+      "endMs": "824040",
+      "startMs": "820560",
+      "startTimeText": "13:40",
+      "text": "Dolly Parton. I was looking at all of"
+    },
+    {
+      "endMs": "825640",
+      "startMs": "822320",
+      "startTimeText": "13:42",
+      "text": "her stuff um"
+    },
+    {
+      "endMs": "827680",
+      "startMs": "824040",
+      "startTimeText": "13:44",
+      "text": "in the wake of her death obviously. And"
+    },
+    {
+      "endMs": "829760",
+      "startMs": "825640",
+      "startTimeText": "13:45",
+      "text": "so uh that is why I'm dedicating this to"
+    },
+    {
+      "endMs": "832040",
+      "startMs": "827680",
+      "startTimeText": "13:47",
+      "text": "to Dolly. RIP. May we all be more like"
+    },
+    {
+      "endMs": "832040",
+      "startMs": "829760",
+      "startTimeText": "13:49",
+      "text": "you."
+    }
+  ],
+  "transcript_only_text": " So,  what  is  X-Factor?  In  this  tiny \n presentation,  I'm  going  to  break  down \n what  made  Dolly  Parton  a  superstar  and \n we  can  learn  from  her  in  making  your  own \n content  and  impact  on  the  world.  So, \n let's  zoom  out.  In  a  world  of  infinite \n content,  in  this  world  of  AI,  how  do  you \n actually  stand  out  when  anyone  can  make \n lots  of  stuff  with  a  click  of  a  button? \n In  a  single  word,  it's  quality,  right? \n But  quality  has  two  components  to  it. \n There's  a  message  and  then  there's  the \n messenger. \n Uh  and  the  two  are  inextricably  linked. \n So,  you  know,  you  could  have  a  Trump  or \n a  Bernie  Sanders  or  a  Dolly  Parton  and \n they  could  say  a  super  boring  random \n thing  and  still  get  millions  of  views. \n How?  In  that  case,  solely  because  of  the \n messenger. \n In  a  different  situation,  you  could  have \n a  no-name  account  go  completely  viral \n and  in  that  situation,  would  it  be  the \n messenger  or  the  message?  It's  the \n message.  And  so,  it's  both  of  these \n things  together  which  create  the  entire \n package.  And  so,  there's  a  lot  of  stuff \n on  message  and  the  the  nature  of  content \n out  there,  but  there's  very  little \n tactical  stuff  on  the  messenger.  How \n does  the  messenger  themselves  have \n X-Factor?  How  are  they  more  interesting? \n It's  one  of  the  most  common  things  that \n I  hear  people  use  when  describing \n someone  who  becomes  popular,  aka  they \n garner  interest  above  average, \n uh  is  something  called  X-Factor,  right? \n And  so,  in  different  terms,  it's  used  um \n je  ne  sais  quoi,  which  is  like  a  French \n word  which  literally  just  means  I  don't \n know  what.  But  the  thing  is  is  that \n there  has  to  be  something,  otherwise  you \n wouldn't  recognize  it.  But  it's \n interesting  that  across  different \n languages,  it's  X,  it's  literally  a \n variable  that  could  be  anything.  Or  in \n French,  it's  I  don't  know  what  it  is.  Um \n but  if  we  can  recognize  it,  means \n there's  a  pattern,  right?  And  it's  just \n that  our  ability  to  recognize  the \n pattern  surpasses  our  ability  to \n translate  into  the  language.  All  right, \n so  my  goal  here  is  to  translate  X-Factor \n from  I  don't  know  what  into  I  know  what, \n to  the  best  of  my  very  limited  ability. \n And  so,  since  many  of  you  are  making \n content  and  ads  and  putting  yourself  out \n there,  um  let's  start  by  defining \n X-Factor,  right?  So,  X-Factor  is  when  a \n person  captures  outsized  interest  by \n demonstrating  multiple  rare  skills  and \n or  physical  traits  that  do  not  typically \n coexist.  And  the  more  rarities  they \n combine,  the  more  the  X-Factor  and \n interest,  by  extension,  is  multiplied. \n And  so,  here's  kind  of  like  a  level  of \n thinking,  levels  of  X  Factor.  So  if  you \n have  an  a  sea  of  average  people,  if  you \n have  a  hot  small  blonde,  all  of  a  sudden \n that  is  rarer.  And  so  there's  a  little \n bit  of  X  Factors.  Are  there  a  lot?  No, \n but  there's  more  than  none.  Now  let's \n say  that  this  small  blonde  has  big \n boobs.  Okay,  that's  rarer  than  just \n small  hot  blonde.  Who  then  also  grew  up \n in  deep  poverty.  Huh,  that's  a  little \n bit  different.  Even  rarer. \n But  now  she's  really  smart.  That's  even \n rarer.  Uh  and  also  can  sing  amazingly \n well.  And  can  write  really  emotional \n songs. \n And  is  incredibly  self-aware  and  wise. \n And  also  a  business  tycoon. \n And  also  extremely  feminine  while  being \n a  business  tycoon.  And  also  has  no \n scandals  whatsoever  for  the  entirety  of \n her  life.  And  has  incredibly  strong \n stances  but  is  beloved  by  black  people, \n white  people,  old  people,  young  people, \n Republicans  and  Democrats. \n Is  deeply  kind.  Is  married  for  50  plus \n years  and  never  shows  her  husband \n publicly. \n And  hit  had  a  hit  every  single  decade \n for  60  years. \n Hit  the  charts.  And  is  humble.  And \n whenever  she's  given  uh  you  know \n flowers,  she  constantly  deflects  with \n jokes  and  credits  God  and  good  luck. \n And  so  obviously  when  you  take  all  those \n things  together,  that's  a  hell  of  a  lot \n of  X  Factor.  And  that  gives  you  none \n other  than  the  great  Dolly  Parton. \n There's  literally  no  other  human  being \n on  Earth  who  satisfies  that  criteria, \n which  makes  her  incredibly  rare. \n And  so  what  makes  them  so  strong \n specifically  for  her  is  how  many  of  them \n are  both  rare  and  also,  this  is  the  key \n point,  contradictory.  She's  sexy  but \n also  saintly.  She's  a  hillbilly  but \n she's  also  a  business  mogul.  She's  a \n bombshell  but  she's  also  a  songwriter. \n She's  old  but  she's  relevant.  She's  a \n superstar  and  she's  humble.  Right?  All \n of  these  are  what  would  appear  to  be \n contradictions  but  they're  both  uh \n they're  all  in  the  same  person,  which \n makes  her  rare  and  interesting. \n And  so,  each  of  these  are  rare  in  their \n own.  They're  rarer  when  someone  has \n multiple  of  them.  Like,  if  someone's \n just  a  sexy  hillbilly,  that's  rare.  A \n bombshell,  uh,  and  old,  and  a  superstar. \n Like,  each  of  these  adds  on  top  of  one \n another. \n But,  they're  rarest  when  they  coexist \n all  together. \n And  she  managed  to  do  all  this  while \n staying  likable  because  she  never  got \n mixed  in  politics,  and  she  stayed \n relatable.  So,  both  those  things,  like, \n in  terms  of  Alex's  notes,  those  are \n notes  that  I  have.  And  just  for  God's \n sakes,  like,  to  to  prove  this  point,  her \n number  one  song  of  all  time  is  her \n begging  another  woman  not  to  steal  her \n man.  Think  about  crazy  this  is.  You've \n got  this \n smoking  hot  bombshell,  sweet,  epitome  of \n femininity,  class,  right?  Um, \n who's  wealthy  beyond  means  and  a \n superstar,  her  main  song  is  the  most \n humbling  version  of  this.  It's  not  like, \n \"I'm  so  hot,\"  right?  From  Mims,  or  \"This \n is  why  I'm  hot,\"  right?  By  Mims.  Uh,  but \n instead,  is  Jolene,  about  a  bank  teller \n that  she  knew  had  a  crush  on  her \n husband,  and  she  was  begging  her  not  to \n steal  her  man.  Like,  how  how  much  more \n relatable  could  you  be,  right?  And  so, \n that  is  why  Dolly  is  not  just  a  star, \n but  a  superstar. \n And  so,  I'm  making  this  because  I \n generally  believe  that  there's  many  more \n stars  and  superstars  who  are  out  there \n that  simply  haven't  recognized  it  in \n themselves.  And  so,  the  reason  they \n aren't  is  because  people  take  their \n personalities  off  the  shelf.  They  take \n them  stock.  They  take  the  default \n option.  And  so,  I  I  I  put  this  meme \n together  that  I  remember  seeing \n somewhere  or  some  version  of  this,  but \n it's  like,  white  men  turning  30,  and \n they're  trying  to  pick  between  grilling \n meat  or  craft  beer  as  their  new  hobby, \n right?  And  so,  it's  like,  people  just \n stay  incredibly  confined  in  these  boxes \n because  they  think  it's  the  only \n acceptable  option  socially  for  them. \n But,  that  makes  them  just  like  everyone \n else.  And  yes,  you  will  fit  in,  but  you \n will  never  be  exceptional.  And  so,  I \n want  you  to  think  I  want  you  to  do  this \n exercise  with  me.  So,  imagine  a  guy \n wearing  a  trucker  hat,  uh,  wearing  a \n flannel.  Okay?  Just  think  about  that \n guy.  I  have  an  image  of  just  like  a \n stereotypical  guy.  All  right?  Now, \n you  don't  know  anything  about  this  guy. \n But, \n what  are  this  guy's  political  views? \n What  does  he  drive?  What  do  you  think  he \n drives?  If  you  look  at  this  guy,  if  you \n had  to  make  a  bet,  what  do  you  think  he \n drives? \n What  do  you  think  his  religion  is  if  you \n had  to  guess? \n How  do  you  think  he  likes  his  coffee? \n Do  you  think  he's  a  vegan? \n What  do  you  think  his  hobbies  are  or \n skills  are? \n You  probably,  looking  at  this,  could \n make  some  pretty  decent  bets. \n And  before  you  even  talk  to  this  person, \n you  have  an  idea  of  who  they're  going  to \n be. \n And  even  more,  you'll  have  an  idea  of \n whether  or  not  you're  going  to  like \n them. \n And  you  can  fill  in  the  rest  of  the \n details  about  this  person  and  probably \n be  mostly  right  most  of  the  time. \n And  how  is  that  possible?  Because  of \n pattern  recognition.  Most  people  who \n dress  this  way  act  this  way.  And  that  is \n by  nature  judging  a  book  by  its  cover. \n And  I  want  to  be  very  clear,  this  will \n never  stop.  We  can  be  as  woke  as  we  want \n as  a  culture,  people  are  never  going  to \n stop  judging  a  book  by  its  cover  because \n it's  asking  humans  not  to  make \n predictive  judgments,  right?  It's  acting \n asking  human  to  stop  recognizing \n patterns.  Of  course,  it's  going  to \n happen.  It's  how  we  think.  It's  how  we \n manage  our  way  through  the  world. \n So,  in  leveraging  this  innate  human \n trait  that  we  will  not  be  able  to \n change,  how  do  you  become  interesting \n and  eventually  have  X  factor  and  then \n eventually  become  a  superstar? \n You  have  to  break  the  pattern.  You  have \n to  be  what  they  don't  expect  or  they \n don't  predict.  So,  if  that  guy,  if  I \n said,  \"Hey,  this  guy  drives  a  Tesla.\" \n And  he's  actually  an  atheist  and  he \n likes  Frappuccinos  not  black  coffee, \n which  is  probably  what  you  would  have \n guessed.  And  he  actually  is  a  vegan, \n right?  And  he's  a  world-class  computer \n hacker.  That  all  of  a  sudden  makes  this \n person  way  more  interesting  or  different \n than  you  probably  would  have  expected. \n And  maybe  he's  a  violinist.  Huh?  These \n things  don't  go  together.  And  so,  that \n makes  him  more  interesting  cuz  most \n likely,  he  was  able  to  think  for \n himself,  have  high  agency,  and  as  a \n result,  make  his  own  decisions  about  the \n world  rather  than  just  saying,  \"I  guess \n I'm  30  and  I'm  a  white  guy.  I  got  to  go \n craft  beers  or  grilling  meats.  Which \n Which  am  I  going  to  pick?\"  Right?  Cuz  he \n actually  decided  to  think  for  himself. \n Maybe  I  don't  want  any  of  those  things. \n And  the  degree  to  which  you  break  the \n pattern,  you'll  garner  general \n attention.  And  degree  to  which  you  break \n it  and  then  they  like  the  way  that  you \n broke  it,  you'll  get  positive  attention. \n And  so  you  need  to  learn  to  fully  lean \n into  and  embrace  the  parts  of  you  that \n make  you  different.  And  these  are \n typically  the  parts  of  you  that  you  hide \n for  fear  of  judgment  and  mockery.  And \n these  are  also  the  parts  of  you  that \n other  people  don't  often  like  or  they \n think  are  weird  or  cringe  or  just \n doesn't  fit  in  with  the  pack,  which \n makes  sense  because  how  can  you  become \n exceptional  without  being  different? \n Right?  And  sometimes  these  are  things \n you  don't  like  about  yourself. \n But  that's  okay. \n And  so  for  example, \n by  different  people  throughout  my \n career,  I  was  told  adamantly,  I  want  to \n tell  you  four  things  that  I  was  told \n adamantly  throughout  my  career.  Number \n one,  don't  try  doing  YouTube  or  getting \n on  camera.  It's  really  hard  and  you're \n probably  not  going  to  do  well  with  it. \n This  is  what  I  was  literally  told,  don't \n do  it. \n Number  two,  they  told  me  to  wear  a  suit \n in  order  to  be  taken  seriously  in \n business.  This  was  like  one  of  the  first \n piece  of  advice  I  had  and  you  can  still \n see  I  think  on  my  Facebook  I  still  kept \n the  picture  of  me  in  a  suit  and  I  I  put \n this  suit  on  cuz  I  thought  that  that's \n what  I  needed  to  do. \n Um  do  not  talk  about  your  philosophy  on \n life  because  no  one  cares.  This  was \n something  that  I  was  told  kind  of  on  my \n way  up  uh  in  terms  of  like  content \n buckets  and  I  was  like  I  kind  of  talk \n about  this  stuff  even  though  it  didn't \n really  have  anything  to  do  with \n business.  Um  but  it's  now  probably  one \n of  the  number  one  things  that  people \n stop  me  in  the  street  and  they're  like, \n \"No,  I  love  the  business  stuff  but  when \n you  kind  of  sprinkle  in  some  of  the  life \n pieces,  like  those  are  the  things  that \n actually  helped  me  the  most.\"  Um  don't \n talk  about  how  much  money  you  make \n because  it's  really  cringe. \n I  I  talk  about  money.  It's  just  part  of \n who  I  am.  Right?  And  it  took  me  some \n time  to  get  over  these  things  but  I \n ended  up  going  against  all  of  this \n because  it  didn't  feel  natural  to  who  I \n am.  Right?  And  I  think  about  life  every \n day  and  I  I  think  about  those  things.  I \n think  about  money  and  I  talk  about  money \n openly.  Um  I  wear  what  I  want  to  wear.  I \n want  to  wear  what  I'm  comfortable  with. \n And  that'll  change  when  I  want  it  to \n change.  And  I  think  the  meta  is  just \n like  being  you.  Right?  And  to  be  clear, \n I'm  not  saying  that  I'm  a  superstar. \n Dolly  is  in  a  league  of  her  own.  I'm \n saying  that  this  is  an  observation  and \n applying  it  to  myself  because  I've \n garnered  above  average  interest  and  I'm \n saying  to  help.  And  so  there  are  parts \n of  yourself  that  make  you  different  and \n they  make  you  an  exception.  They  allow \n you  to  break  the  pattern.  And  the  more \n different  and  rare  they  are,  the  more \n exceptional  they  are.  And  the  more  of \n the  pattern  they  break. \n And  so,  I  believe  the  reason  people  say \n X  factor  and  je  ne  sais  quoi  is  because \n of  the  truth  of  each  of  these  statements \n have  embedded  inside  of  them. \n And  so,  je  ne  sais  quoi  is  I  don't  know \n what  because  no  single  what  is  what \n makes  someone  exceptional,  right?  It's \n not  just  being  blonde  or  having  big \n boobs  or  being  humble  or  being  good  at \n business  or  being  a  good  singer,  right? \n If  someone  just  has  big  boobs,  are  they \n exceptional?  Not  really,  right?  What \n about  just  being  humble?  Is  that \n exceptional?  Not  really.  Just  being  good \n at  business?  Not  really,  right? \n Does  that  make  you  a  star?  No. \n And  that's  why  it's  difficult  to  put \n this  into  words  because  when  you  name \n one  of  them,  it  doesn't  seem \n extraordinary  at  all.  It  actually  seems \n almost  ordinary. \n It's  having  them  all,  aka  the  full \n package. \n And  the  second,  like  I  said,  so  that's \n the  je  ne  sais  quoi,  that's  the  what. \n The  second  is  the  X  factor,  which  is  the \n English  version  of  this.  And  I  think \n about  this  is  like  X  marks  the  spot, \n right?  And  so,  it's  the  cross-section  of \n all  these  things  where  stardom  lives, \n right?  You  got  singer,  classy,  bimbo, \n smart,  business  mogul.  The \n cross-section,  like  what's  the  Venn \n diagram,  the  intersection  of  all  those \n points  is  one  person.  That  is  the  X \n factor. \n And  I  think  that  that's  something  that \n we  can  all  take  from  Dolly  and  we  can \n apply  to  our  own  lives  is  to  be \n violently  ourselves  with  all  of  our \n idiosyncrasies,  our  quirks,  the  atypical \n ways  that  we  have  of  behaving,  accept \n them  as  obviously  different,  but  in  so \n doing  make  us  exceptional. \n And  to  be  clear,  I  don't  want  to  end \n this  with  a  be  yourself  takeaway.  If \n Dolly  couldn't  sing  or  write  hell  of  a \n good  songs  like  she  did,  she  wouldn't \n have  been  a  star.  You  have  to  be  really \n [ __ ]  good,  period.  End  of  state  like \n end  of  statement. \n But,  there  are  a  lot  of  really  [ __ ] \n good  people  who  aren't  stars  or  don't \n stick.  And  that  is  because  number  one, \n they're  good,  but  they're  not  great. \n They're  not  really  [ __ ]  great.  Or \n number  two,  even  if  they  are,  they  have \n nothing  else. \n And  so,  just  like  the  French  saying  je \n ne  sais  quoi, \n it's  not  about  having  one  thing. \n It's  about  having  everything.  It's  about \n having  the  full  package.  And  that  is \n what  X  Factor  is  all  about.  And  that's \n how  you  stand  out  in  a  world  that  wants \n to  blend  in  is  be  really  [ __ ]  good \n and  be  fully  you  and  embrace  the \n components  of  yourself  that  don't \n necessarily  belong  together.  You  want  to \n You  want  to  have  the  pieces  of  yourself \n that  are \n I  think  about  death  in  a  weird  way.  I'm \n also  kind  of  good  at  violin.  I  also  kind \n of  like  public  speaking  and  I  do  some \n coding.  Like  why  do  you  think  Joe  Rogan \n can  talk  about  UFC  you  know  fighting  and \n comedy  and  biohacking  and  politics  and \n aliens?  Like  all  of  these  things  don't \n necessarily  belong  together,  but  the \n only  intersection  of  those  points  is \n him,  right?  So  like  he  has  X  Factor.  He \n has  a  star  and  typically  all  of  that \n comes  from  this  level  of  agency  of \n self-acceptance,  right?  Is  that  she, \n Dolly  Parton,  Joe  Rogan  are  willing  to \n accept  themselves  as  they  were  and  just \n say  this  is  what  I'm  into.  And  by  doing \n that  people \n either  admire  that  level  of  courage  or \n and  or  they  see  a  part  of  themselves  in \n you  because  the  more  diverse  the \n different  interests  you  have,  the  more \n diverse  of  an  audience  you  can  also \n merely  attract,  right?  Because  if  you \n are  just  the  stock  off  the  shelf,  I \n drink  black  coffee,  I'm  conservative,  I \n I  wear  flannels  and  a  trucker  hat  and  I \n have  a  Christian  worldview \n etc.  etc.  right?  Like  right  off  the \n shelf.  And  again,  I'm  not  saying  there's \n nothing  wrong  with  that.  I'm  just  saying \n it's  common. \n The  likelihood  that  you  have  to  be  able \n to  put  other  things  in  that  bucket. \n What's  the  something  you  know  something \n spice  and  everything  nice  or  whatever \n the  the  little  child  saying  is. \n You  have  to  have  X  Factor  which  means \n that  usually  there's  parts  of  you  and \n this  is  why  I  believe  this  genuinely  is \n that  people  all  have  unique  elements  of \n themselves  that  are  more  unique,  but \n because  they're  afraid  of  judgment, \n they're  unwilling  to  share  them  because \n they  want  to  be  included  in  the  group, \n which  makes  sense  evolutionarily,  but \n not  in  terms  of  achieving  kind  of \n exceptionalism.  And  to  be  clear,  I'm  not \n saying  that  being  exceptional  is  the \n goal. \n You  know,  you  can  choose  whether  you \n want  to  be  happy  or  you  want  to  be \n special.  Like  those  are  not  necessarily \n always  the  same  thing.  They're  different \n goals.  Sometimes  they  they  can't \n overlap.  I  think  Dolly  was  both. \n Um, \n but  they  are  different  objectives.  And \n so  I  have  a  huge  amount  of  respect  for \n Dolly  Parton.  I  was  looking  at  all  of \n her  stuff  um \n in  the  wake  of  her  death  obviously.  And \n so  uh  that  is  why  I'm  dedicating  this  to \n to  Dolly.  RIP.  May  we  all  be  more  like \n you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=SCi464zfAUM",
+  "videoId": "SCi464zfAUM"
+}

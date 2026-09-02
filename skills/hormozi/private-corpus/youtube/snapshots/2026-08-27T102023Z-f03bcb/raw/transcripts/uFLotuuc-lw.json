@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So, learn is a terrible verb. It's"
+    },
+    {
+      "endMs": "5120",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "painful, reminds people of school,"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "sounds like work. Second, learn also"
+    },
+    {
+      "endMs": "7920",
+      "startMs": "5120",
+      "startTimeText": "0:05",
+      "text": "assumes that like I'm the teacher and I"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": "don't like that position. I'd rather be"
+    },
+    {
+      "endMs": "10760",
+      "startMs": "7920",
+      "startTimeText": "0:07",
+      "text": "like, \"Hey, I up a bunch of"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "here, check it out.\" Not like, \"Let me"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "learn you some things.\" I hate the word."
+    },
+    {
+      "endMs": "15480",
+      "startMs": "12440",
+      "startTimeText": "0:12",
+      "text": "You'll never hear me say learn anything."
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "I'll show you some stuff cuz then you"
+    },
+    {
+      "endMs": "19120",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "just see it. It's much easier to show"
+    },
+    {
+      "endMs": "19120",
+      "startMs": "16720",
+      "startTimeText": "0:16",
+      "text": "someone."
+    }
+  ],
+  "transcript_only_text": " So,  learn  is  a  terrible  verb.  It's \n painful,  reminds  people  of  school, \n sounds  like  work.  Second,  learn  also \n assumes  that  like  I'm  the  teacher  and  I \n don't  like  that  position.  I'd  rather  be \n like,  \"Hey,  I  up  a  bunch  of \n here,  check  it  out.\"  Not  like,  \"Let  me \n learn  you  some  things.\"  I  hate  the  word. \n You'll  never  hear  me  say  learn  anything. \n I'll  show  you  some  stuff  cuz  then  you \n just  see  it.  It's  much  easier  to  show \n someone.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=uFLotuuc-lw",
+  "videoId": "uFLotuuc-lw"
+}

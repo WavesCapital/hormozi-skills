@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4400",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "Every single business to this day, I"
+    },
+    {
+      "endMs": "5759",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "still start with free stuff because I"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "want to get feedback from people. I want"
+    },
+    {
+      "endMs": "7919",
+      "startMs": "5759",
+      "startTimeText": "0:05",
+      "text": "to know what they liked, what they"
+    },
+    {
+      "endMs": "9040",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "didn't like, what their pain points are."
+    },
+    {
+      "endMs": "10320",
+      "startMs": "7919",
+      "startTimeText": "0:07",
+      "text": "I want to figure out how to how to"
+    },
+    {
+      "endMs": "11759",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "smooth out the process. I want to figure"
+    },
+    {
+      "endMs": "13519",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "out all these different things. And me"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "11759",
+      "startTimeText": "0:11",
+      "text": "trying to guess at that on my first shot"
+    },
+    {
+      "endMs": "16240",
+      "startMs": "13519",
+      "startTimeText": "0:13",
+      "text": "and ask people to pay me, I'm like, I"
+    },
+    {
+      "endMs": "19359",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "don't want to do that. I'm going to have"
+    },
+    {
+      "endMs": "19359",
+      "startMs": "16240",
+      "startTimeText": "0:16",
+      "text": "a bad reputation. I don't want it."
+    }
+  ],
+  "transcript_only_text": " Every  single  business  to  this  day,  I \n still  start  with  free  stuff  because  I \n want  to  get  feedback  from  people.  I  want \n to  know  what  they  liked,  what  they \n didn't  like,  what  their  pain  points  are. \n I  want  to  figure  out  how  to  how  to \n smooth  out  the  process.  I  want  to  figure \n out  all  these  different  things.  And  me \n trying  to  guess  at  that  on  my  first  shot \n and  ask  people  to  pay  me,  I'm  like,  I \n don't  want  to  do  that.  I'm  going  to  have \n a  bad  reputation.  I  don't  want  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Grs3IB6GrWM",
+  "videoId": "Grs3IB6GrWM"
+}

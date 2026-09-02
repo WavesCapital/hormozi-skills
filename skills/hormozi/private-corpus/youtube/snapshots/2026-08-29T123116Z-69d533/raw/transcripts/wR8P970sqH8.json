@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Sadness comes from a lack of options,"
+    },
+    {
+      "endMs": "5400",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "which is why it feels like hopelessness."
+    },
+    {
+      "endMs": "7280",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "Anxiety comes from many options, but a"
+    },
+    {
+      "endMs": "8760",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "lack of priorities, which is why it"
+    },
+    {
+      "endMs": "10760",
+      "startMs": "7280",
+      "startTimeText": "0:07",
+      "text": "feels like paralysis. Looking"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "everywhere, but moving nowhere. Solve"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "sadness with knowledge, and anxiety with"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "13080",
+      "startTimeText": "0:13",
+      "text": "a decision."
+    }
+  ],
+  "transcript_only_text": " Sadness  comes  from  a  lack  of  options, \n which  is  why  it  feels  like  hopelessness. \n Anxiety  comes  from  many  options,  but  a \n lack  of  priorities,  which  is  why  it \n feels  like  paralysis.  Looking \n everywhere,  but  moving  nowhere.  Solve \n sadness  with  knowledge,  and  anxiety  with \n a  decision.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wR8P970sqH8",
+  "videoId": "wR8P970sqH8"
+}

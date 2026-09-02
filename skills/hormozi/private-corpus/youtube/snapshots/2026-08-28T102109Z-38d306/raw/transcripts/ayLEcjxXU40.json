@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "What is your favorite thing about your"
+    },
+    {
+      "endMs": "5760",
+      "startMs": "1360",
+      "startTimeText": "0:01",
+      "text": "wife? I think Layla has more fight in"
+    },
+    {
+      "endMs": "7680",
+      "startMs": "3720",
+      "startTimeText": "0:03",
+      "text": "her than most people have. She will just"
+    },
+    {
+      "endMs": "10840",
+      "startMs": "5760",
+      "startTimeText": "0:05",
+      "text": "keep going. [music] And so, she will"
+    },
+    {
+      "endMs": "13000",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "like she will fail, she will get knocked"
+    },
+    {
+      "endMs": "14800",
+      "startMs": "10840",
+      "startTimeText": "0:10",
+      "text": "out, she will have pain, she will"
+    },
+    {
+      "endMs": "16560",
+      "startMs": "13000",
+      "startTimeText": "0:13",
+      "text": "suffer, and then she will just continue"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "14800",
+      "startTimeText": "0:14",
+      "text": "to try again. And so, she just doesn't"
+    },
+    {
+      "endMs": "19720",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "have a lot of give up in her."
+    },
+    {
+      "endMs": "22320",
+      "startMs": "18560",
+      "startTimeText": "0:18",
+      "text": "And I have a tremendous amount of"
+    },
+    {
+      "endMs": "22320",
+      "startMs": "19720",
+      "startTimeText": "0:19",
+      "text": "respect for that."
+    }
+  ],
+  "transcript_only_text": " What  is  your  favorite  thing  about  your \n wife?  I  think  Layla  has  more  fight  in \n her  than  most  people  have.  She  will  just \n keep  going.  [music]  And  so,  she  will \n like  she  will  fail,  she  will  get  knocked \n out,  she  will  have  pain,  she  will \n suffer,  and  then  she  will  just  continue \n to  try  again.  And  so,  she  just  doesn't \n have  a  lot  of  give  up  in  her. \n And  I  have  a  tremendous  amount  of \n respect  for  that.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ayLEcjxXU40",
+  "videoId": "ayLEcjxXU40"
+}

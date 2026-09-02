@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The fact that you don't know if it's"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "going to work is exactly what makes it"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3600",
+      "startTimeText": "0:03",
+      "text": "worth doing. It's why entrepreneurship"
+    },
+    {
+      "endMs": "8720",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "isn't for the faint of heart. You have"
+    },
+    {
+      "endMs": "10360",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "to embrace uncertainty. What makes"
+    },
+    {
+      "endMs": "11760",
+      "startMs": "8720",
+      "startTimeText": "0:08",
+      "text": "entrepreneurship isn't the work itself,"
+    },
+    {
+      "endMs": "13760",
+      "startMs": "10360",
+      "startTimeText": "0:10",
+      "text": "it's actually just not knowing if the"
+    },
+    {
+      "endMs": "15600",
+      "startMs": "11760",
+      "startTimeText": "0:11",
+      "text": "work will work. We're afraid of wasted"
+    },
+    {
+      "endMs": "18760",
+      "startMs": "13760",
+      "startTimeText": "0:13",
+      "text": "effort, but if it makes you better, then"
+    },
+    {
+      "endMs": "18760",
+      "startMs": "15600",
+      "startTimeText": "0:15",
+      "text": "no effort is wasted."
+    }
+  ],
+  "transcript_only_text": " The  fact  that  you  don't  know  if  it's \n going  to  work  is  exactly  what  makes  it \n worth  doing.  It's  why  entrepreneurship \n isn't  for  the  faint  of  heart.  You  have \n to  embrace  uncertainty.  What  makes \n entrepreneurship  isn't  the  work  itself, \n it's  actually  just  not  knowing  if  the \n work  will  work.  We're  afraid  of  wasted \n effort,  but  if  it  makes  you  better,  then \n no  effort  is  wasted.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fQ4CslJBuF8",
+  "videoId": "fQ4CslJBuF8"
+}

@@ -1,0 +1,47 @@
+{
+  "committed_at": "2026-08-24T22:25:54.729Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295/backup-00-hormozi.sqlite",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/index/.2026-08-24T222526Z-689295.sqlite",
+      "target": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/index/hormozi.sqlite"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295/backup-01-doctrine-candidates.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/.hormozi-yt-20260824T222526Z-5f689295-doctrine-candidates.jsonl",
+      "target": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/doctrine-candidates.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295/backup-02-state.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/staging/hormozi-yt-20260824T222526Z-5f689295/state.json",
+      "target": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/state.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295/backup-03-latest-run.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/staging/hormozi-yt-20260824T222526Z-5f689295/latest-run-private.json",
+      "target": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/latest-run.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295/backup-04-automation-latest-run.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/staging/hormozi-yt-20260824T222526Z-5f689295/latest-run-report.json",
+      "target": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/Hormozi YouTube Enrichment/automation-latest-run.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295/backup-05-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/staging/hormozi-yt-20260824T222526Z-5f689295/active-window.json",
+      "target": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-08-24T22:25:54.725Z",
+  "replaced_count": 6,
+  "run_id": "hormozi-yt-20260824T222526Z-5f689295",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Source Materials/Hormozi Corpus/youtube/enrichment/transactions/hormozi-yt-20260824T222526Z-5f689295"
+}

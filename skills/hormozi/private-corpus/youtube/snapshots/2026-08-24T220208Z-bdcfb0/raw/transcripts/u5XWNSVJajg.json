@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "One of our portfolio companies, we had"
+    },
+    {
+      "endMs": "5160",
+      "startMs": "1200",
+      "startTimeText": "0:01",
+      "text": "to spin up a team of 50 activated and"
+    },
+    {
+      "endMs": "8520",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "good sales people. So, we ended up"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "5160",
+      "startTimeText": "0:05",
+      "text": "hiring 90 in 12 weeks. What we did was"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "8520",
+      "startTimeText": "0:08",
+      "text": "we hired 15 different recruiting firms"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "and we did bulk wholesale deals with"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "them saying like, \"Give us five people,"
+    },
+    {
+      "endMs": "22120",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "we'll get a discounted rate cuz we want"
+    },
+    {
+      "endMs": "23600",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "five.\" The terms of that is like if they"
+    },
+    {
+      "endMs": "24960",
+      "startMs": "22120",
+      "startTimeText": "0:22",
+      "text": "don't work out for a little bit extended"
+    },
+    {
+      "endMs": "26360",
+      "startMs": "23600",
+      "startTimeText": "0:23",
+      "text": "than from their normal thing, you can"
+    },
+    {
+      "endMs": "28800",
+      "startMs": "24960",
+      "startTimeText": "0:24",
+      "text": "replace them. That's how I attack these"
+    },
+    {
+      "endMs": "28800",
+      "startMs": "26360",
+      "startTimeText": "0:26",
+      "text": "problems."
+    }
+  ],
+  "transcript_only_text": " One  of  our  portfolio  companies,  we  had \n to  spin  up  a  team  of  50  activated  and \n good  sales  people.  So,  we  ended  up \n hiring  90  in  12  weeks.  What  we  did  was \n we  hired  15  different  recruiting  firms \n and  we  did  bulk  wholesale  deals  with \n them  saying  like,  \"Give  us  five  people, \n we'll  get  a  discounted  rate  cuz  we  want \n five.\"  The  terms  of  that  is  like  if  they \n don't  work  out  for  a  little  bit  extended \n than  from  their  normal  thing,  you  can \n replace  them.  That's  how  I  attack  these \n problems.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=u5XWNSVJajg",
+  "videoId": "u5XWNSVJajg"
+}

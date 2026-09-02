@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Every man becomes an infinitely more"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "2160",
+      "startTimeText": "0:02",
+      "text": "dangerous version of themselves the"
+    },
+    {
+      "endMs": "7920",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "moment they realize they don't need"
+    },
+    {
+      "endMs": "9800",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "anyone's approval or permission because"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "7920",
+      "startTimeText": "0:07",
+      "text": "there's no greater waste of time than"
+    },
+    {
+      "endMs": "14720",
+      "startMs": "9800",
+      "startTimeText": "0:09",
+      "text": "defending your actions to people whose"
+    },
+    {
+      "endMs": "14720",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "life you don't want."
+    }
+  ],
+  "transcript_only_text": " Every  man  becomes  an  infinitely  more \n dangerous  version  of  themselves  the \n moment  they  realize  they  don't  need \n anyone's  approval  or  permission  because \n there's  no  greater  waste  of  time  than \n defending  your  actions  to  people  whose \n life  you  don't  want.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1Hw0pl4Qa7Y",
+  "videoId": "1Hw0pl4Qa7Y"
+}

@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If I open a sandwich shop, how can I"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "1640",
+      "startTimeText": "0:01",
+      "text": "make the sandwiches too good? Like if"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "someone takes a bite, they're like"
+    },
+    {
+      "endMs": "8760",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "\"This is the best sandwich I've ever"
+    },
+    {
+      "endMs": "10440",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "had.\" If you just get that, then the"
+    },
+    {
+      "endMs": "11640",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "rest of it doesn't matter. It's like,"
+    },
+    {
+      "endMs": "13280",
+      "startMs": "10440",
+      "startTimeText": "0:10",
+      "text": "what is the one thing that if I just get"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "11640",
+      "startTimeText": "0:11",
+      "text": "this one thing right, everything else"
+    },
+    {
+      "endMs": "16440",
+      "startMs": "13280",
+      "startTimeText": "0:13",
+      "text": "shrinks into irrelevance?"
+    }
+  ],
+  "transcript_only_text": " If  I  open  a  sandwich  shop,  how  can  I \n make  the  sandwiches  too  good?  Like  if \n someone  takes  a  bite,  they're  like \n \"This  is  the  best  sandwich  I've  ever \n had.\"  If  you  just  get  that,  then  the \n rest  of  it  doesn't  matter.  It's  like, \n what  is  the  one  thing  that  if  I  just  get \n this  one  thing  right,  everything  else \n shrinks  into  irrelevance?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BFzNc0S7asE",
+  "videoId": "BFzNc0S7asE"
+}

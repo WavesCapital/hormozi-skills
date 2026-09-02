@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Andrew Cherng and Peggy Cherng who"
+    },
+    {
+      "endMs": "4400",
+      "startMs": "1360",
+      "startTimeText": "0:01",
+      "text": "started Panda Express. They're they're"
+    },
+    {
+      "endMs": "6550",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "deca-billionaires now. They started"
+    },
+    {
+      "endMs": "6680",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "their first location at"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "6550",
+      "startTimeText": "0:06",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": ">> 40 years ago. But he's 75 now. So he"
+    },
+    {
+      "endMs": "13120",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "wasn't like young, he was 35. Start"
+    },
+    {
+      "endMs": "15480",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "first location."
+    },
+    {
+      "endMs": "17200",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "First. Right? Like and they're richer"
+    },
+    {
+      "endMs": "19360",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "than most people are will ever be. And"
+    },
+    {
+      "endMs": "22760",
+      "startMs": "17200",
+      "startTimeText": "0:17",
+      "text": "so like if it takes you 10 years or 20"
+    },
+    {
+      "endMs": "22760",
+      "startMs": "19360",
+      "startTimeText": "0:19",
+      "text": "years, life's super long."
+    }
+  ],
+  "transcript_only_text": " Andrew  Cherng  and  Peggy  Cherng  who \n started  Panda  Express.  They're  they're \n deca-billionaires  now.  They  started \n their  first  location  at \n >> [music] \n >> 40  years  ago.  But  he's  75  now.  So  he \n wasn't  like  young,  he  was  35.  Start \n first  location. \n First.  Right?  Like  and  they're  richer \n than  most  people  are  will  ever  be.  And \n so  like  if  it  takes  you  10  years  or  20 \n years,  life's  super  long.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=hZ1Etp4J89s",
+  "videoId": "hZ1Etp4J89s"
+}

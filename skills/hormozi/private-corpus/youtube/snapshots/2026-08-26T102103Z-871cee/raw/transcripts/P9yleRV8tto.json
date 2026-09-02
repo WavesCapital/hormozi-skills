@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Starting a business for dummies. Suck at"
+    },
+    {
+      "endMs": "5680",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "something, work for free lots of times,"
+    },
+    {
+      "endMs": "6600",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "and suck less. Wait until people ask you"
+    },
+    {
+      "endMs": "7960",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "for free work, and then you [music]"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "6600",
+      "startTimeText": "0:06",
+      "text": "can't take them on because now you have"
+    },
+    {
+      "endMs": "10720",
+      "startMs": "7960",
+      "startTimeText": "0:07",
+      "text": "more demand than you have supply. And"
+    },
+    {
+      "endMs": "12240",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "then offer to keep working for the free"
+    },
+    {
+      "endMs": "13560",
+      "startMs": "10720",
+      "startTimeText": "0:10",
+      "text": "clients for money. Boot out the free"
+    },
+    {
+      "endMs": "17080",
+      "startMs": "12240",
+      "startTimeText": "0:12",
+      "text": "clients for the paid clients. Once you"
+    },
+    {
+      "endMs": "17080",
+      "startMs": "13560",
+      "startTimeText": "0:13",
+      "text": "do that, congrats, you have a business."
+    }
+  ],
+  "transcript_only_text": " Starting  a  business  for  dummies.  Suck  at \n something,  work  for  free  lots  of  times, \n and  suck  less.  Wait  until  people  ask  you \n for  free  work,  and  then  you  [music] \n can't  take  them  on  because  now  you  have \n more  demand  than  you  have  supply.  And \n then  offer  to  keep  working  for  the  free \n clients  for  money.  Boot  out  the  free \n clients  for  the  paid  clients.  Once  you \n do  that,  congrats,  you  have  a  business.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=P9yleRV8tto",
+  "videoId": "P9yleRV8tto"
+}

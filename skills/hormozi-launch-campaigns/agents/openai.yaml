@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Launch Campaigns"
-  short_description: "Plan launches, VSLs, and affiliate flows"
-  default_prompt: "Use $hormozi-launch-campaigns to plan this launch funnel and campaign system."
-
-policy:
-  allow_implicit_invocation: true

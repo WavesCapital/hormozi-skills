@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The best way to identify a great friend"
+    },
+    {
+      "endMs": "6000",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "is how they react when you win. Real"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "4240",
+      "startTimeText": "0:04",
+      "text": "friends want you to win, and once you"
+    },
+    {
+      "endMs": "11240",
+      "startMs": "6000",
+      "startTimeText": "0:06",
+      "text": "start winning, you realize how rare real"
+    },
+    {
+      "endMs": "12445",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "friends really are. Bad friends are 100"
+    },
+    {
+      "endMs": "14360",
+      "startMs": "11240",
+      "startTimeText": "0:11",
+      "text": "times more dangerous than enemies."
+    },
+    {
+      "endMs": "15720",
+      "startMs": "12445",
+      "startTimeText": "0:12",
+      "text": "[music] It's better to be alone than be"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "14360",
+      "startTimeText": "0:14",
+      "text": "around people who secretly hope you"
+    },
+    {
+      "endMs": "18080",
+      "startMs": "15720",
+      "startTimeText": "0:15",
+      "text": "fail."
+    }
+  ],
+  "transcript_only_text": " The  best  way  to  identify  a  great  friend \n is  how  they  react  when  you  win.  Real \n friends  want  you  to  win,  and  once  you \n start  winning,  you  realize  how  rare  real \n friends  really  are.  Bad  friends  are  100 \n times  more  dangerous  than  enemies. \n [music]  It's  better  to  be  alone  than  be \n around  people  who  secretly  hope  you \n fail.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fkNGl1lpss0",
+  "videoId": "fkNGl1lpss0"
+}

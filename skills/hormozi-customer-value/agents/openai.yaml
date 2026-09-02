@@ -1,7 +1,0 @@
-interface:
-  display_name: "Hormozi Customer Value"
-  short_description: "Increase LTV and retention"
-  default_prompt: "Use $hormozi-customer-value to increase what each customer is worth."
-
-policy:
-  allow_implicit_invocation: true

@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5520",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "I thought to myself, if it's this hard"
+    },
+    {
+      "endMs": "7919",
+      "startMs": "2639",
+      "startTimeText": "0:02",
+      "text": "now when I have no kids, I have no wife,"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "5520",
+      "startTimeText": "0:05",
+      "text": "I have no stakes,"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "7919",
+      "startTimeText": "0:07",
+      "text": "it's going to be nearly impossible for"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "me to do later. And so I was like, I"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "have to do it"
+    }
+  ],
+  "transcript_only_text": " I  thought  to  myself,  if  it's  this  hard \n now  when  I  have  no  kids,  I  have  no  wife, \n I  have  no  stakes, \n it's  going  to  be  nearly  impossible  for \n me  to  do  later.  And  so  I  was  like,  I \n have  to  do  it",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=JAoH3CL-leU",
+  "videoId": "JAoH3CL-leU"
+}

@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "People demand success but refuse to"
+    },
+    {
+      "endMs": "7839",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "work. People want opportunity but won't"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "talk to strangers. People claim ambition"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "7839",
+      "startTimeText": "0:07",
+      "text": "but they sleep in every day. Right?"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "10320",
+      "startTimeText": "0:10",
+      "text": "We're the result of our actions, not our"
+    },
+    {
+      "endMs": "16560",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "aspirations. So many people have the"
+    },
+    {
+      "endMs": "20320",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "same goal as you, but very few of them"
+    },
+    {
+      "endMs": "20320",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "will do the same work as you."
+    }
+  ],
+  "transcript_only_text": " People  demand  success  but  refuse  to \n work.  People  want  opportunity  but  won't \n talk  to  strangers.  People  claim  ambition \n but  they  sleep  in  every  day.  Right? \n We're  the  result  of  our  actions,  not  our \n aspirations.  So  many  people  have  the \n same  goal  as  you,  but  very  few  of  them \n will  do  the  same  work  as  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=OKGVbHNxOHY",
+  "videoId": "OKGVbHNxOHY"
+}

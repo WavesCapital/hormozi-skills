@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Do you think Shaquille O'Neal was like,"
+    },
+    {
+      "endMs": "7640",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "\"I can't play basketball. I'm 7'1\". It's"
+    },
+    {
+      "endMs": "9640",
+      "startMs": "5480",
+      "startTimeText": "0:05",
+      "text": "not fair to other people"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "7640",
+      "startTimeText": "0:07",
+      "text": "for me to play basketball cuz like this"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "9640",
+      "startTimeText": "0:09",
+      "text": "is like I'm I have such an advantage."
+    },
+    {
+      "endMs": "17240",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "Play the cards you have. You can't play"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "basketball. You're not 7'1, but you can"
+    },
+    {
+      "endMs": "21800",
+      "startMs": "17240",
+      "startTimeText": "0:17",
+      "text": "do this. So do it. If you're good at"
+    },
+    {
+      "endMs": "24560",
+      "startMs": "20240",
+      "startTimeText": "0:20",
+      "text": "something or you have some natural"
+    },
+    {
+      "endMs": "26800",
+      "startMs": "21800",
+      "startTimeText": "0:21",
+      "text": "predisposition, by every means possible,"
+    },
+    {
+      "endMs": "29200",
+      "startMs": "24560",
+      "startTimeText": "0:24",
+      "text": "not going every door,"
+    },
+    {
+      "endMs": "32680",
+      "startMs": "26800",
+      "startTimeText": "0:26",
+      "text": "bang the door down if you have to. Get"
+    },
+    {
+      "endMs": "32680",
+      "startMs": "29200",
+      "startTimeText": "0:29",
+      "text": "the opportunity that you want to."
+    }
+  ],
+  "transcript_only_text": " Do  you  think  Shaquille  O'Neal  was  like, \n \"I  can't  play  basketball.  I'm  7'1\".  It's \n not  fair  to  other  people \n for  me  to  play  basketball  cuz  like  this \n is  like  I'm  I  have  such  an  advantage. \n Play  the  cards  you  have.  You  can't  play \n basketball.  You're  not  7'1,  but  you  can \n do  this.  So  do  it.  If  you're  good  at \n something  or  you  have  some  natural \n predisposition,  by  every  means  possible, \n not  going  every  door, \n bang  the  door  down  if  you  have  to.  Get \n the  opportunity  that  you  want  to.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DB1fSfulSJQ",
+  "videoId": "DB1fSfulSJQ"
+}

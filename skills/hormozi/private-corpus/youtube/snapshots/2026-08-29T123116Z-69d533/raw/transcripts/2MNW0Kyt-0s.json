@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Three questions that make a lifelong"
+    },
+    {
+      "endMs": "5759",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "friend. Number one, can I call this"
+    },
+    {
+      "endMs": "7680",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "person when things go wrong? And when"
+    },
+    {
+      "endMs": "9760",
+      "startMs": "5759",
+      "startTimeText": "0:05",
+      "text": "they pick up, are they actually there to"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "help me out or are they secretly happy?"
+    },
+    {
+      "endMs": "13200",
+      "startMs": "9760",
+      "startTimeText": "0:09",
+      "text": "Second, can you call this person when I"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": "have good news and they're not secretly"
+    },
+    {
+      "endMs": "17520",
+      "startMs": "13200",
+      "startTimeText": "0:13",
+      "text": "jealous of me and wishing that I failed?"
+    },
+    {
+      "endMs": "19279",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "And then finally, is there somebody that"
+    },
+    {
+      "endMs": "21199",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "I can call who does number one and"
+    },
+    {
+      "endMs": "24400",
+      "startMs": "19279",
+      "startTimeText": "0:19",
+      "text": "number two without immediately flipping"
+    },
+    {
+      "endMs": "24400",
+      "startMs": "21199",
+      "startTimeText": "0:21",
+      "text": "it and making it about themselves?"
+    }
+  ],
+  "transcript_only_text": " Three  questions  that  make  a  lifelong \n friend.  Number  one,  can  I  call  this \n person  when  things  go  wrong?  And  when \n they  pick  up,  are  they  actually  there  to \n help  me  out  or  are  they  secretly  happy? \n Second,  can  you  call  this  person  when  I \n have  good  news  and  they're  not  secretly \n jealous  of  me  and  wishing  that  I  failed? \n And  then  finally,  is  there  somebody  that \n I  can  call  who  does  number  one  and \n number  two  without  immediately  flipping \n it  and  making  it  about  themselves?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=2MNW0Kyt-0s",
+  "videoId": "2MNW0Kyt-0s"
+}

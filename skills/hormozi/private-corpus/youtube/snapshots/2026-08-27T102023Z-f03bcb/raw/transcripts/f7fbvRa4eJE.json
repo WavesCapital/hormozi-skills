@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5080",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Why don't more people adopt AI? Well,"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "2400",
+      "startTimeText": "0:02",
+      "text": "the reason is more like complacency."
+    },
+    {
+      "endMs": "8960",
+      "startMs": "5080",
+      "startTimeText": "0:05",
+      "text": "There's a short-term cost that you have"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "to incur in order to learn a new thing."
+    },
+    {
+      "endMs": "12120",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "It's just like training an employee. If"
+    },
+    {
+      "endMs": "13400",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "you're thinking to yourself, \"I don't"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "12120",
+      "startTimeText": "0:12",
+      "text": "want to train this employee because it's"
+    },
+    {
+      "endMs": "15640",
+      "startMs": "13400",
+      "startTimeText": "0:13",
+      "text": "going to take me time to do that when I"
+    },
+    {
+      "endMs": "16600",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "could be doing the work.\" Yeah, but as"
+    },
+    {
+      "endMs": "18520",
+      "startMs": "15640",
+      "startTimeText": "0:15",
+      "text": "soon as you train them, then they can do"
+    },
+    {
+      "endMs": "20200",
+      "startMs": "16600",
+      "startTimeText": "0:16",
+      "text": "the work forever, right? It makes sense"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "18520",
+      "startTimeText": "0:18",
+      "text": "to do it. But when you think too"
+    },
+    {
+      "endMs": "23640",
+      "startMs": "20200",
+      "startTimeText": "0:20",
+      "text": "short-term, which most humans do, then"
+    },
+    {
+      "endMs": "27240",
+      "startMs": "22480",
+      "startTimeText": "0:22",
+      "text": "you end up losing to people who can"
+    },
+    {
+      "endMs": "27240",
+      "startMs": "23640",
+      "startTimeText": "0:23",
+      "text": "think even a little bit more long-term."
+    }
+  ],
+  "transcript_only_text": " Why  don't  more  people  adopt  AI?  Well, \n the  reason  is  more  like  complacency. \n There's  a  short-term  cost  that  you  have \n to  incur  in  order  to  learn  a  new  thing. \n It's  just  like  training  an  employee.  If \n you're  thinking  to  yourself,  \"I  don't \n want  to  train  this  employee  because  it's \n going  to  take  me  time  to  do  that  when  I \n could  be  doing  the  work.\"  Yeah,  but  as \n soon  as  you  train  them,  then  they  can  do \n the  work  forever,  right?  It  makes  sense \n to  do  it.  But  when  you  think  too \n short-term,  which  most  humans  do,  then \n you  end  up  losing  to  people  who  can \n think  even  a  little  bit  more  long-term.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=f7fbvRa4eJE",
+  "videoId": "f7fbvRa4eJE"
+}

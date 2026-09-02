@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Whenever I get to a low point, where I"
+    },
+    {
+      "endMs": "5560",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "think, why do I even bother? I just try"
+    },
+    {
+      "endMs": "7640",
+      "startMs": "3680",
+      "startTimeText": "0:03",
+      "text": "to remind myself, this is where most"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "5560",
+      "startTimeText": "0:05",
+      "text": "people stop, and this is why they don't"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "7640",
+      "startTimeText": "0:07",
+      "text": "win. Because to become who you want, you"
+    },
+    {
+      "endMs": "13280",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "have to go through periods you don't."
+    },
+    {
+      "endMs": "15200",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "You don't learn how to go through"
+    },
+    {
+      "endMs": "17360",
+      "startMs": "13280",
+      "startTimeText": "0:13",
+      "text": "hardship without going through hard"
+    },
+    {
+      "endMs": "19400",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "And so if it's hard,"
+    },
+    {
+      "endMs": "22120",
+      "startMs": "17360",
+      "startTimeText": "0:17",
+      "text": "good. It means no one else will do it."
+    },
+    {
+      "endMs": "22120",
+      "startMs": "19400",
+      "startTimeText": "0:19",
+      "text": "More for you."
+    }
+  ],
+  "transcript_only_text": " Whenever  I  get  to  a  low  point,  where  I \n think,  why  do  I  even  bother?  I  just  try \n to  remind  myself,  this  is  where  most \n people  stop,  and  this  is  why  they  don't \n win.  Because  to  become  who  you  want,  you \n have  to  go  through  periods  you  don't. \n You  don't  learn  how  to  go  through \n hardship  without  going  through  hard \n  And  so  if  it's  hard, \n good.  It  means  no  one  else  will  do  it. \n More  for  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=9opMZrn2-zg",
+  "videoId": "9opMZrn2-zg"
+}

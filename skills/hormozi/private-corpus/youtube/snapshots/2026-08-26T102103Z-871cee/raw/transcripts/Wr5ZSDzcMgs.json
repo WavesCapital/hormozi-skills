@@ -1,0 +1,125 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Did you tell me the story of Buddha and"
+    },
+    {
+      "endMs": "3360",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "the second arrow?"
+    },
+    {
+      "endMs": "4880",
+      "startMs": "2760",
+      "startTimeText": "0:02",
+      "text": ">> No."
+    },
+    {
+      "endMs": "7160",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": ">> So, the Buddha was trying to teach a"
+    },
+    {
+      "endMs": "9320",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "lesson and he says, \"If I"
+    },
+    {
+      "endMs": "10840",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "shoot you with an arrow, does it hurt?\""
+    },
+    {
+      "endMs": "12320",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "And you know, the student was like,"
+    },
+    {
+      "endMs": "14040",
+      "startMs": "10840",
+      "startTimeText": "0:10",
+      "text": "\"Yes, it would be hurtful.\" And so he"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "says, \"Okay, if I were to shoot you with"
+    },
+    {
+      "endMs": "18240",
+      "startMs": "14040",
+      "startTimeText": "0:14",
+      "text": "a second arrow in the same spot after"
+    },
+    {
+      "endMs": "20200",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "the first arrow, would that hurt?\" And"
+    },
+    {
+      "endMs": "22200",
+      "startMs": "18240",
+      "startTimeText": "0:18",
+      "text": "he said, \"Yes.\" He said, \"The first"
+    },
+    {
+      "endMs": "24160",
+      "startMs": "20200",
+      "startTimeText": "0:20",
+      "text": "arrow is life. We're going to have bad"
+    },
+    {
+      "endMs": "25840",
+      "startMs": "22200",
+      "startTimeText": "0:22",
+      "text": "seasons, bad moments, bad days. You"
+    },
+    {
+      "endMs": "27800",
+      "startMs": "24160",
+      "startTimeText": "0:24",
+      "text": "can't avoid the first arrow.\" He said,"
+    },
+    {
+      "endMs": "31000",
+      "startMs": "25840",
+      "startTimeText": "0:25",
+      "text": "\"But the second arrow is you,"
+    },
+    {
+      "endMs": "31000",
+      "startMs": "27800",
+      "startTimeText": "0:27",
+      "text": "and that one you can avoid.\""
+    }
+  ],
+  "transcript_only_text": " Did  you  tell  me  the  story  of  Buddha  and \n the  second  arrow? \n >> No. \n >> So,  the  Buddha  was  trying  to  teach  a \n lesson  and  he  says,  \"If  I \n shoot  you  with  an  arrow,  does  it  hurt?\" \n And  you  know,  the  student  was  like, \n \"Yes,  it  would  be  hurtful.\"  And  so  he \n says,  \"Okay,  if  I  were  to  shoot  you  with \n a  second  arrow  in  the  same  spot  after \n the  first  arrow,  would  that  hurt?\"  And \n he  said,  \"Yes.\"  He  said,  \"The  first \n arrow  is  life.  We're  going  to  have  bad \n seasons,  bad  moments,  bad  days.  You \n can't  avoid  the  first  arrow.\"  He  said, \n \"But  the  second  arrow  is  you, \n and  that  one  you  can  avoid.\"",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Wr5ZSDzcMgs",
+  "videoId": "Wr5ZSDzcMgs"
+}

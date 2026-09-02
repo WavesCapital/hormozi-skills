@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4640",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "There's no perfect way to live your 20s"
+    },
+    {
+      "endMs": "6720",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "or your 30s. You either live them up and"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "become an underskilled 30 or 40-year-old"
+    },
+    {
+      "endMs": "10639",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": "or you work them up and become an"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "underlived 30 or 40year-old. You just"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "10639",
+      "startTimeText": "0:10",
+      "text": "have to figure out which you'd rather be"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "and accept the trade-offs and know that"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "there are no doovers. And that's okay."
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "Is it actually a sacrifice to trade"
+    },
+    {
+      "endMs": "22800",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "things that we want less of for things"
+    },
+    {
+      "endMs": "25119",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "that we want more of? To me, that's a"
+    },
+    {
+      "endMs": "25119",
+      "startMs": "22800",
+      "startTimeText": "0:22",
+      "text": "great trade."
+    }
+  ],
+  "transcript_only_text": " There's  no  perfect  way  to  live  your  20s \n or  your  30s.  You  either  live  them  up  and \n become  an  underskilled  30  or  40-year-old \n or  you  work  them  up  and  become  an \n underlived  30  or  40year-old.  You  just \n have  to  figure  out  which  you'd  rather  be \n and  accept  the  trade-offs  and  know  that \n there  are  no  doovers.  And  that's  okay. \n Is  it  actually  a  sacrifice  to  trade \n things  that  we  want  less  of  for  things \n that  we  want  more  of?  To  me,  that's  a \n great  trade.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6JlgXgGoAXw",
+  "videoId": "6JlgXgGoAXw"
+}

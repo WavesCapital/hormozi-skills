@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3520",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "By the way, you can measure how powerful"
+    },
+    {
+      "endMs": "5400",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "someone is by the distance between when"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "they make a decision and when it happens"
+    },
+    {
+      "endMs": "9080",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "in reality."
+    },
+    {
+      "endMs": "10720",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "So, if you want to feel impotent, then"
+    },
+    {
+      "endMs": "11880",
+      "startMs": "9080",
+      "startTimeText": "0:09",
+      "text": "take as long as you possibly can between"
+    },
+    {
+      "endMs": "14840",
+      "startMs": "10720",
+      "startTimeText": "0:10",
+      "text": "when you make a decision and when you"
+    },
+    {
+      "endMs": "14840",
+      "startMs": "11880",
+      "startTimeText": "0:11",
+      "text": "act on that decision."
+    }
+  ],
+  "transcript_only_text": " By  the  way,  you  can  measure  how  powerful \n someone  is  by  the  distance  between  when \n they  make  a  decision  and  when  it  happens \n in  reality. \n So,  if  you  want  to  feel  impotent,  then \n take  as  long  as  you  possibly  can  between \n when  you  make  a  decision  and  when  you \n act  on  that  decision.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=__4yBF4LLLU",
+  "videoId": "__4yBF4LLLU"
+}
