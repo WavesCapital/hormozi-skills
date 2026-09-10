@@ -35,7 +35,8 @@
     "economics-model": [
       "HZ-OFE-005",
       "HZ-OFE-008",
-      "HZ-OFE-009"
+      "HZ-OFE-009",
+      "HZ-OFE-010"
     ],
     "experiment-card": [
       "HZ-DIA-001",
@@ -238,7 +239,7 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-lead-nurture-playbook:p0009",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0009",
           "source_key": "100m-lead-nurture-playbook"
         },
         {
@@ -267,33 +268,62 @@
       ],
       "citations": [
         {
-          "canonical_url": "https://www.youtube.com/watch?v=A_tx40lNpf8&t=1544s",
-          "evidence_role": "dated_refinement",
-          "locator": "youtube:A_tx40lNpf8:t001544799-t001606960",
-          "review_status": "manually_reviewed_for_material_rule",
-          "source_key": "youtube-A_tx40lNpf8"
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0014",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0015",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0016",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0019",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0020",
+          "source_key": "100m-lead-nurture-playbook"
         }
       ],
       "decision_logic": [
-        "Measure total downstream conversion, not calendar fullness.",
-        "Preserve capacity for fast booking, outbound follow-up, and six-inch putts.",
-        "Add capacity or reshape calendars when utilization creates a queue."
+        "Check whether lack of staff time delays replies or leaves buyers without a useful appointment time.",
+        "Compare the cost of added availability with the sales it could recover. Check actual shows, sales and profit.",
+        "Change hours, start times or staffing when the evidence supports it; do not fill every gap just to make the team look busy."
       ],
       "exceptions_and_limits": [
-        "A short, controlled utilization spike is acceptable when downstream service and follow-up remain protected."
+        "This applies to appointment sales and leads who have shown interest, not the age of an untouched cold list.",
+        "The book supports spare capacity for fast replies and useful appointments. It does not set an ideal utilization percentage or guarantee that extra staff will pay for themselves."
       ],
       "kind": "decision_rule",
       "mode": "diagnose",
       "related_rule_ids": [],
       "rule_id": "HZ-DIA-003",
-      "statement": "A fully booked resource can reduce total conversion when it pushes appointments out, removes convenient slots, or eliminates follow-up capacity.",
-      "title": "Do not maximize local utilization"
+      "statement": "A busy sales team is not the goal. Keep enough room to respond to new interest and offer times buyers can attend.",
+      "title": "Keep room to serve interested leads"
     },
     {
       "asset_consumers": [
         "stage-scorecard"
       ],
       "citations": [
+        {
+          "evidence_role": "roadmap_stage",
+          "locator": "source:your-acq-100mscalingroadmap-stage0:p0009",
+          "source_key": "your-acq-100mscalingroadmap-stage0"
+        },
+        {
+          "evidence_role": "roadmap_stage",
+          "locator": "source:your-acq-100mscalingroadmap-stage0:p0020",
+          "source_key": "your-acq-100mscalingroadmap-stage0"
+        },
         {
           "evidence_role": "roadmap_stage",
           "locator": "source:your-acq-100mscalingroadmap-stage0:p0002",
@@ -346,9 +376,10 @@
         }
       ],
       "decision_logic": [
-        "Classify the business against the roadmap evidence.",
-        "Complete the current stage's graduation condition.",
-        "Load later-stage doctrine only when the current stage no longer binds."
+        "Check actual use, value, sales, cash and delivery against the roadmap. Revenue or headcount alone does not prove the stage.",
+        "Read references/doctrine/startup-stage.md for the step from first use to paid value and the source limits.",
+        "Find the next missing proof; first sale is a milestone, not repeatable demand or cash proof.",
+        "Use later-stage ideas for a real need; do not force every roadmap row into a gate or repeat already-proved work."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -373,22 +404,30 @@
           "evidence_role": "primary",
           "locator": "source:100m-leads-how-to-get-strangers:p0244",
           "source_key": "100m-leads-how-to-get-strangers"
+        },
+        {
+          "evidence_role": "roadmap_stage",
+          "locator": "source:your-acq-100mscalingroadmap-stage07:p0007",
+          "source_key": "your-acq-100mscalingroadmap-stage07"
         }
       ],
       "decision_logic": [
         "Ask what prevents ten times the current activity.",
         "Do more if capacity and unit economics permit.",
         "Improve the newly exposed drop-off.",
-        "Add a new placement, then platform, then Core Four method only after more/better is exhausted."
+        "Compare returns for the same effort before choosing more, better or new. The placement-to-platform-to-method order is a rough guide, not a fixed gate.",
+        "Use HZ-DEM-002 for method choice and shared-source risk. When dependence on one source is the main problem, a second path must address that risk; another placement alone may not."
       ],
       "exceptions_and_limits": [
         "For businesses above roughly $1M annual profit, percentage improvements may outrank raw volume; verify economics rather than applying the threshold mechanically."
       ],
       "kind": "decision_rule",
       "mode": "diagnose",
-      "related_rule_ids": [],
+      "related_rule_ids": [
+        "HZ-DEM-002"
+      ],
       "rule_id": "HZ-DIA-005",
-      "statement": "Exploit a working acquisition path through volume and improvement before adding a new placement, platform, or lead method.",
+      "statement": "Build a working lead source while its returns justify the work. Compare the return and risk of the next move rather than requiring literal exhaustion.",
       "title": "More, better, then new"
     },
     {
@@ -429,13 +468,6 @@
           "evidence_role": "primary",
           "locator": "source:100m-offers-alex-hormozi:p0080",
           "source_key": "100m-offers-alex-hormozi"
-        },
-        {
-          "canonical_url": "https://www.youtube.com/watch?v=TLpLmhWqKEU&t=2637s",
-          "evidence_role": "dated_restatement",
-          "locator": "youtube:TLpLmhWqKEU:t002637040-t002699520",
-          "review_status": "manually_reviewed_for_material_rule",
-          "source_key": "youtube-TLpLmhWqKEU"
         }
       ],
       "decision_logic": [
@@ -464,8 +496,8 @@
         }
       ],
       "decision_logic": [
-        "Improve the actual mechanism first.",
-        "Make the improvement observable in proof, demonstration, packaging, or expectation setting.",
+        "Find whether the gap is in delivery, the buyer's view of it, or both.",
+        "Use real proof, a demo or clear progress to make value visible.",
         "Do not substitute perception claims for delivery."
       ],
       "exceptions_and_limits": [],
@@ -473,7 +505,7 @@
       "mode": "offer-economics",
       "related_rule_ids": [],
       "rule_id": "HZ-OFE-002",
-      "statement": "Operational improvements create commercial value only when the prospect can perceive their effect on success, delay, effort, or outcome.",
+      "statement": "Make real value clear to the buyer. Improve delivery when it is weak; improve proof or clarity when sound delivery is hard to see.",
       "title": "Perceived value must be communicated"
     },
     {
@@ -519,19 +551,31 @@
           "evidence_role": "visual_example",
           "locator": "source:100m-offers-alex-hormozi:p0111",
           "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0106",
+          "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0120",
+          "source_key": "100m-offers-alex-hormozi"
         }
       ],
       "decision_logic": [
         "List the required customer steps.",
-        "Use the four value drivers to expose reasons each step may fail.",
-        "Reverse each obstacle into a solution statement."
+        "Use the four value drivers to find problems without limiting the list to those buckets.",
+        "Turn problems into possible fixes, then choose how to deliver them. A proposed fix is not yet a promise."
       ],
-      "exceptions_and_limits": [],
+      "exceptions_and_limits": [
+        "Look broadly for buyer obstacles, but do not require a perfect solution to every possible problem before a sale. Keep the offer's scope and delivery feasible."
+      ],
       "kind": "decision_rule",
       "mode": "offer-economics",
       "related_rule_ids": [],
       "rule_id": "HZ-OFE-004",
-      "statement": "Build the offer by enumerating every obstacle between the customer and the dream outcome, then translating each obstacle into a solution component.",
+      "statement": "Map what could stop the buyer from reaching the result. Turn those problems into feasible ways to help.",
       "title": "Turn obstacles into solutions"
     },
     {
@@ -600,12 +644,29 @@
           "evidence_role": "primary",
           "locator": "source:100m-offers-alex-hormozi:p0169",
           "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0171",
+          "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0178",
+          "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0183",
+          "source_key": "100m-offers-alex-hormozi"
         }
       ],
       "decision_logic": [
         "Name the risk blocking purchase.",
         "Choose a conditional, unconditional, anti-guarantee, or implied structure appropriate to delivery.",
-        "Specify customer responsibilities and the remedy without hiding material terms."
+        "Specify customer responsibilities and the remedy without hiding material terms.",
+        "Count delivery, refunds and any extra work owed. More kept sales do not always mean more profit.",
+        "For pay tied to results, define the measured event, pay basis, floor and collection path."
       ],
       "exceptions_and_limits": [
         "Do not guarantee lender approvals, financing outcomes, health, legal, financial, or other outcomes outside the business's control."
@@ -625,32 +686,48 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-money-models-how-to-make-money:p0023",
-          "source_key": "100m-money-models-how-to-make-money"
+          "locator": "file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0023",
+          "source_key": "100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-money-models-how-to-make-money:p0147",
-          "source_key": "100m-money-models-how-to-make-money"
+          "locator": "file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0150",
+          "source_key": "100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-money-models-how-to-make-money:p0153",
-          "source_key": "100m-money-models-how-to-make-money"
+          "locator": "file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0153",
+          "source_key": "100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0154",
+          "source_key": "100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0155",
+          "source_key": "100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538"
         }
       ],
       "decision_logic": [
-        "Use attraction to convert strangers.",
+        "Start with one offer that gets customers and covers its costs reliably.",
         "Offer the next solution at the moment of greatest need.",
-        "Use payment or feature downsells instead of treating every no as final.",
-        "Add continuity only where ongoing value is real."
+        "After a declined offer, change payment timing or scope when that helps the buyer. Respect a request to stop.",
+        "Add continuity only where ongoing value is real.",
+        "Use the offer families flexibly. A later offer may belong after thirty days; a partner product may fill a gap.",
+        "Count cash collected, costs and future work owed. A signed plan or prepaid term is not pure profit.",
+        "Read references/doctrine/money-models-review.md for the relevant mechanism, source context and arithmetic limits."
       ],
-      "exceptions_and_limits": [],
+      "exceptions_and_limits": [
+        "Do not require all four families before the first sale. Build one reliable step at a time.",
+        "The thirty-day target and historical take rates are not forecasts for every business."
+      ],
       "kind": "decision_rule",
       "mode": "offer-economics",
       "related_rule_ids": [],
       "rule_id": "HZ-OFE-008",
-      "statement": "Combine attraction, upsell, downsell, and continuity offers so acquisition becomes profitable quickly and customer value grows over time.",
+      "statement": "Build a reliable sequence of useful offers. Improve early cash and long-term value without adding more delivery work than the business can handle.",
       "title": "Build a sequenced money model"
     },
     {
@@ -667,20 +744,61 @@
           "evidence_role": "primary",
           "locator": "source:100m-retention-playbook:p0012",
           "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0020",
+          "source_key": "100m-pricing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0021",
+          "source_key": "100m-pricing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0061",
+          "source_key": "100m-pricing-playbook"
         }
       ],
       "decision_logic": [
-        "Model each candidate price across conversion, units sold, churn, delivery cost, and lifetime gross profit.",
-        "Test a bounded range.",
-        "Select the price that maximizes durable gross profit within delivery and claims constraints."
+        "Model each price's gross profit per buyer and per lead over the same span.",
+        "Check cash timing, added costs and the work still owed. Do not confuse prepayment with profit.",
+        "Test the uncertain parts with like groups. Weigh tradeoffs; every measure need not rise together.",
+        "Choose durable return within real delivery, value and claims limits. Use the pricing guide for the relevant play and source math."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
       "mode": "offer-economics",
       "related_rule_ids": [],
       "rule_id": "HZ-OFE-009",
-      "statement": "Choose price from conversion, gross margin, retention, and lifetime gross profit together, not from close rate or churn alone.",
+      "statement": "Compare lifetime gross profit from the same pool of leads. Weigh buy rate, price, service cost and how long buyers stay. Neither close rate nor the first bill alone decides the best price.",
       "title": "Optimize price for total gross profit"
+    },
+    {
+      "asset_consumers": ["economics-model"],
+      "citations": [
+        {"evidence_role": "primary", "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0040", "source_key": "100m-offers-alex-hormozi"},
+        {"evidence_role": "primary", "locator": "file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0047", "source_key": "100m-lost-chapters-by-alex-hormozi"},
+        {"evidence_role": "primary", "locator": "file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0048", "source_key": "100m-lost-chapters-by-alex-hormozi"},
+        {"evidence_role": "primary", "locator": "file:100m-leads-how-to-get-strangers:29823024eeb1:p0218", "source_key": "100m-leads-how-to-get-strangers"}
+      ],
+      "decision_logic": [
+        "Count pay for serving buyers in delivery cost. Count pay for getting buyers in acquisition cost. Keep other business costs separate until calculating the firm's profit.",
+        "If the staff's work or another cost's role is unknown, do not assume it is all overhead. Give the remainder after the known costs and say which profit label is still conditional.",
+        "Carry the same cost scope into tables, quoted takeaways and the final advice. Do not charge the same cost twice.",
+        "Judge added buyers by the money they leave and the work/cash they need. Ad cost may rise and still make the next buyer worth getting; an unchanged cost per buyer is not a required growth rule."
+      ],
+      "exceptions_and_limits": [
+        "Use complete figures when supplied. Do not invent missing costs or impose a full financial audit on simple arithmetic.",
+        "The source's growth estimate is not a formal accounting policy. State any needed allocation or timing assumption rather than invent it."
+      ],
+      "kind": "decision_rule",
+      "mode": "offer-economics",
+      "related_rule_ids": ["HZ-OFE-009"],
+      "rule_id": "HZ-OFE-010",
+      "statement": "Classify costs by the work they pay for, not just their name. A cost called payroll can pay for delivery, sales or running the firm.",
+      "title": "Match profit labels to the costs counted"
     },
     {
       "asset_consumers": [
@@ -715,21 +833,40 @@
           "evidence_role": "primary",
           "locator": "source:100m-leads-how-to-get-strangers:p0245",
           "source_key": "100m-leads-how-to-get-strangers"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-leads-how-to-get-strangers:p0243",
+          "source_key": "100m-leads-how-to-get-strangers"
+        },
+        {
+          "evidence_role": "roadmap_stage",
+          "locator": "source:your-acq-100mscalingroadmap-stage07:p0003",
+          "source_key": "your-acq-100mscalingroadmap-stage07"
+        },
+        {
+          "evidence_role": "roadmap_stage",
+          "locator": "source:your-acq-100mscalingroadmap-stage07:p0007",
+          "source_key": "your-acq-100mscalingroadmap-stage07"
         }
       ],
       "decision_logic": [
         "Start with the warm audience when one exists.",
         "Compare available time, cash, skill, speed, and audience access.",
-        "Pick one method, do more, improve it, and only then add another."
+        "The book suggests content when time exceeds cash, or cold outreach and ads when cash exceeds time. Treat that as a starting point, not a substitute for fit and permission checks.",
+        "For early growth, focus on one method. Do more and improve it while returns justify the work.",
+        "Before adding a method, compare its likely return for the same effort. More-better-new is a guide, not a demand to reach literal perfection.",
+        "When one lead source creates material risk, use organizing-growth.md. Preserve the working path and test a second path that addresses the actual risk."
       ],
       "exceptions_and_limits": [
-        "Regulated outreach, consent, platform terms, and brand risk can disqualify an otherwise feasible method."
+        "Regulated outreach, consent, platform terms, and brand risk can disqualify an otherwise feasible method.",
+        "The book's rough placement-to-platform-to-method order seeks more leads for less work. Another placement on the same platform does not protect against that platform failing. That risk distinction is a cross-source application, not a quote from the book."
       ],
       "kind": "decision_rule",
       "mode": "demand",
       "related_rule_ids": [],
       "rule_id": "HZ-DEM-002",
-      "statement": "After initial warm outreach, prefer content when time exceeds cash, and cold outreach or paid ads when cash exceeds time; then max the chosen path.",
+      "statement": "After initial warm outreach, choose a lead method from the time, cash and skills available. Build the working path, then compare the return and risk of the next move.",
       "title": "Pick one lead method from resources"
     },
     {
@@ -775,13 +912,6 @@
           "evidence_role": "primary",
           "locator": "source:100m-leads-how-to-get-strangers:p0057",
           "source_key": "100m-leads-how-to-get-strangers"
-        },
-        {
-          "canonical_url": "https://www.youtube.com/watch?v=PNo9aYaPXEY&t=0s",
-          "evidence_role": "dated_restatement",
-          "locator": "youtube:PNo9aYaPXEY:t000000000-t000050840",
-          "review_status": "manually_reviewed_for_material_rule",
-          "source_key": "youtube-PNo9aYaPXEY"
         }
       ],
       "decision_logic": [
@@ -835,15 +965,33 @@
           "evidence_role": "primary",
           "locator": "source:100m-hooks-playbook:p0025",
           "source_key": "100m-hooks-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-hooks-playbook:p0012",
+          "source_key": "100m-hooks-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-hooks-playbook:p0009",
+          "source_key": "100m-hooks-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-hooks-playbook:p0013",
+          "source_key": "100m-hooks-playbook"
         }
       ],
       "decision_logic": [
         "Identify the top-performing hooks on the relevant metric.",
+        "If the business has no past results, build and test a first batch. Use relevant examples to form ideas, not to claim the business already has winners. Then compare its own best and worst results.",
         "Allocate roughly 70% to top winners, 20% to variations, and 10% to new concepts.",
-        "Recalculate after each meaningful sample."
+        "Recalculate after each meaningful sample.",
+        "Keep a winner log for each channel: hook, source link, format, audience, result, and buyer quality. Record losses too. Move a new test into the proven group only after it earns that place."
       ],
       "exceptions_and_limits": [
-        "Treat 70/20/10 as a testing heuristic, not a substitute for adequate sample size or channel-specific learning."
+        "Treat 70/20/10 as a testing heuristic, not a substitute for adequate sample size or channel-specific learning.",
+        "The chart of 121 winning hooks shows their mix by type, not each type's conversion rate. Do not use that chart to promise results or set spend."
       ],
       "kind": "decision_rule",
       "mode": "demand",
@@ -864,16 +1012,37 @@
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-goated-ads-playbook:p0027",
+          "locator": "file:100m-playbooks-100m-goated-ads-playbook:9b183da66b08:p0009",
+          "source_key": "100m-goated-ads-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-goated-ads-playbook:9b183da66b08:p0015",
+          "source_key": "100m-goated-ads-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-goated-ads-playbook:9b183da66b08:p0024",
+          "source_key": "100m-goated-ads-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-goated-ads-playbook:9b183da66b08:p0028",
           "source_key": "100m-goated-ads-playbook"
         }
       ],
       "decision_logic": [
         "Develop many hooks against a small number of strong bodies.",
-        "Attach one or more truthful calls to action.",
-        "Track component-level winners so the next batch compounds learning."
+        "Match the parts to what the buyer knows. The body fulfills the hook; the next step matches the real destination.",
+        "Size the batch to the firm's resources. Possible combinations are not proven winners, and prep-time ratios are not spend rules.",
+        "Attach a clear, truthful next step. Show what follows when it helps; do not invent a deadline or instant result.",
+        "Compare like hooks, bodies and audiences when testing a call to action. If several parts change, do not credit one part for the whole result.",
+        "Track results and buyer quality, not just views or version counts. Keep winners while they work; owner boredom is not proof of fatigue."
       ],
-      "exceptions_and_limits": [],
+      "exceptions_and_limits": [
+        "Awareness levels and the five body formats are useful starting points, not rigid or exhaustive categories.",
+        "Other firms' ads are ideas to test, not proof of their profit or permission to copy their claims."
+      ],
       "kind": "decision_rule",
       "mode": "demand",
       "related_rule_ids": [],
@@ -892,19 +1061,42 @@
           "source_key": "100m-branding-playbook"
         },
         {
-          "canonical_url": "https://www.youtube.com/watch?v=spXH1kJ6q-Q&t=2302s",
-          "evidence_role": "dated_restatement",
-          "locator": "youtube:spXH1kJ6q-Q:t002302640-t002368320",
-          "review_status": "manually_reviewed_for_material_rule",
-          "source_key": "youtube-spXH1kJ6q-Q"
+          "evidence_role": "primary",
+          "locator": "source:100m-branding-playbook:p0009",
+          "source_key": "100m-branding-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-branding-playbook:p0012",
+          "source_key": "100m-branding-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-branding-playbook:p0022",
+          "source_key": "100m-branding-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-branding-playbook:p0026",
+          "source_key": "100m-branding-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-branding-playbook:p0030",
+          "source_key": "100m-branding-playbook"
         }
       ],
       "decision_logic": [
         "Define the association the market should recall.",
         "Deliver the promised outcome often enough to teach the association.",
-        "Remove activities that dilute or contradict it."
+        "Remove activities that dilute or contradict it.",
+        "Separate reach from trust and buying behavior. More views from the wrong people are not the goal.",
+        "For brand work or a change in audience, read references/doctrine/brand-review.md. Check buyer fit, promises kept, and who the change gains or loses."
       ],
-      "exceptions_and_limits": [],
+      "exceptions_and_limits": [
+        "The source's sales table has conflicting inputs. Check the math and include brand costs; do not promise its example returns.",
+        "A strong brand does not need deliberate controversy. Use real ties and proof, not made-up endorsements."
+      ],
       "kind": "decision_rule",
       "mode": "demand",
       "related_rule_ids": [],
@@ -919,28 +1111,40 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:affiliate-blackbook:p0005",
+          "locator": "file:affiliate-blackbook:93095e1104b6:p0002",
           "source_key": "affiliate-blackbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:affiliate-blackbook:p0016",
+          "locator": "file:affiliate-blackbook:93095e1104b6:p0007",
+          "source_key": "affiliate-blackbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:affiliate-blackbook:93095e1104b6:p0011",
+          "source_key": "affiliate-blackbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:affiliate-blackbook:93095e1104b6:p0016",
           "source_key": "affiliate-blackbook"
         }
       ],
       "decision_logic": [
         "Confirm the work is a launch rather than evergreen acquisition.",
-        "Map registration, reminders, event, offer, follow-up, and fulfillment.",
-        "Treat affiliate incentives and urgency as disclosed campaign mechanics, not timeless doctrine."
+        "Map signup, access, reminders, event, offer, follow-up and delivery. Use the right link for each step.",
+        "Name who earns and gets each partner reward. Separate a chance to win from a promised prize.",
+        "Match copy to the channel and real facts; do not copy old counts, personal results or reward progress."
       ],
       "exceptions_and_limits": [
-        "Do not infer that a launch tactic should become the active business's evergreen strategy without business evidence."
+        "Do not infer that a launch tactic should become the active business's evergreen strategy without business evidence.",
+        "This kit does not ban evergreen affiliates or prescribe six emails for every list. Its old dates and prize terms are not current facts."
       ],
       "kind": "decision_rule",
       "mode": "demand",
       "related_rule_ids": [],
       "rule_id": "HZ-DEM-009",
-      "statement": "Use countdowns, affiliates, live events, and event urgency only when the business is running a real launch with an offer, audience, fulfillment plan, and dated operational reason.",
+      "statement": "For a real launch, align the offer, audience, date, partner terms and delivery plan. Use event urgency only while it is true. A launch kit does not make affiliates launch-only.",
       "title": "Launch mechanics are conditional"
     },
     {
@@ -955,15 +1159,22 @@
           "source_key": "100m-lead-nurture-playbook"
         },
         {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0041",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
           "evidence_role": "supporting",
-          "locator": "source:100m-lead-nurture-playbook:p0045",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0010",
           "source_key": "100m-lead-nurture-playbook"
         }
       ],
       "decision_logic": [
         "Use stable denominators and a common time window.",
+        "For booking and show-rate work, read references/doctrine/lead-nurture-review.md. Keep cancellations in the full lead count; compare sales, profit and staff time, not just rates for the calls left.",
         "Identify the largest economic leakage, not merely the lowest percentage.",
-        "Route the fix to nurture, proof, offer, capacity, or closing based on evidence."
+        "Route the fix to nurture, proof, offer, capacity, or closing based on evidence.",
+        "When the owner handles all booking or handoffs, read small-team-growth.md; separate fit, readiness, setting and closing capacity."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -980,29 +1191,57 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-lead-nurture-playbook:p0044",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0016",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0018",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0034",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0035",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0044",
           "source_key": "100m-lead-nurture-playbook"
         }
       ],
       "decision_logic": [
-        "Expand useful scheduling availability and remove steps.",
-        "Contact quickly and pull appointments forward.",
-        "Use the lead's responsive channel and relevant context.",
-        "Then add reminders, proof, and follow-up volume."
+        "Offer useful staffed times and remove needless steps. Add a fit check when poor-fit bookings consume sales time.",
+        "Keep call length, start choices and free staff time distinct. More slots do not create more staff.",
+        "Use HZ-SAL-003 for fresh interest, the time until the meeting and replies.",
+        "Use the lead's chosen channel and real context. Match proof, reminders and further contact to their current state.",
+        "Read references/doctrine/lead-nurture-review.md for gift terms, follow-up timing, accepted handoffs and booking the next useful meeting."
       ],
-      "exceptions_and_limits": [],
+      "exceptions_and_limits": [
+        "Source schedules and studies are examples, not consent to contact every lead or guarantees of added sales. Respect opt-outs and actual capacity."
+      ],
       "kind": "decision_rule",
       "mode": "sales",
       "related_rule_ids": [],
       "rule_id": "HZ-SAL-002",
-      "statement": "Increase scheduling and show throughput by making access easy, responding quickly, and tailoring communication before adding complex nurture.",
-      "title": "Availability, speed, then personalization"
+      "statement": "Help interested leads book, attend and buy. Match access, speed, personal care and follow-up to the actual problem, not a fixed order.",
+      "title": "Match lead nurture to the actual loss"
     },
     {
       "asset_consumers": [
         "pipeline-leakage-audit"
       ],
       "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-lead-nurture-playbook:p0010",
+          "source_key": "100m-lead-nurture-playbook"
+        },
         {
           "evidence_role": "primary",
           "locator": "source:100m-lead-nurture-playbook:p0020",
@@ -1022,16 +1261,18 @@
       "decision_logic": [
         "Staff enough excess capacity to respond while intent is high.",
         "Offer convenient near-term times.",
-        "Respond immediately when an unscheduled or scheduled lead re-engages."
+        "Respond immediately when an unscheduled or scheduled lead re-engages.",
+        "Separate new interest from an old cold list or ready-lead backlog. Work the backlog now; do not score it against a past five-minute deadline."
       ],
       "exceptions_and_limits": [
-        "Respect contact consent, local laws, channel rules, reasonable hours, and customer communication preferences."
+        "Respect contact consent, local laws, channel rules, reasonable hours, and customer communication preferences.",
+        "The source prefers three days but allows five when needed. Check show rates and buyer needs rather than enforcing a fixed cutoff blindly."
       ],
       "kind": "decision_rule",
       "mode": "sales",
       "related_rule_ids": [],
       "rule_id": "HZ-SAL-003",
-      "statement": "Use under five minutes to first contact as the operating standard and aim to book same day, next day, or the day after.",
+      "statement": "For newly engaged leads, aim to make first contact within five minutes of their interest. Aim to hold the sales call within the next three days, sooner when useful. That is the wait until the call happens, not permission to wait three days to book it.",
       "title": "Five-minute contact and 72-hour appointment"
     },
     {
@@ -1041,25 +1282,42 @@
       ],
       "citations": [
         {
-          "canonical_url": "https://www.youtube.com/watch?v=A_tx40lNpf8&t=1544s",
-          "evidence_role": "dated_refinement",
-          "locator": "youtube:A_tx40lNpf8:t001544799-t001606960",
-          "review_status": "manually_reviewed_for_material_rule",
-          "source_key": "youtube-A_tx40lNpf8"
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0019",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0020",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0021",
+          "source_key": "100m-lead-nurture-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0022",
+          "source_key": "100m-lead-nurture-playbook"
         }
       ],
       "decision_logic": [
-        "Track days-to-appointment and convenience alongside utilization.",
-        "Reserve explicit follow-up blocks.",
-        "Add capacity when booked-out calendars increase CAC or reduce show and close throughput."
+        "Check fresh interest first, then contact self-booked leads to check fit and offer a sooner time.",
+        "Check that the buyer and the right salesperson can meet. A setter talking to a lead is not proof that the closer is free.",
+        "Keep the current appointment when moving it does not work. Give the closer the needed context.",
+        "If the team cannot do this work, compare schedule changes and added staff against the value of the missed sales."
       ],
-      "exceptions_and_limits": [],
+      "exceptions_and_limits": [
+        "Do not invent a canceled slot or force a buyer to move. Respect consent and channel rules.",
+        "The book uses calendar gaps for this work. Fixed follow-up blocks may be a useful local plan, but they are not a required step from these pages."
+      ],
       "kind": "decision_rule",
       "mode": "sales",
       "related_rule_ids": [],
       "rule_id": "HZ-SAL-004",
-      "statement": "Do not fill sales calendars so completely that leads book farther out and closers stop following up on near-wins.",
-      "title": "Protect follow-up capacity"
+      "statement": "Use time between appointments to contact new interested leads first. When none are waiting, help qualified booked leads meet sooner when it suits them.",
+      "title": "Use sales gaps to help interested leads"
     },
     {
       "asset_consumers": [
@@ -1085,15 +1343,44 @@
           "evidence_role": "primary",
           "locator": "source:100m-proof-checklist-playbook:p0018",
           "source_key": "100m-proof-checklist-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-proof-checklist-playbook:p0007",
+          "source_key": "100m-proof-checklist-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-proof-checklist-playbook:p0020",
+          "source_key": "100m-proof-checklist-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-marketing-machine:565457f7268f:p0010",
+          "source_key": "100m-playbooks-100m-marketing-machine:565457f7268f"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-marketing-machine:565457f7268f:p0011",
+          "source_key": "100m-playbooks-100m-marketing-machine:565457f7268f"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-marketing-machine:565457f7268f:p0022",
+          "source_key": "100m-playbooks-100m-marketing-machine:565457f7268f"
         }
       ],
       "decision_logic": [
         "Capture raw customer language with permission.",
         "Prioritize large and recent outcomes while retaining representative small wins.",
-        "Make proof easy to inspect across the buying journey."
+        "Make proof easy to inspect across the buying journey.",
+        "Start with real data and write the claim it supports. Keep the population, date, and method clear.",
+        "For proof work, read references/doctrine/proof-review.md. Choose useful proof forms without making all thirteen a gate to selling.",
+        "For repeatable collection, read references/doctrine/proof-collection.md. Start with one useful source and close the handoff from captured proof to actual use. The guide retains exact Marketing Machine file-page locators."
       ],
       "exceptions_and_limits": [
-        "Never present outlier proof as a typical result without the required qualification."
+        "Never present outlier proof as a typical result without the required qualification.",
+        "Reusing one customer's result does not create more independent results. A clear comparison helps explain; it is not outcome evidence."
       ],
       "kind": "decision_rule",
       "mode": "sales",
@@ -1133,24 +1420,35 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-closing-playbook:p0013",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0011",
           "source_key": "100m-closing-playbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-closing-playbook:p0014",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0012",
           "source_key": "100m-closing-playbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-closing-playbook:p0017",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0015",
+          "source_key": "100m-closing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0018",
+          "source_key": "100m-closing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0029",
           "source_key": "100m-closing-playbook"
         }
       ],
       "decision_logic": [
         "Clarify the exact objection and desired outcome.",
-        "Identify whether the prospect assigns the decision to circumstances, another person, or self-belief.",
-        "Use questions and evidence to resolve the mistaken premise or accept a legitimate no."
+        "Use the book's three concern groups as a thinking aid, not a fixed order or proof of excuses.",
+        "Check fit and use real facts to answer the concern. Accept a clear no.",
+        "Read closing-review.md for price, time, risk, trust and decision-maker concerns. Match the reply to the actual issue."
       ],
       "exceptions_and_limits": [
         "Do not override consent, exploit vulnerability, misstate financing, or frame a valid budget, partner, legal, or risk boundary as irrational."
@@ -1159,7 +1457,7 @@
       "mode": "sales",
       "related_rule_ids": [],
       "rule_id": "HZ-SAL-007",
-      "statement": "Handle objections by identifying the locus of decision avoidance and restoring a truthful decision, not by memorizing pressure lines.",
+      "statement": "Find the concern behind the buyer's words. Help them make a real choice, not just say yes.",
       "title": "Understand the objection's logic"
     },
     {
@@ -1170,7 +1468,17 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-closing-playbook:p0008",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0016",
+          "source_key": "100m-closing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0017",
+          "source_key": "100m-closing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0019",
           "source_key": "100m-closing-playbook"
         },
         {
@@ -1187,7 +1495,8 @@
       "decision_logic": [
         "Compare objection patterns by source, offer, rep, and delivery outcome.",
         "Repair the upstream cause when objections cluster around a true weakness.",
-        "Use close language only for residual decision friction."
+        "Use close language only for residual decision friction.",
+        "Use closing-review.md to find one useful change from real calls. Check what buyers hear before blaming the rep."
       ],
       "exceptions_and_limits": [],
       "kind": "original_synthesis",
@@ -1204,7 +1513,12 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-lifetime-value-playbook:p0006",
+          "locator": "file:100m-playbooks-100m-lifetime-value-playbook:cab75486a749:p0006",
+          "source_key": "100m-lifetime-value-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lifetime-value-playbook:cab75486a749:p0009",
           "source_key": "100m-lifetime-value-playbook"
         }
       ],
@@ -1218,7 +1532,7 @@
       "mode": "customer-value",
       "related_rule_ids": [],
       "rule_id": "HZ-CV-001",
-      "statement": "Define customer lifetime value as gross profit collected across the customer relationship, not topline revenue.",
+      "statement": "Define customer lifetime value as sales less delivery costs across the customer relationship, not total revenue, cash today or net profit.",
       "title": "Use lifetime gross profit"
     },
     {
@@ -1229,19 +1543,30 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-lifetime-value-playbook:p0010",
+          "locator": "file:100m-playbooks-100m-lifetime-value-playbook:cab75486a749:p0010",
           "source_key": "100m-lifetime-value-playbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-lifetime-value-playbook:p0026",
+          "locator": "file:100m-playbooks-100m-lifetime-value-playbook:cab75486a749:p0017",
+          "source_key": "100m-lifetime-value-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lifetime-value-playbook:cab75486a749:p0022",
+          "source_key": "100m-lifetime-value-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-lifetime-value-playbook:cab75486a749:p0026",
           "source_key": "100m-lifetime-value-playbook"
         }
       ],
       "decision_logic": [
-        "Generate at least one evidence-backed option for each lever.",
-        "Model margin, capacity, customer value, and cannibalization.",
-        "Test the smallest high-margin option first."
+        "Explore all eight for a full value audit; use relevant levers for a narrow request.",
+        "Model delivery cost, buyer value, capacity and sales lost from the main offer.",
+        "Compare take rates and profit for the same group; do not confuse visitors with paying buyers.",
+        "Test the best-fitting option by expected return, work and risk, not margin alone."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1258,19 +1583,30 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-retention-playbook:p0011",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0011",
           "source_key": "100m-retention-playbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-retention-playbook:p0012",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0012",
+          "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0023",
+          "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0026",
           "source_key": "100m-retention-playbook"
         }
       ],
       "decision_logic": [
         "Model conversion, price, churn, delivery cost, and lifetime gross profit together.",
         "Test rather than assume the best price.",
-        "Protect ongoing value as price rises."
+        "Protect ongoing value as price rises.",
+        "Track product use apart from paid status. Include the cost of all service owed under a longer term."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1289,12 +1625,23 @@
           "evidence_role": "primary",
           "locator": "source:100m-money-models-how-to-make-money:p0147",
           "source_key": "100m-money-models-how-to-make-money"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0051",
+          "source_key": "100m-pricing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0052",
+          "source_key": "100m-pricing-playbook"
         }
       ],
       "decision_logic": [
         "Identify the recurring problem, service, access, product, or community.",
         "Match billing cadence to value cadence.",
-        "Do not force one-time educational value into a recurring model."
+        "Do not force one-time educational value into a recurring model.",
+        "Agree to ongoing charges and their start date up front. Keep any access already promised."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1312,19 +1659,30 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-retention-playbook:p0010",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0010",
           "source_key": "100m-retention-playbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-retention-playbook:p0011",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0011",
+          "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0017",
+          "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0018",
           "source_key": "100m-retention-playbook"
         }
       ],
       "decision_logic": [
         "List broken promises, silence, friction, poor treatment, hidden progress, isolation, and unrealistic expectations.",
         "Convert each into an observable service standard.",
-        "Measure adoption and retention by cohort."
+        "Measure adoption and retention by cohort.",
+        "Treat early-value patterns as candidates to test, not proof that one action stops all churn."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1341,13 +1699,23 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-retention-playbook:p0012",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0012",
+          "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0013",
+          "source_key": "100m-retention-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-retention-playbook:2dc13fce1b8b:p0029",
           "source_key": "100m-retention-playbook"
         }
       ],
       "decision_logic": [
         "Measure which components produce outcomes or progress.",
-        "Remove low-use, low-outcome volume.",
+        "Ask what buyers most value and least need. Check the purpose and promises behind low-use features before cutting them.",
         "Make the next valuable action obvious and easy."
       ],
       "exceptions_and_limits": [],
@@ -1365,12 +1733,27 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:100m-fast-cash-playbook:p0007",
+          "locator": "file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0007",
           "source_key": "100m-fast-cash-playbook"
         },
         {
           "evidence_role": "primary",
-          "locator": "source:100m-fast-cash-playbook:p0016",
+          "locator": "file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0016",
+          "source_key": "100m-fast-cash-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0011",
+          "source_key": "100m-fast-cash-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0021",
+          "source_key": "100m-fast-cash-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0024",
           "source_key": "100m-fast-cash-playbook"
         }
       ],
@@ -1378,10 +1761,13 @@
         "Choose a warm, permissioned audience.",
         "Create exceptional value with real scarcity, capacity, and urgency.",
         "Price high enough to justify unscalable delivery and cap sales.",
-        "Exclude neglected cold lists until re-warmed."
+        "Exclude neglected cold lists until re-warmed.",
+        "Match the sales window to consult or checkout capacity. Give early buyers the campaign bonuses too.",
+        "Count extra profit and work owed, not just cash collected now. Deliver and restore useful contact before another promotion."
       ],
       "exceptions_and_limits": [
-        "Protect existing commitments and customer trust; never manufacture capacity limits."
+        "Protect existing commitments and customer trust; never manufacture capacity limits.",
+        "Source price multiples, take rates and quarterly timing are examples. Use actual counts, deadlines, purchase consent and delivery costs."
       ],
       "kind": "decision_rule",
       "mode": "customer-value",
@@ -1402,59 +1788,25 @@
         },
         {
           "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage0:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage0"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage01:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage01"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage02:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage02"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage03:p0002",
+          "locator": "source:your-acq-100mscalingroadmap-stage03:p0003",
           "source_key": "your-acq-100mscalingroadmap-stage03"
         },
         {
           "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage04:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage04"
+          "locator": "source:your-acq-100mscalingroadmap-stage03:p0008",
+          "source_key": "your-acq-100mscalingroadmap-stage03"
         },
         {
           "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage05:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage05"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage06:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage06"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage07:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage07"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage08:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage08"
-        },
-        {
-          "evidence_role": "roadmap_stage",
-          "locator": "source:your-acq-100mscalingroadmap-stage09:p0002",
-          "source_key": "your-acq-100mscalingroadmap-stage09"
+          "locator": "source:your-acq-100mscalingroadmap-stage03:p0022",
+          "source_key": "your-acq-100mscalingroadmap-stage03"
         }
       ],
       "decision_logic": [
         "Diagnose whether the constraint is actually people or process.",
         "Define the throughput or quality gain the new system must create.",
-        "Avoid importing later-stage overhead into an earlier-stage business."
+        "Avoid importing later-stage overhead into an earlier-stage business.",
+        "For an overloaded small team, read small-team-growth.md for trained help, lead fit, customer results and the path to cash."
       ],
       "exceptions_and_limits": [],
       "kind": "original_synthesis",
@@ -1488,7 +1840,8 @@
       "decision_logic": [
         "Choose synchronous communication only when interaction creates value.",
         "Make ownership, decision, and next action explicit.",
-        "Audit cross-team communication for delay, ambiguity, and rework."
+        "Audit cross-team communication for delay, ambiguity, and rework.",
+        "Use Leila's three factors to find the weakest part, not to demand more chat. Read team-review.md for definitions and source limits."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1512,12 +1865,18 @@
           "evidence_role": "primary",
           "locator": "source:leila-hormozis-5-scaling-framework-sops:p0028",
           "source_key": "leila-hormozis-5-scaling-framework-sops"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:leila-hormozis-5-scaling-framework-sops:p0029",
+          "source_key": "leila-hormozis-5-scaling-framework-sops"
         }
       ],
       "decision_logic": [
         "Review last week's commitments, misses, and constraints.",
         "Look 1–3 months ahead for work to pull forward.",
-        "Schedule priority work blocks before reactive work."
+        "Schedule priority work blocks before reactive work.",
+        "Keep essential service, breaks and overflow time in the plan. The sample calendar is not a rule to fill every minute."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1541,19 +1900,25 @@
           "evidence_role": "primary",
           "locator": "source:leila-hormozis-5-scaling-framework-sops:p0012",
           "source_key": "leila-hormozis-5-scaling-framework-sops"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:leila-hormozis-5-scaling-framework-sops:p0013",
+          "source_key": "leila-hormozis-5-scaling-framework-sops"
         }
       ],
       "decision_logic": [
         "Sample real interactions across channels.",
         "Score against defined observable behaviors.",
-        "Coach the largest recurring gap and re-sample."
+        "Coach the largest recurring gap and re-sample.",
+        "Check the whole issue and repeat contacts, not just tickets closed. Read team-review.md for the five service parts and survey mismatch."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
       "mode": "team-operations",
       "related_rule_ids": [],
       "rule_id": "HZ-OPS-004",
-      "statement": "Turn service quality into a repeatable review system using customer interactions and explicit behavioral criteria such as concern, empathy, courtesy, resolution, and follow-through.",
+      "statement": "Review service through Leila's five parts: concern, courtesy, full resolution, education and timeliness. Keep buyer scores separate from proof that the issue is fixed.",
       "title": "Score service from observable behavior"
     },
     {
@@ -1587,14 +1952,20 @@
       "citations": [
         {
           "evidence_role": "primary",
-          "locator": "source:leila-hormozis-5-scaling-framework-sops:p0004",
+          "locator": "source:leila-hormozis-5-scaling-framework-sops:p0015",
+          "source_key": "leila-hormozis-5-scaling-framework-sops"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:leila-hormozis-5-scaling-framework-sops:p0017",
           "source_key": "leila-hormozis-5-scaling-framework-sops"
         }
       ],
       "decision_logic": [
         "Name the sending and receiving owner.",
         "Define the information, timing, acceptance, and escalation contract.",
-        "Measure missed or repeated customer effort at the seam."
+        "Measure missed or repeated customer effort at the seam.",
+        "Use Leila's Gametape Review when promises and delivery drift: review a real call across teams, choose one fix and track it. Read team-review.md for each team's questions."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -1663,28 +2034,25 @@
       "asset_consumers": [],
       "citations": [
         {
-          "evidence_role": "primary",
-          "locator": "source:100m-offers-alex-hormozi:p0080",
-          "source_key": "100m-offers-alex-hormozi"
-        },
-        {
-          "evidence_role": "supporting",
-          "locator": "source:100m-leads-how-to-get-strangers:p0244",
-          "source_key": "100m-leads-how-to-get-strangers"
+          "evidence_role": "interaction_contract_not_hormozi_doctrine",
+          "locator": "skill:SKILL.md#hormozi-advisor",
+          "source_key": "advisor-roleplay-contract"
         }
       ],
       "decision_logic": [
         "Attribute ideas to the cited source.",
-        "Use plain synthesis language for recommendations.",
-        "Reject persona imitation as a fidelity metric."
+        "Role-play as Alex on the user's team, using first-person advice and documented methods.",
+        "Stay in the agreed frame without repeated disclaimers; answer honestly if asked about actual identity.",
+        "Do not invent his real quotes, memories, private views, contact with the user, or endorsement.",
+        "Judge the quality of both reasoning and voice, not catchphrases alone."
       ],
       "exceptions_and_limits": [],
-      "kind": "safety_boundary",
+      "kind": "interaction_contract",
       "mode": "shared",
       "related_rule_ids": [],
       "rule_id": "HZ-SYN-003",
-      "statement": "Use a direct, numbers-first, constraint-focused lens without claiming to be Alex Hormozi or implying endorsement, privileged knowledge, or certainty beyond the sources.",
-      "title": "No identity or endorsement claim"
+      "statement": "Use grounded private role-play as Alex Hormozi while keeping new advice distinct from his real quotes, personal experiences, and endorsement.",
+      "title": "Grounded private role-play"
     },
     {
       "asset_consumers": [],
@@ -1700,6 +2068,26 @@
           "source_key": "blackbook-100m-money-models-master-doc"
         },
         {
+          "evidence_role": "primary",
+          "locator": "file:affiliate-blackbook:93095e1104b6:p0017",
+          "source_key": "affiliate-blackbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:affiliate-blackbook:93095e1104b6:p0018",
+          "source_key": "affiliate-blackbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-proof-checklist-playbook:p0021",
+          "source_key": "100m-proof-checklist-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "source:100m-proof-checklist-playbook:p0022",
+          "source_key": "100m-proof-checklist-playbook"
+        },
+        {
           "evidence_role": "supporting",
           "locator": "source:100m-leads-how-to-get-strangers:p0011",
           "source_key": "100m-leads-how-to-get-strangers"
@@ -1710,12 +2098,17 @@
         "Aim for third-grade prose with short, common words and short, active sentences.",
         "Translate internal labels into words the reader would use unless the exact term helps them act.",
         "Define an exact legal, financial, technical, or source term in plain words when it first appears.",
+        "Prefer active voice when the actor is known. Keep passive voice if changing it would invent an actor or a promise.",
         "Cut filler and repeated words without removing facts, math, citations, or safety limits.",
-        "Run the strict plain-language gate on the full user-facing draft, then fix and recheck every avoidable issue."
+        "Explain hard ideas with a comparison the reader knows when it helps. Keep its limits clear; a metaphor is not outcome evidence.",
+        "Review meaning and plain speech together. Use the grade3 checker when a long draft, tangled passage or requested measurement benefits from its flags; a tool run is not required for every reply. Never fragment clear prose merely to satisfy a heuristic.",
+        "Check each rewrite both ways: retain each needed fact and require support for each output claim. Keep amounts, units, people, conditions and timing intact, including the scope of only, all, may and must. Read the final answer for one consistent meaning and natural flow; say each reason once and stop when it is clear, correct and useful."
       ],
       "exceptions_and_limits": [
         "Do not trade accuracy, legal meaning, source lineage, or safety for a lower reading score.",
-        "Code, formulas, file paths, citations, and required names are not ordinary grade-level prose."
+        "Code, formulas, file paths, citations, and required names are not ordinary grade-level prose.",
+        "The source sets no16-word ceiling; its good19-word example fails our heuristic. Numeric scores do not grade meaning or natural voice. Keep the grade3 aim and inspect false positives rather than lowering targets or losing facts.",
+        "A text hash identifies the measured draft, not its truth or voice. Ordinary advice does not require a checker receipt; any claimed measurement must describe the draft actually measured."
       ],
       "kind": "communication_rule",
       "mode": "shared",
@@ -1730,54 +2123,6 @@
   ],
   "recent_video_evidence_decisions": [
     {
-      "canonical_url": "https://www.youtube.com/watch?v=PNo9aYaPXEY",
-      "decision": "accepted_dated_restatement",
-      "effect": "Supports HZ-DEM-004 as a concise 2026 restatement; it does not override the book treatment.",
-      "publication_time": "2026-04-08T16:00:00.000Z",
-      "reviewed_locator": "youtube:PNo9aYaPXEY:t000000000-t000050840",
-      "scope": "Lead-magnet construction sequence and three-by-four matrix.",
-      "speaker_review": "Alex is visibly the sole on-screen speaker in the reviewed moment.",
-      "title": "How to Not F*** Up Your Lead Magnets",
-      "video_id": "PNo9aYaPXEY",
-      "visual_review": "Vertical talking-head presentation with step labels; no visual contradiction to the cited transcript packet."
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=A_tx40lNpf8",
-      "decision": "accepted_dated_refinement",
-      "effect": "Adds a dated operational exception to naive utilization targets in HZ-DIA-003 and HZ-SAL-004.",
-      "publication_time": "2026-01-09T15:13:00.000Z",
-      "reviewed_locator": "youtube:A_tx40lNpf8:t001544799-t001606960",
-      "scope": "Local utilization can lower system conversion through delay, inconvenient scheduling, and lost follow-up.",
-      "speaker_review": "Alex is visibly the on-screen speaker in the reviewed moment.",
-      "title": "The Mathematics of Business, Explained",
-      "video_id": "A_tx40lNpf8",
-      "visual_review": "Talking-head teaching segment; the cited rule is carried by speech, not an unread diagram."
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=spXH1kJ6q-Q",
-      "decision": "accepted_dated_restatement",
-      "effect": "Supports HZ-DEM-008 without displacing the Branding Playbook.",
-      "publication_time": "2025-11-30T20:12:01.000Z",
-      "reviewed_locator": "youtube:spXH1kJ6q-Q:t002302640-t002368320",
-      "scope": "Brand as a learned association transferred through repeated outcomes.",
-      "speaker_review": "Alex is visibly the on-screen speaker in the reviewed moment.",
-      "title": "Watch This To Get Ahead In 2026",
-      "video_id": "spXH1kJ6q-Q",
-      "visual_review": "Talking-head explanation; no unreviewed slide is required to interpret the rule."
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=TLpLmhWqKEU",
-      "decision": "accepted_dated_restatement",
-      "effect": "Corroborates HZ-OFE-001 as a 2025 restatement; no conflict with the supplied book.",
-      "publication_time": "2025-10-16T20:50:56.000Z",
-      "reviewed_locator": "youtube:TLpLmhWqKEU:t002637040-t002699520",
-      "scope": "Value equation and the three factors that detract from the dream outcome.",
-      "speaker_review": "Alex is visibly the on-screen speaker in the reviewed live/VOD moment.",
-      "title": "How to Build a Business That Runs Without You",
-      "video_id": "TLpLmhWqKEU",
-      "visual_review": "Talking-head explanation; the rule is fully stated verbally."
-    },
-    {
       "canonical_url": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
       "decision": "rejected_for_material_doctrine_in_reviewed_packet",
       "effect": "Retained as context and a future review candidate; it supports no material rule in this release candidate.",
@@ -1791,7 +2136,7 @@
     }
   ],
   "schema_version": "2.0.0",
-  "scope": "Source-safe operating doctrine for a constraint-first business advisor. This map is not a persona model and does not claim identity or endorsement.",
+  "scope": "Source-grounded business methods plus the user's private role-play contract. Keep real teaching, new advice, and actual identity or endorsement distinct.",
   "source_precedence": [
     "Verified business authorities govern current business facts.",
     "Supplied canonical books and playbooks establish durable Hormozi doctrine.",
@@ -1980,58 +2325,22 @@
       "source_key": "your-acq-100mscalingroadmap-stage09",
       "source_type": "user_supplied_file",
       "title": "Your_ACQ_100MScalingRoadmap-Stage09_.pdf"
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=A_tx40lNpf8",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "publication_time": "2026-01-09T15:13:00.000Z",
-      "source_key": "youtube-A_tx40lNpf8",
-      "source_type": "youtube",
-      "title": "The Mathematics of Business, Explained",
-      "video_id": "A_tx40lNpf8"
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=PNo9aYaPXEY",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "publication_time": "2026-04-08T16:00:00.000Z",
-      "source_key": "youtube-PNo9aYaPXEY",
-      "source_type": "youtube",
-      "title": "How to Not F*** Up Your Lead Magnets",
-      "video_id": "PNo9aYaPXEY"
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=TLpLmhWqKEU",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "publication_time": "2025-10-16T20:50:56.000Z",
-      "source_key": "youtube-TLpLmhWqKEU",
-      "source_type": "youtube",
-      "title": "How to Build a Business That Runs Without You",
-      "video_id": "TLpLmhWqKEU"
-    },
-    {
-      "canonical_url": "https://www.youtube.com/watch?v=spXH1kJ6q-Q",
-      "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
-      "publication_time": "2025-11-30T20:12:01.000Z",
-      "source_key": "youtube-spXH1kJ6q-Q",
-      "source_type": "youtube",
-      "title": "Watch This To Get Ahead In 2026",
-      "video_id": "spXH1kJ6q-Q"
     }
   ],
   "status": "reviewed_release_candidate",
   "summary": {
-    "accepted_video_decision_count": 4,
-    "citation_resolution": "100%",
+    "accepted_video_decision_count": 0,
+    "citation_resolution": "Source checks are required; structural validation alone does not prove citation support.",
     "cited_source_count": 30,
-    "material_rule_count": 48,
+    "material_rule_count": 50,
     "mode_counts": {
-      "customer-value": 7,
-      "demand": 9,
       "diagnose": 6,
-      "offer-economics": 9,
+      "offer-economics": 10,
+      "demand": 9,
       "sales": 8,
-      "shared": 3,
-      "team-operations": 6
+      "customer-value": 7,
+      "team-operations": 6,
+      "shared": 4
     },
     "rejected_video_decision_count": 1
   }

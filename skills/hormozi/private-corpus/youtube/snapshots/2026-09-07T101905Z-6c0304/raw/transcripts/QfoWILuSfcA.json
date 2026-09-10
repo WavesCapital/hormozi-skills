@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you have no money, and you want to"
+    },
+    {
+      "endMs": "7560",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "make money, you should have no shame."
+    },
+    {
+      "endMs": "10040",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "Knock, call, email, text, DM, ask."
+    },
+    {
+      "endMs": "11920",
+      "startMs": "7560",
+      "startTimeText": "0:07",
+      "text": "Life-changing doors do not open"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "10040",
+      "startTimeText": "0:10",
+      "text": "themselves. And sometimes I feel like"
+    },
+    {
+      "endMs": "15520",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "shame was invented by people who have to"
+    },
+    {
+      "endMs": "17360",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "prevent people who have [music] not from"
+    },
+    {
+      "endMs": "19280",
+      "startMs": "15520",
+      "startTimeText": "0:15",
+      "text": "taking action. Because all of this is"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "17360",
+      "startTimeText": "0:17",
+      "text": "just an illusion. What are you ashamed"
+    },
+    {
+      "endMs": "22800",
+      "startMs": "19280",
+      "startTimeText": "0:19",
+      "text": "of?"
+    },
+    {
+      "endMs": "22800",
+      "startMs": "20160",
+      "startTimeText": "0:20",
+      "text": "Trying?"
+    }
+  ],
+  "transcript_only_text": " If  you  have  no  money,  and  you  want  to \n make  money,  you  should  have  no  shame. \n Knock,  call,  email,  text,  DM,  ask. \n Life-changing  doors  do  not  open \n themselves.  And  sometimes  I  feel  like \n shame  was  invented  by  people  who  have  to \n prevent  people  who  have  [music]  not  from \n taking  action.  Because  all  of  this  is \n just  an  illusion.  What  are  you  ashamed \n of? \n Trying?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=QfoWILuSfcA",
+  "videoId": "QfoWILuSfcA"
+}

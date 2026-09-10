@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "How do I make 10 times more money is a"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1680",
+      "startTimeText": "0:01",
+      "text": "better question to ask than how do I"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "make two times the money? Because when"
+    },
+    {
+      "endMs": "8000",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "you operate in orders of magnitude"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "rather than in, you know, one, two,"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "three exes, when you want to do a 10x or"
+    },
+    {
+      "endMs": "12639",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "100x, you have to think in with"
+    },
+    {
+      "endMs": "13679",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "different levers. So if you want to make"
+    },
+    {
+      "endMs": "14719",
+      "startMs": "12639",
+      "startTimeText": "0:12",
+      "text": "a 100 times more money than you're"
+    },
+    {
+      "endMs": "15679",
+      "startMs": "13679",
+      "startTimeText": "0:13",
+      "text": "currently making, you think about"
+    },
+    {
+      "endMs": "17839",
+      "startMs": "14719",
+      "startTimeText": "0:14",
+      "text": "solving the problem entirely"
+    },
+    {
+      "endMs": "17839",
+      "startMs": "15679",
+      "startTimeText": "0:15",
+      "text": "differently."
+    }
+  ],
+  "transcript_only_text": " How  do  I  make  10  times  more  money  is  a \n better  question  to  ask  than  how  do  I \n make  two  times  the  money?  Because  when \n you  operate  in  orders  of  magnitude \n rather  than  in,  you  know,  one,  two, \n three  exes,  when  you  want  to  do  a  10x  or \n 100x,  you  have  to  think  in  with \n different  levers.  So  if  you  want to  make \n a  100  times  more  money  than  you're \n currently  making,  you  think  about \n solving  the  problem  entirely \n differently.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KFp-lCSHRq4",
+  "videoId": "KFp-lCSHRq4"
+}

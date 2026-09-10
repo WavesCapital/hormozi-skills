@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2879",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Instead of saying, \"Hey, give me your"
+    },
+    {
+      "endMs": "4319",
+      "startMs": "1680",
+      "startTimeText": "0:01",
+      "text": "money,\" or, \"Hey, what card do you want"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "2879",
+      "startTimeText": "0:02",
+      "text": "to use?\" Try this. Do you want chocolate"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "4319",
+      "startTimeText": "0:04",
+      "text": "or vanilla? Do you want to start on"
+    },
+    {
+      "endMs": "8639",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "Monday or Tuesday? Do you want paper or"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "plastic? My place or your place?"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "8639",
+      "startTimeText": "0:08",
+      "text": "Whatever you sell, there's always an"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "either or that you can present. But both"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "of them are buying from"
+    }
+  ],
+  "transcript_only_text": " Instead  of  saying,  \"Hey,  give  me  your \n money,\"  or, \"Hey,  what  card  do  you  want \n to  use?\"  Try  this.  Do  you  want  chocolate \n or  vanilla?  Do  you  want to  start  on \n Monday  or  Tuesday?  Do  you  want  paper  or \n plastic?  My  place  or  your  place? \n Whatever  you  sell,  there's  always  an \n either  or  that  you  can  present.  But  both \n of  them  are  buying  from",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=m83GYYHpdCo",
+  "videoId": "m83GYYHpdCo"
+}

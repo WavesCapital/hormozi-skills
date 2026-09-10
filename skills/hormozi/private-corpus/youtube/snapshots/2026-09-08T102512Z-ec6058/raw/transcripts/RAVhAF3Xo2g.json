@@ -1,0 +1,97 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=RAVhAF3Xo2g&ei=to-eaveIGoqZybgPoq7jmAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801574&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=43F42AE9BB4855B742982D74D9EF793499B715E1.9B100775F69861A50636588D2E4B60777394F0E2&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 14279,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If someone is doing better than you,"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "1440",
+      "startTimeText": "0:01",
+      "text": "they are better than you in some way. If"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "you're like, I got to beat them, you"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "look at their volume, right? And let's"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "say that someone is doing three times"
+    },
+    {
+      "endMs": "11680",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "this volume that you can see, right?"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "What do you do? Do you do three times"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "11680",
+      "startTimeText": "0:11",
+      "text": "the volume? No, because now you're just"
+    },
+    {
+      "endMs": "19360",
+      "startMs": "14280",
+      "startTimeText": "0:14",
+      "text": "matching them. You need to do 10 or 20"
+    },
+    {
+      "endMs": "20920",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "or 30 times the volume because not only"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "19360",
+      "startTimeText": "0:19",
+      "text": "that, they're doing volume that you"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "20920",
+      "startTimeText": "0:20",
+      "text": "can't see."
+    }
+  ],
+  "transcript_only_text": " If  someone  is  doing  better  than  you, \n they  are  better  than  you  in  some  way.  If \n you're  like,  I  got  to  beat  them,  you \n look  at  their  volume,  right?  And  let's \n say  that  someone  is  doing  three  times \n this  volume  that  you  can  see,  right? \n What  do  you  do?  Do  you  do  three  times \n the  volume?  No,  because  now  you're  just \n matching  them.  You  need  to  do  10  or  20 \n or  30  times  the  volume  because  not  only \n that,  they're  doing  volume  that  you \n can't  see.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=RAVhAF3Xo2g",
+  "videoId": "RAVhAF3Xo2g"
+}

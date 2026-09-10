@@ -1,0 +1,47 @@
+{
+  "committed_at": "2026-09-04T21:31:50.486Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z/backup-00-chunks.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/mixed-promote-live-01/promotion/files/chunks.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/chunks.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z/backup-01-pages.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/mixed-promote-live-01/promotion/files/derived/records/100m-offers-the-lost-chapter-alex-hormozi-compressed-e7deb353acc7/pages.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/records/100m-offers-the-lost-chapter-alex-hormozi-compressed-e7deb353acc7/pages.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z/backup-02-file-source-manifest.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/mixed-promote-live-01/promotion/files/file-source-manifest.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/file-source-manifest.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z/backup-03-run-report.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/mixed-promote-live-01/promotion/files/run-report.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/run-report.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z/backup-04-hormozi.sqlite",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/mixed-promote-live-01/promotion/index/hormozi.sqlite",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/index/hormozi.sqlite"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z/backup-05-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/mixed-promote-live-01/promotion/active-window.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-09-04T21:31:50.482Z",
+  "replaced_count": 6,
+  "run_id": "hormozi-file-ocr-20260904T213149Z",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-ocr-20260904T213149Z"
+}

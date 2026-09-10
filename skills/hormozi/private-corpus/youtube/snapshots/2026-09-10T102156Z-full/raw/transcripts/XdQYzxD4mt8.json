@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is probably one of the biggest"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "mistakes that business owners make."
+    },
+    {
+      "endMs": "7880",
+      "startMs": "3320",
+      "startTimeText": "0:03",
+      "text": "Let's say I sell these for $10, but it"
+    },
+    {
+      "endMs": "11560",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "cost me $9. And the average person buys"
+    },
+    {
+      "endMs": "14760",
+      "startMs": "7880",
+      "startTimeText": "0:07",
+      "text": "10 pens. So, it's $100 in revenue, but"
+    },
+    {
+      "endMs": "16600",
+      "startMs": "11560",
+      "startTimeText": "0:11",
+      "text": "it cost me $90 to sell the 100. But if"
+    },
+    {
+      "endMs": "19000",
+      "startMs": "14760",
+      "startTimeText": "0:14",
+      "text": "my team comes to me and says, \"Dude,"
+    },
+    {
+      "endMs": "21040",
+      "startMs": "16600",
+      "startTimeText": "0:16",
+      "text": "we're killing it. We're spending $50 to"
+    },
+    {
+      "endMs": "23160",
+      "startMs": "19000",
+      "startTimeText": "0:19",
+      "text": "get a $100 sale. We should do this all"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "21040",
+      "startTimeText": "0:21",
+      "text": "day.\" But what's really happening? I'm"
+    },
+    {
+      "endMs": "30400",
+      "startMs": "23160",
+      "startTimeText": "0:23",
+      "text": "actually spending $50 to make $10 in"
+    },
+    {
+      "endMs": "30400",
+      "startMs": "26080",
+      "startTimeText": "0:26",
+      "text": "gross profit. Not a good equation."
+    }
+  ],
+  "transcript_only_text": " This  is  probably  one  of  the  biggest \n mistakes  that  business  owners  make. \n Let's  say  I  sell  these  for  $10,  but  it \n cost  me  $9.  And  the  average  person  buys \n 10  pens.  So,  it's  $100  in  revenue,  but \n it  cost  me  $90  to  sell  the  100.  But  if \n my  team  comes  to  me  and  says,  \"Dude, \n we're  killing  it.  We're  spending  $50  to \n get  a  $100  sale.  We  should  do  this  all \n day.\"  But  what's  really  happening?  I'm \n actually  spending  $50  to  make  $10  in \n gross  profit.  Not  a  good  equation.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XdQYzxD4mt8",
+  "videoId": "XdQYzxD4mt8"
+}

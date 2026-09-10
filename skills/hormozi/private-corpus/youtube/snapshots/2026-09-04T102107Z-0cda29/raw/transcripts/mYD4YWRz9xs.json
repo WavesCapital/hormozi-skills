@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Here's a sign that you're hiring dumbpeople. You start having to make dumb"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "rules. So, you have to start sayingthings like, \"Don't steal food. Don't"
+    },
+    {
+      "endMs": "11240",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "drink on the job. Make sure that youdon't watch Netflix while you're on the"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "clock.\" You have to start making thesereally stupid rules. You're like, \"I"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "12280",
+      "startTimeText": "0:12",
+      "text": "can't even believe I have to say this.\"And that's because you shouldn't have to"
+    },
+    {
+      "endMs": "21160",
+      "startMs": "15800",
+      "startTimeText": "0:15",
+      "text": "because you hired dumb people. Ratherthan start making this big book of"
+    },
+    {
+      "endMs": "24440",
+      "startMs": "19000",
+      "startTimeText": "0:19",
+      "text": "rules, check yourself and think, \"Why doI have such dumb people on my team? And"
+    },
+    {
+      "endMs": "27160",
+      "startMs": "23000",
+      "startTimeText": "0:23",
+      "text": "what's my problem for bringing thesepeople in?\""
+    }
+  ],
+  "transcript_only_text": " Here's a sign that you're hiring dumb\npeople. You start having to make dumb rules. So, you have to start saying\nthings like, \"Don't steal food. Don't drink on the job. Make sure that you\ndon't watch Netflix while you're on the clock.\" You have to start making these\nreally stupid rules. You're like, \"I can't even believe I have to say this.\"\nAnd that's because you shouldn't have to because you hired dumb people. Rather\nthan start making this big book of rules, check yourself and think, \"Why do\nI have such dumb people on my team? And what's my problem for bringing these\npeople in?\"",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mYD4YWRz9xs",
+  "videoId": "mYD4YWRz9xs"
+}

@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "What really smart poor people can't"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "2400",
+      "startTimeText": "0:02",
+      "text": "handle is that getting rich has less to"
+    },
+    {
+      "endMs": "7640",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "do with intellect and creativity and"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "more to do with courage and"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "7640",
+      "startTimeText": "0:07",
+      "text": "perseverance. You have to take risks"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "that other people won't take, you have"
+    },
+    {
+      "endMs": "14160",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "to work while others wait, and keep"
+    },
+    {
+      "endMs": "17800",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "going when others quit. And that's about"
+    },
+    {
+      "endMs": "17800",
+      "startMs": "14160",
+      "startTimeText": "0:14",
+      "text": "it. And wait 10 years."
+    }
+  ],
+  "transcript_only_text": " What  really  smart  poor  people  can't \n handle  is  that  getting  rich  has  less  to \n do  with  intellect  and  creativity  and \n more  to  do  with  courage  and \n perseverance.  You  have  to  take  risks \n that  other  people  won't  take,  you  have \n to  work  while  others  wait,  and  keep \n going  when  others  quit.  And  that's  about \n it.  And  wait  10  years.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_RD5eQ8-I5E",
+  "videoId": "_RD5eQ8-I5E"
+}

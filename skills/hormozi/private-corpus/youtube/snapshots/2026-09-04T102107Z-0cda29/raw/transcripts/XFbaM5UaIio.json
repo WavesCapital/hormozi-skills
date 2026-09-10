@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5440",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "sitting in [music] the unknown with the"
+    },
+    {
+      "endMs": "7680",
+      "startMs": "2399",
+      "startTimeText": "0:02",
+      "text": "confidence that you will continue to try"
+    },
+    {
+      "endMs": "9825",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "because it is solvable even though you"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "don't know how to solve it yet. It just"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "9825",
+      "startTimeText": "0:09",
+      "text": "[music] comes down to that. It comes"
+    },
+    {
+      "endMs": "15360",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "down to knocking on more doors. It comes"
+    },
+    {
+      "endMs": "16800",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": "down to trying to build the web page"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15360",
+      "startTimeText": "0:15",
+      "text": "again when there's a bug and it doesn't"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "work. It comes [music] down to spending"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "money on ads even though it doesn't give"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "you any ROI. Saving up your money and"
+    },
+    {
+      "endMs": "25519",
+      "startMs": "22400",
+      "startTimeText": "0:22",
+      "text": "doing it again. It comes to posting"
+    },
+    {
+      "endMs": "26960",
+      "startMs": "24080",
+      "startTimeText": "0:24",
+      "text": "another video even though you got"
+    },
+    {
+      "endMs": "28640",
+      "startMs": "25519",
+      "startTimeText": "0:25",
+      "text": "negative comments or people are like"
+    },
+    {
+      "endMs": "31679",
+      "startMs": "26960",
+      "startTimeText": "0:26",
+      "text": "maybe you should try something else. You"
+    },
+    {
+      "endMs": "31679",
+      "startMs": "28640",
+      "startTimeText": "0:28",
+      "text": "need frustration tolerance."
+    }
+  ],
+  "transcript_only_text": " sitting  in  [music]  the  unknown  with  the \n confidence  that  you  will  continue  to  try \n because  it  is  solvable  even  though  you \n don't  know  how  to  solve  it  yet.  It  just \n [music]  comes  down  to  that.  It  comes \n down  to  knocking  on  more  doors.  It  comes \n down  to  trying  to  build  the  web  page \n again  when  there's  a  bug  and  it  doesn't \n work.  It  comes  [music]  down  to  spending \n money  on  ads  even  though  it  doesn't  give \n you  any  ROI.  Saving  up  your  money  and \n doing  it  again.  It  comes  to  posting \n another  video  even  though  you  got \n negative  comments  or  people  are  like \n maybe  you  should  try  something  else.  You \n need  frustration  tolerance.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XFbaM5UaIio",
+  "videoId": "XFbaM5UaIio"
+}

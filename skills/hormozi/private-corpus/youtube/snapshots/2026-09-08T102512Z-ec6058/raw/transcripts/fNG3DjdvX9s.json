@@ -1,0 +1,127 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=fNG3DjdvX9s&ei=wpuaat2QLcGnkNQP_Yr0uQM&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788542514&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D810EDF52C0E90D721348EF7276A55C004D1145C.0B465D12FE51502E2A5594E4367C50D83EA80175&key=yt8&kind=asr&lang=en",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 14424,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "If you ever have the ability to name"
+    },
+    {
+      "endMs": "6000",
+      "startMs": "1680",
+      "startTimeText": "0:01",
+      "text": "your packages, this name will increase"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "your close rates by a ton. Let's say"
+    },
+    {
+      "endMs": "10400",
+      "startMs": "6000",
+      "startTimeText": "0:06",
+      "text": "that you've got package A, package B,"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "and package C. Instead of having package"
+    },
+    {
+      "endMs": "14960",
+      "startMs": "10400",
+      "startTimeText": "0:10",
+      "text": "C be the cheap guy option or the you're"
+    },
+    {
+      "endMs": "16880",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "broke option, instead call it the"
+    },
+    {
+      "endMs": "18960",
+      "startMs": "14960",
+      "startTimeText": "0:14",
+      "text": "minimum package. The reason this is so"
+    },
+    {
+      "endMs": "20480",
+      "startMs": "16880",
+      "startTimeText": "0:16",
+      "text": "powerful is that minimums assume that"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "18960",
+      "startTimeText": "0:18",
+      "text": "you must purchase it. Now, to be clear,"
+    },
+    {
+      "endMs": "23199",
+      "startMs": "20480",
+      "startTimeText": "0:20",
+      "text": "you're not going to say that, but you'd"
+    },
+    {
+      "endMs": "24960",
+      "startMs": "21680",
+      "startTimeText": "0:21",
+      "text": "say, \"Hey, we have our ultra"
+    },
+    {
+      "endMs": "26160",
+      "startMs": "23199",
+      "startTimeText": "0:23",
+      "text": "transformation thing. We have our middle"
+    },
+    {
+      "endMs": "27519",
+      "startMs": "24960",
+      "startTimeText": "0:24",
+      "text": "tier thing, which is what a lot of"
+    },
+    {
+      "endMs": "28960",
+      "startMs": "26160",
+      "startTimeText": "0:26",
+      "text": "people do, and then we have our minimum"
+    },
+    {
+      "endMs": "31760",
+      "startMs": "27519",
+      "startTimeText": "0:27",
+      "text": "package.\" Oh, well, I guess I'll just"
+    },
+    {
+      "endMs": "31760",
+      "startMs": "28960",
+      "startTimeText": "0:28",
+      "text": "get the minimum package."
+    }
+  ],
+  "transcript_only_text": " If  you  ever  have  the  ability  to  name \n your  packages,  this  name  will  increase \n your  close  rates  by  a  ton.  Let's  say \n that  you've  got  package  A,  package  B, \n and  package  C.  Instead  of  having  package \n C  be  the  cheap  guy  option  or  the  you're \n broke  option,  instead  call  it  the \n minimum  package.  The  reason  this  is  so \n powerful  is  that  minimums  assume  that \n you  must  purchase  it.  Now,  to  be  clear, \n you're  not  going  to  say  that,  but  you'd \n say,  \"Hey,  we  have  our  ultra \n transformation  thing.  We  have  our  middle \n tier  thing,  which  is  what  a  lot  of \n people  do,  and  then  we  have  our  minimum \n package.\"  Oh,  well,  I  guess  I'll  just \n get  the  minimum  package.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fNG3DjdvX9s",
+  "videoId": "fNG3DjdvX9s"
+}

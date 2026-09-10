@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3040",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "When you're 85 years old and looking"
+    },
+    {
+      "endMs": "4480",
+      "startMs": "1680",
+      "startTimeText": "0:01",
+      "text": "back on your life, you won't really"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "3040",
+      "startTimeText": "0:03",
+      "text": "remember your life. [snorts] You'll just"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4480",
+      "startTimeText": "0:04",
+      "text": "remember a few moments. There are very"
+    },
+    {
+      "endMs": "9679",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "few times in our lives where we know"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "we're going to have those moments, those"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "9679",
+      "startTimeText": "0:09",
+      "text": "opportunities to create [music] things"
+    },
+    {
+      "endMs": "14639",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "that we know we will remember. If you"
+    },
+    {
+      "endMs": "17120",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "have the opportunity to do that, take"
+    },
+    {
+      "endMs": "17120",
+      "startMs": "14639",
+      "startTimeText": "0:14",
+      "text": "advantage of"
+    }
+  ],
+  "transcript_only_text": " When  you're  85  years  old  and  looking \n back  on  your  life,  you  won't  really \n remember  your  life.  [snorts]  You'll  just \n remember  a  few  moments.  There  are  very \n few  times  in  our  lives  where  we  know \n we're  going  to  have  those  moments,  those \n opportunities  to  create  [music]  things \n that  we  know  we  will  remember.  If  you \n have  the  opportunity  to  do  that,  take \n advantage  of",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=x0MLk4JTdU0",
+  "videoId": "x0MLk4JTdU0"
+}

@@ -1,0 +1,121 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=Q-fNarRKs8s&ei=vpuaaqehEc3Fir4PweLz0Qo&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788542510&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=8CBEC36271F57265895CDCB975818BA72731F0E0.840BC03D4D617B22367B1A07899C41483FCFA514&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 14426,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I remember the first time I hired a"
+    },
+    {
+      "endMs": "5560",
+      "startMs": "1880",
+      "startTimeText": "0:01",
+      "text": "$50,000 a year employee and I was like,"
+    },
+    {
+      "endMs": "6600",
+      "startMs": "3480",
+      "startTimeText": "0:03",
+      "text": "this is this is what I'm talking about."
+    },
+    {
+      "endMs": "7960",
+      "startMs": "5560",
+      "startTimeText": "0:05",
+      "text": "You know what I mean? Like and then I I"
+    },
+    {
+      "endMs": "9960",
+      "startMs": "6600",
+      "startTimeText": "0:06",
+      "text": "hired my first six-figure employee and I"
+    },
+    {
+      "endMs": "11680",
+      "startMs": "7960",
+      "startTimeText": "0:07",
+      "text": "was like, oh what was I talking about?"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "9960",
+      "startTimeText": "0:09",
+      "text": "Like this is what's going on. And then I"
+    },
+    {
+      "endMs": "14600",
+      "startMs": "11680",
+      "startTimeText": "0:11",
+      "text": "have my first 250, first 500, first"
+    },
+    {
+      "endMs": "15920",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "million, first multi-million dollar per"
+    },
+    {
+      "endMs": "17320",
+      "startMs": "14600",
+      "startTimeText": "0:14",
+      "text": "year employee. Sharon, who's our"
+    },
+    {
+      "endMs": "18200",
+      "startMs": "15920",
+      "startTimeText": "0:15",
+      "text": "president, said this to me years ago,"
+    },
+    {
+      "endMs": "19840",
+      "startMs": "17320",
+      "startTimeText": "0:17",
+      "text": "but I always remember it. He said the"
+    },
+    {
+      "endMs": "21560",
+      "startMs": "18200",
+      "startTimeText": "0:18",
+      "text": "best talent's always in the future."
+    },
+    {
+      "endMs": "22600",
+      "startMs": "19840",
+      "startTimeText": "0:19",
+      "text": "So whatever we have today, the best"
+    },
+    {
+      "endMs": "26000",
+      "startMs": "21560",
+      "startTimeText": "0:21",
+      "text": "people are always ahead of you, not"
+    },
+    {
+      "endMs": "26000",
+      "startMs": "22600",
+      "startTimeText": "0:22",
+      "text": "behind you. And it's just levels."
+    }
+  ],
+  "transcript_only_text": " I  remember  the  first  time  I  hired  a \n $50,000  a  year  employee  and  I  was  like, \n this  is  this  is  what  I'm  talking  about. \n You  know  what  I  mean?  Like  and  then  I  I \n hired  my  first  six-figure  employee  and  I \n was  like,  oh  what  was  I  talking  about? \n Like  this  is  what's  going  on.  And  then  I \n have  my  first  250,  first  500,  first \n million,  first  multi-million  dollar  per \n year  employee.  Sharon,  who's  our \n president,  said  this  to  me  years  ago, \n but  I  always  remember  it.  He  said  the \n best  talent's  always  in  the  future. \n So  whatever  we  have  today,  the  best \n people  are  always  ahead  of  you,  not \n behind  you.  And  it's  just  levels.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Q-fNarRKs8s",
+  "videoId": "Q-fNarRKs8s"
+}

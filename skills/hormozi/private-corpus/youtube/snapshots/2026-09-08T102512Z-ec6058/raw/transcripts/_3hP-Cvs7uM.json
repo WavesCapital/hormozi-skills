@@ -1,0 +1,317 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you had to guess, what menu sells"
+    },
+    {
+      "endMs": "4600",
+      "startMs": "1560",
+      "startTimeText": "0:01",
+      "text": "more? Menu number one or menu number"
+    },
+    {
+      "endMs": "5840",
+      "startMs": "3000",
+      "startTimeText": "0:03",
+      "text": "two? Researchers actually looked at this"
+    },
+    {
+      "endMs": "7280",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "and figured out what the answer was. So,"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "they did this test with a bunch of jam"
+    },
+    {
+      "endMs": "10520",
+      "startMs": "7280",
+      "startTimeText": "0:07",
+      "text": "stands where they had one stand that had"
+    },
+    {
+      "endMs": "11960",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "24 types of jam and another stand that"
+    },
+    {
+      "endMs": "13240",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "had only six. And they had people walk"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "11960",
+      "startTimeText": "0:11",
+      "text": "up to it. And what was interesting is"
+    },
+    {
+      "endMs": "16080",
+      "startMs": "13240",
+      "startTimeText": "0:13",
+      "text": "that one of these jam stands converted"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "14920",
+      "startTimeText": "0:14",
+      "text": "significantly higher than the other. And"
+    },
+    {
+      "endMs": "18800",
+      "startMs": "16080",
+      "startTimeText": "0:16",
+      "text": "you might think, \"Oh, the more selection"
+    },
+    {
+      "endMs": "20280",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "people have, the more likely they are to"
+    },
+    {
+      "endMs": "21640",
+      "startMs": "18800",
+      "startTimeText": "0:18",
+      "text": "buy the perfect thing for them.\" But in"
+    },
+    {
+      "endMs": "23400",
+      "startMs": "20280",
+      "startTimeText": "0:20",
+      "text": "reality, what ended up happening is that"
+    },
+    {
+      "endMs": "24520",
+      "startMs": "21640",
+      "startTimeText": "0:21",
+      "text": "people were 10 times more likely to buy"
+    },
+    {
+      "endMs": "26800",
+      "startMs": "23400",
+      "startTimeText": "0:23",
+      "text": "when they had fewer selections because"
+    },
+    {
+      "endMs": "28320",
+      "startMs": "24520",
+      "startTimeText": "0:24",
+      "text": "the decision was easier. We actually"
+    },
+    {
+      "endMs": "29720",
+      "startMs": "26800",
+      "startTimeText": "0:26",
+      "text": "implemented this kind of perspective"
+    },
+    {
+      "endMs": "31600",
+      "startMs": "28320",
+      "startTimeText": "0:28",
+      "text": "with a portfolio company right as we"
+    },
+    {
+      "endMs": "33080",
+      "startMs": "29720",
+      "startTimeText": "0:29",
+      "text": "invested. And they had a kind of like"
+    },
+    {
+      "endMs": "34120",
+      "startMs": "31600",
+      "startTimeText": "0:31",
+      "text": "choose your own adventure type thing."
+    },
+    {
+      "endMs": "35440",
+      "startMs": "33080",
+      "startTimeText": "0:33",
+      "text": "Like, \"Whatever you can think of, we'll"
+    },
+    {
+      "endMs": "36560",
+      "startMs": "34120",
+      "startTimeText": "0:34",
+      "text": "sell it to you.\" And so, what we looked"
+    },
+    {
+      "endMs": "37600",
+      "startMs": "35440",
+      "startTimeText": "0:35",
+      "text": "at when we pulled all the data was we"
+    },
+    {
+      "endMs": "38880",
+      "startMs": "36560",
+      "startTimeText": "0:36",
+      "text": "figured out that there are actually two"
+    },
+    {
+      "endMs": "39840",
+      "startMs": "37600",
+      "startTimeText": "0:37",
+      "text": "customer avatars they had and they"
+    },
+    {
+      "endMs": "41280",
+      "startMs": "38880",
+      "startTimeText": "0:38",
+      "text": "bought two very different sets of"
+    },
+    {
+      "endMs": "43120",
+      "startMs": "39840",
+      "startTimeText": "0:39",
+      "text": "things. And so, we said, \"Okay, what is"
+    },
+    {
+      "endMs": "44560",
+      "startMs": "41280",
+      "startTimeText": "0:41",
+      "text": "80% of the time this person buy and what"
+    },
+    {
+      "endMs": "45960",
+      "startMs": "43120",
+      "startTimeText": "0:43",
+      "text": "is 80% of the time this person buy?\" And"
+    },
+    {
+      "endMs": "47920",
+      "startMs": "44560",
+      "startTimeText": "0:44",
+      "text": "then we completely consolidated to"
+    },
+    {
+      "endMs": "49240",
+      "startMs": "45960",
+      "startTimeText": "0:45",
+      "text": "choice A and choice B for customer A and"
+    },
+    {
+      "endMs": "50880",
+      "startMs": "47920",
+      "startTimeText": "0:47",
+      "text": "customer B. What happened is we were"
+    },
+    {
+      "endMs": "52720",
+      "startMs": "49240",
+      "startTimeText": "0:49",
+      "text": "able to actually sell more people at"
+    },
+    {
+      "endMs": "53560",
+      "startMs": "50880",
+      "startTimeText": "0:50",
+      "text": "higher prices, templatize the solution"
+    },
+    {
+      "endMs": "55120",
+      "startMs": "52720",
+      "startTimeText": "0:52",
+      "text": "on the back end so we were able to"
+    },
+    {
+      "endMs": "56920",
+      "startMs": "53560",
+      "startTimeText": "0:53",
+      "text": "expand margin because we were able to do"
+    },
+    {
+      "endMs": "59160",
+      "startMs": "55120",
+      "startTimeText": "0:55",
+      "text": "the same thing for more times for more"
+    },
+    {
+      "endMs": "60240",
+      "startMs": "56920",
+      "startTimeText": "0:56",
+      "text": "people and able to on-ramp salespeople"
+    },
+    {
+      "endMs": "61400",
+      "startMs": "59160",
+      "startTimeText": "0:59",
+      "text": "faster cuz they didn't have to learn the"
+    },
+    {
+      "endMs": "63040",
+      "startMs": "60240",
+      "startTimeText": "1:00",
+      "text": "whole menu, they only had to learn two"
+    },
+    {
+      "endMs": "64760",
+      "startMs": "61400",
+      "startTimeText": "1:01",
+      "text": "things. And then customers transacted"
+    },
+    {
+      "endMs": "66120",
+      "startMs": "63040",
+      "startTimeText": "1:03",
+      "text": "faster and we cut the sales time in"
+    },
+    {
+      "endMs": "67600",
+      "startMs": "64760",
+      "startTimeText": "1:04",
+      "text": "half. If you believe in free markets is"
+    },
+    {
+      "endMs": "69000",
+      "startMs": "66120",
+      "startTimeText": "1:06",
+      "text": "the best way to incentivize people and"
+    },
+    {
+      "endMs": "70080",
+      "startMs": "67600",
+      "startTimeText": "1:07",
+      "text": "you believe in pro-capitalism, you'll"
+    },
+    {
+      "endMs": "72760",
+      "startMs": "69000",
+      "startTimeText": "1:09",
+      "text": "like my money-making stuff, you can"
+    },
+    {
+      "endMs": "72760",
+      "startMs": "70080",
+      "startTimeText": "1:10",
+      "text": "follow for more of it."
+    }
+  ],
+  "transcript_only_text": " If  you  had  to  guess,  what  menu  sells \n more?  Menu  number  one  or  menu  number \n two?  Researchers  actually  looked  at  this \n and  figured  out  what  the  answer  was.  So, \n they  did  this  test  with  a  bunch  of  jam \n stands  where  they  had  one  stand  that  had \n 24  types  of  jam  and  another  stand  that \n had  only  six.  And  they  had  people  walk \n up  to  it.  And  what  was  interesting  is \n that  one  of  these  jam  stands  converted \n significantly  higher  than  the  other.  And \n you  might  think,  \"Oh,  the  more  selection \n people  have,  the  more  likely  they  are  to \n buy  the  perfect  thing  for  them.\"  But  in \n reality,  what  ended  up  happening  is  that \n people  were  10  times  more  likely  to  buy \n when  they  had  fewer  selections  because \n the  decision  was  easier.  We  actually \n implemented  this  kind  of  perspective \n with  a  portfolio  company  right  as  we \n invested.  And  they  had  a  kind  of  like \n choose  your  own  adventure  type  thing. \n Like,  \"Whatever  you  can  think  of,  we'll \n sell  it  to  you.\"  And  so,  what  we  looked \n at  when  we  pulled  all  the  data  was  we \n figured  out  that  there  are  actually  two \n customer  avatars  they  had  and  they \n bought  two  very  different  sets  of \n things.  And  so,  we  said,  \"Okay,  what  is \n 80%  of  the  time  this  person  buy  and  what \n is  80%  of  the  time  this  person  buy?\"  And \n then  we  completely  consolidated  to \n choice  A  and  choice  B  for  customer  A  and \n customer  B.  What  happened  is  we  were \n able  to  actually  sell  more  people  at \n higher  prices,  templatize  the  solution \n on  the  back  end  so  we  were  able  to \n expand  margin  because  we  were  able  to  do \n the  same  thing  for  more  times  for  more \n people  and  able  to  on-ramp  salespeople \n faster  cuz  they  didn't  have  to  learn  the \n whole  menu,  they  only  had  to  learn  two \n things.  And  then  customers  transacted \n faster  and  we  cut  the  sales  time  in \n half.  If  you  believe  in  free  markets  is \n the  best  way  to  incentivize  people  and \n you  believe  in  pro-capitalism,  you'll \n like  my  money-making  stuff,  you  can \n follow  for  more  of  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_3hP-Cvs7uM",
+  "videoId": "_3hP-Cvs7uM"
+}

@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you take all of the cash that I spenton mentors, workshops, seminars, private"
+    },
+    {
+      "endMs": "9720",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "tutoring, everything, and I had insteadof spending that on education, put it"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "7680",
+      "startTimeText": "0:07",
+      "text": "into the S&P 500, even during the besttimes ever, the amount of money that I'd"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "be left with today would beinconsequential compared to what I have"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "now. And so there's nothing that I'veever invested money on that's gotten me"
+    },
+    {
+      "endMs": "21200",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "a higher ROI than increasing my abilityto earn."
+    }
+  ],
+  "transcript_only_text": " If you take all of the cash that I spent\non mentors, workshops, seminars, private tutoring, everything, and I had instead\nof spending that on education, put it into the S&P 500, even during the best\ntimes ever, the amount of money that I'd be left with today would be\ninconsequential compared to what I have now. And so there's nothing that I've\never invested money on that's gotten me a higher ROI than increasing my ability\nto earn.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=FwTJxOdxNN0",
+  "videoId": "FwTJxOdxNN0"
+}

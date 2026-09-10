@@ -1,0 +1,47 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My favorite Chinese proverb iseverything must be hard before it can be"
+    },
+    {
+      "endMs": "11400",
+      "startMs": "5239",
+      "startTimeText": "0:05",
+      "text": "[music] easy. I thinkit's amazing what you can endure when"
+    },
+    {
+      "endMs": "19320",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "you have no choice because at the end ofthe day life is hard, but believing it"
+    },
+    {
+      "endMs": "19320",
+      "startMs": "14680",
+      "startTimeText": "0:14",
+      "text": "should be easy makes it even harder."
+    }
+  ],
+  "transcript_only_text": " My favorite Chinese proverb is\neverything must be hard before it can be [music] easy. I think\nit's amazing what you can endure when you have no choice because at the end of\nthe day life is hard, but believing it should be easy makes it even harder.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wJwQm_aqC8U",
+  "videoId": "wJwQm_aqC8U"
+}

@@ -1,0 +1,59 @@
+{
+  "committed_at": "2026-09-07T16:00:27.922Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-00-chunks.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/files/chunks.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/chunks.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-01-p0248.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/files/derived/page-images/100m-journal-f8abebc0e3af/p0248.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-journal-f8abebc0e3af/p0248.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-02-p0262.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/files/derived/page-images/100m-journal-f8abebc0e3af/p0262.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-journal-f8abebc0e3af/p0262.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-03-pages.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/files/derived/records/100m-journal-f8abebc0e3af/pages.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/records/100m-journal-f8abebc0e3af/pages.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-04-run-report.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/files/run-report.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/run-report.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-05-visual-review.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/files/visual-review.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/visual-review.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-06-hormozi.sqlite",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/index/hormozi.sqlite",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/index/hormozi.sqlite"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z/backup-07-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/visual-notes-promotion-01/promotion/active-window.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-09-07T16:00:27.910Z",
+  "replaced_count": 8,
+  "run_id": "hormozi-file-visual-20260907T160026Z",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-visual-20260907T160026Z"
+}

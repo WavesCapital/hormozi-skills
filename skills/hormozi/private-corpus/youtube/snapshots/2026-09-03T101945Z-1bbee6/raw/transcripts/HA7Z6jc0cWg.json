@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You could beat most people at anything"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "if you just don't quit when it gets"
+    },
+    {
+      "endMs": "8640",
+      "startMs": "3320",
+      "startTimeText": "0:03",
+      "text": "boring. Not hard, boring. That's where"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "everyone else stops because wealth is"
+    },
+    {
+      "endMs": "13320",
+      "startMs": "8640",
+      "startTimeText": "0:08",
+      "text": "made by doing boring things for an"
+    },
+    {
+      "endMs": "14920",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "extended period of time in more volume"
+    },
+    {
+      "endMs": "16640",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "than any sane person would find"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "14920",
+      "startTimeText": "0:14",
+      "text": "reasonable. The world belongs to those"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "16640",
+      "startTimeText": "0:16",
+      "text": "who can keep fighting after realizing"
+    },
+    {
+      "endMs": "23800",
+      "startMs": "18720",
+      "startTimeText": "0:18",
+      "text": "winning won't be fast, easy, or"
+    },
+    {
+      "endMs": "23800",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "guaranteed."
+    }
+  ],
+  "transcript_only_text": " You  could  beat  most  people  at  anything \n if  you  just  don't  quit  when  it  gets \n boring.  Not  hard,  boring.  That's  where \n everyone  else  stops  because  wealth  is \n made  by  doing  boring  things  for  an \n extended  period  of  time  in  more  volume \n than  any  sane  person  would  find \n reasonable.  The  world  belongs  to  those \n who  can  keep  fighting  after  realizing \n winning  won't  be  fast,  easy,  or \n guaranteed.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HA7Z6jc0cWg",
+  "videoId": "HA7Z6jc0cWg"
+}

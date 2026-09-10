@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3520",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Leila and I have a mutual friend and"
+    },
+    {
+      "endMs": "6560",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "when he started this new venture that he"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "raised $30 billion for fun fun fact to"
+    },
+    {
+      "endMs": "11519",
+      "startMs": "6560",
+      "startTimeText": "0:06",
+      "text": "build out the first level of team he"
+    },
+    {
+      "endMs": "15200",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "flew every single person into a"
+    },
+    {
+      "endMs": "17119",
+      "startMs": "11519",
+      "startTimeText": "0:11",
+      "text": "warehouse. He hired 300 people in 7 days"
+    },
+    {
+      "endMs": "19119",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "and they did like 2,000 interviews with"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "17119",
+      "startTimeText": "0:17",
+      "text": "a group of 15 people. When I heard that"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "19119",
+      "startTimeText": "0:19",
+      "text": "story, it was just such violent effort."
+    },
+    {
+      "endMs": "26960",
+      "startMs": "21600",
+      "startTimeText": "0:21",
+      "text": "I just am reminded about how much more I"
+    },
+    {
+      "endMs": "26960",
+      "startMs": "23920",
+      "startTimeText": "0:23",
+      "text": "need to do to get to where I want to"
+    }
+  ],
+  "transcript_only_text": " Leila  and  I  have  a  mutual  friend  and \n when  he  started  this  new  venture  that  he \n raised  $30  billion  for  fun  fun  fact  to \n build  out  the  first  level  of  team  he \n flew  every  single  person  into  a \n warehouse.  He  hired  300  people  in  7  days \n and  they  did  like  2,000  interviews  with \n a  group  of  15  people.  When  I  heard  that \n story,  it  was  just  such  violent  effort. \n I  just  am  reminded  about  how  much  more  I \n need  to  do  to  get  to  where  I  want  to",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=BXTIVvcQUR4",
+  "videoId": "BXTIVvcQUR4"
+}

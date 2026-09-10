@@ -1,0 +1,293 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 7,
+  "commentCountText": "7",
+  "credits_charged": 1,
+  "description": "When you sell services, if you do a good job, you can mark your progress by your ability to raise your prices because:\n\n1) you get better\n2) your reputation gets better\n3) you get better at selling\n4) you sell to better customers\n\nUnless your strategy is low cost.\nThis is the way",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:24",
+  "durationMs": 84000,
+  "genre": "Education",
+  "id": "ReNOZa95st4",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 869,
+  "likeCountText": "869",
+  "most_replayed": null,
+  "publishDate": "2026-07-09T12:03:12-07:00",
+  "publishDateText": "Jul 9, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/ReNOZa95st4/maxresdefault.jpg",
+  "title": "How to Raise Prices on Loyal Customers",
+  "type": "video",
+  "viewCountInt": 23058,
+  "viewCountText": "23,058",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-02T10:42:24.688Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:42:24.688Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:42:24.688Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-29T10:42:24.688Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 657000,
+      "viewCountText": "657K views"
+    },
+    {
+      "channel": {
+        "handle": "garyvee",
+        "id": "UCctXZhXmG-kf3tlIXgVZUlw",
+        "title": "GaryVee",
+        "url": "https://www.youtube.com/@garyvee"
+      },
+      "id": "RqZe-GMU_cE",
+      "lengthInSeconds": 598,
+      "lengthText": "9:58",
+      "publishDate": "2026-09-01T10:42:24.688Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-01T10:42:24.688Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/RqZe-GMU_cE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA1YFAEaBpxHBksbEPHhw217AymMw",
+      "title": "The New Era of Social Media Has Just Begun",
+      "videoUrl": "https://www.youtube.com/watch?v=RqZe-GMU_cE",
+      "viewCountInt": 216000,
+      "viewCountText": "216K views"
+    },
+    {
+      "channel": {
+        "handle": "briantylercohen",
+        "id": "UCQANb2YPwAtK-IQJrLaaUFw",
+        "title": "Brian Tyler Cohen",
+        "url": "https://www.youtube.com/@briantylercohen"
+      },
+      "id": "D1XR_pPRFpE",
+      "lengthInSeconds": 598,
+      "lengthText": "9:58",
+      "publishDate": "2026-09-02T03:42:24.688Z",
+      "publishDateText": "7 hours ago",
+      "publishedTime": "2026-09-02T03:42:24.688Z",
+      "publishedTimeText": "7 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/D1XR_pPRFpE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDThDYMrdP3CIg6ulx45kbq7hibPA",
+      "title": "Pete Hegseth suffers ULTIMATE HUMILIATION after shock announcement | Another Day",
+      "videoUrl": "https://www.youtube.com/watch?v=D1XR_pPRFpE",
+      "viewCountInt": 379000,
+      "viewCountText": "379K views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "JY8cRsUvldo",
+      "lengthInSeconds": 719,
+      "lengthText": "11:59",
+      "publishDate": "2026-08-12T10:42:24.688Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-12T10:42:24.688Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/JY8cRsUvldo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCIdKMyyzu9LVpuxXoS9spsk5yjCg",
+      "title": "How to Build Your First Business When You Have Nothing! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=JY8cRsUvldo",
+      "viewCountInt": 597,
+      "viewCountText": "597 views"
+    },
+    {
+      "channel": {
+        "handle": "BrandonMulrenin",
+        "id": "UCXyPlTs_8j93XWEUzDGYTcw",
+        "title": "Brandon Mulrenin",
+        "url": "https://www.youtube.com/@BrandonMulrenin"
+      },
+      "id": "Xfdhszx978Q",
+      "lengthInSeconds": 1770,
+      "lengthText": "29:30",
+      "publishDate": "2024-09-02T10:42:24.688Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-09-02T10:42:24.688Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/Xfdhszx978Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDpltuPXTTDKlqYtqUQx8Vk2DSijA",
+      "title": "Alex Hormozi Explains How to Succeed as a Realtor",
+      "videoUrl": "https://www.youtube.com/watch?v=Xfdhszx978Q",
+      "viewCountInt": 51000,
+      "viewCountText": "51K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:42:24.688Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-22T10:42:24.688Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 230000,
+      "viewCountText": "230K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "GIRkQQHzsxI",
+      "lengthInSeconds": 2217,
+      "lengthText": "36:57",
+      "publishDate": "2024-09-02T10:42:24.688Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-09-02T10:42:24.688Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/GIRkQQHzsxI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_RpMN1K6zgw7-nX_ZE7OP_8X39w",
+      "title": "You’re Wasting 80% of Your Time (here’s how to fix it)",
+      "videoUrl": "https://www.youtube.com/watch?v=GIRkQQHzsxI",
+      "viewCountInt": 1700000,
+      "viewCountText": "1.7M views"
+    },
+    {
+      "channel": {
+        "handle": "TheYoungTurks",
+        "id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+        "title": "The Young Turks",
+        "url": "https://www.youtube.com/@TheYoungTurks"
+      },
+      "id": "ajRtjwnoBGU",
+      "lengthInSeconds": 1796,
+      "lengthText": "29:56",
+      "publishDate": "2026-09-02T03:42:24.688Z",
+      "publishDateText": "7 hours ago",
+      "publishedTime": "2026-09-02T03:42:24.688Z",
+      "publishedTimeText": "7 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/ajRtjwnoBGU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBUz1L31eePHKhVjDgu5w_sg6zfuA",
+      "title": "JD Vance's HUMILIATING Leaked Footage",
+      "videoUrl": "https://www.youtube.com/watch?v=ajRtjwnoBGU",
+      "viewCountInt": 59000,
+      "viewCountText": "59K views"
+    },
+    {
+      "channel": {
+        "handle": "PsychToonsHQ",
+        "id": "UC7ogBsKt4AoJBu8bObb0QiA",
+        "title": "PsychToons",
+        "url": "https://www.youtube.com/@PsychToonsHQ"
+      },
+      "id": "f1gkkzHZxNg",
+      "lengthInSeconds": 904,
+      "lengthText": "15:04",
+      "publishDate": "2026-08-31T10:42:24.688Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-08-31T10:42:24.688Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/f1gkkzHZxNg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA3fksg2VEoPOzgRSiLvL6NyTj2-A",
+      "title": "Psychology of Intelligence: Learn Anything So Fast It's Almost Unfair",
+      "videoUrl": "https://www.youtube.com/watch?v=f1gkkzHZxNg",
+      "viewCountInt": 434000,
+      "viewCountText": "434K views"
+    },
+    {
+      "channel": {
+        "handle": "TuckerCarlson",
+        "id": "UCGttrUON87gWfU6dMWm1fcA",
+        "title": "Tucker Carlson",
+        "url": "https://www.youtube.com/@TuckerCarlson"
+      },
+      "id": "Y0-nwlJFNl8",
+      "lengthInSeconds": 3421,
+      "lengthText": "57:01",
+      "publishDate": "2026-09-01T10:42:24.688Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-01T10:42:24.688Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/Y0-nwlJFNl8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBHIOrGZtndFYUxypDEYXN0OjNb6Q",
+      "title": "Trump Ushers in 300,000 Tons of Foreign Mystery Meat and Sends American Farmers Into Bankruptcy",
+      "videoUrl": "https://www.youtube.com/watch?v=Y0-nwlJFNl8",
+      "viewCountInt": 701000,
+      "viewCountText": "701K views"
+    },
+    {
+      "channel": {
+        "handle": "PaulJWarburg",
+        "id": "UC0TivKVOs7FmXn-y_VOdD2g",
+        "title": "Paul Warburg",
+        "url": "https://www.youtube.com/@PaulJWarburg"
+      },
+      "id": "HAch-XLXN6Q",
+      "lengthInSeconds": 1315,
+      "lengthText": "21:55",
+      "publishDate": "2026-09-02T08:42:24.688Z",
+      "publishDateText": "2 hours ago",
+      "publishedTime": "2026-09-02T08:42:24.688Z",
+      "publishedTimeText": "2 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/HAch-XLXN6Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBUVWZ6zwV-HZx3tDYhgIsL96i5rw",
+      "title": "China’s Biggest Problem Just Got SO MUCH Worse",
+      "videoUrl": "https://www.youtube.com/watch?v=HAch-XLXN6Q",
+      "viewCountInt": 39000,
+      "viewCountText": "39K views"
+    }
+  ]
+}

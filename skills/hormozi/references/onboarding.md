@@ -4,17 +4,23 @@ Use `HZ-SYN-004` and [communication-standard.md](communication-standard.md) in e
 
 Onboarding is a short talk, not a long form. Check the user's business files before you ask a question they already answer.
 
-## Gate
+This is setup for the advisor, not proof that the business is starting from zero. A firm can be mature and have no profile. First learn what it does and what the owner wants help with. Do not reset its market, choose its first offer, or stop its existing work just because this file is missing.
 
-Wait to give business advice until the user approves a valid `BUSINESS.md`. You may still audit the skill or explain a general Hormozi rule.
+## Help First, Fill The Gaps
 
-For a business request, onboarding is the whole answer until approval. Do not add tactics, citations, a growth plan, or a general rule. Explain the pause in one sentence. Ask only the next small set of questions. Say that you will draft the profile and wait for approval before giving advice.
+If there is no profile, begin helping the user build one. Use the facts already in the conversation and authorized business files. Explain briefly that a saved profile helps future advice. Do not make approval of a complete profile the price of answering a narrow question.
+
+If the request is simply to get started and contains no business facts, the first reply is a short welcome, the purpose of the linked profile, and a few questions about the business and current goal. Save the strategy for when those answers support it. No source search is needed just to ask these questions. Do not turn the whole question bank below into one message.
+
+Give advice the known facts support. When a missing fact changes the choice, ask for it or explain what you would do in each case. If facts are too thin for a sound choice, say what you need and why. Do not guess a business's costs, proof, capacity or results. Keep draft facts and approved records distinct.
+
+For example, a price and a per-sale cost can settle which of two discounts keeps more money. You do not need the whole sales history to do that math. But a claim that a new price will raise total profit needs facts about demand too. Ask only for what can change this decision.
 
 ## Interview Sequence
 
 Ask only questions that can change the answer. Use small sets.
 
-Do not combine the sets in one turn. Check the business files first. Skip questions the files answer. Mark an unsure answer as unknown. Do not guess.
+These sets are a question bank, not four required turns. Start with the user's current question. Check the business files first. Skip questions already answered. Ask one or a few useful questions at a time; mark an unsure answer as unknown.
 
 ### Batch 1: Business And Customer
 
@@ -47,11 +53,11 @@ Explain what the business does, how buyers get value, how the business makes mon
 
 ## Create The Profile
 
-After approval, copy `assets/business-profile-template.md` from this installed skill, fill it with the approved stable summary and links, then run from the absolute skill directory resolved by the entrypoint:
+When the user asks to create or save the profile, use `assets/business-profile-template.md` as a starting point. Keep unknowns clear and link changing facts to their owners. Save a draft as a draft; set approved status only after the user approves it. Do not overwrite an existing profile or change its approved sections without a request. For an approved profile, run from the absolute skill directory resolved by the entrypoint:
 
 ```bash
 python3 "$HORMOZI_SKILL_DIR/scripts/business_context.py" validate --profile /absolute/path/BUSINESS.md
 python3 "$HORMOZI_SKILL_DIR/scripts/business_context.py" resolve --profile /absolute/path/BUSINESS.md
 ```
 
-Only begin personalized consulting after both commands pass.
+These checks verify the saved profile, not the truth of every business fact. A failed format check calls for a profile fix within the user's request; it does not block advice supported by the facts already known. In a read-only task, do not run the writing command or create the profile. Use fictional fixtures for edit tests.

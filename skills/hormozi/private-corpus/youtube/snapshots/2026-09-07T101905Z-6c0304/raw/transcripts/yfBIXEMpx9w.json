@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The better you are in general, the more"
+    },
+    {
+      "endMs": "5840",
+      "startMs": "2080",
+      "startTimeText": "0:02",
+      "text": "capable, more able, the more potent you"
+    },
+    {
+      "endMs": "8200",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "are as a human being, the more things"
+    },
+    {
+      "endMs": "9440",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "you can multitask and do decently well"
+    },
+    {
+      "endMs": "11080",
+      "startMs": "8200",
+      "startTimeText": "0:08",
+      "text": "at. But, the thing is is that you're"
+    },
+    {
+      "endMs": "13280",
+      "startMs": "9440",
+      "startTimeText": "0:09",
+      "text": "still giving up the aggregate upside,"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "11080",
+      "startTimeText": "0:11",
+      "text": "which is almost always 10 times bigger"
+    },
+    {
+      "endMs": "18240",
+      "startMs": "13280",
+      "startTimeText": "0:13",
+      "text": "than your current spread-thin version. I"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16520",
+      "startTimeText": "0:16",
+      "text": "went from a couple million bucks a year"
+    },
+    {
+      "endMs": "21200",
+      "startMs": "18240",
+      "startTimeText": "0:18",
+      "text": "when I had nine different things that"
+    },
+    {
+      "endMs": "23280",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "were going on. As soon as I just"
+    },
+    {
+      "endMs": "27080",
+      "startMs": "21200",
+      "startTimeText": "0:21",
+      "text": "consolidated all of that into one, I"
+    },
+    {
+      "endMs": "27080",
+      "startMs": "23280",
+      "startTimeText": "0:23",
+      "text": "basically 10x how much I was making."
+    }
+  ],
+  "transcript_only_text": " The  better  you  are  in  general,  the  more \n capable,  more  able,  the  more  potent  you \n are  as  a  human  being,  the  more  things \n you  can  multitask  and  do  decently  well \n at.  But,  the  thing  is  is  that  you're \n still  giving  up  the  aggregate  upside, \n which  is  almost  always  10  times  bigger \n than  your  current  spread-thin  version.  I \n went  from  a  couple  million  bucks  a  year \n when  I  had  nine  different  things  that \n were  going  on.  As  soon  as  I  just \n consolidated  all  of  that  into  one,  I \n basically  10x  how  much  I  was  making.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=yfBIXEMpx9w",
+  "videoId": "yfBIXEMpx9w"
+}

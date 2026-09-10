@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3679",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "You have to do it for you because no one"
+    },
+    {
+      "endMs": "4960",
+      "startMs": "1680",
+      "startTimeText": "0:01",
+      "text": "will see the amount of work. No. Like if"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "3679",
+      "startTimeText": "0:03",
+      "text": "you want credit for the work, you've"
+    },
+    {
+      "endMs": "8800",
+      "startMs": "4960",
+      "startTimeText": "0:04",
+      "text": "already lost. You can get credit for the"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "outcome, but you will never get credit"
+    },
+    {
+      "endMs": "13519",
+      "startMs": "8800",
+      "startTimeText": "0:08",
+      "text": "for the work. Like you have to accept"
+    },
+    {
+      "endMs": "14719",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "that. Real, you have to accept that. You"
+    },
+    {
+      "endMs": "16640",
+      "startMs": "13519",
+      "startTimeText": "0:13",
+      "text": "will never get credit for the work. If"
+    },
+    {
+      "endMs": "18640",
+      "startMs": "14719",
+      "startTimeText": "0:14",
+      "text": "anything, you will get criticized for"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "16640",
+      "startTimeText": "0:16",
+      "text": "the work. The people around you say you"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "work too much. They'll try and pull you"
+    },
+    {
+      "endMs": "25480",
+      "startMs": "19920",
+      "startTimeText": "0:19",
+      "text": "away from the work. But the work needs"
+    },
+    {
+      "endMs": "25480",
+      "startMs": "22480",
+      "startTimeText": "0:22",
+      "text": "doing."
+    }
+  ],
+  "transcript_only_text": " You  have  to  do  it  for  you  because  no  one \n will  see  the  amount  of  work.  No.  Like  if \n you  want  credit  for  the  work,  you've \n already  lost.  You  can  get  credit  for  the \n outcome,  but  you  will  never  get  credit \n for  the  work.  Like  you  have  to  accept \n that.  Real,  you  have  to  accept  that.  You \n will  never  get  credit  for  the  work.  If \n anything,  you  will  get  criticized  for \n the  work.  The  people  around  you  say  you \n work  too  much.  They'll  try  and  pull  you \n away  from  the  work.  But  the  work  needs \n doing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Nx16rQltoGQ",
+  "videoId": "Nx16rQltoGQ"
+}

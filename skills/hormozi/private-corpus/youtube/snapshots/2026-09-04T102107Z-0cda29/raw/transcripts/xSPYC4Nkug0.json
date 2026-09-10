@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My actual productivity routine. Sleep"
+    },
+    {
+      "endMs": "6400",
+      "startMs": "2160",
+      "startTimeText": "0:02",
+      "text": "until I wake up, caffeine, nicotine, ear"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "plugs, a room with no windows, turn off"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "6400",
+      "startTimeText": "0:06",
+      "text": "all the notifications on my phone, wait"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "as long as I can before I eat my first"
+    },
+    {
+      "endMs": "12960",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "meal, and a clear idea of what I"
+    },
+    {
+      "endMs": "16120",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "actually want to do for the day from the"
+    },
+    {
+      "endMs": "16120",
+      "startMs": "12960",
+      "startTimeText": "0:12",
+      "text": "night before. That is"
+    }
+  ],
+  "transcript_only_text": " My  actual  productivity  routine.  Sleep \n until  I  wake  up,  caffeine,  nicotine,  ear \n plugs,  a  room  with  no  windows,  turn  off \n all  the  notifications  on  my  phone,  wait \n as  long  as  I  can  before  I  eat  my  first \n meal,  and  a  clear  idea  of  what  I \n actually  want  to  do  for  the  day  from  the \n night  before.  That  is",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=xSPYC4Nkug0",
+  "videoId": "xSPYC4Nkug0"
+}

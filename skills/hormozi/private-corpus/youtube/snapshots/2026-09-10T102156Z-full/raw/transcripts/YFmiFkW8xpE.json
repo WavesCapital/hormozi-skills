@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There's three options for starting a"
+    },
+    {
+      "endMs": "5360",
+      "startMs": "1480",
+      "startTimeText": "0:01",
+      "text": "business. Solve a problem better than"
+    },
+    {
+      "endMs": "7040",
+      "startMs": "3560",
+      "startTimeText": "0:03",
+      "text": "other people. That's execution risk."
+    },
+    {
+      "endMs": "8280",
+      "startMs": "5360",
+      "startTimeText": "0:05",
+      "text": "Second, solve a problem that no one knew"
+    },
+    {
+      "endMs": "10000",
+      "startMs": "7040",
+      "startTimeText": "0:07",
+      "text": "existed. Oh, everyone wants to be"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "8280",
+      "startTimeText": "0:08",
+      "text": "connected online, aka Facebook. That's"
+    },
+    {
+      "endMs": "13520",
+      "startMs": "10000",
+      "startTimeText": "0:10",
+      "text": "product market risk. Third, solve a"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "problem everyone knows about, but is"
+    },
+    {
+      "endMs": "16680",
+      "startMs": "13520",
+      "startTimeText": "0:13",
+      "text": "hard to solve. If I said, \"Hey, I can"
+    },
+    {
+      "endMs": "18160",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "have a machine that can take sales calls"
+    },
+    {
+      "endMs": "19680",
+      "startMs": "16680",
+      "startTimeText": "0:16",
+      "text": "for you.\" I don't need to like get you"
+    },
+    {
+      "endMs": "20800",
+      "startMs": "18160",
+      "startTimeText": "0:18",
+      "text": "to believe that's valuable. They're just"
+    },
+    {
+      "endMs": "23120",
+      "startMs": "19680",
+      "startTimeText": "0:19",
+      "text": "like, \"I don't believe you can do it.\""
+    },
+    {
+      "endMs": "25400",
+      "startMs": "20800",
+      "startTimeText": "0:20",
+      "text": "That's technical risk. The surest money"
+    },
+    {
+      "endMs": "28480",
+      "startMs": "23120",
+      "startTimeText": "0:23",
+      "text": "is in the first one. The biggest money"
+    },
+    {
+      "endMs": "28480",
+      "startMs": "25400",
+      "startTimeText": "0:25",
+      "text": "is in the second and third."
+    }
+  ],
+  "transcript_only_text": " There's  three  options  for  starting  a \n business.  Solve  a  problem  better  than \n other  people.  That's  execution  risk. \n Second,  solve  a  problem  that  no  one  knew \n existed.  Oh,  everyone  wants  to  be \n connected  online,  aka  Facebook.  That's \n product  market  risk.  Third,  solve  a \n problem  everyone  knows  about,  but  is \n hard  to  solve.  If  I  said,  \"Hey,  I  can \n have  a  machine  that  can  take  sales  calls \n for  you.\"  I  don't  need  to  like  get  you \n to  believe  that's  valuable.  They're  just \n like,  \"I  don't  believe  you  can  do  it.\" \n That's  technical  risk.  The  surest  money \n is  in  the  first  one.  The  biggest  money \n is  in  the  second  and  third.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=YFmiFkW8xpE",
+  "videoId": "YFmiFkW8xpE"
+}

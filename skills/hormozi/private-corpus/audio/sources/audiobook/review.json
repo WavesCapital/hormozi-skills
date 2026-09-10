@@ -1,0 +1,234 @@
+{
+  "source_id":"100m-money-models-ebook-audiobooks-100m-money-models-audiobook:8064dbd3a82b",
+  "source_sha256":"8064dbd3a82b7eb812e33fb21da6c9cd996b4db75b4e6bd008699ae8fe23623a",
+  "title":"$100M Money Models — original audiobook",
+  "status":"source_review_complete",
+  "promotion_status":"reviewed_not_promoted",
+  "receipt":"audio-review/audiobook-full-01/run.json",
+  "transcript_sha256":"d6954183b964255b3c46957ae983097bb1214ed6deec99afa826008ca944cc33",
+  "segments_read":[[1,3603]],
+  "read_time_bounds_seconds":[0,13091.54],
+  "purpose":"All3603 saved ASR segments read in bounded untruncated outputs, with66 bounded lessons, eight fully read targeted rechecks and relevant book-figure comparison. Unresolved wording is explicitly quarantined, not silently corrected. This completes source review, not runtime integration or word-level auditory authentication.",
+  "lessons":[
+    {"id":"MM-A01","segments":[1,38],"seconds":[0,132.78],"lesson":"Spoken introduction attributes writing and performance to Alex; dedications and deliberately weak humorous endorsements are framing, not case-study evidence. Quoted epigraphs are source attributions, not independently authenticated quotations.","use":"Keep role-play from inventing these memories as current personal experiences."},
+    {"id":"MM-A02","segments":[39,70],"seconds":[132.78,239.02],"lesson":"Opening gym story starts with runway, cash and customer acquisition, not a large operating framework. The storage owner asks how long cash lasts and how customers arrive.","use":"Concrete diagnosis should ask for the limiting economic facts. Five thousand dollars and four customers belong to this story, not a required questionnaire or startup benchmark."},
+    {"id":"MM-A03","segments":[71,147],"seconds":[239.5,465.66],"lesson":"Free storage leads to complementary solutions: lock, boxes, moving partner or rental tools, optional insurance and more space. Not all products must be made in-house. Story's127 total lacks an itemized allocation for every item.","use":"Map real follow-on problems and optional solutions, not hidden compulsory fees. Insurance amounts, lock fit and partner terms are anecdotal, not current product facts."},
+    {"id":"MM-A04","segments":[148,178],"seconds":[467.44,584.08],"lesson":"Gym opening story uses early sales to fund setup;20 daily leads, half show, half of those buy implies5 customers/day and25% lead-to-buyer rate. At5 dollars/lead, implied paid acquisition cost is20 dollars/customer.600 program receipts plus80 supplement profit is described as680 before opening; this mixes measures, not proven net profit.680/20=34 explains the rhetorical34 return but does not account for all delivery costs.","use":"Keep cash, revenue, gross profit and acquisition cost distinct. Two-thirds membership conversion is of signups, not all leads. Never promise this historic48-hour or30-day return to a new firm."},
+    {"id":"MM-A05","segments":[179,217],"seconds":[584.4,758.96],"lesson":"Story shifts from operating gyms to teaching a tested method after repeated turnarounds. Licensing follows hands-on work. Wealth, sale and portfolio numbers are dated self-reports. The stated aim is earning more from customers than acquisition costs quickly enough to fund growth.","use":"Consider opportunity size and transferable capability without automatically telling every founder to sell the business or start coaching. Paid mentor status alone is not evidence advice fits. Lottery-ticket and never-again language is promotional, not a guarantee."},
+    {"id":"MM-A06","segments":[218,235],"seconds":[758.96,840.86],"lesson":"Book outlines model/attraction/upsell/downsell/continuity/building, and suggests reading plus listening and completing chapters to aid attention.","use":"Learning preferences are optional techniques, not universal cognitive findings. ASR813.24 says employ where sentence likely has a missing negation/ploy; do not quote until checked."},
+    {"id":"MM-A07","segments":[236,279],"seconds":[841.66,1049.3],"lesson":"Rental-car sequence upgrades vehicle, offers late return and insurance, downsells coverage and sells prepaid gas. Model means a sequence of offers solving recognized problems at useful times.19 to100 is about5.26 times, not exact5. Blanket insurance cover is dialogue, not a verified policy.","use":"Offer needs-based options rather than recreate car-rental fees or force purchases. Third-party HiRose praise is attributed testimonial, not an independent audit or current ranking."},
+    {"id":"MM-A08","segments":[280,303],"seconds":[1049.3,1158.92],"lesson":"Long payback can starve a business of cash even with positive eventual customer profit.30-day cost recovery is the author's preferred operating target. The credit-card explanation assumes an available grace period and repayment ability.","use":"Compare timing and cash reserves, not lifetime value alone. Do not claim all firms get interest-free30-day funding or advise borrowing without actual card terms, delivery/refund costs and downside."},
+    {"id":"MM-A09","segments":[304,335],"seconds":[1159.52,1305.82],"lesson":"More value per buyer, buyers and speed are distinct levers.2x2x2=8 and3x3x3=27 are multiplicative illustrations, not an empirically guaranteed growth rate. Four offer types can work alone or in combinations.","use":"Avoid mandatory four-step implementation. Recurring billing is not guaranteed collections or retention; no unlimited scaling inference."},
+    {"id":"MM-A10","segments":[336,350],"seconds":[1306.2,1368.72],"lesson":"Chapters combine origin story, definition, other-industry examples, execution notes and summary. Adapt an offer to the business; the source explicitly warns copying another firm can disappoint.","use":"Use examples for transfer, preserve differences and test economics."},
+    {"id":"MM-A11","segments":[351,378],"seconds":[1369.4,1434.34],"lesson":"Treat customers well, fix errors, respect unwanted offers, check changing legal/platform rules and state facts honestly. Refund-on-request is a stated personal practice. Book explicitly frames its tactics as inspiration from different places and times.","use":"Current channel correction is compatible with the source, not disloyalty to it. Do not treat source examples as legal clearance or authority to refund real accounts."},
+    {"id":"MM-A12","segments":[379,429],"seconds":[1435.4,1591],"lesson":"Offers may be used alone, in any order, when useful and profitable. Attraction comes first in the author's explanation because he is addressing cash-constrained acquisition. Free, discounted and1-dollar structures can share a mechanism, but are not identical offers or legal claims.","use":"Choose the true bottleneck; don't add an attraction offer if service capacity binds. Linked bonus training remains unread unless its video metadata qualifies for the frozen scope."},
+    {"id":"MM-A13","segments":[430,505],"seconds":[1591.82,1774.68],"lesson":"Win Your Money Back exchanges a deposit for a stated chance to recover cash or credit after results, actions or both. These are three distinct eligible designs: action-only does not require a result; result-only does not require stipulated actions. The customer's ability and seller's directions both matter.","use":"Preserve OR versus AND and cash versus credit; make criteria clear before purchase. Danny's500/8-week story and13 referrals remain attributed anecdote, not typical results."},
+    {"id":"MM-A14","segments":[506,530],"seconds":[1775.7,1842.1],"lesson":"Examples span personal goals, B2B acquisition and a car-mileage credit. Meetings, logs and progress records make actions observable. A title promising five customers differs from the action-based criteria in its body.","use":"Do not promise outcome from action compliance. The claimed Volvo promotion is unverified history, not a template authorized for present use."},
+    {"id":"MM-A15","segments":[531,563],"seconds":[1843.36,1968.14],"lesson":"Model relies on useful next purchases and satisfied customers, not only failures forfeiting deposits. Author reports about10% of customers asking money back in gym data and similar acquisition with cash/credit options. Only offer it if willing and able to repay. Free claims with credit need added care and local legal review.","use":"Do not reuse10% as a universal refund budget or treat all customers as eligible. Personal refund practice is context; future margins, reserves, fulfillment and refund promises must be modeled."},
+    {"id":"MM-A16","segments":[564,580],"seconds":[1968.44,2027.82],"lesson":"Criteria should be easy to track and likely to help results; source also suggests promotion as a criterion.","use":"Keep realistic customer-benefit actions. Do not copy compulsory public review/praise into refund eligibility; channel policy and consent apply. What the best customers do is a hypothesis about causation, not proof everyone will match them."},
+    {"id":"MM-A17","segments":[581,597],"seconds":[2028.4,2085.48],"lesson":"600 credit spread over12months equals50/month;200 monthly less50 leaves150 due. Source presents this first but explicitly says customers can use their credit however they want.","use":"Never silently turn the suggested spread into a new restriction. Distinguish a contractual credit limit from a sales recommendation; retain original agreed refund option."},
+    {"id":"MM-A18","segments":[598,643],"seconds":[2086.4,2278.46],"lesson":"Useful check-ins can identify a next offer. Early credit or a goodwill offer after a failed challenge can help long-term fit. Summary advises current refund rate below5% before trying this model, different from reported10% program refund requests earlier.","use":"Below5% is a source readiness heuristic, not measured guarantee or permission to falsify success. Give goodwill credit honestly; do not claim unmet results happened. Three meetings and annual prepayment are examples, not mandatory overhead for all firms."},
+    {"id":"MM-A19","segments":[644,709],"seconds":[2279.28,2485.42],"lesson":"Giveaway draws interest in the actual core product, awards a real grand prize and may offer qualified others a discount. Source itself warns giveaway/sweepstakes law is complex. Scholarship, sweepstakes and raffle are rhetorical groupings here, not identical legal structures.","use":"No fake scholarship exclusivity or invented inspiring-story reason. Prize award must be real; preserve written eligibility, legal and promotion boundaries. No emails or bonus-site access performed."},
+    {"id":"MM-A20","segments":[710,758],"seconds":[2485.68,2723.28],"lesson":"Choose desired prize, credible value anchor, promotional offer, relevant eligibility and permissions, deadlines and follow-up.5000 claimed value,2000 retail,1800 promo is10% off retail and64% below claimed value. These are distinct bases.10-30% of gross margins rule needs a defined dollar/margin base before arithmetic.","use":"Never label64% a retail discount or fabricate5000 value. Entry does not grant unlimited channel contact; actual consent/rules govern. Three-to-seven-day and daily-message preferences are examples bounded by capacity and customer experience."},
+    {"id":"MM-A21","segments":[759,799],"seconds":[2723.52,2814.44],"lesson":"Examples adapt prize/core fit across braces, dog food, service and consulting. More application effort trades fewer entries for qualification. Source calls for actual grand-prize fulfillment and clear qualifications/multiple-prize rules.","use":"Tailor questions to fit, not collect sensitive data needlessly. Do not assume all added friction improves useful buyer quality."},
+    {"id":"MM-A22","segments":[800,833],"seconds":[2814.7,2929.98],"lesson":"A wanted prize improved one weak campaign; refer-a-winner rewards can align referrals. Skool40% commission and top-ten incentive are dated example terms.","use":"Unwanted prize is one failure hypothesis, not the only explanation. Two prizes do not guarantee twice the leads. Never transfer historical platform commission to Waveforce or claim current terms."},
+    {"id":"MM-A23","segments":[834,866],"seconds":[2930.5,3090.62],"lesson":"Limit entries to follow-up capacity. Distinguish deadlines to enter, claim and use. Have a fit-based downsell, and show what recurring price follows the discounted period.","use":"Use honest capacity and deadlines, no manufactured scarcity or automatic renewal without clear agreement. Seven days is a tactic, not universal SLA. Same discount percentage can have different margin impact on a second product."},
+    {"id":"MM-A24","segments":[867,928],"seconds":[3091.14,3282.18],"lesson":"Decoy origin stories distinguish initial attraction from the fuller solution that may better meet the goal. Free option remains available. Gym premium is transcribed as3.99 and70-80% take rate; likely decimal ambiguity requires a targeted check before numerical use.","use":"Tanning story is commercial history, not health guidance or evidence tanning is safe. Don't turn customer knowledge into assumed consent or universal premium superiority."},
+    {"id":"MM-A25","segments":[929,958],"seconds":[3284.34,3448.54],"lesson":"Simpler/free option and fuller premium option create a comparison. The source provides physical product, float service and gym examples. Benefits should motivate the offer; delivery scope differs.","use":"Honor the advertised cheaper option. Don't hide material limits behind benefit-only advertising, promise unsupported transformation, or claim every prospect closes."},
+    {"id":"MM-A26","segments":[959,984],"seconds":[3449.66,3579.78],"lesson":"At100/month, annual1200 versus900 can be described as25% off,300 off or3months of nominal monthly value. Test equivalent framing. Paid-discount offers may trade fewer leads for better show rates. Premium-first is conditional on permission and actual fit.","use":"Clarify billing/commitment timing: equivalent price is not identical cash timing. No coercive free-stuff-versus-results false choice. Legal duties to present the advertised offer need current context if used as a legal claim."},
+    {"id":"MM-A27","segments":[985,1005],"seconds":[3580.32,3675.92],"lesson":"Calm confident selling and optional low-cost extras can reduce friction and earn goodwill. Decoy remains a supported route with later upsell opportunity.","use":"Assumed-close demeanor is not permission to charge or take identification. Larger contrast is one improvement idea, not a cure for every unprofitable offer."},
+    {"id":"MM-A28","segments":[1006,1050],"seconds":[3675.92,3887.82],"lesson":"Buy-X-get-Y examples reframe bundles: three200-dollar pairs equal600 total. Three6.67 shirts total20.01, rounded20 in source.18-month service example contains a conflict:12+6=18 and6+12=18, but the middle6+6=12, despite same-duration claim.","use":"Do not copy inconsistent duration or fake savings. Separate quantity, actual standalone price, total due and per-unit equivalent. Recheck middle duration against original audio/printed edition before numerical use; keep original evidence unchanged."},
+    {"id":"MM-A29","segments":[1051,1087],"seconds":[3887.82,4041.22],"lesson":"Bundles can increase early cash; the source insists actual prices change rather than lie. Free items may differ from paid items; test perceived value against real cost. Reframing is not necessarily a real discount.","use":"Do not endorse raising a reference price merely to claim fake free goods; assess actual offer history and applicable rules. More items only help if wanted and deliverable. Buy1get2 at20 is33.33% below a real30 bundle, not universally a two-thirds discount."},
+    {"id":"MM-A30","segments":[1088,1100],"seconds":[4041.22,4106.18],"lesson":"Prepaid service cash must fund all future delivery, not owner spending. Source proposes a10% existing-customer cap to protect recurring cash and notes prepaid customers may still need other solutions.","use":"10% is a source heuristic; actual reserves, obligations, cash-flow loss and capacity decide the limit. Upfront receipts are not all earned profit. The rest of the chapter is covered in MM-A31."},
+    {"id":"MM-A31","segments":[1101,1126],"lesson":"Prepaid access is not proof of engagement or retained usage. Maximize a useful one-time basket while reserving cash for future delivery.","use":"Separate contract length, usage, cash and earned profit."},
+    {"id":"MM-A32","segments":[1127,1218],"lesson":"Pay Less Now Or More Later offers conditional delayed payment versus an immediate discount, often with bonuses instead of a guarantee.297/97,500/299,600/369 and149/97 are source examples;20–50% means discount, not conversion. Measurable result, deadline, actions and cancellation terms matter;>10% cancellation is a heuristic.","use":"Stored card is not charge consent. Disclose conditions before acceptance. Preserve statutory rights. Do not invent demand or sellouts to tease the next offer."},
+    {"id":"MM-A33","segments":[1219,1278],"lesson":"Goodwill interlude contains named customer testimonials, not the author's own results. Simon reports8 meetings in7 days,4 closes and500 from one client, not500 each. Review ask has no compensation.","use":"No typical-result claim, independent proof or current Audible/Kindle procedure inferred. No external action taken."},
+    {"id":"MM-A34","segments":[1279,1348],"lesson":"Attraction should cover acquisition and delivery.1000-to10m in10 months is self-report. Upsells solve a next real problem. Burger math mixes .25 initial profit, .75 fries,1.75 drink, then2/3 total and8x/11.6x.","use":"Recheck4980–5020: additive numbers total2.75;3/.25=12x level. Do not claim current restaurant net margins or guaranteed growth."},
+    {"id":"MM-A35","segments":[1349,1418],"lesson":"Classic upsells offer a useful complement. Salmon cost3/price32 excludes overhead. Fur-coat storage script treats a negative answer as a paid-storage close; accessories and nutrition are contextual examples.","use":"No cannot authorize a charge. Optional extras remain optional. No medical/legal prescription or guaranteed5x gain."},
+    {"id":"MM-A36","segments":[1419,1486],"lesson":"Fit-based high-profit options, useful bonuses, timely access, one bundle and outcome-based names reduce friction. Hyperbuying windows are contextual. BAMFAM includes agreement on why and when another meeting occurs.","use":"Do not force meetings, bonus unfairness, pressure or paid extras to fulfill an existing promise. Nine bundle items do not equal nine buyers."},
+    {"id":"MM-A37","segments":[1487,1539],"lesson":"Middle-price contrasts5/8/9 versus6/7/9 illustrate choice. Warranty examples suggest5–50% of price; art studio reports10% fee and30% take.","use":"Not guaranteed preference or pure profit: claims/admin costs remain. Optional warranties differ from statutory rights and regulated insurance."},
+    {"id":"MM-A38","segments":[1540,1670],"lesson":"Menu upsell uses up to four tactics: remove unneeded items, prescribe useful ones, offer valid A/B choices and ask about a card on file. Detailed use instructions help realize value.20 sales is a selected anecdote.","use":"No mandatory four-step script, fake crossouts, budget inference from jewelry or charge consent from stored cards. Supplement instructions are not health advice."},
+    {"id":"MM-A39","segments":[1671,1759],"lesson":"Prescribe when one option fits; A/B when real alternatives fit. Axes include quantity/time/payment/format/delivery/support. Sold-out preorders require delivery expectations. Economist59/125/125 is a historical contrast.","use":"Preserve refusal and truthful popularity, stock and preference. No medical/vet use of example dosages or claim of an independently verified pricing study."},
+    {"id":"MM-A40","segments":[1760,1901],"lesson":"Real premium often5–10x anchors a viable core offer. Suit story500 budget→16k anchor→2200 suit+300 extras. Newsletter199 versus1.99 around6645–6652 is uncertain;2200/16000 is13.75%, not exactly one-eighth.","use":"No fake premium, panic target or automatic customer benefit from overspending. Recheck decimal before numerical reuse."},
+    {"id":"MM-A41","segments":[1902,2019],"lesson":"Anchor keeps core value while changing secondary features. Rollover credits past spending toward more/better/new products for former/current/dissatisfied buyers.600 at50/month over12 months changes cash timing versus3 free months.","use":"Earlier explicit customer credit choice still applies; do not impose a suggested spread retroactively.5–10x and overnight profit are not universal."},
+    {"id":"MM-A42","segments":[2020,2082],"lesson":"Fix obligations already owed before upselling. Competitor-payment credit does not cancel/pay off their contract.200 videos,20% return and1.9m annual revenue are self-report, not one-day cash. New price4x credit limits face discount to25%.","use":"Delivery cost still decides profit. Honor refunds. Negative-review prospecting does not authorize scraping/contact. Deadlines must be real."},
+    {"id":"MM-A43","segments":[2083,2121],"lesson":"Gift-card example sells200 credit for20, two per buyer for others, toward1000 purchase. Receiver pays800; combined820 is180 below1000, not200 free cash.","use":"Disclose eligibility, minimum spend, transfer and expiry. No permission to contact friends inferred."},
+    {"id":"MM-A44","segments":[2122,2200],"lesson":"Downsell changes timing or scope. Panic-discounting the same5000 offer to400 hurts trust; planned price experiments are distinct. Payment plans may win buyers but defaults and lost upfront payments can offset gain.","use":"Respect no; do not create100 products. Story payday/rent dates are not a universal billing schedule."},
+    {"id":"MM-A45","segments":[2201,2285],"lesson":"Payment-plan ladder has up to seven steps/nine offers: prepay reward, outside finance/cards/layaway, halves, desire check, thirds, longer spread, trial. Stop on a fitting sale. Layaway delivery follows full payment; lender finance can pay merchant upfront; merchant installments retain collection risk.","use":"Not all steps required. Card finance is not inherently free. Actual rates/fees/approval need current terms;8/10 desire is not affordability proof. Recalculate remaining balance before prepay discount."},
+    {"id":"MM-A46","segments":[2286,2327],"lesson":"Payday/retry tactics are not processor permissions.3/10 upfront buyers plus3 installments makes6/10 closes but half of buyers pay upfront. ProfitWell14k,10.7/5/2 monthly churn are historical cohorts by billing frequency, not per-bill probabilities.","use":"No blind retries after uncertain charges. Preserve denominators; do not infer causation or current typical churn."},
+    {"id":"MM-A47","segments":[2328,2399],"lesson":"Trial With Penalty HR example:500 onboarding,99 monthly, three60-minute calls. Waiving onboarding is not free subscription. Ten50 penalties differ from500 at first miss. Actions can help results without guaranteeing them.","use":"Show actions, fees, deadlines and renewal before consent. Penalty is not the profit engine; reverse money-back timing does not mean identical risk."},
+    {"id":"MM-A48","segments":[2400,2466],"lesson":"Source describes card/ID before later fee explanation, useful check-ins and upset-client upsells. Half upsold is a self-report; anger-mirroring is a tactic.","use":"Disclose before agreement/charge; never retain ID as leverage. Fix honestly, not with fake anger. Check-ins should help, not manufacture fees or upsell burden."},
+    {"id":"MM-A49","segments":[2467,2540],"lesson":"Author favors penalty trials when customer work matters and Pay Less Now for physical/one-time offers. Feature example:25/100 initial→35 full+40 downsell=75 closes.","use":"Triple close rate is not triple profit. Preserve safety, statutory rights and core outcome. Verified card is not guaranteed future collection."},
+    {"id":"MM-A50","segments":[2541,2601],"lesson":"Scope axes: quantity, duration, time/location, rescheduling, response speed, ratio, channel, provider level, live/recorded, DIY/DWY/DFY, expiry, customization and optional guarantees. DFY refusal can lead to useful DIY.","use":"Keep viable outcomes and honest qualifications. Do not require a new business/product for each objection."},
+    {"id":"MM-A51","segments":[2602,2677],"lesson":"Learn repeated preferences and standardize packages. Orientation:half attend, almost all attendees buy, not all invited. Lower-scope retention and second-highest LTV are observations. Review barter appears9586–9619.","use":"Keep denominators and causal limits.100 discount for reviews everywhere is historical, not current channel clearance; retain Google/Yelp corrections. A possibly reversed value-comparison clause is not a verified quote."},
+    {"id":"MM-A52","segments":[2678,2748],"lesson":"Continuity means ongoing value/payments, not installments for one workshop.1000×10=10k;50×40×20 months=40k including first2k, not42k. Gym story17 old continuity buyers versus40 direct new,8 of those prepaid.","use":"20-month retention is an assumption; receipts are not profit.40/17=2.35 not triple from those counts.8 prepaids are not8 extra buyers. Do not force subscriptions."},
+    {"id":"MM-A53","segments":[2749,2817],"lesson":"Bonus should fit and have credible value; source rejects fabricated high values and recommends actual sold prices.200 monthly+1 program=201 initially.40×399=15960, not15880 if that intended base; anchor base is unestablished.","use":"Use actual cost and customer fit.3/6/12-month awards optional. Free shirt can attract wrong buyer. Author experience is not universal proof standalone memberships fail."},
+    {"id":"MM-A54","segments":[2818,2880],"lesson":"Continuity pricing table at10354–10489 has decimal and ratio ambiguity: possible standalone399/499/600/699/799 with266/333/399/466/532 versus199 monthly. These are candidate readings, not corrected facts. Ratios1.33/1.66/2/2.33/2.66 need correct base.","use":"Recheck full window and book table.1.33–2.66x means33–166% more, not33–266%. Do not reuse disputed numeric table."},
+    {"id":"MM-A55","segments":[2881,2904],"lesson":"One of8 prepays5 months for6:7×1+5=12 monthly units now versus8, a50% upfront cash gain. Longer commitments may lower signup.","use":"Not50% profit. Future service obligations remain. Count buyers, cash, retention and delivery costs separately."},
+    {"id":"MM-A56","segments":[2905,3001],"lesson":"Discount placements enumerate four after saying five:upfront,end,spread,after initial payments. Trash story trades free year for five future paid years. Four-week billing:13 cycles per52 weeks versus12 monthly,8.33% annualized gross gain.3free+12paid=15months versus9paid+3free=12.","use":"Do not invent fifth placement or equate terms. Constant20% profit base implies41.67% gain only at unchanged costs/customers. Four-week is not monthly. Contracts do not guarantee collections."},
+    {"id":"MM-A57","segments":[3002,3055],"lesson":"3% surcharge at10% margin gives30% illustrative profit gain only at fixed costs. Waiving3 on103 is not3% off total. Backup card/ACH can reduce some failures. Churn timing needs cohort's peak-risk period, not automatically mean lifetime.","use":"Current provider/network/local rules apply. Consent and secure payment handling matter. No generic fee changes Waveforce's offer. Do not depend on hidden gift-card terms or forgotten redemption."},
+    {"id":"MM-A58","segments":[3056,3112],"lesson":"Explain cancellation upfront and make it easy. Paid private interview can reveal/fix problems. Audio claims a third-to-half saves; reviewed PDF says a third.","use":"No mandatory exit interview or conflation with paid public review. Keep edition-specific self-reports distinct, not one independently verified save rate."},
+    {"id":"MM-A59","segments":[3113,3208],"lesson":"Waive fee example1000 monthly+5000 setup versus annual commitment and early-break fee. Suggested setup3–5x monthly, smaller1.5–3x for cash. Fee expires after term.>5% early cancel is a heuristic; source explicitly rejects handcuffing. Anti-charity penalty is anecdote.","use":"Use real terms/fee rationale/full-term comparison, not perpetual penalties or default charity punishment. Customer fit and reward preference matter; no legal clearance inferred."},
+    {"id":"MM-A60","segments":[3209,3287],"lesson":"Gym Launch evolved16k/16weeks→42k/year or36k prepay.800 weekly×52=41600 not42000. Full800 versus300ads+200sales+500releases+100support sums1100, possibly bundle difference/ASR. Final4.4m includes another firm.","use":"Recheck12035–12058/table before item-price use. Do not combine firms' results or treat rounded story prices as exact. Bulk-to-recurring needs clear agreement."},
+    {"id":"MM-A61","segments":[3288,3350],"lesson":"Build financial and operational reliability one stage at a time. One customer funding others within30 days is ambition, not guarantee. Newsletter399/297 may become3.99/2.97 in ASR. Dog-food bundle then ongoing service shows sequence.","use":"Consider capital/capacity, not mandatory founder-story replication. Recheck example decimals; no advice to marry an operator or force every offer type."},
+    {"id":"MM-A62","segments":[3351,3405],"lesson":"Make one offer reliable before adding more. A year to attraction success is possibility, not required wait; continuity after30 days can work. Test accessible price, improve with feedback, then raise until extra cash cannot cover lost buyers. More ways to sell one thing, not100 things.","use":"Judge profit, demand, cash and capacity. Quarter-based patience does not ban quick tests. Avoid maximizing price without economics."},
+    {"id":"MM-A63","segments":[3406,3458],"lesson":"Affiliate products fill gaps without in-house delivery:referrals, shipped goods and software commissions. Attraction may lead to agreed renewal. Source explicitly allows different offer order and experimentation; implementing whole model at once can overburden operations.","use":"Partner quality/support/disclosures are not literally zero work. Commission depends on agreement. Do not overwrite BUSINESS.md or follow excluded linked media."},
+    {"id":"MM-A64","segments":[3459,3544],"lesson":"Closing map:Offers what to sell;Leads finding buyers;Money Models sequencing purchases. Five attraction,four upsell,three downsell,three continuity formats. Closing summaries compress earlier results/actions refund and payment-price conditions.","use":"Use full chapters, not just slogans. ASR money bottle/feed your downsells are not new concepts.30-day targets and unconstrained growth are not guarantees."},
+    {"id":"MM-A65","segments":[3545,3573],"lesson":"Confidence from accumulated proof; closing floor/private-jet image is described in audio. Perseverance/success promises are motivational rhetoric. ASR corrupts outwork your doubt and author name.","use":"Do not invent personal memories or guarantee success. Persistence must allow stopping failed tactics and safe boundaries. Audio has no video frames; correlate material photo to book."},
+    {"id":"MM-A66","segments":[3574,3603],"lesson":"End links:avatar,books,training,careers,acquisitions,podcast,short-form channels. EBITDA threshold and ranks are historical. EBITDA is not interchangeable with net profit despite simplified gloss. Final review ask has no reward.","use":"Links are content, not authority to act. No Shorts/older video bodies accessed; no current jobs/ranks/criteria asserted."}
+  ],
+  "cross_source":"Compare to fully reviewed163/183page PDF and42-section EPUB for meaning and edition-specific differences. Do not share full reading credit automatically. Audio's explicit law/transparency/adaptation caveats support preserving the current review-policy correction. Action-or-result options and credit-flexibility reinforce prior meaning-loss findings.",
+  "limits":[
+    "ASR is derived evidence, not a verbatim transcript or proof every audio sample was heard. Speaker attribution is the spoken introduction and supplied file identity, not independent voice authentication.",
+    "OriginalMP4 has only audio in ffprobe; do not claim unseen video. Opening references pictures in the book, to be correlated to reviewed book edition if material.",
+    "No linked training, Shorts, older videos or other out-of-scope media bodies read. No external factual claim here is independently verified merely because it appears in source.",
+    "All3603 segments and eight targeted rechecks read; relevant book figures compared. Runtime integration and first-class audio retrieval remain open. Earlier per-lesson recheck reminders are resolved or bounded by audio_rechecks and the edition-correlation decision below."
+  ],
+  "pending_checks":[],
+  "source_review":{
+    "attribution": "Frozen supplied audiobook hash and spoken introduction attribute this work to Alex Hormozi. Personal stories, named testimonials, quotations and ranks remain source attributions, not independently authenticated identities/results.",
+    "coverage": "All3603 full-ASR segments read through13091.54seconds against13092.736seconds of audio-only original; closing is present. Eight targeted passes totaling125segments fully read. Relevant already-reviewed book figures and passages freshly compared; no video stream exists in this MP4. Source reading is separate from runtime integration.",
+    "quality_dispositions": {},
+    "required_rechecks": [
+      "audio-review/audiobook-burger-math-01/run.json",
+      "audio-review/audiobook-negation-01/run.json",
+      "audio-review/audiobook-decoy-price-01/run.json",
+      "audio-review/audiobook-bundle-term-01/run.json",
+      "audio-review/audiobook-anchor-newsletter-01/run.json",
+      "audio-review/audiobook-continuity-table-01/run.json",
+      "audio-review/audiobook-model-menu-01/run.json",
+      "audio-review/audiobook-model-newsletter-01/run.json"
+    ],
+    "uncertainty_disposition": "Each required ambiguity is now dispositioned in audio_rechecks: preserve original ASR, use separately cited printed wording when clear, and quarantine unresolved price-base/arithmetic claims. Same-model rechecks are not independent transcription. All chapter conditions, incentives, attribution and economic limits remain in66 bounded lessons. Printed figure comparison is documented in decisions/audiobook-edition-correlation-01.json. No ambiguous numerical claim is promoted to runtime doctrine. Current review-channel correction remains applicable; no excluded media followed."
+  },
+  "audio_rechecks":[
+    {
+      "receipt": "audio-review/audiobook-burger-math-01/run.json",
+      "transcript_sha256": "a5951a6d538350d77f49d257d4c3f263eb6054d19eb52eccd2e04388828a5aaf",
+      "segments_read": [
+        [
+          1,
+          12
+        ]
+      ],
+      "time_seconds": [
+        4970,
+        5030
+      ],
+      "interpretation": "Both full and targeted ASR repeat the conflicting totals. PDF163 p0068, freshly viewed, also repeats prose3 and11.6x; its image instead gives .25+1.75+.90=2.90, which is11.6 times .25. Medium adds1.75 to base, not fries plus another1.75. Preserve prose/image difference; use the explicitly labeled image calculation, not a claim of net profit.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-negation-01/run.json",
+      "transcript_sha256": "40613edab66102a6b3e30941a65b9f7182072dd90e6612e35fd77cb23f84828e",
+      "segments_read": [
+        [
+          1,
+          9
+        ]
+      ],
+      "time_seconds": [
+        800,
+        840
+      ],
+      "interpretation": "Targeted ASR still says an employ, so it does not resolve the negation. Fresh PDF163 p0017 plainly says this isn't a ploy. Use the book's meaning with its locator, not an authenticated audio quote; the claimed attention benefit is personal experience.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-decoy-price-01/run.json",
+      "transcript_sha256": "1459d93b45885df118f595b92e08851ba73b7eb19b670898c0014fd62ccf567d",
+      "segments_read": [
+        [
+          1,
+          19
+        ]
+      ],
+      "time_seconds": [
+        3220,
+        3280
+      ],
+      "interpretation": "Targeted ASR repeats3.99. Fresh PDF163 p0046 specifies399. This supports the book price, not proof the audio says399. Audio70–80% and book about8/10 are edition-specific self-reports, not guaranteed conversion.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-bundle-term-01/run.json",
+      "transcript_sha256": "8cd75fb11e0bc4245590c588882be5f0cc46fed41994cbadf820c73270d6a4fa",
+      "segments_read": [
+        [
+          1,
+          9
+        ]
+      ],
+      "time_seconds": [
+        3850,
+        3900
+      ],
+      "interpretation": "Targeted ASR repeats6+6 for the middle18-month offer. Fresh PDF163 p0053 has9+9=18 at1800. Preserve audio uncertainty; cite the book for the consistent three offers12+6,9+9,6+12. Do not silently alter the original ASR.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-anchor-newsletter-01/run.json",
+      "transcript_sha256": "cc645ee668d25ba7349749001fc522b58e85a42004d2882c1f054524d6dc056f",
+      "segments_read": [
+        [
+          1,
+          9
+        ]
+      ],
+      "time_seconds": [
+        6630,
+        6675
+      ],
+      "interpretation": "Targeted ASR repeats1.99 premium versus19 main. Fresh PDF163 p0087 has199/month premium versus19/month main. Use the printed example when needed and keep the audio decimal unverified, not a verbatim correction.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-continuity-table-01/run.json",
+      "transcript_sha256": "52bf40bef39c1839703daa01db3d7233f18d2585e3fc38f654bc73bdf41f7b12",
+      "segments_read": [
+        [
+          1,
+          48
+        ]
+      ],
+      "time_seconds": [
+        10335,
+        10505
+      ],
+      "interpretation": "Fresh PDF163 p0132 confirms399/499/599/699/799 standalone and266/333/399/466/532 per-month comparisons to199 membership. Targeted ASR still contains decimals and600 rather than599. The unexplained standalone-to-month conversion and ratio/times-more wording remain source ambiguities, not resolved facts. Do not invent a six-week denominator or treat take rates as predictions. Retain only the qualitative relative-price choice lesson unless explaining the conflict. Audio33–266% conflicts with literal ratio arithmetic.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-model-menu-01/run.json",
+      "transcript_sha256": "fa87f39cd8e9c39144db1f8fd0d7547dcc7c190f84590a80e17ba4ceecc8cdaa",
+      "segments_read": [
+        [
+          1,
+          9
+        ]
+      ],
+      "time_seconds": [
+        12020,
+        12070
+      ],
+      "interpretation": "Targeted ASR and freshly viewed PDF163 p0151 agree500/week releases and300+200+500+100 versus800 bundle. No decimal fix is justified. Different bundle/menu prices can coexist; no cost or discount reconciliation is invented.800×52=41600, not exact42000.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    },
+    {
+      "receipt": "audio-review/audiobook-model-newsletter-01/run.json",
+      "transcript_sha256": "8d4cc85390aa565cec6ca8c8025c89432473e20764adcf2d60e6169a45338cd3",
+      "segments_read": [
+        [
+          1,
+          10
+        ]
+      ],
+      "time_seconds": [
+        12090,
+        12135
+      ],
+      "interpretation": "Targeted ASR repeats3.99/2.97. Fresh PDF163 p0151–0152 shows399 after30days and297 now for life. Use the book's numbers with its source; audio decimals remain unverified. This example combines offer types rather than requiring a separate business.",
+      "quality_note": "All targeted segments actually read. Receipt has no quality flags and verifies unchanged original. Same local model and changed segment window, not independent human transcription; no claim of word-level auditory authentication."
+    }
+  ]
+}

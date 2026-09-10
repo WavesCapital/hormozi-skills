@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3520",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Content makes everything work better,"
+    },
+    {
+      "endMs": "4800",
+      "startMs": "2040",
+      "startTimeText": "0:02",
+      "text": "because as soon as someone gets the cold"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "email or gets the cold call, they then"
+    },
+    {
+      "endMs": "8560",
+      "startMs": "4800",
+      "startTimeText": "0:04",
+      "text": "go to your site, check out your stuff,"
+    },
+    {
+      "endMs": "9760",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "and then they decide to buy. Don't think"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "8560",
+      "startTimeText": "0:08",
+      "text": "that if it didn't come necessarily from"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "9760",
+      "startTimeText": "0:09",
+      "text": "organic that you stop organic. You still"
+    },
+    {
+      "endMs": "16280",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "do it even though the direct sales might"
+    },
+    {
+      "endMs": "17360",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "be attributed first touch from outbound."
+    },
+    {
+      "endMs": "18640",
+      "startMs": "16280",
+      "startTimeText": "0:16",
+      "text": "The best companies that we get a lot of"
+    },
+    {
+      "endMs": "20040",
+      "startMs": "17360",
+      "startTimeText": "0:17",
+      "text": "times we go out and get them, but then"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "they see our stuff and they're like,"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "20040",
+      "startTimeText": "0:20",
+      "text": "\"Oh, they're legit.\" or whatever."
+    }
+  ],
+  "transcript_only_text": " Content  makes  everything  work  better, \n because  as  soon  as  someone  gets  the  cold \n email  or  gets  the  cold  call,  they  then \n go  to  your  site,  check  out  your  stuff, \n and  then  they  decide  to  buy.  Don't  think \n that  if  it  didn't  come  necessarily  from \n organic  that  you  stop  organic.  You  still \n do  it  even  though  the  direct  sales  might \n be  attributed  first  touch  from  outbound. \n The  best  companies  that  we  get  a  lot  of \n times  we  go  out  and  get  them,  but  then \n they  see  our  stuff  and  they're  like, \n \"Oh,  they're  legit.\"  or  whatever.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GPAIcETSdOk",
+  "videoId": "GPAIcETSdOk"
+}

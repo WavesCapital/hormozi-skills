@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3200",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "In gymnastics, as soon as you fall off"
+    },
+    {
+      "endMs": "4560",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "the pommel of horse, even if you twist"
+    },
+    {
+      "endMs": "5839",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "or break your ankle, they try and get"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "you right back on the horse again. And"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "5839",
+      "startTimeText": "0:05",
+      "text": "they do that because if you don't and"
+    },
+    {
+      "endMs": "9760",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "you take enough time off, you start"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "developing these fears around getting"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "9760",
+      "startTimeText": "0:09",
+      "text": "back on. You never get on again. It's"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": "not about how hard you can hit, but it's"
+    },
+    {
+      "endMs": "15599",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": "about how hard you can get hit and keep"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "going forward. Everybody gets hit."
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15599",
+      "startTimeText": "0:15",
+      "text": "Everyone loses."
+    }
+  ],
+  "transcript_only_text": " In  gymnastics,  as  soon  as  you  fall  off \n the  pommel  of  horse,  even  if  you  twist \n or  break  your  ankle,  they  try  and  get \n you  right  back  on  the  horse  again.  And \n they  do  that  because  if  you  don't  and \n you  take  enough  time  off,  you  start \n developing  these  fears  around  getting \n back  on.  You  never  get  on  again.  It's \n not  about  how  hard  you  can  hit,  but  it's \n about  how  hard  you  can  get  hit  and  keep \n going  forward.  Everybody  gets  hit. \n Everyone  loses.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=08b74VO2TsI",
+  "videoId": "08b74VO2TsI"
+}

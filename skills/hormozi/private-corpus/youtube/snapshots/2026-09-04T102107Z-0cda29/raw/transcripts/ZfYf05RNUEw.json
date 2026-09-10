@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When I was in high school, I read thisbook called How to Make Friends and"
+    },
+    {
+      "endMs": "6280",
+      "startMs": "2200",
+      "startTimeText": "0:02",
+      "text": "Influence People. And I think the secondchapter or something is called people by"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "their name is their favorite word in thewhole language. There was a guy who"
+    },
+    {
+      "endMs": "14280",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "stopped his car, got out, and was like,\"Dude!\" I had seen him 9 months earlier"
+    },
+    {
+      "endMs": "17120",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "in the casino. And I was like, \"Ollie!\"And he was like, \"No way!\" And I was"
+    },
+    {
+      "endMs": "20360",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "like,\"Solar Sails!\" And he was like, \"Yes!\""
+    },
+    {
+      "endMs": "22960",
+      "startMs": "19080",
+      "startTimeText": "0:19",
+      "text": "Everybody around was like, \"Holythat was insane.\" He thought it was"
+    },
+    {
+      "endMs": "25160",
+      "startMs": "21600",
+      "startTimeText": "0:21",
+      "text": "insane, too. Like when people die,they're like, \"I just want to be"
+    },
+    {
+      "endMs": "27720",
+      "startMs": "23800",
+      "startTimeText": "0:23",
+      "text": "remembered.\" So, just do it whilethey're alive."
+    }
+  ],
+  "transcript_only_text": " When I was in high school, I read this\nbook called How to Make Friends and Influence People. And I think the second\nchapter or something is called people by their name is their favorite word in the\nwhole language. There was a guy who stopped his car, got out, and was like,\n\"Dude!\" I had seen him 9 months earlier in the casino. And I was like, \"Ollie!\"\nAnd he was like, \"No way!\" And I was like,\n\"Solar Sails!\" And he was like, \"Yes!\" Everybody around was like, \"Holy\nthat was insane.\" He thought it was insane, too. Like when people die,\nthey're like, \"I just want to be remembered.\" So, just do it while\nthey're alive.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZfYf05RNUEw",
+  "videoId": "ZfYf05RNUEw"
+}

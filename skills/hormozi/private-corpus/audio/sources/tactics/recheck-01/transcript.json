@@ -1,0 +1,1763 @@
+{
+  "text": " This tactic is about as close as it gets. I once ran all my emails and web pages through this process and got a permanent 50% boost. So here's how it works. Run every script you write, every webinar, every email through a reading level calculator. It'll tell you the grade. Then keep correcting it until it's below third grade. I use Hemingway app. You can use whatever one you want. It's free and I have no affiliation. What does below third grade actually mean? It really just means simpler words, shorter sentences, fewer adverbs, no passive language, no excess words. If you want to take this to the next level, actually write inside of Hemingway. This gives you real-time feedback and makes you a better writer that much faster. It was one of the things that absolutely transformed my writing. I really can't emphasize this enough. I strongly recommend writing inside of the app because it will give you such good real-time feedback. I'm repeating this on purpose because I think it's such a big deal. To be clear, simplifying language doesn't mean you attract dumb people. It means you make it easier for higher level people.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.94,
+      "text": " This tactic is about as close as it gets.",
+      "tokens": [
+        50365,
+        639,
+        31012,
+        307,
+        466,
+        382,
+        1998,
+        382,
+        309,
+        2170,
+        13,
+        50463
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " This",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.6640625
+        },
+        {
+          "word": " tactic",
+          "start": 0.12,
+          "end": 0.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " is",
+          "start": 0.52,
+          "end": 0.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " about",
+          "start": 0.78,
+          "end": 0.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " as",
+          "start": 0.96,
+          "end": 1.12,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " close",
+          "start": 1.12,
+          "end": 1.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " as",
+          "start": 1.42,
+          "end": 1.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " it",
+          "start": 1.6,
+          "end": 1.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " gets.",
+          "start": 1.72,
+          "end": 1.94,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.2,
+      "end": 8.06,
+      "text": " I once ran all my emails and web pages through this process and got a permanent 50% boost.",
+      "tokens": [
+        50495,
+        286,
+        1564,
+        5872,
+        439,
+        452,
+        12524,
+        293,
+        3670,
+        7183,
+        807,
+        341,
+        1399,
+        293,
+        658,
+        257,
+        10996,
+        2625,
+        4,
+        9194,
+        13,
+        50769
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 2.2,
+          "end": 2.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " once",
+          "start": 2.68,
+          "end": 3.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " ran",
+          "start": 3.06,
+          "end": 3.42,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " all",
+          "start": 3.42,
+          "end": 3.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " my",
+          "start": 3.8,
+          "end": 4.0,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " emails",
+          "start": 4.0,
+          "end": 4.34,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " and",
+          "start": 4.34,
+          "end": 4.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " web",
+          "start": 4.62,
+          "end": 4.82,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " pages",
+          "start": 4.82,
+          "end": 5.1,
+          "probability": 0.68212890625
+        },
+        {
+          "word": " through",
+          "start": 5.1,
+          "end": 5.34,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " this",
+          "start": 5.34,
+          "end": 5.5,
+          "probability": 1.0
+        },
+        {
+          "word": " process",
+          "start": 5.5,
+          "end": 5.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 5.92,
+          "end": 6.12,
+          "probability": 0.994140625
+        },
+        {
+          "word": " got",
+          "start": 6.12,
+          "end": 6.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 6.22,
+          "end": 6.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " permanent",
+          "start": 6.36,
+          "end": 6.9,
+          "probability": 1.0
+        },
+        {
+          "word": " 50",
+          "start": 6.9,
+          "end": 7.5,
+          "probability": 0.9970703125
+        },
+        {
+          "word": "%",
+          "start": 7.5,
+          "end": 7.72,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " boost.",
+          "start": 7.72,
+          "end": 8.06,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.46,
+      "end": 9.82,
+      "text": " So here's how it works.",
+      "tokens": [
+        50795,
+        407,
+        510,
+        311,
+        577,
+        309,
+        1985,
+        13,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 8.46,
+          "end": 8.88,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " here's",
+          "start": 8.88,
+          "end": 9.34,
+          "probability": 0.9130859375
+        },
+        {
+          "word": " how",
+          "start": 9.34,
+          "end": 9.46,
+          "probability": 1.0
+        },
+        {
+          "word": " it",
+          "start": 9.46,
+          "end": 9.56,
+          "probability": 1.0
+        },
+        {
+          "word": " works.",
+          "start": 9.56,
+          "end": 9.82,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.22,
+      "end": 15.38,
+      "text": " Run every script you write, every webinar, every email through a reading level calculator.",
+      "tokens": [
+        50893,
+        8950,
+        633,
+        5755,
+        291,
+        2464,
+        11,
+        633,
+        10942,
+        11,
+        633,
+        3796,
+        807,
+        257,
+        3760,
+        1496,
+        24993,
+        13,
+        51134
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " Run",
+          "start": 10.22,
+          "end": 10.74,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " every",
+          "start": 10.74,
+          "end": 11.08,
+          "probability": 1.0
+        },
+        {
+          "word": " script",
+          "start": 11.08,
+          "end": 11.38,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 11.38,
+          "end": 11.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " write,",
+          "start": 11.54,
+          "end": 11.78,
+          "probability": 1.0
+        },
+        {
+          "word": " every",
+          "start": 12.04,
+          "end": 12.38,
+          "probability": 1.0
+        },
+        {
+          "word": " webinar,",
+          "start": 12.38,
+          "end": 12.76,
+          "probability": 1.0
+        },
+        {
+          "word": " every",
+          "start": 13.06,
+          "end": 13.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " email",
+          "start": 13.26,
+          "end": 13.64,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " through",
+          "start": 13.64,
+          "end": 14.14,
+          "probability": 0.78466796875
+        },
+        {
+          "word": " a",
+          "start": 14.14,
+          "end": 14.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " reading",
+          "start": 14.3,
+          "end": 14.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " level",
+          "start": 14.58,
+          "end": 14.84,
+          "probability": 0.90966796875
+        },
+        {
+          "word": " calculator.",
+          "start": 14.84,
+          "end": 15.38,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.72,
+      "end": 16.88,
+      "text": " It'll tell you the grade.",
+      "tokens": [
+        51158,
+        467,
+        603,
+        980,
+        291,
+        264,
+        7204,
+        13,
+        51208
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " It'll",
+          "start": 15.72,
+          "end": 16.08,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " tell",
+          "start": 16.08,
+          "end": 16.24,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 16.24,
+          "end": 16.38,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 16.38,
+          "end": 16.5,
+          "probability": 1.0
+        },
+        {
+          "word": " grade.",
+          "start": 16.5,
+          "end": 16.88,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 17.18,
+      "end": 20.3,
+      "text": " Then keep correcting it until it's below third grade.",
+      "tokens": [
+        51230,
+        1396,
+        1066,
+        47032,
+        309,
+        1826,
+        309,
+        311,
+        2507,
+        2636,
+        7204,
+        13,
+        51382
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " Then",
+          "start": 17.18,
+          "end": 17.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " keep",
+          "start": 17.7,
+          "end": 18.12,
+          "probability": 0.97900390625
+        },
+        {
+          "word": " correcting",
+          "start": 18.12,
+          "end": 18.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " it",
+          "start": 18.58,
+          "end": 18.82,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " until",
+          "start": 18.82,
+          "end": 19.08,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " it's",
+          "start": 19.08,
+          "end": 19.3,
+          "probability": 1.0
+        },
+        {
+          "word": " below",
+          "start": 19.3,
+          "end": 19.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " third",
+          "start": 19.6,
+          "end": 20.02,
+          "probability": 0.97216796875
+        },
+        {
+          "word": " grade.",
+          "start": 20.02,
+          "end": 20.3,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.52,
+      "end": 21.86,
+      "text": " I use Hemingway app.",
+      "tokens": [
+        51399,
+        286,
+        764,
+        18568,
+        278,
+        676,
+        724,
+        13,
+        51459
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 20.52,
+          "end": 20.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " use",
+          "start": 20.88,
+          "end": 21.14,
+          "probability": 1.0
+        },
+        {
+          "word": " Hemingway",
+          "start": 21.14,
+          "end": 21.58,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " app.",
+          "start": 21.58,
+          "end": 21.86,
+          "probability": 0.96728515625
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.02,
+      "end": 23.18,
+      "text": " You can use whatever one you want.",
+      "tokens": [
+        51466,
+        509,
+        393,
+        764,
+        2035,
+        472,
+        291,
+        528,
+        13,
+        51526
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " You",
+          "start": 22.02,
+          "end": 22.12,
+          "probability": 1.0
+        },
+        {
+          "word": " can",
+          "start": 22.12,
+          "end": 22.28,
+          "probability": 1.0
+        },
+        {
+          "word": " use",
+          "start": 22.28,
+          "end": 22.44,
+          "probability": 1.0
+        },
+        {
+          "word": " whatever",
+          "start": 22.44,
+          "end": 22.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " one",
+          "start": 22.68,
+          "end": 22.86,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 22.86,
+          "end": 22.96,
+          "probability": 1.0
+        },
+        {
+          "word": " want.",
+          "start": 22.96,
+          "end": 23.18,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.44,
+      "end": 25.36,
+      "text": " It's free and I have no affiliation.",
+      "tokens": [
+        51549,
+        467,
+        311,
+        1737,
+        293,
+        286,
+        362,
+        572,
+        14863,
+        399,
+        13,
+        51633
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 23.44,
+          "end": 23.96,
+          "probability": 1.0
+        },
+        {
+          "word": " free",
+          "start": 23.96,
+          "end": 24.24,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 24.24,
+          "end": 24.44,
+          "probability": 0.93115234375
+        },
+        {
+          "word": " I",
+          "start": 24.44,
+          "end": 24.54,
+          "probability": 1.0
+        },
+        {
+          "word": " have",
+          "start": 24.54,
+          "end": 24.64,
+          "probability": 1.0
+        },
+        {
+          "word": " no",
+          "start": 24.64,
+          "end": 24.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " affiliation.",
+          "start": 24.76,
+          "end": 25.36,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 25.92,
+      "end": 28.18,
+      "text": " What does below third grade actually mean?",
+      "tokens": [
+        51656,
+        708,
+        775,
+        2507,
+        2636,
+        7204,
+        767,
+        914,
+        30,
+        51776
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19152701370359407,
+      "compression_ratio": 1.6076388888888888,
+      "no_speech_prob": 1.839756645638513e-12,
+      "words": [
+        {
+          "word": " What",
+          "start": 25.92,
+          "end": 26.34,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " does",
+          "start": 26.34,
+          "end": 26.48,
+          "probability": 0.974609375
+        },
+        {
+          "word": " below",
+          "start": 26.48,
+          "end": 26.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " third",
+          "start": 26.9,
+          "end": 27.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " grade",
+          "start": 27.18,
+          "end": 27.46,
+          "probability": 1.0
+        },
+        {
+          "word": " actually",
+          "start": 27.46,
+          "end": 27.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " mean?",
+          "start": 27.92,
+          "end": 28.18,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2818,
+      "start": 28.759999999999998,
+      "end": 34.24,
+      "text": " It really just means simpler words, shorter sentences, fewer adverbs, no passive language,",
+      "tokens": [
+        50394,
+        467,
+        534,
+        445,
+        1355,
+        18587,
+        2283,
+        11,
+        11639,
+        16579,
+        11,
+        13366,
+        614,
+        43348,
+        11,
+        572,
+        14975,
+        2856,
+        11,
+        50670
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10226964083584872,
+      "compression_ratio": 1.711191335740072,
+      "no_speech_prob": 1.5074202736747866e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 28.66,
+          "end": 28.92,
+          "probability": 0.9765625
+        },
+        {
+          "word": " really",
+          "start": 28.92,
+          "end": 29.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " just",
+          "start": 29.16,
+          "end": 29.36,
+          "probability": 1.0
+        },
+        {
+          "word": " means",
+          "start": 29.36,
+          "end": 29.64,
+          "probability": 1.0
+        },
+        {
+          "word": " simpler",
+          "start": 29.64,
+          "end": 30.2,
+          "probability": 0.998046875
+        },
+        {
+          "word": " words,",
+          "start": 30.2,
+          "end": 30.64,
+          "probability": 1.0
+        },
+        {
+          "word": " shorter",
+          "start": 30.96,
+          "end": 31.2,
+          "probability": 1.0
+        },
+        {
+          "word": " sentences,",
+          "start": 31.2,
+          "end": 31.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " fewer",
+          "start": 32.18,
+          "end": 32.4,
+          "probability": 1.0
+        },
+        {
+          "word": " adverbs,",
+          "start": 32.4,
+          "end": 32.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " no",
+          "start": 33.24,
+          "end": 33.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " passive",
+          "start": 33.4,
+          "end": 33.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " language,",
+          "start": 33.8,
+          "end": 34.24,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2818,
+      "start": 34.66,
+      "end": 39.68,
+      "text": " no excess words. If you want to take this to the next level, actually write inside of Hemingway.",
+      "tokens": [
+        50686,
+        572,
+        9310,
+        2283,
+        13,
+        759,
+        291,
+        528,
+        281,
+        747,
+        341,
+        281,
+        264,
+        958,
+        1496,
+        11,
+        767,
+        2464,
+        1854,
+        295,
+        18568,
+        278,
+        676,
+        13,
+        50940
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10226964083584872,
+      "compression_ratio": 1.711191335740072,
+      "no_speech_prob": 1.5074202736747866e-12,
+      "words": [
+        {
+          "word": " no",
+          "start": 34.66,
+          "end": 34.84,
+          "probability": 1.0
+        },
+        {
+          "word": " excess",
+          "start": 34.84,
+          "end": 35.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " words.",
+          "start": 35.24,
+          "end": 35.64,
+          "probability": 1.0
+        },
+        {
+          "word": " If",
+          "start": 35.88,
+          "end": 36.4,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 36.4,
+          "end": 36.5,
+          "probability": 1.0
+        },
+        {
+          "word": " want",
+          "start": 36.5,
+          "end": 36.68,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 36.68,
+          "end": 36.8,
+          "probability": 1.0
+        },
+        {
+          "word": " take",
+          "start": 36.8,
+          "end": 36.94,
+          "probability": 1.0
+        },
+        {
+          "word": " this",
+          "start": 36.94,
+          "end": 37.1,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 37.1,
+          "end": 37.24,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 37.24,
+          "end": 37.34,
+          "probability": 1.0
+        },
+        {
+          "word": " next",
+          "start": 37.34,
+          "end": 37.5,
+          "probability": 1.0
+        },
+        {
+          "word": " level,",
+          "start": 37.5,
+          "end": 37.76,
+          "probability": 1.0
+        },
+        {
+          "word": " actually",
+          "start": 38.14,
+          "end": 38.5,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " write",
+          "start": 38.5,
+          "end": 38.84,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " inside",
+          "start": 38.84,
+          "end": 39.1,
+          "probability": 0.994140625
+        },
+        {
+          "word": " of",
+          "start": 39.1,
+          "end": 39.3,
+          "probability": 1.0
+        },
+        {
+          "word": " Hemingway.",
+          "start": 39.3,
+          "end": 39.68,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2818,
+      "start": 39.92,
+      "end": 44.54,
+      "text": " This gives you real-time feedback and makes you a better writer that much faster. It was one of",
+      "tokens": [
+        50956,
+        639,
+        2709,
+        291,
+        957,
+        12,
+        3766,
+        5824,
+        293,
+        1669,
+        291,
+        257,
+        1101,
+        9936,
+        300,
+        709,
+        4663,
+        13,
+        467,
+        390,
+        472,
+        295,
+        51184
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10226964083584872,
+      "compression_ratio": 1.711191335740072,
+      "no_speech_prob": 1.5074202736747866e-12,
+      "words": [
+        {
+          "word": " This",
+          "start": 39.92,
+          "end": 40.42,
+          "probability": 1.0
+        },
+        {
+          "word": " gives",
+          "start": 40.42,
+          "end": 40.64,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 40.64,
+          "end": 40.78,
+          "probability": 1.0
+        },
+        {
+          "word": " real",
+          "start": 40.78,
+          "end": 41.14,
+          "probability": 1.0
+        },
+        {
+          "word": "-time",
+          "start": 41.14,
+          "end": 41.34,
+          "probability": 0.96240234375
+        },
+        {
+          "word": " feedback",
+          "start": 41.34,
+          "end": 41.72,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 41.72,
+          "end": 42.0,
+          "probability": 0.90771484375
+        },
+        {
+          "word": " makes",
+          "start": 42.0,
+          "end": 42.16,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 42.16,
+          "end": 42.28,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 42.28,
+          "end": 42.4,
+          "probability": 1.0
+        },
+        {
+          "word": " better",
+          "start": 42.4,
+          "end": 42.58,
+          "probability": 1.0
+        },
+        {
+          "word": " writer",
+          "start": 42.58,
+          "end": 42.86,
+          "probability": 1.0
+        },
+        {
+          "word": " that",
+          "start": 42.86,
+          "end": 43.12,
+          "probability": 1.0
+        },
+        {
+          "word": " much",
+          "start": 43.12,
+          "end": 43.34,
+          "probability": 1.0
+        },
+        {
+          "word": " faster.",
+          "start": 43.34,
+          "end": 43.7,
+          "probability": 1.0
+        },
+        {
+          "word": " It",
+          "start": 43.86,
+          "end": 44.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " was",
+          "start": 44.14,
+          "end": 44.26,
+          "probability": 1.0
+        },
+        {
+          "word": " one",
+          "start": 44.26,
+          "end": 44.46,
+          "probability": 1.0
+        },
+        {
+          "word": " of",
+          "start": 44.46,
+          "end": 44.54,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2818,
+      "start": 44.54,
+      "end": 50.26,
+      "text": " the things that absolutely transformed my writing. I really can't emphasize this enough. I strongly",
+      "tokens": [
+        51184,
+        264,
+        721,
+        300,
+        3122,
+        16894,
+        452,
+        3579,
+        13,
+        286,
+        534,
+        393,
+        380,
+        16078,
+        341,
+        1547,
+        13,
+        286,
+        10613,
+        51470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10226964083584872,
+      "compression_ratio": 1.711191335740072,
+      "no_speech_prob": 1.5074202736747866e-12,
+      "words": [
+        {
+          "word": " the",
+          "start": 44.54,
+          "end": 44.66,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " things",
+          "start": 44.66,
+          "end": 44.86,
+          "probability": 1.0
+        },
+        {
+          "word": " that",
+          "start": 44.86,
+          "end": 45.06,
+          "probability": 1.0
+        },
+        {
+          "word": " absolutely",
+          "start": 45.06,
+          "end": 45.98,
+          "probability": 1.0
+        },
+        {
+          "word": " transformed",
+          "start": 45.98,
+          "end": 46.72,
+          "probability": 1.0
+        },
+        {
+          "word": " my",
+          "start": 46.72,
+          "end": 47.0,
+          "probability": 1.0
+        },
+        {
+          "word": " writing.",
+          "start": 47.0,
+          "end": 47.26,
+          "probability": 1.0
+        },
+        {
+          "word": " I",
+          "start": 47.26,
+          "end": 47.62,
+          "probability": 1.0
+        },
+        {
+          "word": " really",
+          "start": 47.62,
+          "end": 48.0,
+          "probability": 1.0
+        },
+        {
+          "word": " can't",
+          "start": 48.0,
+          "end": 48.28,
+          "probability": 1.0
+        },
+        {
+          "word": " emphasize",
+          "start": 48.28,
+          "end": 48.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " this",
+          "start": 48.58,
+          "end": 48.88,
+          "probability": 1.0
+        },
+        {
+          "word": " enough.",
+          "start": 48.88,
+          "end": 49.14,
+          "probability": 1.0
+        },
+        {
+          "word": " I",
+          "start": 49.28,
+          "end": 49.62,
+          "probability": 1.0
+        },
+        {
+          "word": " strongly",
+          "start": 49.62,
+          "end": 50.26,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2818,
+      "start": 50.26,
+      "end": 55.3,
+      "text": " recommend writing inside of the app because it will give you such good real-time feedback.",
+      "tokens": [
+        51470,
+        2748,
+        3579,
+        1854,
+        295,
+        264,
+        724,
+        570,
+        309,
+        486,
+        976,
+        291,
+        1270,
+        665,
+        957,
+        12,
+        3766,
+        5824,
+        13,
+        51721
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10226964083584872,
+      "compression_ratio": 1.711191335740072,
+      "no_speech_prob": 1.5074202736747866e-12,
+      "words": [
+        {
+          "word": " recommend",
+          "start": 50.26,
+          "end": 50.78,
+          "probability": 1.0
+        },
+        {
+          "word": " writing",
+          "start": 50.78,
+          "end": 51.16,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " inside",
+          "start": 51.16,
+          "end": 51.46,
+          "probability": 1.0
+        },
+        {
+          "word": " of",
+          "start": 51.46,
+          "end": 51.6,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 51.6,
+          "end": 51.72,
+          "probability": 1.0
+        },
+        {
+          "word": " app",
+          "start": 51.72,
+          "end": 51.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " because",
+          "start": 51.96,
+          "end": 52.28,
+          "probability": 0.96875
+        },
+        {
+          "word": " it",
+          "start": 52.28,
+          "end": 52.46,
+          "probability": 1.0
+        },
+        {
+          "word": " will",
+          "start": 52.46,
+          "end": 52.6,
+          "probability": 1.0
+        },
+        {
+          "word": " give",
+          "start": 52.6,
+          "end": 52.82,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 52.82,
+          "end": 53.0,
+          "probability": 1.0
+        },
+        {
+          "word": " such",
+          "start": 53.0,
+          "end": 53.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " good",
+          "start": 53.44,
+          "end": 54.16,
+          "probability": 1.0
+        },
+        {
+          "word": " real",
+          "start": 54.16,
+          "end": 54.74,
+          "probability": 0.97021484375
+        },
+        {
+          "word": "-time",
+          "start": 54.74,
+          "end": 54.96,
+          "probability": 1.0
+        },
+        {
+          "word": " feedback.",
+          "start": 54.96,
+          "end": 55.3,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5530,
+      "start": 55.3,
+      "end": 58.28,
+      "text": " I'm repeating this on purpose because I think it's such a big deal.",
+      "tokens": [
+        50365,
+        286,
+        478,
+        18617,
+        341,
+        322,
+        4334,
+        570,
+        286,
+        519,
+        309,
+        311,
+        1270,
+        257,
+        955,
+        2028,
+        13,
+        50516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15194608727279973,
+      "compression_ratio": 1.3617021276595744,
+      "no_speech_prob": 8.554902120906649e-13,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 55.3,
+          "end": 56.12,
+          "probability": 0.97802734375
+        },
+        {
+          "word": " repeating",
+          "start": 56.12,
+          "end": 56.42,
+          "probability": 1.0
+        },
+        {
+          "word": " this",
+          "start": 56.42,
+          "end": 56.64,
+          "probability": 1.0
+        },
+        {
+          "word": " on",
+          "start": 56.64,
+          "end": 56.78,
+          "probability": 1.0
+        },
+        {
+          "word": " purpose",
+          "start": 56.78,
+          "end": 57.04,
+          "probability": 1.0
+        },
+        {
+          "word": " because",
+          "start": 57.04,
+          "end": 57.28,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " I",
+          "start": 57.28,
+          "end": 57.44,
+          "probability": 1.0
+        },
+        {
+          "word": " think",
+          "start": 57.44,
+          "end": 57.56,
+          "probability": 1.0
+        },
+        {
+          "word": " it's",
+          "start": 57.56,
+          "end": 57.72,
+          "probability": 1.0
+        },
+        {
+          "word": " such",
+          "start": 57.72,
+          "end": 57.86,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 57.86,
+          "end": 57.94,
+          "probability": 1.0
+        },
+        {
+          "word": " big",
+          "start": 57.94,
+          "end": 58.08,
+          "probability": 1.0
+        },
+        {
+          "word": " deal.",
+          "start": 58.08,
+          "end": 58.28,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5530,
+      "start": 58.940000000000005,
+      "end": 62.88,
+      "text": " To be clear, simplifying language doesn't mean you attract dumb people.",
+      "tokens": [
+        50561,
+        1407,
+        312,
+        1850,
+        11,
+        6883,
+        5489,
+        2856,
+        1177,
+        380,
+        914,
+        291,
+        5049,
+        10316,
+        561,
+        13,
+        50745
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15194608727279973,
+      "compression_ratio": 1.3617021276595744,
+      "no_speech_prob": 8.554902120906649e-13,
+      "words": [
+        {
+          "word": " To",
+          "start": 58.940000000000005,
+          "end": 59.38,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " be",
+          "start": 59.38,
+          "end": 59.52,
+          "probability": 1.0
+        },
+        {
+          "word": " clear,",
+          "start": 59.52,
+          "end": 59.8,
+          "probability": 1.0
+        },
+        {
+          "word": " simplifying",
+          "start": 60.32,
+          "end": 60.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " language",
+          "start": 60.94,
+          "end": 61.24,
+          "probability": 1.0
+        },
+        {
+          "word": " doesn't",
+          "start": 61.24,
+          "end": 61.68,
+          "probability": 1.0
+        },
+        {
+          "word": " mean",
+          "start": 61.68,
+          "end": 61.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " you",
+          "start": 61.8,
+          "end": 61.94,
+          "probability": 1.0
+        },
+        {
+          "word": " attract",
+          "start": 61.94,
+          "end": 62.26,
+          "probability": 1.0
+        },
+        {
+          "word": " dumb",
+          "start": 62.26,
+          "end": 62.52,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " people.",
+          "start": 62.52,
+          "end": 62.88,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5530,
+      "start": 63.0,
+      "end": 64.98,
+      "text": " It means you make it easier for higher level people.",
+      "tokens": [
+        50755,
+        467,
+        1355,
+        291,
+        652,
+        309,
+        3571,
+        337,
+        2946,
+        1496,
+        561,
+        13,
+        50850
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15194608727279973,
+      "compression_ratio": 1.3617021276595744,
+      "no_speech_prob": 8.554902120906649e-13,
+      "words": [
+        {
+          "word": " It",
+          "start": 63.0,
+          "end": 63.2,
+          "probability": 1.0
+        },
+        {
+          "word": " means",
+          "start": 63.2,
+          "end": 63.36,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 63.36,
+          "end": 63.46,
+          "probability": 1.0
+        },
+        {
+          "word": " make",
+          "start": 63.46,
+          "end": 63.62,
+          "probability": 1.0
+        },
+        {
+          "word": " it",
+          "start": 63.62,
+          "end": 63.72,
+          "probability": 1.0
+        },
+        {
+          "word": " easier",
+          "start": 63.72,
+          "end": 64.06,
+          "probability": 1.0
+        },
+        {
+          "word": " for",
+          "start": 64.06,
+          "end": 64.26,
+          "probability": 1.0
+        },
+        {
+          "word": " higher",
+          "start": 64.26,
+          "end": 64.52,
+          "probability": 0.99609375
+        },
+        {
+          "word": " level",
+          "start": 64.52,
+          "end": 64.74,
+          "probability": 0.7822265625
+        },
+        {
+          "word": " people.",
+          "start": 64.74,
+          "end": 64.98,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

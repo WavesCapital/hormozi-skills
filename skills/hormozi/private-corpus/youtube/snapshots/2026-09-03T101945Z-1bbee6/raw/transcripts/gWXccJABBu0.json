@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is actually like super important."
+    },
+    {
+      "endMs": "4760",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "Prioritization is not about elimination"
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "of problems. It's about saying which"
+    },
+    {
+      "endMs": "7880",
+      "startMs": "4760",
+      "startTimeText": "0:04",
+      "text": "problems are okay to remain problems"
+    },
+    {
+      "endMs": "9960",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "while another problem is more [music]"
+    },
+    {
+      "endMs": "11480",
+      "startMs": "7880",
+      "startTimeText": "0:07",
+      "text": "important to solve. Which also means"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "9960",
+      "startTimeText": "0:09",
+      "text": "that you're going to endure pain at all"
+    },
+    {
+      "endMs": "15160",
+      "startMs": "11480",
+      "startTimeText": "0:11",
+      "text": "times. To use a cruder way of saying it,"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "like some [ __ ] will stay [ __ ] It's"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "15160",
+      "startTimeText": "0:15",
+      "text": "just not the most [ __ ] thing."
+    }
+  ],
+  "transcript_only_text": " This  is  actually  like  super  important. \n Prioritization  is  not  about  elimination \n of  problems.  It's  about  saying  which \n problems  are  okay  to  remain  problems \n while  another  problem  is  more  [music] \n important  to  solve.  Which  also  means \n that  you're  going  to  endure  pain  at  all \n times.  To  use  a  cruder  way  of  saying  it, \n like  some  [ __ ]  will  stay  [ __ ]  It's \n just  not  the  most  [ __ ]  thing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=gWXccJABBu0",
+  "videoId": "gWXccJABBu0"
+}

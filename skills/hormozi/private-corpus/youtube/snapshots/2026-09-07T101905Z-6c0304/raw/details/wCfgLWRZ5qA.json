@@ -1,0 +1,291 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 12,
+  "commentCountText": "12",
+  "credits_charged": 1,
+  "description": "I didn’t know when I would become successful. But I knew I wouldn’t stop. That, I could commit to. That, I could control.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:00:26",
+  "durationMs": 26000,
+  "genre": "Education",
+  "id": "wCfgLWRZ5qA",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1571,
+  "likeCountText": "1571",
+  "most_replayed": null,
+  "publishDate": "2026-07-10T08:01:56-07:00",
+  "publishDateText": "Jul 10, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/wCfgLWRZ5qA/maxresdefault.jpg",
+  "title": "Hard Times Don't Build You, They Reveal You",
+  "type": "video",
+  "viewCountInt": 42294,
+  "viewCountText": "42,294",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "rajshamaniclips",
+        "id": "UCshPyRiu9XTQb2gEagNt-3A",
+        "title": "Raj Shamani Clips",
+        "url": "https://www.youtube.com/@rajshamaniclips"
+      },
+      "id": "cZucCILPEao",
+      "lengthInSeconds": 772,
+      "lengthText": "12:52",
+      "publishDate": "2026-09-01T16:49:04.228Z",
+      "publishDateText": "18 hours ago",
+      "publishedTime": "2026-09-01T16:49:04.228Z",
+      "publishedTimeText": "18 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/cZucCILPEao/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBdJLOeUjTZg6VKi0DCC8d65YSokg",
+      "title": "Why Comfort Is Making You Weaker | Andrew Huberman | Raj Shamani Clips",
+      "videoUrl": "https://www.youtube.com/watch?v=cZucCILPEao",
+      "viewCountInt": 7700,
+      "viewCountText": "7.7K views"
+    },
+    {
+      "channel": {
+        "handle": "KeyAndPeele",
+        "id": "UCdN4aXTrHAtfgbVG9HjBmxQ",
+        "title": "Key & Peele",
+        "url": "https://www.youtube.com/@KeyAndPeele"
+      },
+      "id": "OjFUJEoq8k0",
+      "lengthInSeconds": 223,
+      "lengthText": "3:43",
+      "publishDate": "2020-09-02T10:49:04.228Z",
+      "publishDateText": "6 years ago",
+      "publishedTime": "2020-09-02T10:49:04.228Z",
+      "publishedTimeText": "6 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/OjFUJEoq8k0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAWJ5T9hAuumX6g-HSMNVy2fqVaJQ",
+      "title": "Trying Not to Laugh When Your Friend Is Crying - Key & Peele",
+      "videoUrl": "https://www.youtube.com/watch?v=OjFUJEoq8k0",
+      "viewCountInt": 16000000,
+      "viewCountText": "16M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-02T10:49:04.228Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:49:04.228Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "FoundMyFitnessClips",
+        "id": "UC5fdyC4LxyyYv8Am6nDrkmg",
+        "title": "FoundMyFitness Clips",
+        "url": "https://www.youtube.com/@FoundMyFitnessClips"
+      },
+      "id": "1vfWaOv03l0",
+      "lengthInSeconds": 351,
+      "lengthText": "5:51",
+      "publishDate": "2026-07-02T10:49:04.228Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-02T10:49:04.228Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/1vfWaOv03l0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDzRVAfv2wRPOoV23dHAaiihxFxBQ",
+      "title": "This Creatine Dose Makes You Feel Like You Slept 8 Hours",
+      "videoUrl": "https://www.youtube.com/watch?v=1vfWaOv03l0",
+      "viewCountInt": 234000,
+      "viewCountText": "234K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:49:04.228Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-29T10:49:04.228Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 658000,
+      "viewCountText": "658K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-02T10:49:04.228Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:49:04.228Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "coachdango",
+        "id": "UCEzSFZRs8zJb5x5depOtUHA",
+        "title": "Dan Go",
+        "url": "https://www.youtube.com/@coachdango"
+      },
+      "id": "utEnwV1WFlw",
+      "lengthInSeconds": 1271,
+      "lengthText": "21:11",
+      "publishDate": "2025-10-02T10:49:04.228Z",
+      "publishDateText": "11 months ago",
+      "publishedTime": "2025-10-02T10:49:04.228Z",
+      "publishedTimeText": "11 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/utEnwV1WFlw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD1DWONT-CetaxzAEkMzGazodMXqw",
+      "title": "I'm 45. If you're in your 30s watch this:",
+      "videoUrl": "https://www.youtube.com/watch?v=utEnwV1WFlw",
+      "viewCountInt": 3100000,
+      "viewCountText": "3.1M views"
+    },
+    {
+      "channel": {
+        "handle": "michael-kozin",
+        "id": "UCLmUKAx4y-01cjAt86BYNew",
+        "title": "Michael Kozin",
+        "url": "https://www.youtube.com/@michael-kozin"
+      },
+      "id": "BJzEfF4Ab7k",
+      "lengthInSeconds": 759,
+      "lengthText": "12:39",
+      "publishDate": "2025-09-02T10:49:04.228Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:49:04.228Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/BJzEfF4Ab7k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDSPvb73eaqvOLTQtIkqkWOsoKPWQ",
+      "title": "How Historical Swordfight Really Looked Like",
+      "videoUrl": "https://www.youtube.com/watch?v=BJzEfF4Ab7k",
+      "viewCountInt": 1400000,
+      "viewCountText": "1.4M views"
+    },
+    {
+      "channel": {
+        "handle": "anthonyoneal",
+        "id": "UCaW51g-nmLfq703TPZC7Gsg",
+        "title": "The Table With AO",
+        "url": "https://www.youtube.com/@anthonyoneal"
+      },
+      "id": "h-QQq510mlo",
+      "lengthInSeconds": 2326,
+      "lengthText": "38:46",
+      "publishDate": "2026-05-02T10:49:04.228Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-05-02T10:49:04.228Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/h-QQq510mlo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDix4F21Lh3ZO_mTBZ0qyOxAYKi4A",
+      "title": "5 Years With Dave Ramsey. I'm Done Being Quiet (Someone Has To Say It!)",
+      "videoUrl": "https://www.youtube.com/watch?v=h-QQq510mlo",
+      "viewCountInt": 523000,
+      "viewCountText": "523K views"
+    },
+    {
+      "channel": {
+        "title": "Echelon Front and EchelonFrontHQ",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "juto9_cFlSs",
+      "lengthInSeconds": 790,
+      "lengthText": "13:10",
+      "publishDate": "2025-11-02T10:49:04.228Z",
+      "publishDateText": "10 months ago",
+      "publishedTime": "2025-11-02T10:49:04.228Z",
+      "publishedTimeText": "10 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/juto9_cFlSs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCBggk5_64TS9q8PYMUz1O7PIfPUw",
+      "title": "Jocko’s Brutal Lesson on Mental Toughness Leaves Everyone Speechless",
+      "videoUrl": "https://www.youtube.com/watch?v=juto9_cFlSs",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "TristanSpohnAKASpiderman",
+        "id": "UCiyPxBxD8fkxoG3tHD7496g",
+        "title": "Tristan Spohn",
+        "url": "https://www.youtube.com/@TristanSpohnAKASpiderman"
+      },
+      "id": "NxchMmDb-Jo",
+      "lengthInSeconds": 1139,
+      "lengthText": "18:59",
+      "publishDate": "2026-08-12T10:49:04.228Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-12T10:49:04.228Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/NxchMmDb-Jo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBQg-VCbdtchJ9i8RZaIwfDKC5_Sw",
+      "title": "Beginner vs Oscar Level Actor (Same Scene)",
+      "videoUrl": "https://www.youtube.com/watch?v=NxchMmDb-Jo",
+      "viewCountInt": 236000,
+      "viewCountText": "236K views"
+    },
+    {
+      "channel": {
+        "handle": "ScreenPuff",
+        "id": "UC6qAABOkwaI1ImYY6oDbi-A",
+        "title": "ScreenPuff",
+        "url": "https://www.youtube.com/@ScreenPuff"
+      },
+      "id": "rLkYpK43VF4",
+      "lengthInSeconds": 1184,
+      "lengthText": "19:44",
+      "publishDate": "2026-06-02T10:49:04.228Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-06-02T10:49:04.228Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/rLkYpK43VF4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBLYMy1nEU_OJr3XwTzWsCGA2OqdA",
+      "title": "When an audition changed TV forever",
+      "videoUrl": "https://www.youtube.com/watch?v=rLkYpK43VF4",
+      "viewCountInt": 5100000,
+      "viewCountText": "5.1M views"
+    }
+  ]
+}

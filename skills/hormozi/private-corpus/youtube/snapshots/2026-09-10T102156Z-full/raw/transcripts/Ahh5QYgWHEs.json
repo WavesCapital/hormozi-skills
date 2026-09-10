@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7440",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "What's your downside? Shame.Shame is your downside. Someone wagging"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "5759",
+      "startTimeText": "0:05",
+      "text": "their finger at you, saying, \"You brokea rule that doesn't exist that I made up"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "to make you feel bad.\"[ __ ] them. [music]"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "You're going to die."
+    },
+    {
+      "endMs": "23880",
+      "startMs": "20240",
+      "startTimeText": "0:20",
+      "text": "And so are they."
+    },
+    {
+      "endMs": "27519",
+      "startMs": "24320",
+      "startTimeText": "0:24",
+      "text": "So get what you want."
+    }
+  ],
+  "transcript_only_text": " What's your downside? Shame.\nShame is your downside. Someone wagging their finger at you, saying, \"You broke\na rule that doesn't exist that I made up to make you feel bad.\"\n[ __ ] them. [music] You're going to die. And so are they. So get what you want.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Ahh5QYgWHEs",
+  "videoId": "Ahh5QYgWHEs"
+}

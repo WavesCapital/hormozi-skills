@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5040",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There are better and worse markets,absolutely, for any type of service. But"
+    },
+    {
+      "endMs": "7640",
+      "startMs": "3560",
+      "startTimeText": "0:03",
+      "text": "guess how you can pay down that risk.Instead of being like, \"Oh, I think I"
+    },
+    {
+      "endMs": "11240",
+      "startMs": "6120",
+      "startTimeText": "0:06",
+      "text": "want to open up a location in, you know,La Habra.\" What I would do is I would"
+    },
+    {
+      "endMs": "14600",
+      "startMs": "9080",
+      "startTimeText": "0:09",
+      "text": "run ads. So, I'd spend like $500 or$1,000 in five or 10 markets. And I"
+    },
+    {
+      "endMs": "17160",
+      "startMs": "13240",
+      "startTimeText": "0:13",
+      "text": "would see where I got the lowest leadcost. Well, what do you do when people"
+    },
+    {
+      "endMs": "21000",
+      "startMs": "16240",
+      "startTimeText": "0:16",
+      "text": "opt in and then you don't have alocation? Do what 99% of business owners"
+    },
+    {
+      "endMs": "23840",
+      "startMs": "19440",
+      "startTimeText": "0:19",
+      "text": "do anyways. Ignore the leads. You'll beokay. They'll just keep living their"
+    },
+    {
+      "endMs": "27640",
+      "startMs": "22280",
+      "startTimeText": "0:22",
+      "text": "lives. But you get to avoid signing afive-year lease for a bad spot."
+    }
+  ],
+  "transcript_only_text": " There are better and worse markets,\nabsolutely, for any type of service. But guess how you can pay down that risk.\nInstead of being like, \"Oh, I think I want to open up a location in, you know,\nLa Habra.\" What I would do is I would run ads. So, I'd spend like $500 or\n$1,000 in five or 10 markets. And I would see where I got the lowest lead\ncost. Well, what do you do when people opt in and then you don't have a\nlocation? Do what 99% of business owners do anyways. Ignore the leads. You'll be\nokay. They'll just keep living their lives. But you get to avoid signing a\nfive-year lease for a bad spot.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=myMj_ZfZ_xI",
+  "videoId": "myMj_ZfZ_xI"
+}

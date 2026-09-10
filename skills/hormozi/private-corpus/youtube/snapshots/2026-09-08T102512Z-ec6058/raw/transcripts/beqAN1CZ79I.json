@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "To the person who is still, you know,"
+    },
+    {
+      "endMs": "6200",
+      "startMs": "1960",
+      "startTimeText": "0:01",
+      "text": "plugged in and waiting for someone to"
+    },
+    {
+      "endMs": "8520",
+      "startMs": "3720",
+      "startTimeText": "0:03",
+      "text": "save them, someone will save you, but"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "6200",
+      "startTimeText": "0:06",
+      "text": "it's you. Future you, the better you."
+    },
+    {
+      "endMs": "11920",
+      "startMs": "8520",
+      "startTimeText": "0:08",
+      "text": "The person that you've been waiting to"
+    },
+    {
+      "endMs": "11920",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "become."
+    }
+  ],
+  "transcript_only_text": " To  the  person  who  is  still,  you  know, \n plugged  in  and  waiting  for  someone  to \n save  them,  someone  will  save  you,  but \n it's  you.  Future  you,  the  better  you. \n The  person  that  you've  been  waiting  to \n become.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=beqAN1CZ79I",
+  "videoId": "beqAN1CZ79I"
+}

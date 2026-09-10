@@ -2,25 +2,25 @@
   "automation_id": "hormozi-youtube-source-enrichment",
   "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
   "counts": {
-    "archived": 11,
-    "changed": 1,
-    "doctrine_eligible": 1659,
-    "duplicate": 82,
+    "archived": 6,
+    "changed": 0,
+    "doctrine_eligible": 1665,
+    "duplicate": 91,
     "failed": 0,
-    "new": 15,
+    "new": 5,
     "remaining_backlog": 0,
     "repaired": 0,
-    "review_queued": 1680,
-    "transcript_success": 1680,
+    "review_queued": 1686,
+    "transcript_success": 1686,
     "transcript_unavailable": 7,
-    "unchanged": 5544
+    "unchanged": 5585
   },
   "credits_used": {
     "api_calls": null,
     "reason": "the exhaustive ingester does not expose a durable aggregate API-call or credit delta",
     "value": null
   },
-  "finished_at": "2026-09-02T11:10:23.311Z",
+  "finished_at": "2026-09-10T11:11:19.181Z",
   "mode": "full_reconciliation",
   "model": "gpt-5.6-luna",
   "pages": {
@@ -29,11 +29,11 @@
     "videos": 18
   },
   "reasoning_effort": "max",
-  "run_id": "hormozi-yt-20260902T102003Z-3beddf69",
+  "run_id": "hormozi-yt-20260910T102156Z-e94697a5",
   "schema_version": "1.0.0",
-  "source_state_hash_after": "69ceb23fdc79dca2a1256d683d85344c28e9d345c0173c5e77d7f45947888510",
-  "source_state_hash_before": "e4869b1d332015f75d0559e09126dfbe3f833ced376ae712e17989dca41d6ee2",
-  "started_at": "2026-09-02T10:20:03.287Z",
+  "source_state_hash_after": "e38d27ce532db6221f739f70c6f72dbb5276d795d8fa11194c847403d42872d9",
+  "source_state_hash_before": "f11a6236e5f68f3008f98d1275bfba7746251dedda0a051b1c13d30d76d0bede",
+  "started_at": "2026-09-10T10:21:56.545Z",
   "status": "enriched",
   "verification": {
     "checks": [
@@ -48,7 +48,7 @@
     "status": "passed"
   },
   "window": {
-    "end_inclusive": "2026-09-02T10:20:03.287Z",
-    "start_inclusive": "2025-09-02T10:20:03.287Z"
+    "end_inclusive": "2026-09-10T10:21:56.545Z",
+    "start_inclusive": "2025-09-10T10:21:56.545Z"
   }
 }

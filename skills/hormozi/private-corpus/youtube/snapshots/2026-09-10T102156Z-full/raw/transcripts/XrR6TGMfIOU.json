@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I have the rule of 100 for people who"
+    },
+    {
+      "endMs": "5080",
+      "startMs": "1400",
+      "startTimeText": "0:01",
+      "text": "are starting out for getting their first"
+    },
+    {
+      "endMs": "7280",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "customers. 100 outreach attempts per"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "5080",
+      "startTimeText": "0:05",
+      "text": "day, you spend $100 in ads per day, or"
+    },
+    {
+      "endMs": "9880",
+      "startMs": "7280",
+      "startTimeText": "0:07",
+      "text": "you work for 100 minutes on content and"
+    },
+    {
+      "endMs": "11360",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "you post it. And then you do that for"
+    },
+    {
+      "endMs": "12600",
+      "startMs": "9880",
+      "startTimeText": "0:09",
+      "text": "100 days. And I promise you if you do"
+    },
+    {
+      "endMs": "14440",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "that, you will have a customer. Like"
+    },
+    {
+      "endMs": "16200",
+      "startMs": "12600",
+      "startTimeText": "0:12",
+      "text": "I've never, to this day, had somebody do"
+    },
+    {
+      "endMs": "18760",
+      "startMs": "14440",
+      "startTimeText": "0:14",
+      "text": "the full 100, all three, and not have"
+    },
+    {
+      "endMs": "18760",
+      "startMs": "16200",
+      "startTimeText": "0:16",
+      "text": "customers."
+    }
+  ],
+  "transcript_only_text": " I  have  the  rule  of  100  for  people  who \n are  starting  out  for  getting  their  first \n customers.  100  outreach  attempts  per \n day,  you  spend  $100  in  ads  per  day,  or \n you  work  for  100  minutes  on  content  and \n you  post  it.  And  then  you  do  that  for \n 100  days.  And  I  promise  you  if  you  do \n that,  you  will  have  a  customer.  Like \n I've  never,  to  this  day,  had  somebody  do \n the  full  100,  all  three,  and  not  have \n customers.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XrR6TGMfIOU",
+  "videoId": "XrR6TGMfIOU"
+}

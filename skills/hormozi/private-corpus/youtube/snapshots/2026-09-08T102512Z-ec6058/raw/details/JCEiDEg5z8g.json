@@ -1,0 +1,301 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=JCEiDEg5z8g&ei=rI-earTHFtjFy_sPjZagkA4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801564&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C65BFDB94642DEA1E60A0003AB3CD130F87D31B.757FD57BA3CF0B5311B4467880C225981E8711AD&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 4,
+  "commentCountText": "4",
+  "credits_charged": 1,
+  "credits_remaining": 14284,
+  "description": "The hard work of entrepreneurship is the failure that you're inevitably going to encounter by not knowing what you're doing and then taking action steps despite that, with the idea that you will eventually succeed if you don't stop.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:31",
+  "durationMs": 31000,
+  "genre": "Education",
+  "id": "JCEiDEg5z8g",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 382,
+  "likeCountText": "382",
+  "most_replayed": null,
+  "publishDate": "2026-09-05T22:01:19-07:00",
+  "publishDateText": "Sep 5, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/JCEiDEg5z8g/maxresdefault.jpg",
+  "title": "You Need Frustration Tolerance",
+  "type": "video",
+  "viewCountInt": 6283,
+  "viewCountText": "6,283",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "uaLNfijnp-8",
+      "lengthInSeconds": 2234,
+      "lengthText": "37:14",
+      "publishDate": "2026-09-05T10:19:25.215Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-05T10:19:25.215Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/uaLNfijnp-8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3zwEIsaaclBD5PwqISYwvcDsY1w",
+      "title": "This Video Should Be Required Viewing for Business Owners",
+      "videoUrl": "https://www.youtube.com/watch?v=uaLNfijnp-8",
+      "viewCountInt": 218000,
+      "viewCountText": "218K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "oDK4g5na4Jw",
+      "lengthInSeconds": 3868,
+      "lengthText": "1:04:28",
+      "publishDate": "2025-09-07T10:19:25.215Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-07T10:19:25.215Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/oDK4g5na4Jw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDp3A5ePqu_VA8wn-FhLNzXv63WRw",
+      "title": "No BS Advice to Get Rich Like the 1%",
+      "videoUrl": "https://www.youtube.com/watch?v=oDK4g5na4Jw",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "theshiftedarchives",
+        "id": "UC-VYFg3APTnQI9S4hFcok_A",
+        "title": "The Shifted Archives",
+        "url": "https://www.youtube.com/@theshiftedarchives"
+      },
+      "id": "ngqgPDfDJfk",
+      "lengthInSeconds": 947,
+      "lengthText": "15:47",
+      "publishDate": "2026-09-05T10:19:25.215Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-05T10:19:25.215Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/ngqgPDfDJfk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD51jui8DGK5oYS7KI7v5oRTn4XVg",
+      "title": "You’re One Year Away From Being Unrecognizable | Best Motivational Speech | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=ngqgPDfDJfk",
+      "viewCountInt": 156,
+      "viewCountText": "156 views"
+    },
+    {
+      "channel": {
+        "handle": "alpham",
+        "id": "UC1KbedtKa3d5dleFR6OjQMg",
+        "title": "alpha m.",
+        "url": "https://www.youtube.com/@alpham"
+      },
+      "id": "vEYaO81phyk",
+      "lengthInSeconds": 561,
+      "lengthText": "9:21",
+      "publishDate": "2026-09-06T10:19:25.215Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-06T10:19:25.215Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/vEYaO81phyk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMYRj5RXdnyNsNQ0Imbqn8liaCpg",
+      "title": "10 Things That Instantly Make a Man Look WEAK",
+      "videoUrl": "https://www.youtube.com/watch?v=vEYaO81phyk",
+      "viewCountInt": 44000,
+      "viewCountText": "44K views"
+    },
+    {
+      "channel": {
+        "handle": "SinekMindset",
+        "id": "UCHiKLR5FPA5cGm-xsVnpzfg",
+        "title": "Sinek Mindset",
+        "url": "https://www.youtube.com/@SinekMindset"
+      },
+      "id": "n5uFYX1y0IE",
+      "lengthInSeconds": 1827,
+      "lengthText": "30:27",
+      "publishDate": "2026-09-02T10:19:25.215Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-09-02T10:19:25.215Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/n5uFYX1y0IE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCnvtFMhD9XSme8q2j90zqjxWjbvQ",
+      "title": "Act As If Everything Always Works Out for You || Best Motivational Speech By Simon Sinek",
+      "videoUrl": "https://www.youtube.com/watch?v=n5uFYX1y0IE",
+      "viewCountInt": 12000,
+      "viewCountText": "12K views"
+    },
+    {
+      "channel": {
+        "handle": "MichaelBordenaro",
+        "id": "UCdxGqN9_aBisOJHzIRTGLfg",
+        "title": "Michael Bordenaro",
+        "url": "https://www.youtube.com/@MichaelBordenaro"
+      },
+      "id": "qQcuThVhuK8",
+      "lengthInSeconds": 1512,
+      "lengthText": "25:12",
+      "publishDate": "2026-09-06T21:19:25.215Z",
+      "publishDateText": "13 hours ago",
+      "publishedTime": "2026-09-06T21:19:25.215Z",
+      "publishedTimeText": "13 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/qQcuThVhuK8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAbY8AEthEJ6RwdUbsuYh1Ocuue6g",
+      "title": "Campbell's Foods New Warning- “People Stopped Buying Chips and Soup”",
+      "videoUrl": "https://www.youtube.com/watch?v=qQcuThVhuK8",
+      "viewCountInt": 169000,
+      "viewCountText": "169K views"
+    },
+    {
+      "channel": {
+        "handle": "jubilee",
+        "id": "UCJjSDX-jUChzOEyok9XYRJQ",
+        "title": "Jubilee",
+        "url": "https://www.youtube.com/@jubilee"
+      },
+      "id": "KevTBc07wm8",
+      "lengthInSeconds": 5190,
+      "lengthText": "1:26:30",
+      "publishDate": "2026-08-07T10:19:25.215Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-07T10:19:25.215Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KevTBc07wm8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJTu-5GjaI83a6TKwf4j33OjaHIw",
+      "title": "1 Anti-Manosphere vs 20 Manosphere (ft. Mark Manson) | Surrounded",
+      "videoUrl": "https://www.youtube.com/watch?v=KevTBc07wm8",
+      "viewCountInt": 3200000,
+      "viewCountText": "3.2M views"
+    },
+    {
+      "channel": {
+        "handle": "Fameoid",
+        "id": "UCOdvOte3v0md0anfMgyrahw",
+        "title": "Fameoid",
+        "url": "https://www.youtube.com/@Fameoid"
+      },
+      "id": "-IOntaERI3I",
+      "lengthInSeconds": 602,
+      "lengthText": "10:02",
+      "publishDate": "2026-09-04T10:19:25.215Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-09-04T10:19:25.215Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/-IOntaERI3I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBA8-NUjwQE6HOoFWjXMu7phxRKGw",
+      "title": "These might be Dolly Parton’s most hilarious moments ever caught on Camera”",
+      "videoUrl": "https://www.youtube.com/watch?v=-IOntaERI3I",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Leanne ten Brinke",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "AcK_zgJjnoo",
+      "lengthInSeconds": 6560,
+      "lengthText": "1:49:20",
+      "publishDate": "2026-09-07T07:19:25.215Z",
+      "publishDateText": "3 hours ago",
+      "publishedTime": "2026-09-07T07:19:25.215Z",
+      "publishedTimeText": "3 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/AcK_zgJjnoo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCmAbLdSjIpG0iyXsQTAiM7lmB8FQ",
+      "title": "Gaslighting Expert: The One Phrase Narcissists Always Use To Control You! | Dr Leanne Ten Brinke",
+      "videoUrl": "https://www.youtube.com/watch?v=AcK_zgJjnoo",
+      "viewCountInt": 132000,
+      "viewCountText": "132K views"
+    },
+    {
+      "channel": {
+        "handle": "FoxNews",
+        "id": "UCXIJgqnII2ZOINSWNOGFThA",
+        "title": "Fox News",
+        "url": "https://www.youtube.com/@FoxNews"
+      },
+      "id": "re3X5q3Mli0",
+      "lengthInSeconds": 691,
+      "lengthText": "11:31",
+      "publishDate": "2026-09-07T03:19:25.215Z",
+      "publishDateText": "7 hours ago",
+      "publishedTime": "2026-09-07T03:19:25.215Z",
+      "publishedTimeText": "7 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/re3X5q3Mli0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCQVVAkuxGfRnfJb7221KE2cxficw",
+      "title": "NEW DETAILS revealed in MAJOR leadership shake-up at Pentagon",
+      "videoUrl": "https://www.youtube.com/watch?v=re3X5q3Mli0",
+      "viewCountInt": 211000,
+      "viewCountText": "211K views"
+    },
+    {
+      "channel": {
+        "handle": "DanKoeTalks",
+        "id": "UCWXYDYv5STLk-zoxMP2I1Lw",
+        "title": "Dan Koe",
+        "url": "https://www.youtube.com/@DanKoeTalks"
+      },
+      "id": "pmQhqVLVApw",
+      "lengthInSeconds": 2159,
+      "lengthText": "35:59",
+      "publishDate": "2026-09-04T10:19:25.215Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-09-04T10:19:25.215Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/pmQhqVLVApw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDlRCFhsHVHkFCpzugM9BS4Dfwj_A",
+      "title": "If You Have Multiple Interests, Please Take Advantage of the Next 10 Years",
+      "videoUrl": "https://www.youtube.com/watch?v=pmQhqVLVApw",
+      "viewCountInt": 447000,
+      "viewCountText": "447K views"
+    },
+    {
+      "channel": {
+        "handle": "AlphaMentorsYT",
+        "id": "UCvPialDBJK97omec_xreo-w",
+        "title": "Alpha Mentors",
+        "url": "https://www.youtube.com/@AlphaMentorsYT"
+      },
+      "id": "VjVSXJBdlNU",
+      "lengthInSeconds": 1629,
+      "lengthText": "27:09",
+      "publishDate": "2025-09-07T10:19:25.215Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-07T10:19:25.215Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/VjVSXJBdlNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBu0YY7bhfERozUFKT0wzRxnsDQPA",
+      "title": "Alex Hormozi's 27 Minutes of Life-Changing Advice",
+      "videoUrl": "https://www.youtube.com/watch?v=VjVSXJBdlNU",
+      "viewCountInt": 401000,
+      "viewCountText": "401K views"
+    }
+  ]
+}

@@ -1,0 +1,1191 @@
+{
+  "text": " packaging, 20-year insurance, plus gift wrapped, $1,000. Main offer, normal packaging, one-year insurance, and a sticker, $200. Digital product newsletter, premium anchor, all previous issues, new issues, 24-hour early access, $1.99 a month. Main offer, new issues only, plus on time, $19 a month. Important notes, if you treat the anchor like a fake, so will the customer. Some people hear about this technique, try it, gloss over the premium payment, and then say that it doesn't work. If you do that, then the person never really considered it because you never really offered it. You just went through the motions. For this to work, you need to actually sell it, and they have to actually consider it. Only after they pause, hesitate, or ask for something else do you move on to the next thing.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.44,
+      "text": " packaging, 20-year insurance, plus gift wrapped, $1,000. Main offer, normal packaging, one-year",
+      "tokens": [
+        50365,
+        16836,
+        11,
+        945,
+        12,
+        5294,
+        7214,
+        11,
+        1804,
+        5306,
+        14226,
+        11,
+        1848,
+        16,
+        11,
+        1360,
+        13,
+        12383,
+        2626,
+        11,
+        2710,
+        16836,
+        11,
+        472,
+        12,
+        5294,
+        50688
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06760861288826421,
+      "compression_ratio": 1.6382978723404256,
+      "no_speech_prob": 8.997384543137088e-13,
+      "words": [
+        {
+          "word": " packaging,",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.391357421875
+        },
+        {
+          "word": " 20",
+          "start": 0.66,
+          "end": 0.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "-year",
+          "start": 0.88,
+          "end": 1.04,
+          "probability": 0.974609375
+        },
+        {
+          "word": " insurance,",
+          "start": 1.04,
+          "end": 1.54,
+          "probability": 1.0
+        },
+        {
+          "word": " plus",
+          "start": 1.72,
+          "end": 2.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " gift",
+          "start": 2.04,
+          "end": 2.26,
+          "probability": 0.998046875
+        },
+        {
+          "word": " wrapped,",
+          "start": 2.26,
+          "end": 2.5,
+          "probability": 0.6435546875
+        },
+        {
+          "word": " $1",
+          "start": 3.0,
+          "end": 3.12,
+          "probability": 0.9921875
+        },
+        {
+          "word": ",000.",
+          "start": 3.12,
+          "end": 3.28,
+          "probability": 1.0
+        },
+        {
+          "word": " Main",
+          "start": 3.96,
+          "end": 4.52,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " offer,",
+          "start": 4.52,
+          "end": 4.8,
+          "probability": 0.97265625
+        },
+        {
+          "word": " normal",
+          "start": 5.08,
+          "end": 5.52,
+          "probability": 1.0
+        },
+        {
+          "word": " packaging,",
+          "start": 5.52,
+          "end": 5.94,
+          "probability": 1.0
+        },
+        {
+          "word": " one",
+          "start": 6.18,
+          "end": 6.32,
+          "probability": 0.9677734375
+        },
+        {
+          "word": "-year",
+          "start": 6.32,
+          "end": 6.44,
+          "probability": 0.98046875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.44,
+      "end": 13.28,
+      "text": " insurance, and a sticker, $200. Digital product newsletter, premium anchor, all previous issues,",
+      "tokens": [
+        50688,
+        7214,
+        11,
+        293,
+        257,
+        20400,
+        11,
+        1848,
+        7629,
+        13,
+        15522,
+        1674,
+        26469,
+        11,
+        12049,
+        18487,
+        11,
+        439,
+        3894,
+        2663,
+        11,
+        51030
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06760861288826421,
+      "compression_ratio": 1.6382978723404256,
+      "no_speech_prob": 8.997384543137088e-13,
+      "words": [
+        {
+          "word": " insurance,",
+          "start": 6.44,
+          "end": 6.82,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 6.98,
+          "end": 7.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 7.06,
+          "end": 7.14,
+          "probability": 1.0
+        },
+        {
+          "word": " sticker,",
+          "start": 7.14,
+          "end": 7.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $200.",
+          "start": 7.82,
+          "end": 8.16,
+          "probability": 1.0
+        },
+        {
+          "word": " Digital",
+          "start": 9.54,
+          "end": 10.1,
+          "probability": 0.998046875
+        },
+        {
+          "word": " product",
+          "start": 10.1,
+          "end": 10.48,
+          "probability": 0.98583984375
+        },
+        {
+          "word": " newsletter,",
+          "start": 10.48,
+          "end": 10.86,
+          "probability": 0.97265625
+        },
+        {
+          "word": " premium",
+          "start": 11.34,
+          "end": 11.66,
+          "probability": 0.96435546875
+        },
+        {
+          "word": " anchor,",
+          "start": 11.66,
+          "end": 11.9,
+          "probability": 0.9541015625
+        },
+        {
+          "word": " all",
+          "start": 12.18,
+          "end": 12.52,
+          "probability": 1.0
+        },
+        {
+          "word": " previous",
+          "start": 12.52,
+          "end": 12.86,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " issues,",
+          "start": 12.86,
+          "end": 13.28,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.56,
+      "end": 20.7,
+      "text": " new issues, 24-hour early access, $1.99 a month. Main offer, new issues only, plus on time, $19 a",
+      "tokens": [
+        51049,
+        777,
+        2663,
+        11,
+        4022,
+        12,
+        18048,
+        2440,
+        2105,
+        11,
+        1848,
+        16,
+        13,
+        8494,
+        257,
+        1618,
+        13,
+        12383,
+        2626,
+        11,
+        777,
+        2663,
+        787,
+        11,
+        1804,
+        322,
+        565,
+        11,
+        1848,
+        3405,
+        257,
+        51402
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06760861288826421,
+      "compression_ratio": 1.6382978723404256,
+      "no_speech_prob": 8.997384543137088e-13,
+      "words": [
+        {
+          "word": " new",
+          "start": 13.56,
+          "end": 13.8,
+          "probability": 1.0
+        },
+        {
+          "word": " issues,",
+          "start": 13.8,
+          "end": 14.12,
+          "probability": 1.0
+        },
+        {
+          "word": " 24",
+          "start": 14.42,
+          "end": 14.66,
+          "probability": 1.0
+        },
+        {
+          "word": "-hour",
+          "start": 14.66,
+          "end": 14.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " early",
+          "start": 14.94,
+          "end": 15.22,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " access,",
+          "start": 15.22,
+          "end": 15.6,
+          "probability": 1.0
+        },
+        {
+          "word": " $1",
+          "start": 15.88,
+          "end": 16.02,
+          "probability": 0.78173828125
+        },
+        {
+          "word": ".99",
+          "start": 16.02,
+          "end": 16.26,
+          "probability": 0.92578125
+        },
+        {
+          "word": " a",
+          "start": 16.26,
+          "end": 16.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " month.",
+          "start": 16.42,
+          "end": 16.6,
+          "probability": 1.0
+        },
+        {
+          "word": " Main",
+          "start": 16.98,
+          "end": 17.18,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " offer,",
+          "start": 17.18,
+          "end": 17.46,
+          "probability": 1.0
+        },
+        {
+          "word": " new",
+          "start": 17.8,
+          "end": 18.06,
+          "probability": 1.0
+        },
+        {
+          "word": " issues",
+          "start": 18.06,
+          "end": 18.28,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " only,",
+          "start": 18.28,
+          "end": 18.6,
+          "probability": 1.0
+        },
+        {
+          "word": " plus",
+          "start": 18.82,
+          "end": 19.2,
+          "probability": 1.0
+        },
+        {
+          "word": " on",
+          "start": 19.2,
+          "end": 19.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " time,",
+          "start": 19.48,
+          "end": 19.74,
+          "probability": 0.7216796875
+        },
+        {
+          "word": " $19",
+          "start": 19.96,
+          "end": 20.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 20.3,
+          "end": 20.7,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 20.7,
+      "end": 27.22,
+      "text": " month. Important notes, if you treat the anchor like a fake, so will the customer. Some people",
+      "tokens": [
+        51402,
+        1618,
+        13,
+        42908,
+        5570,
+        11,
+        498,
+        291,
+        2387,
+        264,
+        18487,
+        411,
+        257,
+        7592,
+        11,
+        370,
+        486,
+        264,
+        5474,
+        13,
+        2188,
+        561,
+        51727
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06760861288826421,
+      "compression_ratio": 1.6382978723404256,
+      "no_speech_prob": 8.997384543137088e-13,
+      "words": [
+        {
+          "word": " month.",
+          "start": 20.7,
+          "end": 20.86,
+          "probability": 1.0
+        },
+        {
+          "word": " Important",
+          "start": 21.52,
+          "end": 22.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " notes,",
+          "start": 22.02,
+          "end": 22.28,
+          "probability": 0.998046875
+        },
+        {
+          "word": " if",
+          "start": 22.52,
+          "end": 23.08,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " you",
+          "start": 23.08,
+          "end": 23.16,
+          "probability": 1.0
+        },
+        {
+          "word": " treat",
+          "start": 23.16,
+          "end": 23.38,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 23.38,
+          "end": 23.52,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " anchor",
+          "start": 23.52,
+          "end": 23.82,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " like",
+          "start": 23.82,
+          "end": 24.2,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 24.2,
+          "end": 24.34,
+          "probability": 1.0
+        },
+        {
+          "word": " fake,",
+          "start": 24.34,
+          "end": 24.68,
+          "probability": 1.0
+        },
+        {
+          "word": " so",
+          "start": 24.94,
+          "end": 25.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " will",
+          "start": 25.28,
+          "end": 25.4,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 25.4,
+          "end": 25.5,
+          "probability": 1.0
+        },
+        {
+          "word": " customer.",
+          "start": 25.5,
+          "end": 25.82,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Some",
+          "start": 26.48,
+          "end": 26.98,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " people",
+          "start": 26.98,
+          "end": 27.22,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2722,
+      "start": 27.22,
+      "end": 31.54,
+      "text": " hear about this technique, try it, gloss over the premium payment, and then say that it doesn't work.",
+      "tokens": [
+        50365,
+        1568,
+        466,
+        341,
+        6532,
+        11,
+        853,
+        309,
+        11,
+        19574,
+        670,
+        264,
+        12049,
+        10224,
+        11,
+        293,
+        550,
+        584,
+        300,
+        309,
+        1177,
+        380,
+        589,
+        13,
+        50583
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05410112248788966,
+      "compression_ratio": 1.7024793388429753,
+      "no_speech_prob": 1.0521162933929684e-12,
+      "words": [
+        {
+          "word": " hear",
+          "start": 27.22,
+          "end": 27.38,
+          "probability": 0.7177734375
+        },
+        {
+          "word": " about",
+          "start": 27.38,
+          "end": 27.52,
+          "probability": 1.0
+        },
+        {
+          "word": " this",
+          "start": 27.52,
+          "end": 27.7,
+          "probability": 1.0
+        },
+        {
+          "word": " technique,",
+          "start": 27.7,
+          "end": 28.02,
+          "probability": 1.0
+        },
+        {
+          "word": " try",
+          "start": 28.22,
+          "end": 28.4,
+          "probability": 1.0
+        },
+        {
+          "word": " it,",
+          "start": 28.4,
+          "end": 28.62,
+          "probability": 1.0
+        },
+        {
+          "word": " gloss",
+          "start": 28.78,
+          "end": 29.02,
+          "probability": 1.0
+        },
+        {
+          "word": " over",
+          "start": 29.02,
+          "end": 29.22,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 29.22,
+          "end": 29.32,
+          "probability": 1.0
+        },
+        {
+          "word": " premium",
+          "start": 29.32,
+          "end": 29.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " payment,",
+          "start": 29.56,
+          "end": 29.9,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 29.92,
+          "end": 30.14,
+          "probability": 1.0
+        },
+        {
+          "word": " then",
+          "start": 30.14,
+          "end": 30.34,
+          "probability": 1.0
+        },
+        {
+          "word": " say",
+          "start": 30.34,
+          "end": 30.8,
+          "probability": 1.0
+        },
+        {
+          "word": " that",
+          "start": 30.8,
+          "end": 30.98,
+          "probability": 1.0
+        },
+        {
+          "word": " it",
+          "start": 30.98,
+          "end": 31.06,
+          "probability": 1.0
+        },
+        {
+          "word": " doesn't",
+          "start": 31.06,
+          "end": 31.3,
+          "probability": 1.0
+        },
+        {
+          "word": " work.",
+          "start": 31.3,
+          "end": 31.54,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2722,
+      "start": 31.66,
+      "end": 34.96,
+      "text": " If you do that, then the person never really considered it because you never really offered",
+      "tokens": [
+        50596,
+        759,
+        291,
+        360,
+        300,
+        11,
+        550,
+        264,
+        954,
+        1128,
+        534,
+        4888,
+        309,
+        570,
+        291,
+        1128,
+        534,
+        8059,
+        50753
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05410112248788966,
+      "compression_ratio": 1.7024793388429753,
+      "no_speech_prob": 1.0521162933929684e-12,
+      "words": [
+        {
+          "word": " If",
+          "start": 31.66,
+          "end": 32.02,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 32.02,
+          "end": 32.14,
+          "probability": 1.0
+        },
+        {
+          "word": " do",
+          "start": 32.14,
+          "end": 32.3,
+          "probability": 1.0
+        },
+        {
+          "word": " that,",
+          "start": 32.3,
+          "end": 32.58,
+          "probability": 1.0
+        },
+        {
+          "word": " then",
+          "start": 32.72,
+          "end": 32.78,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 32.78,
+          "end": 32.88,
+          "probability": 1.0
+        },
+        {
+          "word": " person",
+          "start": 32.88,
+          "end": 33.12,
+          "probability": 1.0
+        },
+        {
+          "word": " never",
+          "start": 33.12,
+          "end": 33.32,
+          "probability": 1.0
+        },
+        {
+          "word": " really",
+          "start": 33.32,
+          "end": 33.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " considered",
+          "start": 33.48,
+          "end": 33.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " it",
+          "start": 33.78,
+          "end": 33.92,
+          "probability": 1.0
+        },
+        {
+          "word": " because",
+          "start": 33.92,
+          "end": 34.12,
+          "probability": 0.986328125
+        },
+        {
+          "word": " you",
+          "start": 34.12,
+          "end": 34.3,
+          "probability": 1.0
+        },
+        {
+          "word": " never",
+          "start": 34.3,
+          "end": 34.5,
+          "probability": 1.0
+        },
+        {
+          "word": " really",
+          "start": 34.5,
+          "end": 34.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " offered",
+          "start": 34.7,
+          "end": 34.96,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2722,
+      "start": 34.96,
+      "end": 39.12,
+      "text": " it. You just went through the motions. For this to work, you need to actually sell it,",
+      "tokens": [
+        50753,
+        309,
+        13,
+        509,
+        445,
+        1437,
+        807,
+        264,
+        27500,
+        13,
+        1171,
+        341,
+        281,
+        589,
+        11,
+        291,
+        643,
+        281,
+        767,
+        3607,
+        309,
+        11,
+        50961
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05410112248788966,
+      "compression_ratio": 1.7024793388429753,
+      "no_speech_prob": 1.0521162933929684e-12,
+      "words": [
+        {
+          "word": " it.",
+          "start": 34.96,
+          "end": 35.12,
+          "probability": 1.0
+        },
+        {
+          "word": " You",
+          "start": 35.2,
+          "end": 35.52,
+          "probability": 1.0
+        },
+        {
+          "word": " just",
+          "start": 35.52,
+          "end": 35.68,
+          "probability": 1.0
+        },
+        {
+          "word": " went",
+          "start": 35.68,
+          "end": 35.92,
+          "probability": 1.0
+        },
+        {
+          "word": " through",
+          "start": 35.92,
+          "end": 36.04,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 36.04,
+          "end": 36.12,
+          "probability": 1.0
+        },
+        {
+          "word": " motions.",
+          "start": 36.12,
+          "end": 36.46,
+          "probability": 1.0
+        },
+        {
+          "word": " For",
+          "start": 36.88,
+          "end": 37.24,
+          "probability": 1.0
+        },
+        {
+          "word": " this",
+          "start": 37.24,
+          "end": 37.38,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 37.38,
+          "end": 37.5,
+          "probability": 1.0
+        },
+        {
+          "word": " work,",
+          "start": 37.5,
+          "end": 37.74,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 37.78,
+          "end": 37.98,
+          "probability": 1.0
+        },
+        {
+          "word": " need",
+          "start": 37.98,
+          "end": 38.1,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 38.1,
+          "end": 38.22,
+          "probability": 1.0
+        },
+        {
+          "word": " actually",
+          "start": 38.22,
+          "end": 38.66,
+          "probability": 1.0
+        },
+        {
+          "word": " sell",
+          "start": 38.66,
+          "end": 38.98,
+          "probability": 1.0
+        },
+        {
+          "word": " it,",
+          "start": 38.98,
+          "end": 39.12,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2722,
+      "start": 39.18,
+      "end": 43.8,
+      "text": " and they have to actually consider it. Only after they pause, hesitate, or ask for something else",
+      "tokens": [
+        50963,
+        293,
+        436,
+        362,
+        281,
+        767,
+        1949,
+        309,
+        13,
+        5686,
+        934,
+        436,
+        10465,
+        11,
+        20842,
+        11,
+        420,
+        1029,
+        337,
+        746,
+        1646,
+        51195
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05410112248788966,
+      "compression_ratio": 1.7024793388429753,
+      "no_speech_prob": 1.0521162933929684e-12,
+      "words": [
+        {
+          "word": " and",
+          "start": 39.18,
+          "end": 39.26,
+          "probability": 1.0
+        },
+        {
+          "word": " they",
+          "start": 39.26,
+          "end": 39.36,
+          "probability": 0.998046875
+        },
+        {
+          "word": " have",
+          "start": 39.36,
+          "end": 39.48,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 39.48,
+          "end": 39.58,
+          "probability": 1.0
+        },
+        {
+          "word": " actually",
+          "start": 39.58,
+          "end": 39.96,
+          "probability": 1.0
+        },
+        {
+          "word": " consider",
+          "start": 39.96,
+          "end": 40.28,
+          "probability": 1.0
+        },
+        {
+          "word": " it.",
+          "start": 40.28,
+          "end": 40.5,
+          "probability": 1.0
+        },
+        {
+          "word": " Only",
+          "start": 40.9,
+          "end": 41.26,
+          "probability": 1.0
+        },
+        {
+          "word": " after",
+          "start": 41.26,
+          "end": 41.62,
+          "probability": 1.0
+        },
+        {
+          "word": " they",
+          "start": 41.62,
+          "end": 41.76,
+          "probability": 1.0
+        },
+        {
+          "word": " pause,",
+          "start": 41.76,
+          "end": 42.14,
+          "probability": 1.0
+        },
+        {
+          "word": " hesitate,",
+          "start": 42.4,
+          "end": 42.74,
+          "probability": 1.0
+        },
+        {
+          "word": " or",
+          "start": 42.9,
+          "end": 42.98,
+          "probability": 1.0
+        },
+        {
+          "word": " ask",
+          "start": 42.98,
+          "end": 43.2,
+          "probability": 1.0
+        },
+        {
+          "word": " for",
+          "start": 43.2,
+          "end": 43.28,
+          "probability": 1.0
+        },
+        {
+          "word": " something",
+          "start": 43.28,
+          "end": 43.48,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " else",
+          "start": 43.48,
+          "end": 43.8,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2722,
+      "start": 43.8,
+      "end": 44.82,
+      "text": " do you move on to the next thing.",
+      "tokens": [
+        51195,
+        360,
+        291,
+        1286,
+        322,
+        281,
+        264,
+        958,
+        551,
+        13,
+        51248
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05410112248788966,
+      "compression_ratio": 1.7024793388429753,
+      "no_speech_prob": 1.0521162933929684e-12,
+      "words": [
+        {
+          "word": " do",
+          "start": 43.8,
+          "end": 44.0,
+          "probability": 0.69580078125
+        },
+        {
+          "word": " you",
+          "start": 44.0,
+          "end": 44.08,
+          "probability": 1.0
+        },
+        {
+          "word": " move",
+          "start": 44.08,
+          "end": 44.24,
+          "probability": 1.0
+        },
+        {
+          "word": " on",
+          "start": 44.24,
+          "end": 44.32,
+          "probability": 0.998046875
+        },
+        {
+          "word": " to",
+          "start": 44.32,
+          "end": 44.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " the",
+          "start": 44.4,
+          "end": 44.46,
+          "probability": 1.0
+        },
+        {
+          "word": " next",
+          "start": 44.46,
+          "end": 44.62,
+          "probability": 1.0
+        },
+        {
+          "word": " thing.",
+          "start": 44.62,
+          "end": 44.82,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

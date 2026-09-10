@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6080",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "Richer people won't judge you for savingyour money. Fitter people won't judge"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "you for cutting your calories. Higherstatus people won't judge you for"
+    },
+    {
+      "endMs": "13519",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "cutting bad friends. It's the peoplegoing nowhere who have the most to say"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "because they have nothing to do. Neverlet unaccomplished people judge your"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "accomplishments."
+    }
+  ],
+  "transcript_only_text": " Richer people won't judge you for saving\nyour money. Fitter people won't judge you for cutting your calories. Higher\nstatus people won't judge you for cutting bad friends. It's the people\ngoing nowhere who have the most to say because they have nothing to do. Never\nlet unaccomplished people judge your accomplishments.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=M4OMYb27WSk",
+  "videoId": "M4OMYb27WSk"
+}

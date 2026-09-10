@@ -46,10 +46,6 @@ INSPECTION_TERMS = (
     "skill audit", "audit the skill", "source catalog", "source list", "corpus", "doctrine map",
     "what sources", "citation coverage", "capability audit", "how is the skill",
 )
-PROHIBITED_TERMS = (
-    "impersonate alex hormozi", "pretend to be alex hormozi", "act as alex hormozi",
-    "claim to be alex hormozi", "write as alex hormozi",
-)
 NOT_APPLICABLE_TERMS = (
     "generic marketing plan", "general marketing plan", "generic marketing ideas",
     "general email marketing ideas", "generic email marketing ideas",
@@ -80,7 +76,7 @@ HORMOZI_LENS_TERMS = (
 HORMOZI_NAME = r"(?:alex\s+)?hormozi"
 GENERATION_VERB = r"(?:answer|compose|copy|create|draft|ghostwrite|give|mimic|respond|rewrite|roleplay|sound|speak|use|write)"
 STYLE_NOUN = r"(?:persona|style|tone|voice)"
-STYLE_IMPERSONATION_PATTERNS = (
+ROLEPLAY_PATTERNS = (
     re.compile(
         rf"(?i)\b(?:act\s+as|be|become|channel|imagine\s+you(?:\s+are|['’]re)|impersonate|"
         rf"pretend(?:\s+to\s+be|\s+you(?:\s+are|['’]re))|role[- ]?play(?:\s+as)?)\b"
@@ -151,8 +147,8 @@ def contains_known_business_name(query: str, business_name: str | None) -> bool:
     ))
 
 
-def requests_style_impersonation(query: str) -> bool:
-    if any(pattern.search(query) for pattern in STYLE_IMPERSONATION_PATTERNS):
+def requests_roleplay(query: str) -> bool:
+    if any(pattern.search(query) for pattern in ROLEPLAY_PATTERNS):
         return True
     if not HORMOZI_MENTION_PATTERN.search(query):
         return False
@@ -176,8 +172,6 @@ def requests_style_impersonation(query: str) -> bool:
 
 def classify_request(query: str, business_name: str | None = None) -> str:
     text = normalize(query)
-    if any(term in text for term in PROHIBITED_TERMS) or requests_style_impersonation(query):
-        return "prohibited_impersonation"
     if any(term in text for term in INSPECTION_TERMS):
         return "inspection"
     has_business_marker = (
@@ -193,7 +187,8 @@ def classify_request(query: str, business_name: str | None = None) -> str:
         or has_business_marker
     )
     has_hormozi_lens = (
-        any(term in text for term in HORMOZI_LENS_TERMS)
+        requests_roleplay(query)
+        or any(term in text for term in HORMOZI_LENS_TERMS)
         or bool(HORMOZI_LENS_PATTERN.search(query))
         or bool(ACCORDING_TO_HORMOZI_PATTERN.search(query))
         or bool(HORMOZI_ATTRIBUTION_PATTERN.search(query))
@@ -224,20 +219,19 @@ def classify_request(query: str, business_name: str | None = None) -> str:
         or " hormozi framework" in text
     ):
         return "general_doctrine"
-    # Unknown requests must not silently become personalized consulting. When
-    # Hormozi is named but the request is neither explanatory nor a recognized
-    # doctrine/lens request, fail closed at the identity-imitation boundary.
-    # Requests with no business marker and no Hormozi lens are outside this
-    # skill's discovery scope.
-    return "prohibited_impersonation" if has_hormozi_mention else "not_applicable"
+    # Private role-play is allowed. This helper suggests a route; it cannot
+    # establish actual identity, endorsement, or the truth of a purported quote.
+    # A named request with no business facts can start a general conversation.
+    return "general_doctrine" if has_hormozi_mention else "not_applicable"
 
 
 def route(query: str, business_name: str | None = None) -> dict[str, object]:
     request_type = classify_request(query, business_name)
-    if request_type in {"inspection", "not_applicable", "prohibited_impersonation"}:
+    if request_type in {"inspection", "not_applicable"}:
         return {
             "request_type": request_type,
             "profile_required": False,
+            "business_context_required": False,
             "primary_candidate": None,
             "ambiguous_top_score": False,
             "candidates": [],
@@ -268,7 +262,8 @@ def route(query: str, business_name: str | None = None) -> dict[str, object]:
     ambiguous = len(candidates) > 1 and candidates[1]["score"] == top_score
     return {
         "request_type": request_type,
-        "profile_required": request_type == "personalized_consulting",
+        "profile_required": False,
+        "business_context_required": request_type == "personalized_consulting",
         "primary_candidate": None if ambiguous else candidates[0]["mode"],
         "ambiguous_top_score": ambiguous,
         "candidates": candidates,

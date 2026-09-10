@@ -1,0 +1,297 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=1x0aB2hSNxY&ei=p4-eaueqC8m3kucPgpbRoQY&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801559&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=093B338ACADF672BC547236B7848F98E0535A549.9895F071139E8F491B368C35CD9B4AC0BDE557FE&key=yt8&kind=asr&lang=en",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 3,
+  "commentCountText": "3",
+  "credits_charged": 1,
+  "credits_remaining": 14286,
+  "description": "How to lose a sale: get the prospect to disagree with you.\n\nHow to never have them disagree: answer their questions with questions about their questions.\n\nThe person who gives concrete responses now has to defend them.\n\nAnd if you’re on defense, you’re not closing.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:52",
+  "durationMs": 52000,
+  "genre": "Education",
+  "id": "1x0aB2hSNxY",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 205,
+  "likeCountText": "205",
+  "most_replayed": null,
+  "publishDate": "2026-09-06T18:02:03-07:00",
+  "publishDateText": "Sep 6, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/1x0aB2hSNxY/maxresdefault.jpg",
+  "title": "Don't Answer the Question, Ask a Question About the Question",
+  "type": "video",
+  "viewCountInt": 2792,
+  "viewCountText": "2,792",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "Taimaz.B",
+        "id": "UC8p1N6NQkCnUukz3fkwb9Rw",
+        "title": "Taimaz",
+        "url": "https://www.youtube.com/@Taimaz.B"
+      },
+      "id": "bFJjd4anhvY",
+      "publishDate": null,
+      "publishDateText": "1mo ago",
+      "publishedTime": null,
+      "publishedTimeText": "1mo ago",
+      "thumbnail": "https://i.ytimg.com/vi/bFJjd4anhvY/hqdefault.jpg?v=25a6&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_7yAi45_7tAuAkP7hB79B32EhPQ",
+      "title": "Calgary Live Webcam | Sunalta | Canada",
+      "videoUrl": "https://www.youtube.com/watch?v=bFJjd4anhvY",
+      "viewCountInt": null
+    },
+    {
+      "channel": {
+        "title": "Comedy • 2023",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "ONv1rThh06g",
+      "lengthInSeconds": 5966,
+      "lengthText": "1:39:26",
+      "publishDate": null,
+      "publishDateText": "3y ago",
+      "publishedTime": null,
+      "publishedTimeText": "3y ago",
+      "thumbnail": "https://i.ytimg.com/vi/ONv1rThh06g/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLC3qsvQ3n23qOSdBD8wA6dBFwrZ3w",
+      "title": "Superfast!",
+      "videoUrl": "https://www.youtube.com/watch?v=ONv1rThh06g",
+      "viewCountInt": null
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "uaLNfijnp-8",
+      "lengthInSeconds": 2234,
+      "lengthText": "37:14",
+      "publishDate": null,
+      "publishDateText": "2d ago",
+      "publishedTime": null,
+      "publishedTimeText": "2d ago",
+      "thumbnail": "https://i.ytimg.com/vi/uaLNfijnp-8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3zwEIsaaclBD5PwqISYwvcDsY1w",
+      "title": "Helping A Stranger Build A $15,000,000 Business in 90 Days",
+      "videoUrl": "https://www.youtube.com/watch?v=uaLNfijnp-8",
+      "viewCountInt": 218000,
+      "viewCountText": "218K"
+    },
+    {
+      "channel": {
+        "handle": "SandeepSwadia",
+        "id": "UC4ZVkG3RQPzvZk7alIVjcCg",
+        "title": "Sandeep Swadia",
+        "url": "https://www.youtube.com/@SandeepSwadia"
+      },
+      "id": "jPSirKTGTfo",
+      "lengthInSeconds": 1130,
+      "lengthText": "18:50",
+      "publishDate": null,
+      "publishDateText": "10d ago",
+      "publishedTime": null,
+      "publishedTimeText": "10d ago",
+      "thumbnail": "https://i.ytimg.com/vi/jPSirKTGTfo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA7uz2s7ThcCEEa6M7uWfCDIPQoyg",
+      "title": "If You Don't Understand First Principles, You Can't Think Clearly",
+      "videoUrl": "https://www.youtube.com/watch?v=jPSirKTGTfo",
+      "viewCountInt": 486000,
+      "viewCountText": "486K"
+    },
+    {
+      "channel": {
+        "handle": "donagheystephen",
+        "id": "UC4b-jH7Fr7ysA6PqWVTFO6A",
+        "title": "Stephen Donaghey",
+        "url": "https://www.youtube.com/@donagheystephen"
+      },
+      "id": "rLVNb2NbxhQ",
+      "lengthInSeconds": 571,
+      "lengthText": "9:31",
+      "publishDate": null,
+      "publishDateText": "3d ago",
+      "publishedTime": null,
+      "publishedTimeText": "3d ago",
+      "thumbnail": "https://i.ytimg.com/vi/rLVNb2NbxhQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAglbAJPyt5choSZIqivP2myoqzEg",
+      "title": "Don't make these common mistakes when running ads",
+      "videoUrl": "https://www.youtube.com/watch?v=rLVNb2NbxhQ",
+      "viewCountInt": 28,
+      "viewCountText": "28"
+    },
+    {
+      "channel": {
+        "handle": "MoreMozi",
+        "id": "UCrvchO1h6lWZAuGaa1LqX9Q",
+        "title": "MoreMozi",
+        "url": "https://www.youtube.com/@MoreMozi"
+      },
+      "id": "7RkARUj7Ob4",
+      "lengthInSeconds": 475,
+      "lengthText": "7:55",
+      "publishDate": null,
+      "publishDateText": "1d ago",
+      "publishedTime": null,
+      "publishedTimeText": "1d ago",
+      "thumbnail": "https://i.ytimg.com/vi/7RkARUj7Ob4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBV1lg-KAs3WZyOJy1ycLP9WgCBcA",
+      "title": "\"Am I Already Falling Behind?\"",
+      "videoUrl": "https://www.youtube.com/watch?v=7RkARUj7Ob4",
+      "viewCountInt": 60000,
+      "viewCountText": "60K"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": null,
+      "publishDateText": "5mo ago",
+      "publishedTime": null,
+      "publishedTimeText": "5mo ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M"
+    },
+    {
+      "channel": {
+        "handle": "SinekMindset",
+        "id": "UCHiKLR5FPA5cGm-xsVnpzfg",
+        "title": "Sinek Mindset",
+        "url": "https://www.youtube.com/@SinekMindset"
+      },
+      "id": "n5uFYX1y0IE",
+      "lengthInSeconds": 1827,
+      "lengthText": "30:27",
+      "publishDate": null,
+      "publishDateText": "5d ago",
+      "publishedTime": null,
+      "publishedTimeText": "5d ago",
+      "thumbnail": "https://i.ytimg.com/vi/n5uFYX1y0IE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCnvtFMhD9XSme8q2j90zqjxWjbvQ",
+      "title": "Act As If Everything Always Works Out for You || Best Motivational Speech By Simon Sinek",
+      "videoUrl": "https://www.youtube.com/watch?v=n5uFYX1y0IE",
+      "viewCountInt": 12000,
+      "viewCountText": "12K"
+    },
+    {
+      "channel": {
+        "handle": "PilotBlogDenys",
+        "id": "UCRSfQQpt1l7DEBZBuCk4fnw",
+        "title": "Pilot Blog",
+        "url": "https://www.youtube.com/@PilotBlogDenys"
+      },
+      "id": "MRDR28-IegE",
+      "lengthInSeconds": 1217,
+      "lengthText": "20:17",
+      "publishDate": null,
+      "publishDateText": "10h ago",
+      "publishedTime": null,
+      "publishedTimeText": "10h ago",
+      "thumbnail": "https://i.ytimg.com/vi/MRDR28-IegE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChHT3Omg89LdE3vizWNIq1DiKHsA",
+      "title": "B767 Crash in Miami: Unstable Approach, Long Landing, Pilot Mistake, Bad Weather",
+      "videoUrl": "https://www.youtube.com/watch?v=MRDR28-IegE",
+      "viewCountInt": 319000,
+      "viewCountText": "319K"
+    },
+    {
+      "channel": {
+        "handle": "Motivation2Study",
+        "id": "UC8PICQUP0a_HsrA9S4IIgWw",
+        "title": "Motivation2Study",
+        "url": "https://www.youtube.com/@Motivation2Study"
+      },
+      "id": "xIGJZ4ydEgQ",
+      "lengthInSeconds": 907,
+      "lengthText": "15:07",
+      "publishDate": null,
+      "publishDateText": "2w ago",
+      "publishedTime": null,
+      "publishedTimeText": "2w ago",
+      "thumbnail": "https://i.ytimg.com/vi/xIGJZ4ydEgQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBzDIL8D54EyO-Tpts8RA1hHnxDCg",
+      "title": "I wasted 33 years trapped in my own head before Rick Rubin explained this in 10 minutes…",
+      "videoUrl": "https://www.youtube.com/watch?v=xIGJZ4ydEgQ",
+      "viewCountInt": 497000,
+      "viewCountText": "497K"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": null,
+      "publishDateText": "8mo ago",
+      "publishedTime": null,
+      "publishedTimeText": "8mo ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_e8ed2ER_fNywLf4iQ_HJogacAQ",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 4200000,
+      "viewCountText": "4.2M"
+    },
+    {
+      "channel": {
+        "handle": "Fameoid",
+        "id": "UCOdvOte3v0md0anfMgyrahw",
+        "title": "Fameoid",
+        "url": "https://www.youtube.com/@Fameoid"
+      },
+      "id": "-IOntaERI3I",
+      "lengthInSeconds": 602,
+      "lengthText": "10:02",
+      "publishDate": null,
+      "publishDateText": "3d ago",
+      "publishedTime": null,
+      "publishedTimeText": "3d ago",
+      "thumbnail": "https://i.ytimg.com/vi/-IOntaERI3I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBA8-NUjwQE6HOoFWjXMu7phxRKGw",
+      "title": "These might be Dolly Parton’s most hilarious moments ever caught on Camera”",
+      "videoUrl": "https://www.youtube.com/watch?v=-IOntaERI3I",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M"
+    }
+  ]
+}

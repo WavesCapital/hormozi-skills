@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4560",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "Every man in the world can identify with"
+    },
+    {
+      "endMs": "6400",
+      "startMs": "2639",
+      "startTimeText": "0:02",
+      "text": "what Ila just did. So, I'm sitting here"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "on the couch right here. Sitting on the"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "6400",
+      "startTimeText": "0:06",
+      "text": "couch and then Ila says, \"Hey, move"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "over."
+    },
+    {
+      "endMs": "17030",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "Watch with me.\""
+    },
+    {
+      "endMs": "17760",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": ">> I like this corner."
+    },
+    {
+      "endMs": "22000",
+      "startMs": "17030",
+      "startTimeText": "0:17",
+      "text": "[laughter]"
+    },
+    {
+      "endMs": "26200",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": ">> Like, bro, like what is going on?"
+    },
+    {
+      "endMs": "28220",
+      "startMs": "22000",
+      "startTimeText": "0:22",
+      "text": "Like, just sit there and just pick me."
+    },
+    {
+      "endMs": "28220",
+      "startMs": "26200",
+      "startTimeText": "0:26",
+      "text": "[laughter]"
+    }
+  ],
+  "transcript_only_text": " Every  man  in  the  world  can  identify  with \n what  Ila  just  did.  So,  I'm  sitting  here \n on  the  couch  right  here.  Sitting  on  the \n couch  and  then  Ila  says,  \"Hey,  move \n over. \n Watch  with  me.\" \n >> I  like  this  corner. \n [laughter] \n >> Like,  bro,  like  what  is  going  on? \n Like,  just  sit  there  and  just  pick  me. \n [laughter]",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WbIh_cIK7H0",
+  "videoId": "WbIh_cIK7H0"
+}

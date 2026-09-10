@@ -4,6 +4,10 @@ Writing rule: `HZ-SYN-004`. Say **main problem** in the answer. Use **binding co
 
 Find the binding constraint, choose the correct stage and sequence, and define the smallest measurable intervention.
 
+For marketing stage or the next marketing move, use [Marketing Roadmap review](marketing-roadmap-review.md). Its six stages track marketing maturity, not company size. Check capacity and cash before more demand. This supplements the ten Scaling Roadmaps rather than replacing their operating-stage guidance.
+
+For a named Scaling Roadmap or a choice across operating stages, use [the exact-source map](scaling-roadmaps-review.md). Keep each main stage apart from its recap and preview; page numbers differ between PDFs.
+
 ## Workflow
 
 1. Resolve current business facts and the desired outcome.
@@ -12,6 +16,8 @@ Find the binding constraint, choose the correct stage and sequence, and define t
 4. Choose one experiment and graduation rule.
 
 ## Material Rules
+
+For a full calendar, different limits by product or time slot, or a founder solving a favorite problem, use [the audio tactics map](profit-tactics-review.md#fix-the-work-that-holds-growth-back). It adds context and source limits to tactics 61–62, not a rule to raise every price by 50%.
 
 ### HZ-DIA-001 — One binding constraint
 
@@ -42,23 +48,28 @@ Citations:
 - `source:100m-lead-nurture-playbook:p0009` (primary)
 - `source:100m-leads-how-to-get-strangers:p0238` (supporting)
 
-### HZ-DIA-003 — Do not maximize local utilization
+### HZ-DIA-003 — Keep room to serve interested leads
 
-A fully booked resource can reduce total conversion when it pushes appointments out, removes convenient slots, or eliminates follow-up capacity.
+A busy sales team is not the goal. Keep enough room to respond to new interest and offer times buyers can attend.
 
 Decision logic:
 
-- Measure total downstream conversion, not calendar fullness.
-- Preserve capacity for fast booking, outbound follow-up, and six-inch putts.
-- Add capacity or reshape calendars when utilization creates a queue.
+- Check whether lack of staff time delays replies or leaves buyers without a useful appointment time.
+- Compare the cost of added availability with the sales it could recover. Check actual shows, sales and profit.
+- Change hours, start times or staffing when the evidence supports it; do not fill every gap just to make the team look busy.
 
 Limits:
 
-- A short, controlled utilization spike is acceptable when downstream service and follow-up remain protected.
+- This applies to appointment sales and leads who have shown interest, not the age of an untouched cold list.
+- The book supports spare capacity for fast replies and useful appointments. It does not set an ideal utilization percentage or guarantee that extra staff will pay for themselves.
 
 Citations:
 
-- `youtube:A_tx40lNpf8:t001544799-t001606960` (dated_refinement) — https://www.youtube.com/watch?v=A_tx40lNpf8&t=1544s
+- `file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0014` (primary)
+- `file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0015` (primary)
+- `file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0016` (primary)
+- `file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0019` (primary)
+- `file:100m-playbooks-100m-lead-nurture-playbook:b0e94f6c57fd:p0020` (primary)
 
 ### HZ-DIA-004 — Stage before tactic
 
@@ -66,13 +77,16 @@ Sequence advice by the verified operating stage rather than jumping to a later-s
 
 Decision logic:
 
-- Classify the business against the roadmap evidence.
-- Complete the current stage's graduation condition.
-- Load later-stage doctrine only when the current stage no longer binds.
+- Check actual use, value, sales, cash and delivery against the roadmap. Revenue or headcount alone does not prove the stage.
+- For a new firm, read [startup-stage.md](startup-stage.md). It explains the step from first use to paid value, plus the source's limits.
+- Find the next missing proof. A first sale is a milestone, not proof of repeatable sales or cash received.
+- Use later-stage ideas when they address a real need. Do not force every roadmap row into a gate or repeat work the business has already proved.
 
 Citations:
 
 - `source:your-acq-100mscalingroadmap-stage0:p0002` (roadmap_stage)
+- `source:your-acq-100mscalingroadmap-stage0:p0009` (roadmap_stage)
+- `source:your-acq-100mscalingroadmap-stage0:p0020` (roadmap_stage)
 - `source:your-acq-100mscalingroadmap-stage01:p0002` (roadmap_stage)
 - `source:your-acq-100mscalingroadmap-stage02:p0002` (roadmap_stage)
 - `source:your-acq-100mscalingroadmap-stage03:p0002` (roadmap_stage)
@@ -85,14 +99,15 @@ Citations:
 
 ### HZ-DIA-005 — More, better, then new
 
-Exploit a working acquisition path through volume and improvement before adding a new placement, platform, or lead method.
+Build a working lead source while its returns justify the work. Compare the return and risk of the next move rather than requiring literal exhaustion.
 
 Decision logic:
 
 - Ask what prevents ten times the current activity.
 - Do more if capacity and unit economics permit.
 - Improve the newly exposed drop-off.
-- Add a new placement, then platform, then Core Four method only after more/better is exhausted.
+- Compare returns for the same effort before choosing more, better or new. The placement-to-platform-to-method order is a rough guide, not a fixed gate.
+- Use [HZ-DEM-002](demand.md#hz-dem-002--pick-one-lead-method-from-resources) for method choice and shared-source risk. When dependence on one source is the main problem, a second path must address that risk; another placement alone may not.
 
 Limits:
 
@@ -102,6 +117,7 @@ Citations:
 
 - `source:100m-leads-how-to-get-strangers:p0243` (primary)
 - `source:100m-leads-how-to-get-strangers:p0244` (primary)
+- `source:your-acq-100mscalingroadmap-stage07:p0007` (roadmap_stage) — a second acquisition path addresses one-source risk; applying it to shared platform dependence is synthesis.
 
 ### HZ-DIA-006 — One measurable intervention
 
@@ -120,4 +136,4 @@ Citations:
 
 ## Output Check
 
-Use the plain answer shape in `../answer-contract.md`. Tell the user the main problem, why it matters, what to do, what not to do yet, and the next step. Show the math and sources when they help. Keep unknown facts and safety limits clear. Do not use internal labels as headings. Run the strict writing check, fix the draft, and check it again.
+Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

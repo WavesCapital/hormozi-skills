@@ -1,0 +1,121 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=JCEiDEg5z8g&ei=ro-eaub5BLiW2_gP47_pwQk&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801566&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=E8C9E19AB95BCD8EBD96350F66AEB50CCF39D29D.021E702943A5D866DF6B8EB776AE179B9583B830&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 14283,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Sitting in [music] the unknown with the"
+    },
+    {
+      "endMs": "7560",
+      "startMs": "2120",
+      "startTimeText": "0:02",
+      "text": "confidence that you will continue to try"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "because it is solvable even though you"
+    },
+    {
+      "endMs": "11360",
+      "startMs": "7560",
+      "startTimeText": "0:07",
+      "text": "don't know how to solve it yet. It just"
+    },
+    {
+      "endMs": "13320",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "comes down [music] to that. It comes"
+    },
+    {
+      "endMs": "15240",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": "down to knocking on more doors. It comes"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "down to trying to build the webpage"
+    },
+    {
+      "endMs": "18520",
+      "startMs": "15240",
+      "startTimeText": "0:15",
+      "text": "again when there's a bug and it doesn't"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16720",
+      "startTimeText": "0:16",
+      "text": "work. [music] It comes down to spending"
+    },
+    {
+      "endMs": "22360",
+      "startMs": "18520",
+      "startTimeText": "0:18",
+      "text": "money on ads even though it doesn't give"
+    },
+    {
+      "endMs": "24040",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "you any ROI. Saving up your money and"
+    },
+    {
+      "endMs": "25560",
+      "startMs": "22360",
+      "startTimeText": "0:22",
+      "text": "doing it again. It comes to posting"
+    },
+    {
+      "endMs": "26880",
+      "startMs": "24040",
+      "startTimeText": "0:24",
+      "text": "another video even though you got"
+    },
+    {
+      "endMs": "28360",
+      "startMs": "25560",
+      "startTimeText": "0:25",
+      "text": "negative comments or people are like,"
+    },
+    {
+      "endMs": "32000",
+      "startMs": "26880",
+      "startTimeText": "0:26",
+      "text": "\"Maybe you should try something else.\""
+    },
+    {
+      "endMs": "32000",
+      "startMs": "28360",
+      "startTimeText": "0:28",
+      "text": "You need frustration tolerance."
+    }
+  ],
+  "transcript_only_text": " Sitting  in  [music]  the  unknown  with  the \n confidence  that  you  will  continue  to  try \n because  it  is  solvable  even  though  you \n don't  know  how  to  solve  it  yet.  It  just \n comes  down  [music]  to  that.  It  comes \n down  to  knocking  on  more  doors.  It  comes \n down  to  trying  to  build  the  webpage \n again  when  there's  a  bug  and  it  doesn't \n work.  [music]  It  comes  down  to  spending \n money  on  ads  even  though  it  doesn't  give \n you  any  ROI.  Saving  up  your  money  and \n doing  it  again.  It  comes  to  posting \n another  video  even  though  you  got \n negative  comments  or  people  are  like, \n \"Maybe  you  should  try  something  else.\" \n You  need  frustration  tolerance.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=JCEiDEg5z8g",
+  "videoId": "JCEiDEg5z8g"
+}

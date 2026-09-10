@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4560",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "So, my two favorite upsells of all time"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "that only always work is more of that"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "thing you just bought and more help with"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "that thing you just bought. Those are"
+    },
+    {
+      "endMs": "14719",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "the upsells. More and more help."
+    },
+    {
+      "endMs": "14719",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "Crush."
+    }
+  ],
+  "transcript_only_text": " So,  my  two  favorite  upsells  of  all  time \n that  only  always  work  is  more  of  that \n thing  you  just  bought  and  more  help  with \n that  thing  you  just  bought.  Those  are \n the  upsells.  More  and  more  help. \n Crush.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=JXqn1OxvYnw",
+  "videoId": "JXqn1OxvYnw"
+}

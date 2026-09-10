@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3360",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "A big part of the why they show up to"
+    },
+    {
+      "endMs": "6040",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "the sales calls cuz they want to be"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "convinced. They know they need to stop"
+    },
+    {
+      "endMs": "9720",
+      "startMs": "6040",
+      "startTimeText": "0:06",
+      "text": "eating move more, and be in a"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "community of people like them that'll"
+    },
+    {
+      "endMs": "12600",
+      "startMs": "9720",
+      "startTimeText": "0:09",
+      "text": "help them out. They already know that."
+    },
+    {
+      "endMs": "14120",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "If they could sell themselves on it, we"
+    },
+    {
+      "endMs": "16560",
+      "startMs": "12600",
+      "startTimeText": "0:12",
+      "text": "wouldn't be required. That's why they're"
+    },
+    {
+      "endMs": "19880",
+      "startMs": "14120",
+      "startTimeText": "0:14",
+      "text": "there. Our job is to learn persuasion so"
+    },
+    {
+      "endMs": "19880",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "they can help people help themselves."
+    }
+  ],
+  "transcript_only_text": " A  big  part  of  the  why  they  show  up  to \n the  sales  calls  cuz  they  want  to  be \n convinced.  They  know  they  need  to  stop \n eating  move  more,  and  be  in  a \n community  of  people  like  them  that'll \n help  them  out.  They  already  know  that. \n If  they  could  sell  themselves  on  it,  we \n wouldn't  be  required.  That's  why  they're \n there.  Our  job  is  to  learn  persuasion  so \n they  can  help  people  help  themselves.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=sSzNM0yZIPs",
+  "videoId": "sSzNM0yZIPs"
+}

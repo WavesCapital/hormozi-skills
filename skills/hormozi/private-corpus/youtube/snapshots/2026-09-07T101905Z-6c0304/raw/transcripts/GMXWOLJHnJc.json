@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "My first nine businesses didn't reallyamount to anything. Nine."
+    },
+    {
+      "endMs": "11920",
+      "startMs": "4400",
+      "startTimeText": "0:04",
+      "text": "Nine. As in the first one, spent time,[ __ ] failed. Second one, this one"
+    },
+    {
+      "endMs": "15760",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "will be different, [ __ ] failed. Thirdone, this one, this is the one. I'm just"
+    },
+    {
+      "endMs": "20560",
+      "startMs": "14160",
+      "startTimeText": "0:14",
+      "text": "painting this picture because like it'spainful as [ __ ] because the whole time"
+    },
+    {
+      "endMs": "24920",
+      "startMs": "17840",
+      "startTimeText": "0:17",
+      "text": "everyone is telling you I told you so,and they're right."
+    },
+    {
+      "endMs": "27520",
+      "startMs": "22800",
+      "startTimeText": "0:22",
+      "text": "Today.But not forever."
+    }
+  ],
+  "transcript_only_text": " My first nine businesses didn't really\namount to anything. Nine. Nine. As in the first one, spent time,\n[ __ ] failed. Second one, this one will be different, [ __ ] failed. Third\none, this one, this is the one. I'm just painting this picture because like it's\npainful as [ __ ] because the whole time everyone is telling you I told you so,\nand they're right. Today.\nBut not forever.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GMXWOLJHnJc",
+  "videoId": "GMXWOLJHnJc"
+}

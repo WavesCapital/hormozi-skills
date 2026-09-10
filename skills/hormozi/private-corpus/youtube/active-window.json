@@ -1,10 +1,10 @@
 {
-  "manifest_sha256": "23125235a365d669a25ceaa5b1c746aca7d9a1aafe11a9250ca07d2b380e3b35",
+  "manifest_sha256": "299d34baddc4bec97d22a29ee227b287ee103d7d3c415e2335b1170fd60fb468",
   "schema_version": "1.0.0",
-  "snapshot_id": "2026-09-02T102003Z-full",
+  "snapshot_id": "2026-09-10T102156Z-full",
   "status": "verified_full_reconciliation",
   "window": {
-    "end_inclusive": "2026-09-02T10:20:03.287Z",
-    "start_inclusive": "2025-09-02T10:20:03.287Z"
+    "end_inclusive": "2026-09-10T10:21:56.545Z",
+    "start_inclusive": "2025-09-10T10:21:56.545Z"
   }
 }

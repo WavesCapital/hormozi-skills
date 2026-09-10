@@ -1,0 +1,299 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=FjlewLCLsmM&ei=t5uaauPBH5WKut0PjtLTaA&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788542503&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=CE36999652FF5CEA0278BC577758FA298E10E0D9.604CA502E9EA295E3382C09EAD02C7506674CAFE&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 33,
+  "commentCountText": "33",
+  "credits_charged": 1,
+  "credits_remaining": 14429,
+  "description": "A lot of young leaders think that the point of their job is to keep everyone on their team happy, when in fact, it’s to keep the best people on their team happy.\n\nAnd allow the rest to rise to the occasion or weed themselves out.\n\nYes - that means low performers will whine.\nIt also doesn’t matter.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:01:55",
+  "durationMs": 115000,
+  "genre": "Education",
+  "id": "FjlewLCLsmM",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1246,
+  "likeCountText": "1246",
+  "most_replayed": null,
+  "publishDate": "2026-09-03T12:01:59-07:00",
+  "publishDateText": "Sep 3, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/FjlewLCLsmM/maxresdefault.jpg",
+  "title": "“Why Can’t I Find Good Leaders?”",
+  "type": "video",
+  "viewCountInt": 21019,
+  "viewCountText": "21,019",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "title": "Jefferson Fisher Clips and Jefferson Fisher",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "bNIPVejCzyY",
+      "lengthInSeconds": 1276,
+      "lengthText": "21:16",
+      "publishDate": "2026-08-26T10:21:44.411Z",
+      "publishDateText": "9 days ago",
+      "publishedTime": "2026-08-26T10:21:44.411Z",
+      "publishedTimeText": "9 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/bNIPVejCzyY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAm1-oqmecp-3yn1bxFUndyP-nwZQ",
+      "title": "How to Say What Needs to Be Said (Without Being Mean) | Jefferson Fisher Clips",
+      "videoUrl": "https://www.youtube.com/watch?v=bNIPVejCzyY",
+      "viewCountInt": 113000,
+      "viewCountText": "113K views"
+    },
+    {
+      "channel": {
+        "handle": "PsychToonsHQ",
+        "id": "UC7ogBsKt4AoJBu8bObb0QiA",
+        "title": "PsychToons",
+        "url": "https://www.youtube.com/@PsychToonsHQ"
+      },
+      "id": "f1gkkzHZxNg",
+      "lengthInSeconds": 904,
+      "lengthText": "15:04",
+      "publishDate": "2026-08-31T10:21:44.411Z",
+      "publishDateText": "4 days ago",
+      "publishedTime": "2026-08-31T10:21:44.411Z",
+      "publishedTimeText": "4 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/f1gkkzHZxNg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA3fksg2VEoPOzgRSiLvL6NyTj2-A",
+      "title": "Psychology of Intelligence: Learn Anything So Fast It's Almost Unfair",
+      "videoUrl": "https://www.youtube.com/watch?v=f1gkkzHZxNg",
+      "viewCountInt": 1000000,
+      "viewCountText": "1M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEO",
+        "id": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "title": "The Diary Of A CEO",
+        "url": "https://www.youtube.com/@TheDiaryOfACEO"
+      },
+      "id": "MGxcosNuC8k",
+      "lengthInSeconds": 8208,
+      "lengthText": "2:16:48",
+      "publishDate": "2026-09-03T10:21:44.411Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-03T10:21:44.411Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/MGxcosNuC8k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpfMqZqxPRBFdEChYGgxhs3hs1QQ",
+      "title": "Andrew Huberman: Stop Wasting Money On Bad Vitamins, I Take THESE Supplements Every Single Day!",
+      "videoUrl": "https://www.youtube.com/watch?v=MGxcosNuC8k",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "danmartell",
+        "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "title": "Dan Martell",
+        "url": "https://www.youtube.com/@danmartell"
+      },
+      "id": "DlQyXhjH2jE",
+      "lengthInSeconds": 1031,
+      "lengthText": "17:11",
+      "publishDate": "2026-09-03T10:21:44.411Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-03T10:21:44.411Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/DlQyXhjH2jE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuwKssfN7Gx7eNG5vslCvqTWTGzw",
+      "title": "Once You Make Money, Upgrade These 7 Things ASAP",
+      "videoUrl": "https://www.youtube.com/watch?v=DlQyXhjH2jE",
+      "viewCountInt": 317000,
+      "viewCountText": "317K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:21:44.411Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-29T10:21:44.411Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 817000,
+      "viewCountText": "817K views"
+    },
+    {
+      "channel": {
+        "handle": "therationalnational",
+        "id": "UCo9oQdIk1MfcnzypG3UnURA",
+        "title": "The Rational National",
+        "url": "https://www.youtube.com/@therationalnational"
+      },
+      "id": "E-4Fo8AklY8",
+      "lengthInSeconds": 543,
+      "lengthText": "9:03",
+      "publishDate": "2026-09-03T23:21:44.411Z",
+      "publishDateText": "11 hours ago",
+      "publishedTime": "2026-09-03T23:21:44.411Z",
+      "publishedTimeText": "11 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/E-4Fo8AklY8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDoA53qngL6_eaUVJjCyKWh2vVmnQ",
+      "title": "Fox News Fires Maria Bartiromo Following Secret Exchange With Trump",
+      "videoUrl": "https://www.youtube.com/watch?v=E-4Fo8AklY8",
+      "viewCountInt": 490000,
+      "viewCountText": "490K views"
+    },
+    {
+      "channel": {
+        "title": "Simon Sinek and Jim Kwik",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "Bq-X12COtxI",
+      "lengthInSeconds": 3019,
+      "lengthText": "50:19",
+      "publishDate": "2026-09-02T10:21:44.411Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-02T10:21:44.411Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/Bq-X12COtxI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCCMUng7V2byOFRdW8YdPSxCdaEsA",
+      "title": "Your Limits Are Learned (And They Can Be Unlearned) | Brain Coach Jim Kwik",
+      "videoUrl": "https://www.youtube.com/watch?v=Bq-X12COtxI",
+      "viewCountInt": 52000,
+      "viewCountText": "52K views"
+    },
+    {
+      "channel": {
+        "handle": "jubilee",
+        "id": "UCJjSDX-jUChzOEyok9XYRJQ",
+        "title": "Jubilee",
+        "url": "https://www.youtube.com/@jubilee"
+      },
+      "id": "KevTBc07wm8",
+      "lengthInSeconds": 5190,
+      "lengthText": "1:26:30",
+      "publishDate": "2026-08-04T10:21:44.411Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-04T10:21:44.411Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KevTBc07wm8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJTu-5GjaI83a6TKwf4j33OjaHIw",
+      "title": "1 Anti-Manosphere vs 20 Manosphere (ft. Mark Manson) | Surrounded",
+      "videoUrl": "https://www.youtube.com/watch?v=KevTBc07wm8",
+      "viewCountInt": 3100000,
+      "viewCountText": "3.1M views"
+    },
+    {
+      "channel": {
+        "handle": "MoreMozi",
+        "id": "UCrvchO1h6lWZAuGaa1LqX9Q",
+        "title": "MoreMozi",
+        "url": "https://www.youtube.com/@MoreMozi"
+      },
+      "id": "WZPLz3TfxLc",
+      "lengthInSeconds": 561,
+      "lengthText": "9:21",
+      "publishDate": "2026-08-04T10:21:44.411Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-04T10:21:44.411Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/WZPLz3TfxLc/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBeKFIwDw==&rs=AOn4CLB1eZnzLmQfDGtw4BPPlB9YQQGdGQ",
+      "title": "Why You Should Go All In on One Thing",
+      "videoUrl": "https://www.youtube.com/watch?v=WZPLz3TfxLc",
+      "viewCountInt": 83000,
+      "viewCountText": "83K views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": "2026-01-04T10:21:44.411Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2026-01-04T10:21:44.411Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_e8ed2ER_fNywLf4iQ_HJogacAQ",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 4099999.9999999995,
+      "viewCountText": "4.1M views"
+    },
+    {
+      "channel": {
+        "handle": "BusinessInsider",
+        "id": "UCcyq283he07B7_KUX07mmtA",
+        "title": "Business Insider",
+        "url": "https://www.youtube.com/@BusinessInsider"
+      },
+      "id": "3I-xv56cBUY",
+      "lengthInSeconds": 999,
+      "lengthText": "16:39",
+      "publishDate": "2026-09-02T10:21:44.411Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-02T10:21:44.411Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/3I-xv56cBUY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAXgkFunUzNAmGTlWqJ3vpv1Bkx5g",
+      "title": "Life Lessons From Big Tech Workers Who Got Laid Off",
+      "videoUrl": "https://www.youtube.com/watch?v=3I-xv56cBUY",
+      "viewCountInt": 1300000,
+      "viewCountText": "1.3M views"
+    },
+    {
+      "channel": {
+        "handle": "DanielPriestley",
+        "id": "UCABR204CFV9ZoMz69TyspzA",
+        "title": "Daniel Priestley",
+        "url": "https://www.youtube.com/@DanielPriestley"
+      },
+      "id": "fymfTFftN-g",
+      "lengthInSeconds": 1338,
+      "lengthText": "22:18",
+      "publishDate": "2026-08-04T10:21:44.411Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-04T10:21:44.411Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/fymfTFftN-g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC-s2LhYCcgGUy8czroyyomK2MatA",
+      "title": "What I Learned From Being Around The Top 0.01%",
+      "videoUrl": "https://www.youtube.com/watch?v=fymfTFftN-g",
+      "viewCountInt": 394000,
+      "viewCountText": "394K views"
+    }
+  ]
+}

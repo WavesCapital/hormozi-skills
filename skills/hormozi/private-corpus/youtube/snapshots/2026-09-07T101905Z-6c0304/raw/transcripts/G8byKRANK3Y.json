@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "So most business owners think that theyown a business, when in reality they own"
+    },
+    {
+      "endMs": "8560",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": "a very expensive, high-paying job.Investors don't buy businesses that"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "can't survive without the founder. So itdoesn't matter how much revenue you do,"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "9880",
+      "startTimeText": "0:09",
+      "text": "if every decision, you know, comes fromyou, every client and every fire comes"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "back to you, the value of the businessis close to zero. And it's something"
+    },
+    {
+      "endMs": "23320",
+      "startMs": "16200",
+      "startTimeText": "0:16",
+      "text": "that we call key man risk. And so untilyou solve it, you don't have an asset,"
+    },
+    {
+      "endMs": "23320",
+      "startMs": "20120",
+      "startTimeText": "0:20",
+      "text": "you actually have a liability."
+    }
+  ],
+  "transcript_only_text": " So most business owners think that they\nown a business, when in reality they own a very expensive, high-paying job.\nInvestors don't buy businesses that can't survive without the founder. So it\ndoesn't matter how much revenue you do, if every decision, you know, comes from\nyou, every client and every fire comes back to you, the value of the business\nis close to zero. And it's something that we call key man risk. And so until\nyou solve it, you don't have an asset, you actually have a liability.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=G8byKRANK3Y",
+  "videoId": "G8byKRANK3Y"
+}

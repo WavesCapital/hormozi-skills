@@ -18,6 +18,8 @@ Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any har
 | Next 1–3 months | | | |
 | Work to pull forward | | | |
 | This week's single priority | | | |
+| Needed service and routine work | | | |
+| Breaks and room for urgent work | | | |
 
 ## Communication Plan
 

@@ -1,0 +1,100 @@
+{
+  "status": "transcribed_not_reviewed",
+  "source_id": "100m-money-models-ebook-audiobooks-100m-money-models-affiliate-70-1-minute-busin:d3ba4174e7aa",
+  "source_sha256": "d3ba4174e7aad757884844368cd33b14fbd328c7f48e37512c16c4375a3f0494",
+  "original_path": "/Users/kylesteinmeyer7/Downloads/Alex Hormozi Docs 2/$100m Money Models eBook + Audiobooks/$100M Money Models - Affiliate 70 - 1 Minute Business Tactics.wav",
+  "source_duration_seconds": 6559.961063,
+  "start_seconds": 2000.0,
+  "duration_seconds": 130.0,
+  "model": "mlx-community/whisper-large-v3-turbo",
+  "runtime": "/private/tmp/hormozi-audio-review.K1WWXZ",
+  "started_at": "2026-09-05T23:03:39.936679+00:00",
+  "pid": 51418,
+  "reading_credit": false,
+  "original_probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "pcm_s16le",
+        "codec_long_name": "PCM signed 16-bit little-endian",
+        "codec_type": "audio",
+        "codec_tag_string": "[1][0][0][0]",
+        "codec_tag": "0x0001",
+        "sample_fmt": "s16",
+        "sample_rate": "48000",
+        "channels": 2,
+        "bits_per_sample": 16,
+        "initial_padding": 0,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "duration_ts": 314878131,
+        "duration": "6559.961062",
+        "bit_rate": "1536000",
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        }
+      }
+    ],
+    "format": {
+      "filename": "/Users/kylesteinmeyer7/Downloads/Alex Hormozi Docs 2/$100m Money Models eBook + Audiobooks/$100M Money Models - Affiliate 70 - 1 Minute Business Tactics.wav",
+      "nb_streams": 1,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "wav",
+      "format_long_name": "WAV / WAVE (Waveform Audio)",
+      "duration": "6559.961063",
+      "size": "1259512568",
+      "bit_rate": "1536000",
+      "probe_score": 99
+    }
+  },
+  "packages": {
+    "mlx-whisper": "0.4.3",
+    "mlx": "0.32.2",
+    "huggingface-hub": "1.30.0",
+    "numpy": "2.4.6"
+  },
+  "model_revision": "a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+  "model_files": {
+    "weights.safetensors": "951ed3fc1203e6a62467abb2144a96ce7eafca8fa77e3704fdb8635ff3e7f8a6",
+    "config.json": "b34fc29e4e11e0a25e812775dd67f4dd16fc2c8eb43d28ae25ff7d660ecb6379"
+  },
+  "model_path": "/private/tmp/hormozi-audio-review.K1WWXZ/huggingface/hub/models--mlx-community--whisper-large-v3-turbo/snapshots/a4aaeec0636e6fef84abdcbe3544cb2bf7e9f6fb",
+  "pcm_sha256": "2be2e59a81e96fe07011ac4f2c921725dff9e770035d71028213b78cc680e6e0",
+  "seconds_to_transcribe": 22.66209808300482,
+  "transcript_sha256": "fbb1d060eebe4e995027d07a1182ad0fb95a8750d4a27f35651a572ce85fb48f",
+  "segment_count": 21,
+  "flagged_segments": [
+    {
+      "id": 20,
+      "start": 129.96,
+      "end": 129.96,
+      "reasons": [
+        "empty_text"
+      ]
+    }
+  ],
+  "language": "en",
+  "completed_at": "2026-09-05T23:04:13.258250+00:00",
+  "original_unchanged": true,
+  "limits": "ASR can miss or invent words, speakers and punctuation. Full reading and uncertain-span checks remain required. Silence between segments is not proof of missing speech."
+}

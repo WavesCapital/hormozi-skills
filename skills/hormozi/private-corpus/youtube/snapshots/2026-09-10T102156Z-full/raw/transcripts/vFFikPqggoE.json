@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "If you get broken up with, if you're"
+    },
+    {
+      "endMs": "5200",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "like, \"Man, it takes half as long to get"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "over somebody as you were in a"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "5200",
+      "startTimeText": "0:05",
+      "text": "relationship.\" You guys ever heard that"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": "before? I've heard that. Why? Why? Who"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "made that rule? Why can't I get broken"
+    },
+    {
+      "endMs": "17359",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "up with today and be better immediately?"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "Why not? What stops me? What rule of"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "17359",
+      "startTimeText": "0:17",
+      "text": "physics prevents me from behaving in a"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "18880",
+      "startTimeText": "0:18",
+      "text": "certain way?"
+    }
+  ],
+  "transcript_only_text": " If  you  get  broken  up  with,  if  you're \n like,  \"Man,  it  takes  half  as  long  to  get \n over  somebody  as  you  were in  a \n relationship.\"  You  guys  ever  heard  that \n before?  I've  heard  that.  Why?  Why?  Who \n made  that  rule?  Why  can't  I  get  broken \n up  with  today  and  be  better  immediately? \n Why  not?  What  stops  me?  What  rule  of \n physics  prevents  me  from  behaving  in  a \n certain  way?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=vFFikPqggoE",
+  "videoId": "vFFikPqggoE"
+}

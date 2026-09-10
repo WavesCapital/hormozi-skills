@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "Starting a business for dummies. Suck at"
+    },
+    {
+      "endMs": "5759",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "something. Work for free lots of times"
+    },
+    {
+      "endMs": "7120",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "and suck less. Wait until people ask you"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "5759",
+      "startTimeText": "0:05",
+      "text": "for free work and then you can't take"
+    },
+    {
+      "endMs": "9825",
+      "startMs": "7120",
+      "startTimeText": "0:07",
+      "text": "them on because now you have more demand"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "than you have supply. And then offer to"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "9825",
+      "startTimeText": "0:09",
+      "text": "[music] keep working for the free"
+    },
+    {
+      "endMs": "13759",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "clients for money. Boot out the free"
+    },
+    {
+      "endMs": "14880",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "clients for the paid clients. Once you"
+    },
+    {
+      "endMs": "17040",
+      "startMs": "13759",
+      "startTimeText": "0:13",
+      "text": "do that, congrats. Do you have a"
+    },
+    {
+      "endMs": "17040",
+      "startMs": "14880",
+      "startTimeText": "0:14",
+      "text": "business?"
+    }
+  ],
+  "transcript_only_text": " Starting  a  business  for  dummies.  Suck  at \n something.  Work  for  free  lots  of  times \n and  suck  less.  Wait  until  people  ask  you \n for  free  work  and  then  you  can't  take \n them  on  because  now  you  have  more  demand \n than  you  have  supply.  And  then  offer  to \n [music]  keep  working  for  the  free \n clients  for  money.  Boot  out  the  free \n clients  for  the  paid  clients.  Once  you \n do  that,  congrats.  Do  you  have  a \n business?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=3cEUUR8Kk8w",
+  "videoId": "3cEUUR8Kk8w"
+}

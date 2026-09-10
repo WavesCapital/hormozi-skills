@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "How did you choose the people that youkeep in your circle? I just always"
+    },
+    {
+      "endMs": "7320",
+      "startMs": "3200",
+      "startTimeText": "0:03",
+      "text": "think, \"Does this person help me becomethe person I want to become? [music] Do"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "5720",
+      "startTimeText": "0:05",
+      "text": "they get me closer or further?\" If theyget me closer, then I want them closer"
+    },
+    {
+      "endMs": "11200",
+      "startMs": "9120",
+      "startTimeText": "0:09",
+      "text": "to me. If they get me further, I wantthem further from me."
+    },
+    {
+      "endMs": "13840",
+      "startMs": "11135",
+      "startTimeText": "0:11",
+      "text": ">> [music]>> And I don't think that's I don't think"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "12240",
+      "startTimeText": "0:12",
+      "text": "that's binary. I think that that happensnaturally over time."
+    }
+  ],
+  "transcript_only_text": " How did you choose the people that you\nkeep in your circle? I just always think, \"Does this person help me become\nthe person I want to become? [music] Do they get me closer or further?\" If they\nget me closer, then I want them closer to me. If they get me further, I want\nthem further from me. >> [music]\n>> And I don't think that's I don't think that's binary. I think that that happens\nnaturally over time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=g5E3WeVOjCk",
+  "videoId": "g5E3WeVOjCk"
+}

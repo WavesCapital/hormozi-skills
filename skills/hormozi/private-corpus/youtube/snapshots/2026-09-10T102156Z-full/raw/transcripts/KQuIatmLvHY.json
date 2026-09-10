@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This one is so unsexy and because it's"
+    },
+    {
+      "endMs": "7120",
+      "startMs": "2520",
+      "startTimeText": "0:02",
+      "text": "so unsexy, no one does it, which is why"
+    },
+    {
+      "endMs": "10000",
+      "startMs": "4240",
+      "startTimeText": "0:04",
+      "text": "you make so much money doing this. Prep"
+    },
+    {
+      "endMs": "11760",
+      "startMs": "7120",
+      "startTimeText": "0:07",
+      "text": "for 5 minutes before the call, looking"
+    },
+    {
+      "endMs": "13560",
+      "startMs": "10000",
+      "startTimeText": "0:10",
+      "text": "up stuff about the person or the"
+    },
+    {
+      "endMs": "15760",
+      "startMs": "11760",
+      "startTimeText": "0:11",
+      "text": "business. You would be amazed at how"
+    },
+    {
+      "endMs": "17080",
+      "startMs": "13560",
+      "startTimeText": "0:13",
+      "text": "much of a genius you look like with 5"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15760",
+      "startTimeText": "0:15",
+      "text": "minutes of prep. People are like, \"Wow,"
+    },
+    {
+      "endMs": "19720",
+      "startMs": "17080",
+      "startTimeText": "0:17",
+      "text": "this guy really did his homework.\" And"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": "it's not because you really did that"
+    },
+    {
+      "endMs": "23520",
+      "startMs": "19720",
+      "startTimeText": "0:19",
+      "text": "much homework, it's just because"
+    },
+    {
+      "endMs": "26960",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "everyone else is so lazy that any level"
+    },
+    {
+      "endMs": "26960",
+      "startMs": "23520",
+      "startTimeText": "0:23",
+      "text": "of effort looks amazing."
+    }
+  ],
+  "transcript_only_text": " This  one  is  so  unsexy  and  because  it's \n so  unsexy,  no  one  does  it,  which  is  why \n you  make  so  much  money  doing  this.  Prep \n for  5  minutes  before  the  call,  looking \n up  stuff  about  the  person  or  the \n business.  You  would  be  amazed  at  how \n much  of  a  genius  you  look  like  with  5 \n minutes  of  prep.  People  are  like,  \"Wow, \n this  guy  really  did  his  homework.\"  And \n it's  not  because  you  really  did  that \n much  homework,  it's  just  because \n everyone  else  is  so  lazy  that  any  level \n of  effort  looks  amazing.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=KQuIatmLvHY",
+  "videoId": "KQuIatmLvHY"
+}

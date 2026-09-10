@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "There's a theory that media works like afunnel. You make entertaining content"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "and then the theory states that peoplewho watch that content then will go to"
+    },
+    {
+      "endMs": "13040",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "more educational content. Okay? Soundssimple enough. We've got something wide,"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "we've got something narrow. Fantastic.In my experience, it works much more"
+    },
+    {
+      "endMs": "21920",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "like entertainment people want moreentertainment content and education"
+    },
+    {
+      "endMs": "25920",
+      "startMs": "19240",
+      "startTimeText": "0:19",
+      "text": "people want more education content. Andso in other words, these people do not"
+    },
+    {
+      "endMs": "30000",
+      "startMs": "23920",
+      "startTimeText": "0:23",
+      "text": "become these people. So if I want moreof these people, then they deserve the"
+    },
+    {
+      "endMs": "32640",
+      "startMs": "27960",
+      "startTimeText": "0:27",
+      "text": "stuff that they value. All views are notcreated equal."
+    }
+  ],
+  "transcript_only_text": " There's a theory that media works like a\nfunnel. You make entertaining content and then the theory states that people\nwho watch that content then will go to more educational content. Okay? Sounds\nsimple enough. We've got something wide, we've got something narrow. Fantastic.\nIn my experience, it works much more like entertainment people want more\nentertainment content and education people want more education content. And\nso in other words, these people do not become these people. So if I want more\nof these people, then they deserve the stuff that they value. All views are not\ncreated equal.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=DG_Fkm_uZZ0",
+  "videoId": "DG_Fkm_uZZ0"
+}

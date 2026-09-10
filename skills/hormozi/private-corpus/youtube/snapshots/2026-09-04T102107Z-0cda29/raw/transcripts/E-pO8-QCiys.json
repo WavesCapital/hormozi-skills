@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You'd be amazed at how much better you"
+    },
+    {
+      "endMs": "6280",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "get after you've done it a hundred"
+    },
+    {
+      "endMs": "7720",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "times. If you want to win, do it again."
+    },
+    {
+      "endMs": "9160",
+      "startMs": "6280",
+      "startTimeText": "0:06",
+      "text": "You don't just post a hundred videos in"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "7720",
+      "startTimeText": "0:07",
+      "text": "a row and see what happens. You post"
+    },
+    {
+      "endMs": "13200",
+      "startMs": "9160",
+      "startTimeText": "0:09",
+      "text": "one, see what worked, and then try and"
+    },
+    {
+      "endMs": "15760",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "do more of that thing. And so the idea"
+    },
+    {
+      "endMs": "19120",
+      "startMs": "13200",
+      "startTimeText": "0:13",
+      "text": "isn't just raw effort, it's raw effort"
+    },
+    {
+      "endMs": "19120",
+      "startMs": "15760",
+      "startTimeText": "0:15",
+      "text": "with an improvement loop."
+    }
+  ],
+  "transcript_only_text": " You'd  be  amazed  at  how  much  better  you \n get  after  you've  done  it  a  hundred \n times.  If  you  want  to  win,  do  it  again. \n You  don't  just  post  a  hundred  videos  in \n a  row  and  see  what  happens.  You  post \n one,  see  what  worked,  and  then  try  and \n do  more  of  that  thing.  And  so  the  idea \n isn't  just  raw  effort,  it's  raw  effort \n with  an  improvement  loop.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=E-pO8-QCiys",
+  "videoId": "E-pO8-QCiys"
+}

@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2560",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "Most people think about business"
+    },
+    {
+      "endMs": "4160",
+      "startMs": "1120",
+      "startTimeText": "0:01",
+      "text": "strategy like they think about making"
+    },
+    {
+      "endMs": "5279",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "dinner. They go to their kitchen, they"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "open up the fridge, they look what's"
+    },
+    {
+      "endMs": "8000",
+      "startMs": "5279",
+      "startTimeText": "0:05",
+      "text": "inside, say, \"What what what am I going"
+    },
+    {
+      "endMs": "9280",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "to whip up?\" Right? That's how they"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "think about business strategy. The"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "9280",
+      "startTimeText": "0:09",
+      "text": "question that we should be asking isn't"
+    },
+    {
+      "endMs": "13679",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "what am I going to whip up from what's"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "inside the fridge. We should ask the"
+    },
+    {
+      "endMs": "17279",
+      "startMs": "13679",
+      "startTimeText": "0:13",
+      "text": "question, \"What the [ __ ] do I want to"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "eat?\" And then go get the ingredients"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "17279",
+      "startTimeText": "0:17",
+      "text": "and go make it"
+    }
+  ],
+  "transcript_only_text": " Most  people  think  about  business \n strategy  like  they  think  about  making \n dinner.  They  go  to  their  kitchen,  they \n open  up  the  fridge,  they  look  what's \n inside,  say,  \"What  what  what  am  I  going \n to  whip  up?\"  Right?  That's  how  they \n think  about  business  strategy.  The \n question  that  we  should  be  asking  isn't \n what  am  I  going  to  whip  up  from  what's \n inside  the  fridge.  We  should  ask  the \n question,  \"What  the  [ __ ]  do  I  want  to \n eat?\"  And  then  go  get  the  ingredients \n and  go  make  it",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=oIa9iN5T-zc",
+  "videoId": "oIa9iN5T-zc"
+}

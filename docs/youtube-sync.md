@@ -23,7 +23,7 @@ The runner and scheduler are deployment-owned because credentials, channel confi
 
 The sync writes normalized, source-addressed records and rebuilds the bundled retrieval index. The advisor uses the skill-local corpus by default. `HORMOZI_CORPUS_ROOT` or the nearest `.hormozi/corpus.json` can select another corpus.
 
-Query primary file doctrine separately from recent-video evidence:
+Query primary file doctrine separately from video evidence. For video access, use the task's inclusive publication bounds with a time zone; if none were set, use the saved library window. Keep any frozen cutoff fixed. Replace the example placeholders with those bounds and a known video ID. This reading scope does not change the deployment-owned sync schedule or ingestion inventory.
 
 ```bash
 python3 skills/hormozi/scripts/corpus.py query \
@@ -32,11 +32,13 @@ python3 skills/hormozi/scripts/corpus.py query \
   --source-type file \
   --limit 6
 
-python3 skills/hormozi/scripts/corpus.py query \
+python3 skills/hormozi/scripts/video_source.py search \
   --corpus-root skills/hormozi/private-corpus \
-  --query "recent refinement terms" \
-  --source-type youtube \
-  --limit 6
+  --after START_ISO --before END_ISO \
+  --video-id VIDEO_ID \
+  --query "recent refinement terms"
 ```
+
+Use the helper's metadata-only `list` command to find a title or check an ID. Then read the needed span with pinned source hashes. It checks date and type before returning any text and excludes Shorts unless explicitly allowed. See the [source-reading guide](../skills/hormozi/references/source-reading.md) for full commands, paging and source limits. A search hit is not a completed review.
 
 YouTube evidence does not become canonical doctrine merely because it is recent. A material rule change requires direct attribution, exact timestamp review, conflict review, visual-context review when needed, and an explicit dated evidence decision.

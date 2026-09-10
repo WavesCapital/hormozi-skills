@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Why would people want to watch sports"
+    },
+    {
+      "endMs": "5400",
+      "startMs": "1640",
+      "startTimeText": "0:01",
+      "text": "when you could have robots play"
+    },
+    {
+      "endMs": "7840",
+      "startMs": "2680",
+      "startTimeText": "0:02",
+      "text": "football? Well, people still go and"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "watch chess players play even though"
+    },
+    {
+      "endMs": "11480",
+      "startMs": "7840",
+      "startTimeText": "0:07",
+      "text": "everyone knows the computer can beat all"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "9480",
+      "startTimeText": "0:09",
+      "text": "of them. We still like seeing humans do"
+    },
+    {
+      "endMs": "15120",
+      "startMs": "11480",
+      "startTimeText": "0:11",
+      "text": "There's robots that can pick up"
+    },
+    {
+      "endMs": "17040",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "weights off the ground that are way"
+    },
+    {
+      "endMs": "18760",
+      "startMs": "15120",
+      "startTimeText": "0:15",
+      "text": "heavier than a human can do, but we"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "17040",
+      "startTimeText": "0:17",
+      "text": "still like to see what human potential"
+    },
+    {
+      "endMs": "22800",
+      "startMs": "18760",
+      "startTimeText": "0:18",
+      "text": "is cuz I think it gives us some hope"
+    },
+    {
+      "endMs": "22800",
+      "startMs": "19920",
+      "startTimeText": "0:19",
+      "text": "about ourselves."
+    }
+  ],
+  "transcript_only_text": " Why  would  people  want  to  watch  sports \n when  you  could  have  robots  play \n football?  Well,  people  still  go  and \n watch  chess  players  play  even  though \n everyone  knows  the  computer  can  beat  all \n of  them.  We  still  like  seeing  humans  do \n  There's  robots  that  can  pick  up \n weights  off  the  ground  that  are  way \n heavier  than  a  human  can  do,  but  we \n still  like  to  see  what  human  potential \n is  cuz  I  think  it  gives  us  some  hope \n about  ourselves.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=TqozFe8wuy0",
+  "videoId": "TqozFe8wuy0"
+}

@@ -1,0 +1,302 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=t8zJD8VBXO0&ei=3kmZaofUOdXFy_sPk6S5WA&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788456014&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=DFD30891F96BD2A0DC83EE00514566F6C6DD48AD.7CA9B956A60341BA8641CC675F0BA935ED8C4E62&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 10,
+  "commentCountText": "10",
+  "credits_charged": 1,
+  "credits_remaining": 14494,
+  "description": "The hardest (bootstrapped) revenue level is $1m to $3m in revenue. Main reason: assuming 25% margins, you have $250k to $750k in profit. Typically you need higher value teammates to scale. And they cost...$250k-$750k. So you have to bet everything on an unsure thing. 3 Alternatives: 1) Narrow avatar to more valuable customers, so you can make more money with same infra. 2) Make a better offer you can charge more money for 3) Raise prices. But no matter which path you choose, it takes more risk to get out of \"the swamp' than it take to get into it (which is why most get in, and never break out).",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:02:08",
+  "durationMs": 128000,
+  "genre": "Education",
+  "id": "t8zJD8VBXO0",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1295,
+  "likeCountText": "1295",
+  "most_replayed": null,
+  "publishDate": "2026-09-02T22:01:38-07:00",
+  "publishDateText": "Sep 2, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/t8zJD8VBXO0/maxresdefault.jpg",
+  "title": "I Woke Up With $0 and Wanted to Be a Millionaire. Here's What I'd Do",
+  "type": "video",
+  "viewCountInt": 8836,
+  "viewCountText": "8,836",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:20:15.693Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-22T10:20:15.693Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBs_NyzFlDxXea57Dma-xL6gVkOFQ",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 237000,
+      "viewCountText": "237K views"
+    },
+    {
+      "channel": {
+        "handle": "MinorityMindset",
+        "id": "UCT3EznhW_CNFcfOlyDNTLLw",
+        "title": "Minority Mindset",
+        "url": "https://www.youtube.com/@MinorityMindset"
+      },
+      "id": "fbH8KiyAu60",
+      "lengthInSeconds": 2170,
+      "lengthText": "36:10",
+      "publishDate": "2026-09-01T10:20:15.693Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-01T10:20:15.693Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/fbH8KiyAu60/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBItCBb5Vl-NPj1Y_2Ke6eNmip6Nw",
+      "title": "It's Over: America Is Now Buying Its Own Debt",
+      "videoUrl": "https://www.youtube.com/watch?v=fbH8KiyAu60",
+      "viewCountInt": 1300000,
+      "viewCountText": "1.3M views"
+    },
+    {
+      "channel": {
+        "handle": "JayYangInspires",
+        "id": "UC3dZFDFfGZzBWnGYh0TMddg",
+        "title": "Jay Yang",
+        "url": "https://www.youtube.com/@JayYangInspires"
+      },
+      "id": "kstGHf469OU",
+      "lengthInSeconds": 1051,
+      "lengthText": "17:31",
+      "publishDate": "2026-08-13T10:20:15.693Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-13T10:20:15.693Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/kstGHf469OU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCcuIAN4aVBKIHeYIe1CyL0uNGnrQ",
+      "title": "Everything I Learned Working With Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=kstGHf469OU",
+      "viewCountInt": 65000,
+      "viewCountText": "65K views"
+    },
+    {
+      "channel": {
+        "handle": "ScreenPuff",
+        "id": "UC6qAABOkwaI1ImYY6oDbi-A",
+        "title": "ScreenPuff",
+        "url": "https://www.youtube.com/@ScreenPuff"
+      },
+      "id": "crH2pS_CZto",
+      "lengthInSeconds": 1162,
+      "lengthText": "19:22",
+      "publishDate": "2026-08-22T10:20:15.693Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-22T10:20:15.693Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/crH2pS_CZto/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDgIkrL6BFKGCVgldV7M74xDIufKQ",
+      "title": "When you audition without giving a f**k",
+      "videoUrl": "https://www.youtube.com/watch?v=crH2pS_CZto",
+      "viewCountInt": 7300000,
+      "viewCountText": "7.3M views"
+    },
+    {
+      "channel": {
+        "handle": "PsychToonsHQ",
+        "id": "UC7ogBsKt4AoJBu8bObb0QiA",
+        "title": "PsychToons",
+        "url": "https://www.youtube.com/@PsychToonsHQ"
+      },
+      "id": "f1gkkzHZxNg",
+      "lengthInSeconds": 904,
+      "lengthText": "15:04",
+      "publishDate": "2026-08-31T10:20:15.693Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-08-31T10:20:15.693Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/f1gkkzHZxNg/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLB3iuADkrJ1uz1_PWZYwl4y3XrMPA",
+      "title": "Psychology of Intelligence: Learn Anything So Fast It's Almost Unfair",
+      "videoUrl": "https://www.youtube.com/watch?v=f1gkkzHZxNg",
+      "viewCountInt": 749000,
+      "viewCountText": "749K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-20T10:20:15.693Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-20T10:20:15.693Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLAgdCXagPhalSDKZ3RzTsXqHdjGGw",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 520000,
+      "viewCountText": "520K views"
+    },
+    {
+      "channel": {
+        "handle": "ShaneHummus",
+        "id": "UCLKZ20yD2tNMBOkSDZo4FeQ",
+        "title": "Shane Hummus",
+        "url": "https://www.youtube.com/@ShaneHummus"
+      },
+      "id": "OT3Ndk7bEws",
+      "lengthInSeconds": 1088,
+      "lengthText": "18:08",
+      "publishDate": "2026-08-03T10:20:15.693Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:15.693Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/OT3Ndk7bEws/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCqph-0Z0JlPf9yCXtgZB--HtUKmA",
+      "title": "5 Jobs So Desperate For Workers They'll Hire You On the Spot",
+      "videoUrl": "https://www.youtube.com/watch?v=OT3Ndk7bEws",
+      "viewCountInt": 2400000,
+      "viewCountText": "2.4M views"
+    },
+    {
+      "channel": {
+        "handle": "IzzySealey",
+        "id": "UCbOhZ3HUP0eqbQgGYSMHo1w",
+        "title": "Dr. Izzy Sealey",
+        "url": "https://www.youtube.com/@IzzySealey"
+      },
+      "id": "y56WxOQAzoA",
+      "lengthInSeconds": 1351,
+      "lengthText": "22:31",
+      "publishDate": "2026-06-03T10:20:15.693Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-06-03T10:20:15.693Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/y56WxOQAzoA/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBWaH8V7_XPqQyxLsOHewfs1oV6Ow",
+      "title": "How to Train Your Brain to Crave Doing Hard Things",
+      "videoUrl": "https://www.youtube.com/watch?v=y56WxOQAzoA",
+      "viewCountInt": 880000,
+      "viewCountText": "880K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:20:15.693Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-29T10:20:15.693Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDUuhUBxAWwLMWAWuBOcSqKfeyQaA",
+      "title": "How I Would Build a $10M Service Business (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 761000,
+      "viewCountText": "761K views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": "2026-01-03T10:20:15.693Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2026-01-03T10:20:15.693Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLC4uxDpNZet_tM43yJBeTvyEkqYHA",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 4099999.9999999995,
+      "viewCountText": "4.1M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "sL16tsGafcQ",
+      "lengthInSeconds": 1513,
+      "lengthText": "25:13",
+      "publishDate": "2026-07-03T10:20:15.693Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-03T10:20:15.693Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/sL16tsGafcQ/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDL0UIQIWvjwcXr9kT-VF9Be-My6Q",
+      "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
+      "videoUrl": "https://www.youtube.com/watch?v=sL16tsGafcQ",
+      "viewCountInt": 727000,
+      "viewCountText": "727K views"
+    },
+    {
+      "channel": {
+        "handle": "jubilee",
+        "id": "UCJjSDX-jUChzOEyok9XYRJQ",
+        "title": "Jubilee",
+        "url": "https://www.youtube.com/@jubilee"
+      },
+      "id": "KevTBc07wm8",
+      "lengthInSeconds": 5190,
+      "lengthText": "1:26:30",
+      "publishDate": "2026-08-03T10:20:15.693Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:15.693Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KevTBc07wm8/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCF2MrHOY9KhXCy-lgB3qvGx9ZzSw",
+      "title": "1 Anti-Manosphere vs 20 Manosphere (ft. Mark Manson) | Surrounded",
+      "videoUrl": "https://www.youtube.com/watch?v=KevTBc07wm8",
+      "viewCountInt": 3100000,
+      "viewCountText": "3.1M views"
+    }
+  ]
+}

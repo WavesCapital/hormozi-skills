@@ -1,0 +1,143 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3520",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "In any given function, let's say that"
+    },
+    {
+      "endMs": "5320",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "this is your baseline of performance."
+    },
+    {
+      "endMs": "7200",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "Now, whenever you change anything, in my"
+    },
+    {
+      "endMs": "8640",
+      "startMs": "5320",
+      "startTimeText": "0:05",
+      "text": "experience, you get about a 20% decrease"
+    },
+    {
+      "endMs": "9680",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "in performance immediately. So, if you"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "8640",
+      "startTimeText": "0:08",
+      "text": "change a sales script, you get a"
+    },
+    {
+      "endMs": "12440",
+      "startMs": "9680",
+      "startTimeText": "0:09",
+      "text": "decrease in performance. You change your"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "your ad copy, often times you get a"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "12440",
+      "startTimeText": "0:12",
+      "text": "decrease or decrement in performance."
+    },
+    {
+      "endMs": "17280",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "And so, if I know that I'm guaranteed to"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "15560",
+      "startTimeText": "0:15",
+      "text": "have this 20% decrease, then it means"
+    },
+    {
+      "endMs": "21200",
+      "startMs": "17280",
+      "startTimeText": "0:17",
+      "text": "that I need to make changes that I have"
+    },
+    {
+      "endMs": "23600",
+      "startMs": "18920",
+      "startTimeText": "0:18",
+      "text": "a very strong idea that they're going to"
+    },
+    {
+      "endMs": "24840",
+      "startMs": "21200",
+      "startTimeText": "0:21",
+      "text": "have at least a 20% increase effect. If"
+    },
+    {
+      "endMs": "25880",
+      "startMs": "23600",
+      "startTimeText": "0:23",
+      "text": "you're building a physical product, if"
+    },
+    {
+      "endMs": "27480",
+      "startMs": "24840",
+      "startTimeText": "0:24",
+      "text": "you're building software, that's"
+    },
+    {
+      "endMs": "28960",
+      "startMs": "25880",
+      "startTimeText": "0:25",
+      "text": "different. In a service business, if"
+    },
+    {
+      "endMs": "31760",
+      "startMs": "27480",
+      "startTimeText": "0:27",
+      "text": "you're changing process that people have"
+    },
+    {
+      "endMs": "34480",
+      "startMs": "28960",
+      "startTimeText": "0:28",
+      "text": "to execute, very tough. Make sure that"
+    },
+    {
+      "endMs": "34480",
+      "startMs": "31760",
+      "startTimeText": "0:31",
+      "text": "it's worth it."
+    }
+  ],
+  "transcript_only_text": " In  any  given  function,  let's  say  that \n this  is  your  baseline  of  performance. \n Now,  whenever  you  change  anything,  in  my \n experience,  you  get  about  a  20%  decrease \n in  performance  immediately.  So,  if  you \n change  a  sales  script,  you  get  a \n decrease  in  performance.  You  change  your \n your  ad  copy,  often  times  you  get  a \n decrease  or  decrement  in  performance. \n And  so,  if  I  know  that  I'm  guaranteed  to \n have  this  20%  decrease,  then  it  means \n that  I  need  to  make  changes  that  I  have \n a  very  strong  idea  that  they're  going  to \n have  at  least  a  20%  increase  effect.  If \n you're  building  a  physical  product,  if \n you're  building  software,  that's \n different.  In  a  service  business,  if \n you're  changing  process  that  people  have \n to  execute,  very  tough.  Make  sure  that \n it's  worth  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=Ylsfdir3BMc",
+  "videoId": "Ylsfdir3BMc"
+}

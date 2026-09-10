@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If the metrics that you have for thething that you love are above or at your"
+    },
+    {
+      "endMs": "10760",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "industry benchmark, leave it alone. It'snot the thing that's limiting your"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "8920",
+      "startTimeText": "0:08",
+      "text": "business because you need to free up allthat bandwidth so that you can actually"
+    },
+    {
+      "endMs": "17040",
+      "startMs": "12680",
+      "startTimeText": "0:12",
+      "text": "learn the new skills or focus on thething that really is limiting your"
+    },
+    {
+      "endMs": "21440",
+      "startMs": "15720",
+      "startTimeText": "0:15",
+      "text": "business, which is probably the thingyou suck at and you don't like doing and"
+    },
+    {
+      "endMs": "21440",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": "you outsource."
+    }
+  ],
+  "transcript_only_text": " If the metrics that you have for the\nthing that you love are above or at your industry benchmark, leave it alone. It's\nnot the thing that's limiting your business because you need to free up all\nthat bandwidth so that you can actually learn the new skills or focus on the\nthing that really is limiting your business, which is probably the thing\nyou suck at and you don't like doing and you outsource.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=7UtvzHpN12I",
+  "videoId": "7UtvzHpN12I"
+}

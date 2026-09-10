@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4000",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "I like working more than I like doing"
+    },
+    {
+      "endMs": "5920",
+      "startMs": "2080",
+      "startTimeText": "0:02",
+      "text": "just about anything else. And so I work"
+    },
+    {
+      "endMs": "7440",
+      "startMs": "4000",
+      "startTimeText": "0:04",
+      "text": "with all the hours that I can until I"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "5920",
+      "startTimeText": "0:05",
+      "text": "can't work anymore. And then at that"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "point, I go into rest mode. And whatever"
+    },
+    {
+      "endMs": "12719",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "I feel like resting with, which whether"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "that's a day at the pool, whether that's"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "12719",
+      "startTimeText": "0:12",
+      "text": "watching Netflix or going to a movie or"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "just like a big workout morning into"
+    },
+    {
+      "endMs": "19359",
+      "startMs": "16160",
+      "startTimeText": "0:16",
+      "text": "like brunch and hanging out with"
+    },
+    {
+      "endMs": "21760",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "buddies, that's what I do to recharge."
+    },
+    {
+      "endMs": "23439",
+      "startMs": "19359",
+      "startTimeText": "0:19",
+      "text": "And I see that as active and productive"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "21760",
+      "startTimeText": "0:21",
+      "text": "because it increases my total output for"
+    },
+    {
+      "endMs": "26080",
+      "startMs": "23439",
+      "startTimeText": "0:23",
+      "text": "the week or the"
+    }
+  ],
+  "transcript_only_text": " I  like  working  more  than  I  like  doing \n just  about  anything  else.  And  so  I  work \n with  all  the  hours  that  I  can  until  I \n can't  work  anymore.  And  then  at  that \n point,  I  go  into  rest  mode.  And  whatever \n I  feel  like  resting  with,  which  whether \n that's  a  day  at  the  pool,  whether  that's \n watching  Netflix  or  going  to  a  movie  or \n just  like  a  big  workout  morning  into \n like  brunch  and  hanging  out  with \n buddies,  that's  what  I  do  to  recharge. \n And  I  see  that  as  active  and  productive \n because  it  increases  my  total  output  for \n the  week  or  the",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=69dqyrlbMzo",
+  "videoId": "69dqyrlbMzo"
+}

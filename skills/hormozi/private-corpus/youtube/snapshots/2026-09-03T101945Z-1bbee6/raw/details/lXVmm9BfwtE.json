@@ -1,0 +1,293 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 30,
+  "commentCountText": "30",
+  "credits_charged": 1,
+  "description": "People work their whole lives for what they could get in a few years if they just went all in.\n\nDeleting work life balance for a season gives you more work life balance over a lifetime.\n\nYou're not crazy for working hard, you're crazy for trying to get them to understand.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:00:18",
+  "durationMs": 18000,
+  "genre": "Education",
+  "id": "lXVmm9BfwtE",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1659,
+  "likeCountText": "1659",
+  "most_replayed": null,
+  "publishDate": "2026-05-17T08:01:26-07:00",
+  "publishDateText": "May 17, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/lXVmm9BfwtE/maxresdefault.jpg",
+  "title": "\"I Want Days Off...\"",
+  "type": "video",
+  "viewCountInt": 89890,
+  "viewCountText": "89,890",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-02T10:46:45.664Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:46:45.664Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "official-yesterday",
+        "id": "UCE08yuKd8vfMhtC0YoUYBSw",
+        "title": "YESTERDAY",
+        "url": "https://www.youtube.com/@official-yesterday"
+      },
+      "id": "W5v_IrhO-1w",
+      "lengthInSeconds": 1942,
+      "lengthText": "32:22",
+      "publishDate": "2026-08-12T10:46:45.664Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-12T10:46:45.664Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/W5v_IrhO-1w/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD0iBvwqnPk7PvYhuUJ63ge6eQQnw",
+      "title": "Why the Mariana Trench Still Terrifies Scientists",
+      "videoUrl": "https://www.youtube.com/watch?v=W5v_IrhO-1w",
+      "viewCountInt": 1900000,
+      "viewCountText": "1.9M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-02T10:46:45.664Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:46:45.664Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "QuietQuest",
+        "id": "UC1dVfl5-I98WX3yCy8IJQMg",
+        "title": "Quiet Quest - Study Music",
+        "url": "https://www.youtube.com/@QuietQuest"
+      },
+      "id": "Ie5GGRkjSXE",
+      "lengthInSeconds": 14400,
+      "lengthText": "4:00:00",
+      "publishDate": "2022-09-02T10:46:45.664Z",
+      "publishDateText": "4 years ago",
+      "publishedTime": "2022-09-02T10:46:45.664Z",
+      "publishedTimeText": "4 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/Ie5GGRkjSXE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA1Dnc3ENKuD105OndlT2VxI4PZZw",
+      "title": "4 Hours of Deep Focus Music for Studying - Concentration Music For Deep Thinking And Focus",
+      "videoUrl": "https://www.youtube.com/watch?v=Ie5GGRkjSXE",
+      "viewCountInt": 2700000,
+      "viewCountText": "2.7M views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "RyuoM-Nc63M",
+      "lengthInSeconds": 650,
+      "lengthText": "10:50",
+      "publishDate": "2026-08-26T10:46:45.664Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-08-26T10:46:45.664Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/RyuoM-Nc63M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAcw1_2oUy4uud_GV4ufpZKKLcxFg",
+      "title": "Why More Success Can Leave You With Less Peace! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=RyuoM-Nc63M",
+      "viewCountInt": 61,
+      "viewCountText": "61 views"
+    },
+    {
+      "channel": {
+        "handle": "adammockler",
+        "id": "UC8DA4o0SyaGfyVaBLbF5EXg",
+        "title": "Adam Mockler",
+        "url": "https://www.youtube.com/@adammockler"
+      },
+      "id": "gYxsW7k15bE",
+      "lengthInSeconds": 617,
+      "lengthText": "10:17",
+      "publishDate": "2026-05-02T10:46:45.664Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-05-02T10:46:45.664Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/gYxsW7k15bE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA0Q-J7eOY1ceHMXd5ZN3UjSGltwg",
+      "title": "Pete Buttigieg Makes MAGA Host CRY on LIVE TV",
+      "videoUrl": "https://www.youtube.com/watch?v=gYxsW7k15bE",
+      "viewCountInt": 1800000,
+      "viewCountText": "1.8M views"
+    },
+    {
+      "channel": {
+        "handle": "FoundMyFitnessClips",
+        "id": "UC5fdyC4LxyyYv8Am6nDrkmg",
+        "title": "FoundMyFitness Clips",
+        "url": "https://www.youtube.com/@FoundMyFitnessClips"
+      },
+      "id": "1vfWaOv03l0",
+      "lengthInSeconds": 351,
+      "lengthText": "5:51",
+      "publishDate": "2026-07-02T10:46:45.664Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-02T10:46:45.664Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/1vfWaOv03l0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDzRVAfv2wRPOoV23dHAaiihxFxBQ",
+      "title": "This Creatine Dose Makes You Feel Like You Slept 8 Hours",
+      "videoUrl": "https://www.youtube.com/watch?v=1vfWaOv03l0",
+      "viewCountInt": 234000,
+      "viewCountText": "234K views"
+    },
+    {
+      "channel": {
+        "handle": "DonnyRapture",
+        "id": "UCwwE3Wf6I4OI0yizs26NvUQ",
+        "title": "Donny Rapture",
+        "url": "https://www.youtube.com/@DonnyRapture"
+      },
+      "id": "q7vEPcoNzSc",
+      "lengthInSeconds": 816,
+      "lengthText": "13:36",
+      "publishDate": "2024-09-02T10:46:45.664Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-09-02T10:46:45.664Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/q7vEPcoNzSc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC2y0R8Kv3Xan3AI3sDvGr7jpvLaA",
+      "title": "Rich Kids Give Officer The Finger - ENDS BADLY",
+      "videoUrl": "https://www.youtube.com/watch?v=q7vEPcoNzSc",
+      "viewCountInt": 7600000,
+      "viewCountText": "7.6M views"
+    },
+    {
+      "channel": {
+        "handle": "nypost",
+        "id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+        "title": "New York Post",
+        "url": "https://www.youtube.com/@nypost"
+      },
+      "id": "4V4nLFzGovY",
+      "lengthInSeconds": 169,
+      "lengthText": "2:49",
+      "publishDate": "2026-08-19T10:46:45.664Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:46:45.664Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/4V4nLFzGovY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCV9viCMLwVoQTEf6wXabjXKzIIsA",
+      "title": "Texas Teacher Breaks Down After Seniors Struggle to Read and Write",
+      "videoUrl": "https://www.youtube.com/watch?v=4V4nLFzGovY",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "historycity4k",
+        "id": "UCovZsZ76HdW463YlFDG7dqg",
+        "title": "History City 4K",
+        "url": "https://www.youtube.com/@historycity4k"
+      },
+      "id": "C3GM18M3rss",
+      "lengthInSeconds": 269,
+      "lengthText": "4:29",
+      "publishDate": "2024-09-02T10:46:45.664Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-09-02T10:46:45.664Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/C3GM18M3rss/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA-LAWM7977IaDxwCPsjdTW_O_gDA",
+      "title": "UNCUT: Saddam Hussain's Live Reaction to His Death Sentence.",
+      "videoUrl": "https://www.youtube.com/watch?v=C3GM18M3rss",
+      "viewCountInt": 12000000,
+      "viewCountText": "12M views"
+    },
+    {
+      "channel": {
+        "handle": "MovieGasm",
+        "id": "UCwBV-eg1dAkzrdjqJfyEj0w",
+        "title": "MovieGasm‍․com",
+        "url": "https://www.youtube.com/@MovieGasm"
+      },
+      "id": "80bkVen5CJI",
+      "lengthInSeconds": 238,
+      "lengthText": "3:58",
+      "publishDate": "2026-08-19T10:46:45.664Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:46:45.664Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/80bkVen5CJI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDezx8-IqD2lnx3vJYzlYotKyxhDQ",
+      "title": "AVENGERS: DOOMSDAY Trailer (2024) Extended | 4K UHD",
+      "videoUrl": "https://www.youtube.com/watch?v=80bkVen5CJI",
+      "viewCountInt": 1000000,
+      "viewCountText": "1M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "MZPVPCIeUpg",
+      "lengthInSeconds": 1227,
+      "lengthText": "20:27",
+      "publishDate": "2026-02-02T10:46:45.664Z",
+      "publishDateText": "7 months ago",
+      "publishedTime": "2026-02-02T10:46:45.664Z",
+      "publishedTimeText": "7 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/MZPVPCIeUpg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDLbm5jGsP7a4r5nvVfGsNoZ5Ue9Q",
+      "title": "How to Change Your Life",
+      "videoUrl": "https://www.youtube.com/watch?v=MZPVPCIeUpg",
+      "viewCountInt": 632000,
+      "viewCountText": "632K views"
+    }
+  ]
+}

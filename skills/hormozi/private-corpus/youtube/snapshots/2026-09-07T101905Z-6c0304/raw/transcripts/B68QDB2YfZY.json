@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2720",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "What's your downside? Shame?"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "1964",
+      "startTimeText": "0:01",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "7205",
+      "startMs": "2720",
+      "startTimeText": "0:02",
+      "text": ">> Shame is your downside? Someone wagging"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "their finger at you saying you broke"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "7205",
+      "startTimeText": "0:07",
+      "text": "[music] a rule that doesn't exist that I"
+    },
+    {
+      "endMs": "15720",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "made up to make you feel bad?"
+    },
+    {
+      "endMs": "16360",
+      "startMs": "13360",
+      "startTimeText": "0:13",
+      "text": "[ __ ] them."
+    },
+    {
+      "endMs": "19280",
+      "startMs": "15720",
+      "startTimeText": "0:15",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "19280",
+      "startMs": "16360",
+      "startTimeText": "0:16",
+      "text": ">> You're going to die."
+    },
+    {
+      "endMs": "23120",
+      "startMs": "20160",
+      "startTimeText": "0:20",
+      "text": "And so are they."
+    },
+    {
+      "endMs": "27280",
+      "startMs": "24240",
+      "startTimeText": "0:24",
+      "text": "So get what you want."
+    }
+  ],
+  "transcript_only_text": " What's  your  downside?  Shame? \n >> [music] \n >> Shame  is  your  downside?  Someone  wagging \n their  finger  at  you  saying  you  broke \n [music]  a  rule  that  doesn't  exist  that  I \n made  up  to  make  you  feel  bad? \n [ __ ]  them. \n >> [music] \n >> You're  going  to  die. \n And  so  are  they. \n So  get  what  you  want.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=B68QDB2YfZY",
+  "videoId": "B68QDB2YfZY"
+}

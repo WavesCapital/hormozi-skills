@@ -4,7 +4,7 @@ Writing rule: `HZ-SYN-004`. Use short words in all user-facing profile help. Def
 
 `BUSINESS.md` is the human source of truth for durable business context. `.hormozi/business.json` is generated state; never ask a human to maintain both.
 
-## Required Profile Sections
+## Complete Profile Sections
 
 Use these headings or clear equivalents:
 
@@ -22,7 +22,7 @@ Use these headings or clear equivalents:
 12. Authorities and Freshness
 13. Known Unknowns
 
-The status must explicitly say `approved`. Unknown numbers should remain `unknown`; never invent them to satisfy validation.
+To pass full-profile validation, the status must explicitly say `approved`. Unknown numbers should remain `unknown`; never invent them to satisfy validation. This is a saved-profile quality check, not a gate to every consultation. A draft can supply context without becoming approved evidence.
 
 ## What Belongs In The Profile
 
@@ -38,11 +38,13 @@ The resolver records path, existence, SHA-256, modification time, and read statu
 
 ## Resolution Rules
 
+Edit the profile only when the user explicitly asks. A request for advice or a skill audit does not grant that permission. Preserve unrelated content and verify any requested edit. Use `inspect` for routine read-only context, including incomplete profiles. Use `resolve --no-write` to check a complete approved profile without a sidecar write. Test edits with fictional profiles when real files are protected.
+
 1. An explicit `--profile` wins.
 2. Otherwise search from the working directory upward for the nearest `BUSINESS.md`.
 3. Do not search sibling or child businesses implicitly.
-4. Generate the sidecar beside the selected profile.
-5. Re-resolve before every material consultation so a changed authority changes the next answer.
+4. Inspect without writing. Generate a sidecar beside the selected profile only during an authorized setup or refresh.
+5. Recheck relevant facts before a material decision so a changed authority changes the next answer. Do not confuse the file's existence, hash or approval with verification of a claim.
 6. If an authority needed for the question is missing, unreachable, stale, or conflicting, label the issue and stop only the affected conclusion.
 
 ## Sensitive Data Boundary

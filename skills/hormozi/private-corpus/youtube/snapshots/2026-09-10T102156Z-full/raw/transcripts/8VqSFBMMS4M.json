@@ -1,0 +1,4463 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5800",
+      "startMs": "480",
+      "startTimeText": "0:00",
+      "text": "This is Tina, and she's competing for achance to win $100,000"
+    },
+    {
+      "endMs": "9240",
+      "startMs": "4040",
+      "startTimeText": "0:04",
+      "text": "and this golden ticket, which gives heraccess to an entire year of guidance"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "from me and the team behind my $250million per year portfolio. She'll have"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "11240",
+      "startTimeText": "0:11",
+      "text": "the next hour with me, where she'llexplain her business, and at the end,"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "14040",
+      "startTimeText": "0:14",
+      "text": "I'll decide if she'll scale or fail. Ifshe's chosen to scale, she'll move on to"
+    },
+    {
+      "endMs": "23080",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "the finale for a chance to win the grandprize."
+    },
+    {
+      "endMs": "26255",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "My name is Alex Hormozi, and this isScale or Fail."
+    },
+    {
+      "endMs": "26255",
+      "startMs": "24235",
+      "startTimeText": "0:24",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "39640",
+      "startMs": "32560",
+      "startTimeText": "0:32",
+      "text": ">> My name is Tina Sue, and I help parentsof children with autism, ADHD, and"
+    },
+    {
+      "endMs": "44040",
+      "startMs": "37960",
+      "startTimeText": "0:37",
+      "text": "speech [music] delay. The reason why I'mhere to get help is because I know that"
+    },
+    {
+      "endMs": "49280",
+      "startMs": "42320",
+      "startTimeText": "0:42",
+      "text": "this mission is so [music] much biggerthan me. It is my vision that in my"
+    },
+    {
+      "endMs": "53040",
+      "startMs": "46640",
+      "startTimeText": "0:46",
+      "text": "lifetime, through this work, getting itout to as many families [music] as"
+    },
+    {
+      "endMs": "57040",
+      "startMs": "50520",
+      "startTimeText": "0:50",
+      "text": "possible and having so many examples ofchildren that are healing, so we can"
+    },
+    {
+      "endMs": "61200",
+      "startMs": "54680",
+      "startTimeText": "0:54",
+      "text": "change the mainstream views on howautism [music] is treated."
+    },
+    {
+      "endMs": "63120",
+      "startMs": "60440",
+      "startTimeText": "1:00",
+      "text": ">> Hi.>> Hi. How's it going?"
+    },
+    {
+      "endMs": "64280",
+      "startMs": "62120",
+      "startTimeText": "1:02",
+      "text": ">> Good. Amazing.>> Excited?"
+    },
+    {
+      "endMs": "65440",
+      "startMs": "63840",
+      "startTimeText": "1:03",
+      "text": ">> Yeah.>> Ready to rock?"
+    },
+    {
+      "endMs": "66080",
+      "startMs": "64960",
+      "startTimeText": "1:04",
+      "text": ">> Yes.>> All right."
+    },
+    {
+      "endMs": "68880",
+      "startMs": "65840",
+      "startTimeText": "1:05",
+      "text": ">> Yeah.>> Tell me about the business."
+    },
+    {
+      "endMs": "74800",
+      "startMs": "67000",
+      "startTimeText": "1:07",
+      "text": ">> My name is Tina, Tina Sue, and in thelast 12 months I did $770,000,"
+    },
+    {
+      "endMs": "76040",
+      "startMs": "72280",
+      "startTimeText": "1:12",
+      "text": "and $555,000is profit."
+    },
+    {
+      "endMs": "78920",
+      "startMs": "75600",
+      "startTimeText": "1:15",
+      "text": ">> Amazing.>> 72% profit margin."
+    },
+    {
+      "endMs": "80880",
+      "startMs": "77800",
+      "startTimeText": "1:17",
+      "text": ">> And you helped a bunch of families.>> Yep."
+    },
+    {
+      "endMs": "84000",
+      "startMs": "79320",
+      "startTimeText": "1:19",
+      "text": ">> Okay. So, what do you sell? How do youmake the dollars work?"
+    },
+    {
+      "endMs": "85120",
+      "startMs": "81920",
+      "startTimeText": "1:21",
+      "text": ">> Yeah, so my core product is called HiMama."
+    },
+    {
+      "endMs": "89600",
+      "startMs": "84600",
+      "startTimeText": "1:24",
+      "text": ">> Okay.>> And it's a group program that helps"
+    },
+    {
+      "endMs": "92560",
+      "startMs": "87320",
+      "startTimeText": "1:27",
+      "text": "children [music] who have speech delay.So, for example, non-verbal kids to"
+    },
+    {
+      "endMs": "95720",
+      "startMs": "91600",
+      "startTimeText": "1:31",
+      "text": "speak their first words.>> Okay."
+    },
+    {
+      "endMs": "100800",
+      "startMs": "93120",
+      "startTimeText": "1:33",
+      "text": ">> While also at the same time healing,reducing of autism symptoms as well."
+    },
+    {
+      "endMs": "104600",
+      "startMs": "98080",
+      "startTimeText": "1:38",
+      "text": ">> Okay. Got it. And the offer you sell is2,500 bucks a year?"
+    },
+    {
+      "endMs": "106240",
+      "startMs": "101880",
+      "startTimeText": "1:41",
+      "text": ">> Uh the offer, so the Hi Mama program is2,500."
+    },
+    {
+      "endMs": "110760",
+      "startMs": "105720",
+      "startTimeText": "1:45",
+      "text": ">> Uh-huh.>> And it's for the year with a 3-month"
+    },
+    {
+      "endMs": "112040",
+      "startMs": "108320",
+      "startTimeText": "1:48",
+      "text": "intensive in the beginning, 9 months ofaftercare."
+    },
+    {
+      "endMs": "115600",
+      "startMs": "111560",
+      "startTimeText": "1:51",
+      "text": ">> Okay.>> So, once a person is in the program,"
+    },
+    {
+      "endMs": "120440",
+      "startMs": "113720",
+      "startTimeText": "1:53",
+      "text": "then I sell them on to the all-accesspass, which gets them every cohort of"
+    },
+    {
+      "endMs": "122040",
+      "startMs": "118400",
+      "startTimeText": "1:58",
+      "text": "High Mama the 3-month intensive.>> Cool."
+    },
+    {
+      "endMs": "123680",
+      "startMs": "120720",
+      "startTimeText": "2:00",
+      "text": ">> So, they can stay in the energy and theycan continue"
+    },
+    {
+      "endMs": "126600",
+      "startMs": "123120",
+      "startTimeText": "2:03",
+      "text": ">> Cool.>> to move on to the next level of their"
+    },
+    {
+      "endMs": "129520",
+      "startMs": "125560",
+      "startTimeText": "2:05",
+      "text": "children's healing.>> What do you think stopping you right"
+    },
+    {
+      "endMs": "129520",
+      "startMs": "127320",
+      "startTimeText": "2:07",
+      "text": "now?"
+    },
+    {
+      "endMs": "132280",
+      "startMs": "129920",
+      "startTimeText": "2:09",
+      "text": ">> Me?>> [laughter]"
+    },
+    {
+      "endMs": "135360",
+      "startMs": "131880",
+      "startTimeText": "2:11",
+      "text": ">> Okay.>> So, I am doing everything."
+    },
+    {
+      "endMs": "138640",
+      "startMs": "135120",
+      "startTimeText": "2:15",
+      "text": ">> Mhm.>> Um I just like I can't let go of"
+    },
+    {
+      "endMs": "142480",
+      "startMs": "138120",
+      "startTimeText": "2:18",
+      "text": ">> You're so busy.>> so so I have like every single Instagram"
+    },
+    {
+      "endMs": "146600",
+      "startMs": "140840",
+      "startTimeText": "2:20",
+      "text": "conversation. This is how I currently Idon't do sales calls. Uh and I'm in"
+    },
+    {
+      "endMs": "147720",
+      "startMs": "145280",
+      "startTimeText": "2:25",
+      "text": "every piece of marketing. I'm in thedelivery."
+    },
+    {
+      "endMs": "151760",
+      "startMs": "147520",
+      "startTimeText": "2:27",
+      "text": ">> Yeah.>> My team handles customer service, but"
+    },
+    {
+      "endMs": "155480",
+      "startMs": "149480",
+      "startTimeText": "2:29",
+      "text": "I'm often in that as well. So, just Ihave my hands in everything and at the"
+    },
+    {
+      "endMs": "159360",
+      "startMs": "153520",
+      "startTimeText": "2:33",
+      "text": "end of the day I just don't have timefor anything. [music] So, low-hanging"
+    },
+    {
+      "endMs": "160600",
+      "startMs": "157600",
+      "startTimeText": "2:37",
+      "text": "fruits just doesn't get done.>> Yeah."
+    },
+    {
+      "endMs": "164120",
+      "startMs": "160000",
+      "startTimeText": "2:40",
+      "text": ">> Yeah.>> Understood. Okay. Why does solving this"
+    },
+    {
+      "endMs": "166480",
+      "startMs": "162680",
+      "startTimeText": "2:42",
+      "text": "matter? Why is growing this businessimportant versus just staying where you"
+    },
+    {
+      "endMs": "169520",
+      "startMs": "165200",
+      "startTimeText": "2:45",
+      "text": "are and making 500 grand a year?>> Yeah. Yeah. Um"
+    },
+    {
+      "endMs": "173680",
+      "startMs": "168280",
+      "startTimeText": "2:48",
+      "text": "I mean, it's it's it's not about themoney. Um before starting this business,"
+    },
+    {
+      "endMs": "178000",
+      "startMs": "172240",
+      "startTimeText": "2:52",
+      "text": "I had another business and I still havethat business and [music] I had"
+    },
+    {
+      "endMs": "182320",
+      "startMs": "176000",
+      "startTimeText": "2:56",
+      "text": "developed that other businessyou know, from nothing like when my son"
+    },
+    {
+      "endMs": "184080",
+      "startMs": "179760",
+      "startTimeText": "2:59",
+      "text": "was a baby between the hours of 8:00p.m. and 2:00 a.m."
+    },
+    {
+      "endMs": "187280",
+      "startMs": "183440",
+      "startTimeText": "3:03",
+      "text": ">> Savage.>> I grew that all the way to $20 million."
+    },
+    {
+      "endMs": "191880",
+      "startMs": "186440",
+      "startTimeText": "3:06",
+      "text": ">> Amazing.>> And I had that business when this"
+    },
+    {
+      "endMs": "196040",
+      "startMs": "188959",
+      "startTimeText": "3:08",
+      "text": "happened with my son. And so um so myson used to have autism, ADHD, and"
+    },
+    {
+      "endMs": "198600",
+      "startMs": "193920",
+      "startTimeText": "3:13",
+      "text": "epilepsy. And [music]we had done everything conventional"
+    },
+    {
+      "endMs": "200680",
+      "startMs": "197400",
+      "startTimeText": "3:17",
+      "text": "medicine told us to do.>> Mhm."
+    },
+    {
+      "endMs": "201959",
+      "startMs": "199320",
+      "startTimeText": "3:19",
+      "text": ">> All the conventional therapies andmedication."
+    },
+    {
+      "endMs": "206080",
+      "startMs": "201480",
+      "startTimeText": "3:21",
+      "text": ">> Mhm.>> And [music] my son got worse and at he"
+    },
+    {
+      "endMs": "208800",
+      "startMs": "204840",
+      "startTimeText": "3:24",
+      "text": "was when he was nine.>> Yeah."
+    },
+    {
+      "endMs": "211400",
+      "startMs": "206600",
+      "startTimeText": "3:26",
+      "text": ">> The last [music] of his ADHD>> Mhm."
+    },
+    {
+      "endMs": "215519",
+      "startMs": "209720",
+      "startTimeText": "3:29",
+      "text": ">> I'm going to cry. Okay.>> When he was nine, the last of his ADHD"
+    },
+    {
+      "endMs": "219239",
+      "startMs": "214000",
+      "startTimeText": "3:34",
+      "text": "medication stopped working. He had beenon seven at that time."
+    },
+    {
+      "endMs": "221120",
+      "startMs": "217720",
+      "startTimeText": "3:37",
+      "text": "And they were ready to move him on toantipsychotics."
+    },
+    {
+      "endMs": "223280",
+      "startMs": "220280",
+      "startTimeText": "3:40",
+      "text": ">> Yeah.>> And he stopped [music] sleeping and it"
+    },
+    {
+      "endMs": "225680",
+      "startMs": "222440",
+      "startTimeText": "3:42",
+      "text": "was just hell.>> Yeah."
+    },
+    {
+      "endMs": "228480",
+      "startMs": "224480",
+      "startTimeText": "3:44",
+      "text": ">> Yeah. Um>> And so, you wanted to fix it?"
+    },
+    {
+      "endMs": "232120",
+      "startMs": "226600",
+      "startTimeText": "3:46",
+      "text": ">> And then somebody like just recommendedit's like, \"Hey, look into holistic"
+    },
+    {
+      "endMs": "238000",
+      "startMs": "230239",
+      "startTimeText": "3:50",
+      "text": "change what you're eating and theenvironment and so I went on this like"
+    },
+    {
+      "endMs": "241000",
+      "startMs": "235200",
+      "startTimeText": "3:55",
+      "text": "holistic journey to helping him.And"
+    },
+    {
+      "endMs": "243662",
+      "startMs": "239000",
+      "startTimeText": "3:59",
+      "text": "in two years>> It's okay."
+    },
+    {
+      "endMs": "246640",
+      "startMs": "242720",
+      "startTimeText": "4:02",
+      "text": ">> Um>> [music]"
+    },
+    {
+      "endMs": "251680",
+      "startMs": "243960",
+      "startTimeText": "4:03",
+      "text": ">> in two years all of hissymptoms of autism, ADHD, and epilepsy"
+    },
+    {
+      "endMs": "253120",
+      "startMs": "250560",
+      "startTimeText": "4:10",
+      "text": "went into [music] remission.>> Awesome."
+    },
+    {
+      "endMs": "257959",
+      "startMs": "252600",
+      "startTimeText": "4:12",
+      "text": "It's amazing.>> Yeah, and then when he got better"
+    },
+    {
+      "endMs": "262040",
+      "startMs": "255640",
+      "startTimeText": "4:15",
+      "text": "I was like I have to do this.>> Yeah. Well, congratulations. You did it."
+    },
+    {
+      "endMs": "264280",
+      "startMs": "260799",
+      "startTimeText": "4:20",
+      "text": "Now you're helping people out. You'remaking money doing it."
+    },
+    {
+      "endMs": "268000",
+      "startMs": "262720",
+      "startTimeText": "4:22",
+      "text": ">> Yeah, so I had to like I just pausedfrom my other business and like just"
+    },
+    {
+      "endMs": "271120",
+      "startMs": "266320",
+      "startTimeText": "4:26",
+      "text": "went all in and just I just go in withthe attitude [music] of I'm on year"
+    },
+    {
+      "endMs": "273840",
+      "startMs": "269400",
+      "startTimeText": "4:29",
+      "text": "four. I just go in with like I didn'teven look at the numbers. I'm like I"
+    },
+    {
+      "endMs": "276280",
+      "startMs": "272400",
+      "startTimeText": "4:32",
+      "text": "don't even care. [music] I'm willing towork for free"
+    },
+    {
+      "endMs": "279840",
+      "startMs": "275160",
+      "startTimeText": "4:35",
+      "text": "cuz that's how I started my firstbusiness is literally, you know,"
+    },
+    {
+      "endMs": "284928",
+      "startMs": "279033",
+      "startTimeText": "4:39",
+      "text": ">> [sighs]>> So, we're going to You can big exhale."
+    },
+    {
+      "endMs": "286320",
+      "startMs": "283080",
+      "startTimeText": "4:43",
+      "text": "You're good. There you go. You're good.[laughter]"
+    },
+    {
+      "endMs": "289000",
+      "startMs": "285160",
+      "startTimeText": "4:45",
+      "text": ">> not what I planned on saying.>> You're fine. Don't worry about it."
+    },
+    {
+      "endMs": "294040",
+      "startMs": "287440",
+      "startTimeText": "4:47",
+      "text": "You're good. I'll probably challenge youon a couple things around like the"
+    },
+    {
+      "endMs": "298960",
+      "startMs": "290760",
+      "startTimeText": "4:50",
+      "text": "numbers and making money because I'msensing that that will limit the amount"
+    },
+    {
+      "endMs": "302200",
+      "startMs": "296960",
+      "startTimeText": "4:56",
+      "text": "of people that you can help because onsome level and you can correct me if I'm"
+    },
+    {
+      "endMs": "306320",
+      "startMs": "300520",
+      "startTimeText": "5:00",
+      "text": "wrong, it feels like you may haveequated like maybe charging more having"
+    },
+    {
+      "endMs": "313120",
+      "startMs": "305200",
+      "startTimeText": "5:05",
+      "text": "upsells or even having a morestandardized sales process with bad. And"
+    },
+    {
+      "endMs": "316440",
+      "startMs": "310960",
+      "startTimeText": "5:10",
+      "text": "I I don't think that that's going to bethe case and I think the more we can"
+    },
+    {
+      "endMs": "319120",
+      "startMs": "314360",
+      "startTimeText": "5:14",
+      "text": "structure some of these things and knowall of the numbers of the business the"
+    },
+    {
+      "endMs": "320280",
+      "startMs": "317880",
+      "startTimeText": "5:17",
+      "text": "more families you're ultimately going tohelp."
+    },
+    {
+      "endMs": "323320",
+      "startMs": "319480",
+      "startTimeText": "5:19",
+      "text": ">> Yeah. Yeah.>> Okay, I'll ask this question but I'm"
+    },
+    {
+      "endMs": "325320",
+      "startMs": "322080",
+      "startTimeText": "5:22",
+      "text": "pretty sure I know the answer.>> Okay."
+    },
+    {
+      "endMs": "329280",
+      "startMs": "324040",
+      "startTimeText": "5:24",
+      "text": ">> Do you think the business model as itcurrently stands will scale?"
+    },
+    {
+      "endMs": "334320",
+      "startMs": "329960",
+      "startTimeText": "5:29",
+      "text": ">> How it is today probably not to thescale I would want."
+    },
+    {
+      "endMs": "338720",
+      "startMs": "333919",
+      "startTimeText": "5:33",
+      "text": ">> Okay.>> But but it can scale to my goal."
+    },
+    {
+      "endMs": "340000",
+      "startMs": "337200",
+      "startTimeText": "5:37",
+      "text": ">> Okay, so you're open to changing somethings."
+    },
+    {
+      "endMs": "344800",
+      "startMs": "338919",
+      "startTimeText": "5:38",
+      "text": ">> I'm open. Yes.>> cool. Let's do it. Let's rock."
+    },
+    {
+      "endMs": "349080",
+      "startMs": "341520",
+      "startTimeText": "5:41",
+      "text": ">> Wow, Gino seems to be extremely genuine.Her The of business is needed. [music]"
+    },
+    {
+      "endMs": "352000",
+      "startMs": "346520",
+      "startTimeText": "5:46",
+      "text": ">> I wanted to make it clear that I'm notin it just for the money."
+    },
+    {
+      "endMs": "355200",
+      "startMs": "350120",
+      "startTimeText": "5:50",
+      "text": ">> Being a mom myself, I definitely relatedto that goal for her and how she's"
+    },
+    {
+      "endMs": "358920",
+      "startMs": "353800",
+      "startTimeText": "5:53",
+      "text": "helping so many other families.>> I think we have a a similar goal of"
+    },
+    {
+      "endMs": "363400",
+      "startMs": "357200",
+      "startTimeText": "5:57",
+      "text": "helping people and so I I really likethat. I have no doubt that what she's"
+    },
+    {
+      "endMs": "367920",
+      "startMs": "361440",
+      "startTimeText": "6:01",
+      "text": "doing is is going to scale incrediblywell because of the market that she's"
+    },
+    {
+      "endMs": "367920",
+      "startMs": "365440",
+      "startTimeText": "6:05",
+      "text": "in."
+    },
+    {
+      "endMs": "375840",
+      "startMs": "370680",
+      "startTimeText": "6:10",
+      "text": ">> So, [music]we're going to fix this in standard"
+    },
+    {
+      "endMs": "379640",
+      "startMs": "373640",
+      "startTimeText": "6:13",
+      "text": "fashion and by standard fashion, I likedoing things back to front."
+    },
+    {
+      "endMs": "382840",
+      "startMs": "377160",
+      "startTimeText": "6:17",
+      "text": ">> So, we'll fix offerand then we'll fix the conversion"
+    },
+    {
+      "endMs": "385200",
+      "startMs": "381200",
+      "startTimeText": "6:21",
+      "text": "process and you're like, how's this backto front? Well, this is the thing you"
+    },
+    {
+      "endMs": "389680",
+      "startMs": "384000",
+      "startTimeText": "6:24",
+      "text": "deliver, right?>> Mhm."
+    },
+    {
+      "endMs": "392720",
+      "startMs": "385640",
+      "startTimeText": "6:25",
+      "text": ">> Um and then we'll go to traffic. Okay?This is kind of our our three-step"
+    },
+    {
+      "endMs": "396560",
+      "startMs": "391080",
+      "startTimeText": "6:31",
+      "text": "approach. Okay, so right now, youcurrently don't have like a formal pitch"
+    },
+    {
+      "endMs": "398760",
+      "startMs": "395160",
+      "startTimeText": "6:35",
+      "text": "or webinar that you go through. You dolike a three to four hour like Monday"
+    },
+    {
+      "endMs": "402720",
+      "startMs": "398280",
+      "startTimeText": "6:38",
+      "text": "thing.>> Yeah, and it's only just because I have"
+    },
+    {
+      "endMs": "404794",
+      "startMs": "400640",
+      "startTimeText": "6:40",
+      "text": "resistance to creating webinars.>> Yeah, why?"
+    },
+    {
+      "endMs": "407240",
+      "startMs": "403280",
+      "startTimeText": "6:43",
+      "text": ">> Um>> [sighs and gasps]"
+    },
+    {
+      "endMs": "410960",
+      "startMs": "405120",
+      "startTimeText": "6:45",
+      "text": ">> I just I don't want this to besorry for saying this, but like bro"
+    },
+    {
+      "endMs": "413240",
+      "startMs": "409000",
+      "startTimeText": "6:49",
+      "text": "marketing. Like I don't I don't wantpeople to feel sold to."
+    },
+    {
+      "endMs": "415919",
+      "startMs": "412680",
+      "startTimeText": "6:52",
+      "text": ">> Mhm.>> Um so"
+    },
+    {
+      "endMs": "417720",
+      "startMs": "413919",
+      "startTimeText": "6:53",
+      "text": ">> People only feel sold to if it's bad.>> Oh."
+    },
+    {
+      "endMs": "418680",
+      "startMs": "416840",
+      "startTimeText": "6:56",
+      "text": ">> A good selling>> Yeah."
+    },
+    {
+      "endMs": "421760",
+      "startMs": "418160",
+      "startTimeText": "6:58",
+      "text": ">> feels good.>> I tried working on a webinar for like a"
+    },
+    {
+      "endMs": "424440",
+      "startMs": "420200",
+      "startTimeText": "7:00",
+      "text": "few weeks and I just like couldn't get>> about how many things you've bought over"
+    },
+    {
+      "endMs": "426720",
+      "startMs": "423120",
+      "startTimeText": "7:03",
+      "text": "the last month.How many did you feel sold to?"
+    },
+    {
+      "endMs": "427919",
+      "startMs": "426320",
+      "startTimeText": "7:06",
+      "text": ">> That's true.>> Probably not many."
+    },
+    {
+      "endMs": "430440",
+      "startMs": "427400",
+      "startTimeText": "7:07",
+      "text": ">> Yeah.>> And every one of those purchases,"
+    },
+    {
+      "endMs": "431640",
+      "startMs": "429080",
+      "startTimeText": "7:09",
+      "text": "somebody for sure thought about how toget you to buy."
+    },
+    {
+      "endMs": "433280",
+      "startMs": "431200",
+      "startTimeText": "7:11",
+      "text": ">> Yeah.>> It's just they did a good job."
+    },
+    {
+      "endMs": "435320",
+      "startMs": "432680",
+      "startTimeText": "7:12",
+      "text": ">> Yeah.>> All right, so just from a belief"
+    },
+    {
+      "endMs": "436880",
+      "startMs": "434120",
+      "startTimeText": "7:14",
+      "text": "breaking perspective, I agree with you,should not sell poorly."
+    },
+    {
+      "endMs": "438520",
+      "startMs": "436560",
+      "startTimeText": "7:16",
+      "text": ">> Yeah.>> So, you should sell well."
+    },
+    {
+      "endMs": "443800",
+      "startMs": "438240",
+      "startTimeText": "7:18",
+      "text": ">> Yeah.>> Yeah? Okay. So, fundamentally, what's"
+    },
+    {
+      "endMs": "447680",
+      "startMs": "441400",
+      "startTimeText": "7:21",
+      "text": "happening is you're probably doing overthree to four hours covering the points"
+    },
+    {
+      "endMs": "450720",
+      "startMs": "445360",
+      "startTimeText": "7:25",
+      "text": "that could be covered in 45 minutesand you just don't want to be as"
+    },
+    {
+      "endMs": "453720",
+      "startMs": "449520",
+      "startTimeText": "7:29",
+      "text": "structured about it. And if you're juststructured about it, your value per"
+    },
+    {
+      "endMs": "454520",
+      "startMs": "451960",
+      "startTimeText": "7:31",
+      "text": "second will go up for the for the theparent."
+    },
+    {
+      "endMs": "457320",
+      "startMs": "454240",
+      "startTimeText": "7:34",
+      "text": ">> Yeah.>> And if your stated goal is that you want"
+    },
+    {
+      "endMs": "459720",
+      "startMs": "455960",
+      "startTimeText": "7:35",
+      "text": "to help more parents,having the expectation that they're"
+    },
+    {
+      "endMs": "463520",
+      "startMs": "458320",
+      "startTimeText": "7:38",
+      "text": "going to wait two, three hours beforehearing about how you can help them um"
+    },
+    {
+      "endMs": "466800",
+      "startMs": "461840",
+      "startTimeText": "7:41",
+      "text": "is doing a disservice cuz you're losinghalf of them anyways. So, like I think"
+    },
+    {
+      "endMs": "468400",
+      "startMs": "465600",
+      "startTimeText": "7:45",
+      "text": "that does them a disservice>> Yeah."
+    },
+    {
+      "endMs": "469680",
+      "startMs": "467200",
+      "startTimeText": "7:47",
+      "text": ">> because of whatever belief that you haveabout selling poorly."
+    },
+    {
+      "endMs": "470400",
+      "startMs": "469360",
+      "startTimeText": "7:49",
+      "text": ">> Yeah.>> Right?"
+    },
+    {
+      "endMs": "474040",
+      "startMs": "470120",
+      "startTimeText": "7:50",
+      "text": ">> Yeah.>> So, I think from a this is me actually"
+    },
+    {
+      "endMs": "478320",
+      "startMs": "472080",
+      "startTimeText": "7:52",
+      "text": "getting into conversion, but I'll putthis here, which is"
+    },
+    {
+      "endMs": "480920",
+      "startMs": "476080",
+      "startTimeText": "7:56",
+      "text": "structuredwebinar."
+    },
+    {
+      "endMs": "484040",
+      "startMs": "479440",
+      "startTimeText": "7:59",
+      "text": "And I think one of the things that holdsa lot of people back with webinars is"
+    },
+    {
+      "endMs": "485720",
+      "startMs": "482560",
+      "startTimeText": "8:02",
+      "text": "they think that like webinars have thisvery specific"
+    },
+    {
+      "endMs": "490000",
+      "startMs": "485440",
+      "startTimeText": "8:05",
+      "text": ">> Yeah.>> language pattern. It's No, it's just"
+    },
+    {
+      "endMs": "493120",
+      "startMs": "487240",
+      "startTimeText": "8:07",
+      "text": "it's really clear communication. It'sLet me tell my quick story so that I"
+    },
+    {
+      "endMs": "496080",
+      "startMs": "491640",
+      "startTimeText": "8:11",
+      "text": "have some reason why you should listento me. There's going to be a big promise"
+    },
+    {
+      "endMs": "498720",
+      "startMs": "494680",
+      "startTimeText": "8:14",
+      "text": "right before that. That's what you startwith, which is like why the hell are you"
+    },
+    {
+      "endMs": "502280",
+      "startMs": "497400",
+      "startTimeText": "8:17",
+      "text": "here? What it like why is it worthstaying on?"
+    },
+    {
+      "endMs": "505040",
+      "startMs": "499919",
+      "startTimeText": "8:19",
+      "text": "Right? Who am I? And then you say, thisis the main thing that we're going to"
+    },
+    {
+      "endMs": "510200",
+      "startMs": "503560",
+      "startTimeText": "8:23",
+      "text": "talk about, which is then the the callit your your core you showing what you"
+    },
+    {
+      "endMs": "512560",
+      "startMs": "507640",
+      "startTimeText": "8:27",
+      "text": "shared here was your kind of coretransformation that you went through."
+    },
+    {
+      "endMs": "516560",
+      "startMs": "511480",
+      "startTimeText": "8:31",
+      "text": "This is the old way, new way. It's avery classic pitch."
+    },
+    {
+      "endMs": "520159",
+      "startMs": "514400",
+      "startTimeText": "8:34",
+      "text": "Um I used to do this, this didn't work,and then I discovered a friend of mine,"
+    },
+    {
+      "endMs": "523640",
+      "startMs": "518360",
+      "startTimeText": "8:38",
+      "text": "guru comes in, shares the secretknowledge, which was that holistic was"
+    },
+    {
+      "endMs": "525880",
+      "startMs": "521719",
+      "startTimeText": "8:41",
+      "text": "the way. I implemented the stuff, andthen I got this great outcome both"
+    },
+    {
+      "endMs": "529080",
+      "startMs": "524680",
+      "startTimeText": "8:44",
+      "text": "internally and externally. It wasamazing. But it didn't just work for me,"
+    },
+    {
+      "endMs": "531800",
+      "startMs": "527400",
+      "startTimeText": "8:47",
+      "text": "it worked for X, Y, and Z as well,because then we're going to hit the"
+    },
+    {
+      "endMs": "535920",
+      "startMs": "530000",
+      "startTimeText": "8:50",
+      "text": "different avatars that come up. And so,the big three biggest concerns that"
+    },
+    {
+      "endMs": "537720",
+      "startMs": "533680",
+      "startTimeText": "8:53",
+      "text": "people have about this is problem numberone, problem number two, problem number"
+    },
+    {
+      "endMs": "541520",
+      "startMs": "536800",
+      "startTimeText": "8:56",
+      "text": "three.And then you just systematically break"
+    },
+    {
+      "endMs": "543880",
+      "startMs": "539560",
+      "startTimeText": "8:59",
+      "text": "down each of the three problems. Andwith each one of them, you're going to"
+    },
+    {
+      "endMs": "547839",
+      "startMs": "542600",
+      "startTimeText": "9:02",
+      "text": "follow awhat they think."
+    },
+    {
+      "endMs": "550206",
+      "startMs": "545640",
+      "startTimeText": "9:05",
+      "text": "They think this, right?And then you're going to say"
+    },
+    {
+      "endMs": "552240",
+      "startMs": "549080",
+      "startTimeText": "9:09",
+      "text": "why wrong?>> [snorts]"
+    },
+    {
+      "endMs": "555440",
+      "startMs": "550680",
+      "startTimeText": "9:10",
+      "text": ">> Why that's not true? Like I used tobelieve this, it's not true."
+    },
+    {
+      "endMs": "557839",
+      "startMs": "554080",
+      "startTimeText": "9:14",
+      "text": "What's right?And then proof."
+    },
+    {
+      "endMs": "560839",
+      "startMs": "556600",
+      "startTimeText": "9:16",
+      "text": "And proof can be anything. Proof can bestats, it can be stories,"
+    },
+    {
+      "endMs": "562720",
+      "startMs": "559720",
+      "startTimeText": "9:19",
+      "text": "um anything that just proves the pointand ideally as many forms of proof as"
+    },
+    {
+      "endMs": "566720",
+      "startMs": "562120",
+      "startTimeText": "9:22",
+      "text": "you can.>> Okay."
+    },
+    {
+      "endMs": "571200",
+      "startMs": "563040",
+      "startTimeText": "9:23",
+      "text": ">> Okay? So, if we can just take our 4-hourmarathon and turn it into a 45-minute"
+    },
+    {
+      "endMs": "574560",
+      "startMs": "569440",
+      "startTimeText": "9:29",
+      "text": "more structured presentation with slidesthat has visuals to support because some"
+    },
+    {
+      "endMs": "577160",
+      "startMs": "573200",
+      "startTimeText": "9:33",
+      "text": "of them are listening within thebackground, all these other things. If"
+    },
+    {
+      "endMs": "580160",
+      "startMs": "576160",
+      "startTimeText": "9:36",
+      "text": "you can have it more visuallystimulating, you'll get a higher"
+    },
+    {
+      "endMs": "583280",
+      "startMs": "578800",
+      "startTimeText": "9:38",
+      "text": "conversion rate. Cuz right now I thinkyou actually have an avatar that's in a"
+    },
+    {
+      "endMs": "586840",
+      "startMs": "581360",
+      "startTimeText": "9:41",
+      "text": "ton of pain and wants to buy cuz you'reconverting like 9% right now, which I"
+    },
+    {
+      "endMs": "590640",
+      "startMs": "585520",
+      "startTimeText": "9:45",
+      "text": "think you could probably convert doublethat because you're also selling to a"
+    },
+    {
+      "endMs": "594520",
+      "startMs": "588600",
+      "startTimeText": "9:48",
+      "text": "warm audience. And if you want to scaleit, which you're saying you do,"
+    },
+    {
+      "endMs": "597120",
+      "startMs": "592680",
+      "startTimeText": "9:52",
+      "text": "you have to sell to a cold audience. Andso the ads that you're running right now"
+    },
+    {
+      "endMs": "600360",
+      "startMs": "596000",
+      "startTimeText": "9:56",
+      "text": "are pretty much just targeting yourexisting people since most people are"
+    },
+    {
+      "endMs": "603080",
+      "startMs": "598480",
+      "startTimeText": "9:58",
+      "text": "coming in already know who you are. Sowe can't sell to people who already know"
+    },
+    {
+      "endMs": "605920",
+      "startMs": "601640",
+      "startTimeText": "10:01",
+      "text": "who you are. You have to sell like theydon't know."
+    },
+    {
+      "endMs": "608360",
+      "startMs": "604320",
+      "startTimeText": "10:04",
+      "text": "And then you will sell people who don'tknow you. But if you sell only like"
+    },
+    {
+      "endMs": "611160",
+      "startMs": "607480",
+      "startTimeText": "10:07",
+      "text": "you're selling to people who do knowyou, then no one who doesn't know you"
+    },
+    {
+      "endMs": "612600",
+      "startMs": "610040",
+      "startTimeText": "10:10",
+      "text": "will buy.>> Got it."
+    },
+    {
+      "endMs": "615680",
+      "startMs": "611400",
+      "startTimeText": "10:11",
+      "text": ">> So it makes sense? You got to sell likeit's cold to warm and it converts"
+    },
+    {
+      "endMs": "617720",
+      "startMs": "614360",
+      "startTimeText": "10:14",
+      "text": "everything. If you sell like it's warmto everyone, you'll only convert warm."
+    },
+    {
+      "endMs": "621520",
+      "startMs": "617120",
+      "startTimeText": "10:17",
+      "text": ">> Got it. Got it.>> Okay. From an offer perspective,"
+    },
+    {
+      "endMs": "624120",
+      "startMs": "620947",
+      "startTimeText": "10:20",
+      "text": ">> [sighs]>> do you know what your upsell uh"
+    },
+    {
+      "endMs": "625040",
+      "startMs": "622760",
+      "startTimeText": "10:22",
+      "text": "percentage is from the back end of thefront end?"
+    },
+    {
+      "endMs": "626800",
+      "startMs": "624600",
+      "startTimeText": "10:24",
+      "text": ">> 10.>> So 10% of people are taking the second"
+    },
+    {
+      "endMs": "629200",
+      "startMs": "626360",
+      "startTimeText": "10:26",
+      "text": "offer?>> Yeah."
+    },
+    {
+      "endMs": "632440",
+      "startMs": "627440",
+      "startTimeText": "10:27",
+      "text": ">> Mhm. Any reason you don't just do6-month and have it recurring?"
+    },
+    {
+      "endMs": "637160",
+      "startMs": "632520",
+      "startTimeText": "10:32",
+      "text": ">> That's a good I I've thought about that.>> and three. Like three months of"
+    },
+    {
+      "endMs": "639920",
+      "startMs": "635480",
+      "startTimeText": "10:35",
+      "text": "intensive, three months of>> aftercare."
+    },
+    {
+      "endMs": "643480",
+      "startMs": "637840",
+      "startTimeText": "10:37",
+      "text": ">> aftercare whatever. And so we want tomake the actual conversion to aftercare"
+    },
+    {
+      "endMs": "647280",
+      "startMs": "641640",
+      "startTimeText": "10:41",
+      "text": "before aftercare comes up.So this is also a conversion thing, but"
+    },
+    {
+      "endMs": "651400",
+      "startMs": "645600",
+      "startTimeText": "10:45",
+      "text": "sellupsell"
+    },
+    {
+      "endMs": "655920",
+      "startMs": "649040",
+      "startTimeText": "10:49",
+      "text": "during intensive three months. Allright. And ideally ideally you want to"
+    },
+    {
+      "endMs": "660000",
+      "startMs": "653880",
+      "startTimeText": "10:53",
+      "text": "sell at the halfway pointand then at like the two-thirds and then"
+    },
+    {
+      "endMs": "662480",
+      "startMs": "657920",
+      "startTimeText": "10:57",
+      "text": "you do a last chanceat the end. So right now you're only"
+    },
+    {
+      "endMs": "665160",
+      "startMs": "661200",
+      "startTimeText": "11:01",
+      "text": "selling here.You want to sell here and here as well."
+    },
+    {
+      "endMs": "668720",
+      "startMs": "664000",
+      "startTimeText": "11:04",
+      "text": "The more times you ask the more likelythey are to take the purchase offer. If"
+    },
+    {
+      "endMs": "671360",
+      "startMs": "666680",
+      "startTimeText": "11:06",
+      "text": "you sell only at the end typically andyou're not even selling, you're like"
+    },
+    {
+      "endMs": "673240",
+      "startMs": "669960",
+      "startTimeText": "11:09",
+      "text": "kind of mentioning it.>> mentioned it."
+    },
+    {
+      "endMs": "675839",
+      "startMs": "671920",
+      "startTimeText": "11:11",
+      "text": ">> Right. If you actually if you wereactually just only sell, you'd usually"
+    },
+    {
+      "endMs": "677800",
+      "startMs": "674640",
+      "startTimeText": "11:14",
+      "text": "get about a third. So you're gettingless than that, which is if you just"
+    },
+    {
+      "endMs": "679360",
+      "startMs": "677120",
+      "startTimeText": "11:17",
+      "text": "wait till the end.>> Got it."
+    },
+    {
+      "endMs": "683120",
+      "startMs": "678120",
+      "startTimeText": "11:18",
+      "text": ">> If you wait if you go to the halfwaypoint and the the two-thirds point,"
+    },
+    {
+      "endMs": "687920",
+      "startMs": "681280",
+      "startTimeText": "11:21",
+      "text": "you'll be able to get like half or more.>> Got it. Got it. I actually sell most to"
+    },
+    {
+      "endMs": "690839",
+      "startMs": "685640",
+      "startTimeText": "11:25",
+      "text": "the people in the aftercare. So whenthey're done closer to the 12 month."
+    },
+    {
+      "endMs": "692560",
+      "startMs": "689560",
+      "startTimeText": "11:29",
+      "text": ">> You want to sell them when they're hot.>> Yeah."
+    },
+    {
+      "endMs": "695720",
+      "startMs": "691160",
+      "startTimeText": "11:31",
+      "text": ">> Cuz everyone cools off over time. So youwant to sell when the pain is pain is"
+    },
+    {
+      "endMs": "698320",
+      "startMs": "693920",
+      "startTimeText": "11:33",
+      "text": "still elevated and they're and ideallyfrom a buying perspective, you want to"
+    },
+    {
+      "endMs": "701600",
+      "startMs": "697120",
+      "startTimeText": "11:37",
+      "text": "sell when they're mid-decision, notmaking a new decision."
+    },
+    {
+      "endMs": "704640",
+      "startMs": "699960",
+      "startTimeText": "11:39",
+      "text": "So, they're still in flight and you'relike, \"Hey, let's just keep the party"
+    },
+    {
+      "endMs": "707120",
+      "startMs": "702480",
+      "startTimeText": "11:42",
+      "text": "going.\" Not, \"Okay, we've finished thatthing. Now, do you want to start the"
+    },
+    {
+      "endMs": "709840",
+      "startMs": "705760",
+      "startTimeText": "11:45",
+      "text": "It's a It's a different It's a heaviersale.\" And about a third of people will"
+    },
+    {
+      "endMs": "712400",
+      "startMs": "708680",
+      "startTimeText": "11:48",
+      "text": "take that offer, but you can get twothirds or more if you sell during the"
+    },
+    {
+      "endMs": "713880",
+      "startMs": "711640",
+      "startTimeText": "11:51",
+      "text": "process.>> Got it."
+    },
+    {
+      "endMs": "715760",
+      "startMs": "712880",
+      "startTimeText": "11:52",
+      "text": ">> People are always scared of that cuzthey're like, \"What's the I'm not done"
+    },
+    {
+      "endMs": "717680",
+      "startMs": "714920",
+      "startTimeText": "11:54",
+      "text": "yet.\" It's like, \"It's okay. They'vealready gotten value.\""
+    },
+    {
+      "endMs": "720200",
+      "startMs": "716520",
+      "startTimeText": "11:56",
+      "text": ">> paid. I don't want to>> It's not like that. It doesn't work that"
+    },
+    {
+      "endMs": "723600",
+      "startMs": "718720",
+      "startTimeText": "11:58",
+      "text": "way. If you go for run a marathon andyou buy shoes and the guy's like, \"Hey,"
+    },
+    {
+      "endMs": "726640",
+      "startMs": "721760",
+      "startTimeText": "12:01",
+      "text": "do you want, you know, one of those tanktops to go with it and an iPhone band?\""
+    },
+    {
+      "endMs": "728560",
+      "startMs": "725280",
+      "startTimeText": "12:05",
+      "text": "You're probably like, \"Well, well, Ijust bought. I'm not buying anything.\""
+    },
+    {
+      "endMs": "731440",
+      "startMs": "727840",
+      "startTimeText": "12:07",
+      "text": "It's like, \"No, you're still in theYou're still in flight, right?\" Now, if"
+    },
+    {
+      "endMs": "734640",
+      "startMs": "730040",
+      "startTimeText": "12:10",
+      "text": "you finish the marathon race and theysay, \"Do you want an an iPhone thing for"
+    },
+    {
+      "endMs": "736360",
+      "startMs": "733280",
+      "startTimeText": "12:13",
+      "text": "your wrist?\" You're like, \"No, I'm I'mactually pretty good.\""
+    },
+    {
+      "endMs": "737720",
+      "startMs": "735920",
+      "startTimeText": "12:15",
+      "text": "You know what I'm saying?>> Yeah. Okay."
+    },
+    {
+      "endMs": "742240",
+      "startMs": "737000",
+      "startTimeText": "12:17",
+      "text": ">> Okay.>> Um"
+    },
+    {
+      "endMs": "745760",
+      "startMs": "739240",
+      "startTimeText": "12:19",
+      "text": "Okay. So, from the offer itself, I thinkI think we go $2,500."
+    },
+    {
+      "endMs": "750680",
+      "startMs": "745800",
+      "startTimeText": "12:25",
+      "text": "Uh basically bi-annually. Hopefully I'msaying this right. I think it's"
+    },
+    {
+      "endMs": "753640",
+      "startMs": "748920",
+      "startTimeText": "12:28",
+      "text": "bi-annually. If it's not, I'm suresomeone in the comments will correct me."
+    },
+    {
+      "endMs": "756200",
+      "startMs": "752240",
+      "startTimeText": "12:32",
+      "text": "Okay. So, during the launch, doeseveryone buy through checkout?"
+    },
+    {
+      "endMs": "757400",
+      "startMs": "754680",
+      "startTimeText": "12:34",
+      "text": ">> They can buy through checkout, but a lotof them"
+    },
+    {
+      "endMs": "760800",
+      "startMs": "756520",
+      "startTimeText": "12:36",
+      "text": ">> Do they?>> Uh about 30% do."
+    },
+    {
+      "endMs": "763080",
+      "startMs": "759680",
+      "startTimeText": "12:39",
+      "text": ">> so a third of them do. So, what I wantto do, and this might sound like a"
+    },
+    {
+      "endMs": "766120",
+      "startMs": "762080",
+      "startTimeText": "12:42",
+      "text": "little little wild,>> Yeah."
+    },
+    {
+      "endMs": "767839",
+      "startMs": "763560",
+      "startTimeText": "12:43",
+      "text": ">> is I want you to have $2,500 checkoutprice."
+    },
+    {
+      "endMs": "773960",
+      "startMs": "766720",
+      "startTimeText": "12:46",
+      "text": ">> Mhm.>> And want to have a $3,000"
+    },
+    {
+      "endMs": "773960",
+      "startMs": "770960",
+      "startTimeText": "12:50",
+      "text": "uh one-on-one price."
+    },
+    {
+      "endMs": "779400",
+      "startMs": "774440",
+      "startTimeText": "12:54",
+      "text": "So, if I have to talk to you one-on-one,it's it's $500 extra. And it's just"
+    },
+    {
+      "endMs": "782040",
+      "startMs": "777480",
+      "startTimeText": "12:57",
+      "text": "because if I were to charge hourly forme consulting with you, it would be $500"
+    },
+    {
+      "endMs": "785160",
+      "startMs": "781560",
+      "startTimeText": "13:01",
+      "text": "an hour.>> Yeah."
+    },
+    {
+      "endMs": "789080",
+      "startMs": "782440",
+      "startTimeText": "13:02",
+      "text": ">> And so, I'll only charge you for 1 hourum to do that, but"
+    },
+    {
+      "endMs": "791520",
+      "startMs": "787520",
+      "startTimeText": "13:07",
+      "text": "this is if you're like on the fence, letme just already cover all these issues."
+    },
+    {
+      "endMs": "795000",
+      "startMs": "790480",
+      "startTimeText": "13:10",
+      "text": "Now, I think part of the reason thatyou're getting all these questions is"
+    },
+    {
+      "endMs": "798680",
+      "startMs": "792680",
+      "startTimeText": "13:12",
+      "text": "you don't have a structured webinar.So, you're not having a structured FAQ"
+    },
+    {
+      "endMs": "802520",
+      "startMs": "796440",
+      "startTimeText": "13:16",
+      "text": "part, right? Which then this is going togo to conversion. What I want you to do"
+    },
+    {
+      "endMs": "806280",
+      "startMs": "800560",
+      "startTimeText": "13:20",
+      "text": "is if you look at all You already haveall the DMs categorized, right? Or you"
+    },
+    {
+      "endMs": "808320",
+      "startMs": "803960",
+      "startTimeText": "13:23",
+      "text": "have like a big data set of all the allthe DM conversations you've had, right?"
+    },
+    {
+      "endMs": "812160",
+      "startMs": "807720",
+      "startTimeText": "13:27",
+      "text": ">> Yeah. Yeah.>> I want you to take call it every single"
+    },
+    {
+      "endMs": "814560",
+      "startMs": "810680",
+      "startTimeText": "13:30",
+      "text": "bucket of of FAQ>> Mhm."
+    },
+    {
+      "endMs": "818280",
+      "startMs": "813200",
+      "startTimeText": "13:33",
+      "text": ">> and I want you to review it at the endof the webinar. And I want you to do it"
+    },
+    {
+      "endMs": "820880",
+      "startMs": "816160",
+      "startTimeText": "13:36",
+      "text": "is just pull the question behind you orpull it up on the screen and then answer"
+    },
+    {
+      "endMs": "822320",
+      "startMs": "820040",
+      "startTimeText": "13:40",
+      "text": "it.>> Answer it live."
+    },
+    {
+      "endMs": "824160",
+      "startMs": "821680",
+      "startTimeText": "13:41",
+      "text": ">> Yeah. Okay. Okay.>> Because because they have the same"
+    },
+    {
+      "endMs": "825880",
+      "startMs": "823600",
+      "startTimeText": "13:43",
+      "text": "questions.>> Yeah."
+    },
+    {
+      "endMs": "827160",
+      "startMs": "824600",
+      "startTimeText": "13:44",
+      "text": ">> There's there's no new questions.There's no new questions."
+    },
+    {
+      "endMs": "830160",
+      "startMs": "826880",
+      "startTimeText": "13:46",
+      "text": ">> Yeah.>> So the only reason that like you have to"
+    },
+    {
+      "endMs": "834080",
+      "startMs": "828800",
+      "startTimeText": "13:48",
+      "text": "do this one-on-one is and it's wasting aton of your time is we're just not"
+    },
+    {
+      "endMs": "839640",
+      "startMs": "831480",
+      "startTimeText": "13:51",
+      "text": "handling it. Just handle it up front.So when we have our think what they"
+    },
+    {
+      "endMs": "844000",
+      "startMs": "835760",
+      "startTimeText": "13:55",
+      "text": "think we have our point, you know, introour promise"
+    },
+    {
+      "endMs": "848040",
+      "startMs": "842400",
+      "startTimeText": "14:02",
+      "text": "your intro which is your storyorigin"
+    },
+    {
+      "endMs": "849200",
+      "startMs": "845560",
+      "startTimeText": "14:05",
+      "text": "and we have point one, two, and threeof the webinar"
+    },
+    {
+      "endMs": "851960",
+      "startMs": "848800",
+      "startTimeText": "14:08",
+      "text": ">> Mhm.>> then you have your offer"
+    },
+    {
+      "endMs": "856640",
+      "startMs": "852040",
+      "startTimeText": "14:12",
+      "text": "and then you have your FAQ.>> And then how many questions?"
+    },
+    {
+      "endMs": "858600",
+      "startMs": "855800",
+      "startTimeText": "14:15",
+      "text": ">> As many as there are.>> Okay."
+    },
+    {
+      "endMs": "861520",
+      "startMs": "857400",
+      "startTimeText": "14:17",
+      "text": ">> Just think about buckets. Like I meanthere's there's probably six flavors or"
+    },
+    {
+      "endMs": "863120",
+      "startMs": "860200",
+      "startTimeText": "14:20",
+      "text": "eight flavors or nine Whatever how manyquestions there are like you answer all"
+    },
+    {
+      "endMs": "865200",
+      "startMs": "862680",
+      "startTimeText": "14:22",
+      "text": "of them.>> Yeah."
+    },
+    {
+      "endMs": "867000",
+      "startMs": "863440",
+      "startTimeText": "14:23",
+      "text": ">> As long as they're on, keep answering.>> Okay."
+    },
+    {
+      "endMs": "868320",
+      "startMs": "866480",
+      "startTimeText": "14:26",
+      "text": ">> Okay.>> But"
+    },
+    {
+      "endMs": "871400",
+      "startMs": "867400",
+      "startTimeText": "14:27",
+      "text": ">> Cuz you're used to doing three or fourhours. So like you just keep answering"
+    },
+    {
+      "endMs": "873400",
+      "startMs": "869520",
+      "startTimeText": "14:29",
+      "text": "questions. I'm dead serious. Just keepanswering questions. If they're still"
+    },
+    {
+      "endMs": "874520",
+      "startMs": "872240",
+      "startTimeText": "14:32",
+      "text": "on, keep answering questions.>> Yeah."
+    },
+    {
+      "endMs": "878720",
+      "startMs": "873720",
+      "startTimeText": "14:33",
+      "text": ">> But answer the ones that you alreadyknow that represent the big like answer"
+    },
+    {
+      "endMs": "879680",
+      "startMs": "876160",
+      "startTimeText": "14:36",
+      "text": "it in in order of greatest percentage ofquestions."
+    },
+    {
+      "endMs": "882080",
+      "startMs": "879360",
+      "startTimeText": "14:39",
+      "text": ">> Okay.>> So it's like the majority if I had only"
+    },
+    {
+      "endMs": "885080",
+      "startMs": "881080",
+      "startTimeText": "14:41",
+      "text": "pick one question to answer it'd be thisone and it's going to be 40% of people."
+    },
+    {
+      "endMs": "887120",
+      "startMs": "883680",
+      "startTimeText": "14:43",
+      "text": "And my number two most asked question isgoing to be this which is 25% of people."
+    },
+    {
+      "endMs": "889000",
+      "startMs": "886240",
+      "startTimeText": "14:46",
+      "text": "And then my number three and then itgoes into the long tail."
+    },
+    {
+      "endMs": "891560",
+      "startMs": "888360",
+      "startTimeText": "14:48",
+      "text": ">> Got it. Got it.>> Okay?"
+    },
+    {
+      "endMs": "896040",
+      "startMs": "889880",
+      "startTimeText": "14:49",
+      "text": ">> But the problem with like having thelive parents come here versus my"
+    },
+    {
+      "endMs": "899839",
+      "startMs": "894320",
+      "startTimeText": "14:54",
+      "text": "three-four-hour thing is because theytake a long time and it could be like"
+    },
+    {
+      "endMs": "902320",
+      "startMs": "898160",
+      "startTimeText": "14:58",
+      "text": "I'll invite up to eight parents.>> Uh-huh."
+    },
+    {
+      "endMs": "904880",
+      "startMs": "900440",
+      "startTimeText": "15:00",
+      "text": ">> But that might be my own problem. Butcuz that could drag that that could drag"
+    },
+    {
+      "endMs": "908080",
+      "startMs": "903880",
+      "startTimeText": "15:03",
+      "text": "this on like>> Oh that's cuz you're doing like Zoom"
+    },
+    {
+      "endMs": "912920",
+      "startMs": "905960",
+      "startTimeText": "15:05",
+      "text": "calls. Not like and you're getting 10%of those people to buy?"
+    },
+    {
+      "endMs": "915360",
+      "startMs": "909839",
+      "startTimeText": "15:09",
+      "text": ">> 10% that come live buy but every time>> That's insane."
+    },
+    {
+      "endMs": "918920",
+      "startMs": "913680",
+      "startTimeText": "15:13",
+      "text": ">> Even outside the replay for thethree-four-hour thing, if someone"
+    },
+    {
+      "endMs": "920760",
+      "startMs": "917040",
+      "startTimeText": "15:17",
+      "text": "watches it and they can truly afford it>> Yeah."
+    },
+    {
+      "endMs": "922600",
+      "startMs": "919240",
+      "startTimeText": "15:19",
+      "text": ">> they'll they'll reach out to my in myDMs and be like can I buy? Can I get it"
+    },
+    {
+      "endMs": "924400",
+      "startMs": "922280",
+      "startTimeText": "15:22",
+      "text": "now?>> Yeah."
+    },
+    {
+      "endMs": "928280",
+      "startMs": "923000",
+      "startTimeText": "15:23",
+      "text": ">> So this is how I'm converting them.>> Yeah, we just need to basically your"
+    },
+    {
+      "endMs": "930720",
+      "startMs": "926480",
+      "startTimeText": "15:26",
+      "text": "delivery needs to become your contentand your pitches need to be your"
+    },
+    {
+      "endMs": "932040",
+      "startMs": "929040",
+      "startTimeText": "15:29",
+      "text": "pitches. You're kind of like muddlingthe two."
+    },
+    {
+      "endMs": "932840",
+      "startMs": "931420",
+      "startTimeText": "15:31",
+      "text": ">> [laughter]>> Right?"
+    },
+    {
+      "endMs": "935960",
+      "startMs": "932520",
+      "startTimeText": "15:32",
+      "text": ">> Yeah.>> Just sell when you need to sell, deliver"
+    },
+    {
+      "endMs": "938120",
+      "startMs": "934320",
+      "startTimeText": "15:34",
+      "text": "when you need to deliver.And all that delivery stuff, that"
+    },
+    {
+      "endMs": "939320",
+      "startMs": "937120",
+      "startTimeText": "15:37",
+      "text": "becomes content which I'll get to in asecond when we get to traffic."
+    },
+    {
+      "endMs": "940040",
+      "startMs": "939120",
+      "startTimeText": "15:39",
+      "text": ">> Okay.>> Okay?"
+    },
+    {
+      "endMs": "942320",
+      "startMs": "939760",
+      "startTimeText": "15:39",
+      "text": ">> Okay.>> How does this feel?"
+    },
+    {
+      "endMs": "945440",
+      "startMs": "941080",
+      "startTimeText": "15:41",
+      "text": ">> Um this 3,000 one>> to have a reason for them to check out"
+    },
+    {
+      "endMs": "948160",
+      "startMs": "943800",
+      "startTimeText": "15:43",
+      "text": "rather than having to DM you.>> Oh."
+    },
+    {
+      "endMs": "951520",
+      "startMs": "947240",
+      "startTimeText": "15:47",
+      "text": ">> If you want to have a call with me,it'll be $3,000. I just add 500 bucks"
+    },
+    {
+      "endMs": "954560",
+      "startMs": "949880",
+      "startTimeText": "15:49",
+      "text": "cuz it it cost my time.>> So so okay, so when they're checking out"
+    },
+    {
+      "endMs": "956520",
+      "startMs": "953040",
+      "startTimeText": "15:53",
+      "text": "they have these two options. They caneither do"
+    },
+    {
+      "endMs": "958400",
+      "startMs": "955280",
+      "startTimeText": "15:55",
+      "text": ">> you can just check out now and if youwant to talk to me"
+    },
+    {
+      "endMs": "961280",
+      "startMs": "957600",
+      "startTimeText": "15:57",
+      "text": ">> Mhm.>> then it's $3,000. It's an extra 500"
+    },
+    {
+      "endMs": "963400",
+      "startMs": "959920",
+      "startTimeText": "15:59",
+      "text": "bucks and that's just because it's goingto take my time."
+    },
+    {
+      "endMs": "965680",
+      "startMs": "961560",
+      "startTimeText": "16:01",
+      "text": ">> Oh, extra $500. Okay, got it.>> I know this because everyone's and I"
+    },
+    {
+      "endMs": "968520",
+      "startMs": "964520",
+      "startTimeText": "16:04",
+      "text": "would just just state the fact and tellthe truth. Like I can't physically talk"
+    },
+    {
+      "endMs": "970760",
+      "startMs": "967440",
+      "startTimeText": "16:07",
+      "text": "to everyone and this is why you needmore people on those calls. That's why"
+    },
+    {
+      "endMs": "973760",
+      "startMs": "969720",
+      "startTimeText": "16:09",
+      "text": "it's like you're doing eight people at atime. It's just a waste. Like let's get"
+    },
+    {
+      "endMs": "975880",
+      "startMs": "972200",
+      "startTimeText": "16:12",
+      "text": "50 people or 100 people on the call.>> Yeah."
+    },
+    {
+      "endMs": "978920",
+      "startMs": "974280",
+      "startTimeText": "16:14",
+      "text": ">> Have a structured webinar, answer allthe questions, make this offer, more"
+    },
+    {
+      "endMs": "981080",
+      "startMs": "977480",
+      "startTimeText": "16:17",
+      "text": "people will be willing to buy and thenit's like if you were not sure"
+    },
+    {
+      "endMs": "982480",
+      "startMs": "980240",
+      "startTimeText": "16:20",
+      "text": ">> If you're not sure and you want to talkto me then"
+    },
+    {
+      "endMs": "986640",
+      "startMs": "981440",
+      "startTimeText": "16:21",
+      "text": ">> yeah, go ahead.>> Okay. But what if it's like too many"
+    },
+    {
+      "endMs": "989360",
+      "startMs": "984240",
+      "startTimeText": "16:24",
+      "text": "people or is that offer there cuz lesspeople people won't"
+    },
+    {
+      "endMs": "992920",
+      "startMs": "987880",
+      "startTimeText": "16:27",
+      "text": ">> the the goal is that more people don'twant to pay the extra $500. Now if"
+    },
+    {
+      "endMs": "995120",
+      "startMs": "991160",
+      "startTimeText": "16:31",
+      "text": "everyone is wants to pay this, thengreat. We raise our prices."
+    },
+    {
+      "endMs": "996600",
+      "startMs": "994956",
+      "startTimeText": "16:34",
+      "text": ">> [laughter]>> Cuz I'm like I don't want to do"
+    },
+    {
+      "endMs": "999400",
+      "startMs": "996200",
+      "startTimeText": "16:36",
+      "text": "one-on-one>> No, great. Yeah, well but like that"
+    },
+    {
+      "endMs": "1000480",
+      "startMs": "998240",
+      "startTimeText": "16:38",
+      "text": "they're doing it now for you're doing itfor free right now."
+    },
+    {
+      "endMs": "1002640",
+      "startMs": "1000120",
+      "startTimeText": "16:40",
+      "text": ">> Yeah.>> Right, so like let's at least get paid"
+    },
+    {
+      "endMs": "1004320",
+      "startMs": "1001720",
+      "startTimeText": "16:41",
+      "text": "for it if you're going to do it but thegoal is to incentivize people to do"
+    },
+    {
+      "endMs": "1005920",
+      "startMs": "1003839",
+      "startTimeText": "16:43",
+      "text": "this.>> Got it."
+    },
+    {
+      "endMs": "1009040",
+      "startMs": "1004760",
+      "startTimeText": "16:44",
+      "text": ">> And again, we're selling biannually soautomatically this whole thing is going"
+    },
+    {
+      "endMs": "1012400",
+      "startMs": "1007960",
+      "startTimeText": "16:47",
+      "text": "to switch because they're going to haveto opt out rather than opting in."
+    },
+    {
+      "endMs": "1013200",
+      "startMs": "1011760",
+      "startTimeText": "16:51",
+      "text": ">> Got it.>> Track?"
+    },
+    {
+      "endMs": "1014440",
+      "startMs": "1012800",
+      "startTimeText": "16:52",
+      "text": ">> Yes.>> Okay."
+    },
+    {
+      "endMs": "1017880",
+      "startMs": "1013480",
+      "startTimeText": "16:53",
+      "text": ">> Yes.>> So on the conversion process, I think"
+    },
+    {
+      "endMs": "1021680",
+      "startMs": "1016080",
+      "startTimeText": "16:56",
+      "text": "one of the big one of the big ones ishusband slash it's mostly female buyers,"
+    },
+    {
+      "endMs": "1024880",
+      "startMs": "1020120",
+      "startTimeText": "17:00",
+      "text": "husband's not there.So I would just say give a three-day no"
+    },
+    {
+      "endMs": "1026640",
+      "startMs": "1023440",
+      "startTimeText": "17:03",
+      "text": "sweatuh guarantee."
+    },
+    {
+      "endMs": "1030079",
+      "startMs": "1025920",
+      "startTimeText": "17:05",
+      "text": ">> Okay.>> Which you're legally have to anyways. Uh"
+    },
+    {
+      "endMs": "1032760",
+      "startMs": "1028760",
+      "startTimeText": "17:08",
+      "text": "so people get back out of a purchasewhich is that if someone changes their"
+    },
+    {
+      "endMs": "1035480",
+      "startMs": "1031360",
+      "startTimeText": "17:11",
+      "text": "mind, they change their mind. Right? Andso just say, \"Hey, no worries. Buy it"
+    },
+    {
+      "endMs": "1037920",
+      "startMs": "1034560",
+      "startTimeText": "17:14",
+      "text": "and if for some reason in the next threedays you talk to your husband and he's"
+    },
+    {
+      "endMs": "1041079",
+      "startMs": "1036480",
+      "startTimeText": "17:16",
+      "text": "like, I don't want our kid to getbetter. I want him to stay the same and"
+    },
+    {
+      "endMs": "1044240",
+      "startMs": "1039480",
+      "startTimeText": "17:19",
+      "text": "get worse and like this be a problemforever.\" If he says that, no worries,"
+    },
+    {
+      "endMs": "1046839",
+      "startMs": "1043160",
+      "startTimeText": "17:23",
+      "text": "just let me know refund you.>> Okay."
+    },
+    {
+      "endMs": "1051200",
+      "startMs": "1045240",
+      "startTimeText": "17:25",
+      "text": ">> All right, so that way it's like get inand then that way um what we want to do"
+    },
+    {
+      "endMs": "1055360",
+      "startMs": "1049040",
+      "startTimeText": "17:29",
+      "text": "to counteract like potential refunds,which is not going to be high anyways,"
+    },
+    {
+      "endMs": "1057480",
+      "startMs": "1052400",
+      "startTimeText": "17:32",
+      "text": "is you want to do your onboarding ASAP.So, as soon as someone buys,"
+    },
+    {
+      "endMs": "1060200",
+      "startMs": "1056680",
+      "startTimeText": "17:36",
+      "text": ">> Mhm.>> do the onboarding like the next day cuz"
+    },
+    {
+      "endMs": "1061600",
+      "startMs": "1059240",
+      "startTimeText": "17:39",
+      "text": "then the likelihood that they get coldfeet goes down."
+    },
+    {
+      "endMs": "1063000",
+      "startMs": "1061120",
+      "startTimeText": "17:41",
+      "text": ">> Got it.>> Just give them value as fast as you"
+    },
+    {
+      "endMs": "1065200",
+      "startMs": "1062422",
+      "startTimeText": "17:42",
+      "text": "[clears throat] can.>> Okay, give value as fast as you can."
+    },
+    {
+      "endMs": "1066840",
+      "startMs": "1064000",
+      "startTimeText": "17:44",
+      "text": ">> Cuz if they if they buy and then theyget on board, the likelihood they refund"
+    },
+    {
+      "endMs": "1069160",
+      "startMs": "1066280",
+      "startTimeText": "17:46",
+      "text": "is really low.>> Yeah, yeah, yeah."
+    },
+    {
+      "endMs": "1071520",
+      "startMs": "1067800",
+      "startTimeText": "17:47",
+      "text": ">> so it's like let's just pull it forward.>> Got it, got it."
+    },
+    {
+      "endMs": "1075880",
+      "startMs": "1070040",
+      "startTimeText": "17:50",
+      "text": ">> Like they have 3 days to do it, but youcan deliver ASAP. Right?"
+    },
+    {
+      "endMs": "1079880",
+      "startMs": "1073240",
+      "startTimeText": "17:53",
+      "text": ">> So, on my live events currently, I'llhave something like if you buy while"
+    },
+    {
+      "endMs": "1083520",
+      "startMs": "1077480",
+      "startTimeText": "17:57",
+      "text": "you're on this call, there's a bonus.So, should I take that out or"
+    },
+    {
+      "endMs": "1086280",
+      "startMs": "1081560",
+      "startTimeText": "18:01",
+      "text": ">> No, I mean you can do have a price goesup and there's a bonus. So, this is"
+    },
+    {
+      "endMs": "1087120",
+      "startMs": "1084600",
+      "startTimeText": "18:04",
+      "text": "cheaper and you get more.>> Okay."
+    },
+    {
+      "endMs": "1088800",
+      "startMs": "1086760",
+      "startTimeText": "18:06",
+      "text": ">> Cool.>> Yeah."
+    },
+    {
+      "endMs": "1093240",
+      "startMs": "1087680",
+      "startTimeText": "18:07",
+      "text": ">> Now,uh you have this $150 a month thing"
+    },
+    {
+      "endMs": "1095000",
+      "startMs": "1091760",
+      "startTimeText": "18:11",
+      "text": "for like one-on-one with your>> It's not with me, yeah. It's my"
+    },
+    {
+      "endMs": "1096760",
+      "startMs": "1094240",
+      "startTimeText": "18:14",
+      "text": "membership.>> team."
+    },
+    {
+      "endMs": "1100160",
+      "startMs": "1095440",
+      "startTimeText": "18:15",
+      "text": ">> Yeah, with my coaching team.>> So, if you're going to do that, you need"
+    },
+    {
+      "endMs": "1101960",
+      "startMs": "1098400",
+      "startTimeText": "18:18",
+      "text": "to make it like five times as expensiveor get rid of it."
+    },
+    {
+      "endMs": "1103920",
+      "startMs": "1101120",
+      "startTimeText": "18:21",
+      "text": ">> Oh.>> It's not priced right."
+    },
+    {
+      "endMs": "1106240",
+      "startMs": "1103280",
+      "startTimeText": "18:23",
+      "text": ">> Okay.>> Yeah, cuz you have one-to-many and then"
+    },
+    {
+      "endMs": "1109360",
+      "startMs": "1105080",
+      "startTimeText": "18:25",
+      "text": "it's like for twice the price you getone-on-one, basically. Right? So, it"
+    },
+    {
+      "endMs": "1110280",
+      "startMs": "1108000",
+      "startTimeText": "18:28",
+      "text": "should be like five times the price.>> Mhm."
+    },
+    {
+      "endMs": "1113840",
+      "startMs": "1110237",
+      "startTimeText": "18:30",
+      "text": ">> [clears throat]>> So, it's like think like 8,000, 8,000,"
+    },
+    {
+      "endMs": "1117440",
+      "startMs": "1112280",
+      "startTimeText": "18:32",
+      "text": "10,000 is what it would be if I wantedto have. People have the money."
+    },
+    {
+      "endMs": "1120062",
+      "startMs": "1116160",
+      "startTimeText": "18:36",
+      "text": "I promise, they do.And that money will allow you to scale"
+    },
+    {
+      "endMs": "1122082",
+      "startMs": "1119240",
+      "startTimeText": "18:39",
+      "text": "it.>> [laughter]"
+    },
+    {
+      "endMs": "1126720",
+      "startMs": "1122240",
+      "startTimeText": "18:42",
+      "text": ">> It just it it like one on it just it itthe math doesn't math."
+    },
+    {
+      "endMs": "1127880",
+      "startMs": "1125160",
+      "startTimeText": "18:45",
+      "text": ">> Yeah, but it's not with me.>> No, I know."
+    },
+    {
+      "endMs": "1131320",
+      "startMs": "1127280",
+      "startTimeText": "18:47",
+      "text": ">> It's with my team.>> I know, it's it's it's it's not about"
+    },
+    {
+      "endMs": "1134600",
+      "startMs": "1129760",
+      "startTimeText": "18:49",
+      "text": ">> But it's like it's like support.>> It's buying behavior."
+    },
+    {
+      "endMs": "1136920",
+      "startMs": "1132720",
+      "startTimeText": "18:52",
+      "text": "It's buying behavior. So, either includethe like include your base level"
+    },
+    {
+      "endMs": "1137880",
+      "startMs": "1135920",
+      "startTimeText": "18:55",
+      "text": "support, which is what you have withoutone-on-one."
+    },
+    {
+      "endMs": "1141080",
+      "startMs": "1137400",
+      "startTimeText": "18:57",
+      "text": ">> Yeah.>> And then if they want one-on-one, they"
+    },
+    {
+      "endMs": "1143643",
+      "startMs": "1139320",
+      "startTimeText": "18:59",
+      "text": "have to pay for the one-on-one price.Many people everybody needs one-on-one,"
+    },
+    {
+      "endMs": "1145000",
+      "startMs": "1142680",
+      "startTimeText": "19:02",
+      "text": "everything.>> [gasps]"
+    },
+    {
+      "endMs": "1148240",
+      "startMs": "1143960",
+      "startTimeText": "19:03",
+      "text": ">> But it just doesn't mean that everyonecan afford it. It's not worth it's"
+    },
+    {
+      "endMs": "1150760",
+      "startMs": "1147160",
+      "startTimeText": "19:07",
+      "text": "You have a responsibility to thebusiness."
+    },
+    {
+      "endMs": "1153520",
+      "startMs": "1149640",
+      "startTimeText": "19:09",
+      "text": "And the business has a responsibility tocustomers. But your responsibility is to"
+    },
+    {
+      "endMs": "1154760",
+      "startMs": "1152560",
+      "startTimeText": "19:12",
+      "text": "make sure the business survives andgrows."
+    },
+    {
+      "endMs": "1156520",
+      "startMs": "1154000",
+      "startTimeText": "19:14",
+      "text": ">> Mhm.>> And in order for the business to survive"
+    },
+    {
+      "endMs": "1159280",
+      "startMs": "1155680",
+      "startTimeText": "19:15",
+      "text": "and grow, it has to take care of thecustomer. So it's a it's a it's a"
+    },
+    {
+      "endMs": "1160320",
+      "startMs": "1158000",
+      "startTimeText": "19:18",
+      "text": "circle.Does that make sense?"
+    },
+    {
+      "endMs": "1165040",
+      "startMs": "1159840",
+      "startTimeText": "19:19",
+      "text": ">> Yeah. Yeah.>> Okay. On the delivery part, so this is"
+    },
+    {
+      "endMs": "1168120",
+      "startMs": "1162960",
+      "startTimeText": "19:22",
+      "text": "on delivery a little bit. Umyou have this Telegram, right? That you"
+    },
+    {
+      "endMs": "1170400",
+      "startMs": "1166840",
+      "startTimeText": "19:26",
+      "text": "use cohorts in Telegram.>> Mhm."
+    },
+    {
+      "endMs": "1172480",
+      "startMs": "1168880",
+      "startTimeText": "19:28",
+      "text": ">> You can Are you familiar with AI?>> Mhm."
+    },
+    {
+      "endMs": "1177680",
+      "startMs": "1170840",
+      "startTimeText": "19:30",
+      "text": ">> Okay. So what I would do is I'd vibecode um an agent that"
+    },
+    {
+      "endMs": "1180040",
+      "startMs": "1176000",
+      "startTimeText": "19:36",
+      "text": "searches the whole Telegram>> Mhm."
+    },
+    {
+      "endMs": "1184640",
+      "startMs": "1178560",
+      "startTimeText": "19:38",
+      "text": ">> uh and looks for past responses that aresimilar to the question"
+    },
+    {
+      "endMs": "1188600",
+      "startMs": "1181640",
+      "startTimeText": "19:41",
+      "text": "and then suggests it to you or your teamand then you can check or exit and then"
+    },
+    {
+      "endMs": "1190800",
+      "startMs": "1187400",
+      "startTimeText": "19:47",
+      "text": "it sends it.And that way you're going to"
+    },
+    {
+      "endMs": "1193280",
+      "startMs": "1189440",
+      "startTimeText": "19:49",
+      "text": "dramatically increase the leverage thatyou have for each of your delivery"
+    },
+    {
+      "endMs": "1196080",
+      "startMs": "1191640",
+      "startTimeText": "19:51",
+      "text": "people.>> So have the agent send it"
+    },
+    {
+      "endMs": "1198240",
+      "startMs": "1195320",
+      "startTimeText": "19:55",
+      "text": "automatically?>> No, so basically you'll vibe code a"
+    },
+    {
+      "endMs": "1199680",
+      "startMs": "1197600",
+      "startTimeText": "19:57",
+      "text": "dashboard.>> Yeah."
+    },
+    {
+      "endMs": "1200600",
+      "startMs": "1198560",
+      "startTimeText": "19:58",
+      "text": ">> They don't even have to be in Telegram.>> Yeah."
+    },
+    {
+      "endMs": "1202320",
+      "startMs": "1199920",
+      "startTimeText": "19:59",
+      "text": ">> Like your team.>> Yeah."
+    },
+    {
+      "endMs": "1204880",
+      "startMs": "1200760",
+      "startTimeText": "20:00",
+      "text": ">> They have a dashboard. And then peopleask the questions so it's convenient for"
+    },
+    {
+      "endMs": "1207240",
+      "startMs": "1203800",
+      "startTimeText": "20:03",
+      "text": "them. But you make it convenient foryour team to have them all in one place"
+    },
+    {
+      "endMs": "1211920",
+      "startMs": "1206040",
+      "startTimeText": "20:06",
+      "text": "where it already has suggested answersand they just reply or edit."
+    },
+    {
+      "endMs": "1214800",
+      "startMs": "1209480",
+      "startTimeText": "20:09",
+      "text": "Single way faster.>> Got it."
+    },
+    {
+      "endMs": "1218880",
+      "startMs": "1212920",
+      "startTimeText": "20:12",
+      "text": "Okay. I can do that. Yeah.>> How frequently are you running webinars?"
+    },
+    {
+      "endMs": "1221560",
+      "startMs": "1216400",
+      "startTimeText": "20:16",
+      "text": ">> Once every every time there's a launch.So so that is"
+    },
+    {
+      "endMs": "1223640",
+      "startMs": "1220240",
+      "startTimeText": "20:20",
+      "text": ">> So this is what I would consider doing.>> Yeah."
+    },
+    {
+      "endMs": "1225640",
+      "startMs": "1222080",
+      "startTimeText": "20:22",
+      "text": ">> Once a week hold a webinar>> Uh-huh."
+    },
+    {
+      "endMs": "1228920",
+      "startMs": "1224040",
+      "startTimeText": "20:24",
+      "text": ">> for all the people who DM you and say,\"Hey, I'm doing a live thing with other"
+    },
+    {
+      "endMs": "1232360",
+      "startMs": "1227160",
+      "startTimeText": "20:27",
+      "text": "parents that way you won't feel alone.Come attend.\" And then you can just do"
+    },
+    {
+      "endMs": "1234720",
+      "startMs": "1230480",
+      "startTimeText": "20:30",
+      "text": "the structured webinar once a week andthen mop up everyone that's been in your"
+    },
+    {
+      "endMs": "1236320",
+      "startMs": "1234080",
+      "startTimeText": "20:34",
+      "text": "DMs>> Mhm."
+    },
+    {
+      "endMs": "1238720",
+      "startMs": "1235000",
+      "startTimeText": "20:35",
+      "text": ">> and just send reminders to them to showup. That way you don't have to go into"
+    },
+    {
+      "endMs": "1240640",
+      "startMs": "1237520",
+      "startTimeText": "20:37",
+      "text": "all these long conversations cuz you'rehaving the same conversation 100 times"
+    },
+    {
+      "endMs": "1241560",
+      "startMs": "1240160",
+      "startTimeText": "20:40",
+      "text": "in a row.>> Yeah."
+    },
+    {
+      "endMs": "1243000",
+      "startMs": "1241200",
+      "startTimeText": "20:41",
+      "text": ">> Okay.>> Yeah."
+    },
+    {
+      "endMs": "1245680",
+      "startMs": "1242000",
+      "startTimeText": "20:42",
+      "text": ">> And then you still do your launchesthat's going to be the paid."
+    },
+    {
+      "endMs": "1247440",
+      "startMs": "1244520",
+      "startTimeText": "20:44",
+      "text": "But your your weekly webinar can beorganic."
+    },
+    {
+      "endMs": "1249800",
+      "startMs": "1246520",
+      "startTimeText": "20:46",
+      "text": ">> Okay.>> That That feel okay?"
+    },
+    {
+      "endMs": "1251880",
+      "startMs": "1248200",
+      "startTimeText": "20:48",
+      "text": ">> only only for the people that are DMingme or should I"
+    },
+    {
+      "endMs": "1255080",
+      "startMs": "1250960",
+      "startTimeText": "20:50",
+      "text": ">> No, I would just no. Should I messagethe waitlist too?"
+    },
+    {
+      "endMs": "1257520",
+      "startMs": "1253360",
+      "startTimeText": "20:53",
+      "text": ">> Um I would just do For me I'd ratherjust have all the people who are DMing"
+    },
+    {
+      "endMs": "1258840",
+      "startMs": "1256160",
+      "startTimeText": "20:56",
+      "text": "you. I'd use my waitlist for thelaunches."
+    },
+    {
+      "endMs": "1261200",
+      "startMs": "1258360",
+      "startTimeText": "20:58",
+      "text": ">> Okay.>> Cuz it'll be like more razzle-dazzle."
+    },
+    {
+      "endMs": "1265200",
+      "startMs": "1260200",
+      "startTimeText": "21:00",
+      "text": "But you're just We're trying to accountfor like what happens in between. So big"
+    },
+    {
+      "endMs": "1267320",
+      "startMs": "1263240",
+      "startTimeText": "21:03",
+      "text": "picture, we're changing from our 3-hour3 to 4-hour marathon to a structured"
+    },
+    {
+      "endMs": "1270720",
+      "startMs": "1266800",
+      "startTimeText": "21:06",
+      "text": "webinar.>> Okay. going to follow this structure."
+    },
+    {
+      "endMs": "1273000",
+      "startMs": "1269400",
+      "startTimeText": "21:09",
+      "text": "We can bring up the people live to dothe proof for each of the points if you"
+    },
+    {
+      "endMs": "1275360",
+      "startMs": "1271840",
+      "startTimeText": "21:11",
+      "text": "want to and that's only for yourlaunches."
+    },
+    {
+      "endMs": "1278800",
+      "startMs": "1274040",
+      "startTimeText": "21:14",
+      "text": "We'll still use the same webinar. Youdon't have to have the live people. The"
+    },
+    {
+      "endMs": "1281680",
+      "startMs": "1276920",
+      "startTimeText": "21:16",
+      "text": "upsell timing we're going to shift.Right? Because we won't even need to cuz"
+    },
+    {
+      "endMs": "1285400",
+      "startMs": "1280880",
+      "startTimeText": "21:20",
+      "text": "we're going to we're going to bebi-annually here anyways. So"
+    },
+    {
+      "endMs": "1288160",
+      "startMs": "1284200",
+      "startTimeText": "21:24",
+      "text": "this might not even be an issue.>> you don't think it matters whether it's"
+    },
+    {
+      "endMs": "1290040",
+      "startMs": "1286640",
+      "startTimeText": "21:26",
+      "text": "6 month or 12 month.>> Conversions say that I know."
+    },
+    {
+      "endMs": "1291640",
+      "startMs": "1289400",
+      "startTimeText": "21:29",
+      "text": ">> Okay.>> say."
+    },
+    {
+      "endMs": "1294760",
+      "startMs": "1290160",
+      "startTimeText": "21:30",
+      "text": ">> Cuz I thought it was like oh you get ayear might be"
+    },
+    {
+      "endMs": "1298520",
+      "startMs": "1293000",
+      "startTimeText": "21:33",
+      "text": ">> Let me say it differently.Do you want to have your tooth pulled"
+    },
+    {
+      "endMs": "1301280",
+      "startMs": "1295720",
+      "startTimeText": "21:35",
+      "text": "out in 5 minutes or 5 hours?If you can fix your fix my kid in half"
+    },
+    {
+      "endMs": "1303480",
+      "startMs": "1299840",
+      "startTimeText": "21:39",
+      "text": "the time, fix my kid in half the time.>> Yeah."
+    },
+    {
+      "endMs": "1307640",
+      "startMs": "1301840",
+      "startTimeText": "21:41",
+      "text": ">> The bi-annual is still happening on a 6month basis anyway. So that's automatic."
+    },
+    {
+      "endMs": "1310520",
+      "startMs": "1305200",
+      "startTimeText": "21:45",
+      "text": "I still want to have a conversion likepush and reminder cuz I don't want to"
+    },
+    {
+      "endMs": "1311520",
+      "startMs": "1309240",
+      "startTimeText": "21:49",
+      "text": "bug people without them knowing. That'snot the goal."
+    },
+    {
+      "endMs": "1314400",
+      "startMs": "1311200",
+      "startTimeText": "21:51",
+      "text": ">> Yeah.>> But we want to have like it's like we"
+    },
+    {
+      "endMs": "1316840",
+      "startMs": "1313360",
+      "startTimeText": "21:53",
+      "text": "want to get the legal right to do ithere, but we want to have the"
+    },
+    {
+      "endMs": "1317640",
+      "startMs": "1315520",
+      "startTimeText": "21:55",
+      "text": "psychological right from here.>> Got it."
+    },
+    {
+      "endMs": "1318760",
+      "startMs": "1317200",
+      "startTimeText": "21:57",
+      "text": ">> track?>> Got it."
+    },
+    {
+      "endMs": "1322280",
+      "startMs": "1317920",
+      "startTimeText": "21:57",
+      "text": ">> Okay.Uh we're doing this pricing so that we"
+    },
+    {
+      "endMs": "1326160",
+      "startMs": "1320600",
+      "startTimeText": "22:00",
+      "text": "get more people to not DM you and buyimmediately. So it'll be a cheaper price"
+    },
+    {
+      "endMs": "1329200",
+      "startMs": "1323600",
+      "startTimeText": "22:03",
+      "text": "and a bonus if they buy on and if theybuy from you one-on-one and you're like"
+    },
+    {
+      "endMs": "1331320",
+      "startMs": "1327920",
+      "startTimeText": "22:07",
+      "text": "you don't get the bonus and it costsmore. Now if you're on the call you can"
+    },
+    {
+      "endMs": "1333200",
+      "startMs": "1330200",
+      "startTimeText": "22:10",
+      "text": "be like hey I'm not supposed to do thisbut I'll give you the the bonus if they"
+    },
+    {
+      "endMs": "1334960",
+      "startMs": "1332480",
+      "startTimeText": "22:12",
+      "text": "if they ask for it.>> Mhm. Got it."
+    },
+    {
+      "endMs": "1337680",
+      "startMs": "1333920",
+      "startTimeText": "22:13",
+      "text": ">> We're going to vibe code delivery so youget way more leverage from your team."
+    },
+    {
+      "endMs": "1339000",
+      "startMs": "1337080",
+      "startTimeText": "22:17",
+      "text": "That's all good?>> Mhm."
+    },
+    {
+      "endMs": "1341880",
+      "startMs": "1337960",
+      "startTimeText": "22:17",
+      "text": ">> Okay.And we're going to include this little"
+    },
+    {
+      "endMs": "1345000",
+      "startMs": "1340160",
+      "startTimeText": "22:20",
+      "text": "no sweat on the pitch and we're going toadd our FAQs in. That's all conversion"
+    },
+    {
+      "endMs": "1348160",
+      "startMs": "1343600",
+      "startTimeText": "22:23",
+      "text": "stuff. Okay.Once we have all this, now we have an"
+    },
+    {
+      "endMs": "1350840",
+      "startMs": "1346840",
+      "startTimeText": "22:26",
+      "text": "offer that's already renewing. We'rerenewing at the right point. We have a"
+    },
+    {
+      "endMs": "1354320",
+      "startMs": "1349320",
+      "startTimeText": "22:29",
+      "text": "structured conversion process delivery.You got more leverage. We have our FAQs"
+    },
+    {
+      "endMs": "1357840",
+      "startMs": "1352520",
+      "startTimeText": "22:32",
+      "text": "covered and we have guarantees so we candeal with the spouse issue. Now we just"
+    },
+    {
+      "endMs": "1362360",
+      "startMs": "1356040",
+      "startTimeText": "22:36",
+      "text": "need a more traffic. Okay?So this is what I want to do."
+    },
+    {
+      "endMs": "1365760",
+      "startMs": "1359720",
+      "startTimeText": "22:39",
+      "text": "So how manySo you have like 200 plus testimonials"
+    },
+    {
+      "endMs": "1367920",
+      "startMs": "1364320",
+      "startTimeText": "22:44",
+      "text": "that you've already captured which isgreat."
+    },
+    {
+      "endMs": "1374800",
+      "startMs": "1366120",
+      "startTimeText": "22:46",
+      "text": ">> There's like 200 I haven't even posted.>> Yeah. Yeah. So you have post those. Um"
+    },
+    {
+      "endMs": "1375960",
+      "startMs": "1371600",
+      "startTimeText": "22:51",
+      "text": "how much Q&A is there in your delivery?>> A lot."
+    },
+    {
+      "endMs": "1377960",
+      "startMs": "1375520",
+      "startTimeText": "22:55",
+      "text": ">> Okay.>> And they're the same questions every"
+    },
+    {
+      "endMs": "1380960",
+      "startMs": "1377360",
+      "startTimeText": "22:57",
+      "text": "cohort.>> That's great. So um you're familiar with"
+    },
+    {
+      "endMs": "1382160",
+      "startMs": "1380160",
+      "startTimeText": "23:00",
+      "text": "Dave Ramsey?>> Yes."
+    },
+    {
+      "endMs": "1386200",
+      "startMs": "1381600",
+      "startTimeText": "23:01",
+      "text": ">> Yes. Yes.>> He people on and they say I should"
+    },
+    {
+      "endMs": "1389280",
+      "startMs": "1384600",
+      "startTimeText": "23:04",
+      "text": "probably spend less than I'm than I'mspending and I should save more money"
+    },
+    {
+      "endMs": "1392040",
+      "startMs": "1387720",
+      "startTimeText": "23:07",
+      "text": "and he says that's a great idea.If you did it for 45 years."
+    },
+    {
+      "endMs": "1394280",
+      "startMs": "1390840",
+      "startTimeText": "23:10",
+      "text": "And so even though it's the samequestion for you"
+    },
+    {
+      "endMs": "1399080",
+      "startMs": "1393280",
+      "startTimeText": "23:13",
+      "text": "the audience will not perceive it as thesame question."
+    },
+    {
+      "endMs": "1404160",
+      "startMs": "1395680",
+      "startTimeText": "23:15",
+      "text": "And so I want you to take those Q&As andyou can probably have an AI editor just"
+    },
+    {
+      "endMs": "1408400",
+      "startMs": "1403000",
+      "startTimeText": "23:23",
+      "text": "cut it down. Worst case you can have anoffshore editor do it cuz it's a very"
+    },
+    {
+      "endMs": "1411840",
+      "startMs": "1406000",
+      "startTimeText": "23:26",
+      "text": "repeatable cutting process.And I'd love you how many how many How"
+    },
+    {
+      "endMs": "1415040",
+      "startMs": "1410440",
+      "startTimeText": "23:30",
+      "text": "many Q&As would you say you do per week?When I say I don't mean sessions, I mean"
+    },
+    {
+      "endMs": "1417800",
+      "startMs": "1413240",
+      "startTimeText": "23:33",
+      "text": "actual questions that you're answering.>> Actual questions like on the live calls?"
+    },
+    {
+      "endMs": "1420160",
+      "startMs": "1417080",
+      "startTimeText": "23:37",
+      "text": ">> Yeah.>> Probably between 30 to 50."
+    },
+    {
+      "endMs": "1421480",
+      "startMs": "1419640",
+      "startTimeText": "23:39",
+      "text": ">> Okay.>> Yeah."
+    },
+    {
+      "endMs": "1424400",
+      "startMs": "1420400",
+      "startTimeText": "23:40",
+      "text": ">> Soto me"
+    },
+    {
+      "endMs": "1426760",
+      "startMs": "1422640",
+      "startTimeText": "23:42",
+      "text": "that means you get 30 to 50 posts aweek."
+    },
+    {
+      "endMs": "1432000",
+      "startMs": "1428640",
+      "startTimeText": "23:48",
+      "text": "Just by capturing and editing them. Sothat all of a sudden"
+    },
+    {
+      "endMs": "1435560",
+      "startMs": "1430640",
+      "startTimeText": "23:50",
+      "text": ">> So So it doesn't matter like what we doin the program is like being shown out."
+    },
+    {
+      "endMs": "1438560",
+      "startMs": "1434760",
+      "startTimeText": "23:54",
+      "text": "Doesn't matter.>> No, cuz it's going to be so it's going"
+    },
+    {
+      "endMs": "1440760",
+      "startMs": "1436960",
+      "startTimeText": "23:56",
+      "text": "to be bite-sized. You also havequestions that are coming in from"
+    },
+    {
+      "endMs": "1441640",
+      "startMs": "1439520",
+      "startTimeText": "23:59",
+      "text": "Telegram, right? And all thosequestions."
+    },
+    {
+      "endMs": "1445200",
+      "startMs": "1441360",
+      "startTimeText": "24:01",
+      "text": ">> Yes.>> So the ones that get like uploaded or"
+    },
+    {
+      "endMs": "1449040",
+      "startMs": "1443400",
+      "startTimeText": "24:03",
+      "text": "have a lot of like engagement around it,I would do green screen answers."
+    },
+    {
+      "endMs": "1451600",
+      "startMs": "1447960",
+      "startTimeText": "24:07",
+      "text": ">> What does that mean?>> So you pull the question behind you"
+    },
+    {
+      "endMs": "1453560",
+      "startMs": "1451320",
+      "startTimeText": "24:11",
+      "text": ">> Okay.>> and you just talk about the question."
+    },
+    {
+      "endMs": "1455280",
+      "startMs": "1453280",
+      "startTimeText": "24:13",
+      "text": ">> Okay.>> You've probably seen reaction videos."
+    },
+    {
+      "endMs": "1456680",
+      "startMs": "1455160",
+      "startTimeText": "24:15",
+      "text": ">> Okay.>> You just react to the question."
+    },
+    {
+      "endMs": "1459760",
+      "startMs": "1456480",
+      "startTimeText": "24:16",
+      "text": ">> Okay.>> This is a question I you know like So"
+    },
+    {
+      "endMs": "1462960",
+      "startMs": "1458440",
+      "startTimeText": "24:18",
+      "text": "and you can have an AI voice read it andthen you respond or you can read it and"
+    },
+    {
+      "endMs": "1463920",
+      "startMs": "1461640",
+      "startTimeText": "24:21",
+      "text": "respond. Either way it's fine.>> Okay."
+    },
+    {
+      "endMs": "1465600",
+      "startMs": "1463560",
+      "startTimeText": "24:23",
+      "text": ">> That's right.>> Yeah."
+    },
+    {
+      "endMs": "1467320",
+      "startMs": "1464480",
+      "startTimeText": "24:24",
+      "text": ">> Just don't start with a lot of peoplehave been asking me this question."
+    },
+    {
+      "endMs": "1469160",
+      "startMs": "1466480",
+      "startTimeText": "24:26",
+      "text": "That's a terrible hook.>> Okay, don't start [laughter] with that."
+    },
+    {
+      "endMs": "1471840",
+      "startMs": "1468280",
+      "startTimeText": "24:28",
+      "text": "Okay, got it. Got it. Got it. Got it.Got it."
+    },
+    {
+      "endMs": "1475440",
+      "startMs": "1469760",
+      "startTimeText": "24:29",
+      "text": ">> Okay. Um when you go on these otherplatforms, if Instagram is where you're"
+    },
+    {
+      "endMs": "1479360",
+      "startMs": "1473600",
+      "startTimeText": "24:33",
+      "text": "used to converting everyone, push peoplefrom those platforms to Instagram."
+    },
+    {
+      "endMs": "1481680",
+      "startMs": "1477760",
+      "startTimeText": "24:37",
+      "text": "So if you do YouTube shorts, yourdescription should say DM me on"
+    },
+    {
+      "endMs": "1484920",
+      "startMs": "1480960",
+      "startTimeText": "24:40",
+      "text": "Instagram.>> Okay."
+    },
+    {
+      "endMs": "1487640",
+      "startMs": "1482320",
+      "startTimeText": "24:42",
+      "text": ">> If people are on TikTok, have your biosay DM me on Instagram. That way we can"
+    },
+    {
+      "endMs": "1489840",
+      "startMs": "1486200",
+      "startTimeText": "24:46",
+      "text": "just funnel everything to one conversionpoint. And then that pushes people to"
+    },
+    {
+      "endMs": "1491400",
+      "startMs": "1489320",
+      "startTimeText": "24:49",
+      "text": "webinar.>> Got it."
+    },
+    {
+      "endMs": "1496560",
+      "startMs": "1490360",
+      "startTimeText": "24:50",
+      "text": ">> Okay.Now we should probably post the 200"
+    },
+    {
+      "endMs": "1496560",
+      "startMs": "1493800",
+      "startTimeText": "24:53",
+      "text": "testimonials."
+    },
+    {
+      "endMs": "1501840",
+      "startMs": "1497120",
+      "startTimeText": "24:57",
+      "text": ">> But I really want to edit all of them.>> Well, you for all of this you need to"
+    },
+    {
+      "endMs": "1503360",
+      "startMs": "1501000",
+      "startTimeText": "25:01",
+      "text": "get editing.>> Yeah."
+    },
+    {
+      "endMs": "1504600",
+      "startMs": "1502280",
+      "startTimeText": "25:02",
+      "text": ">> You have the profit.>> Yeah."
+    },
+    {
+      "endMs": "1509240",
+      "startMs": "1503720",
+      "startTimeText": "25:03",
+      "text": ">> You have the profit to do it and that'snot going to cost a lot of money. Now,"
+    },
+    {
+      "endMs": "1514120",
+      "startMs": "1506800",
+      "startTimeText": "25:06",
+      "text": "onthe ad side,"
+    },
+    {
+      "endMs": "1518160",
+      "startMs": "1510960",
+      "startTimeText": "25:10",
+      "text": "these contentbecome ads."
+    },
+    {
+      "endMs": "1523640",
+      "startMs": "1516480",
+      "startTimeText": "25:16",
+      "text": "Because if we're if you're if you'recapturing"
+    },
+    {
+      "endMs": "1527000",
+      "startMs": "1519880",
+      "startTimeText": "25:19",
+      "text": "30 to 40 posts plus your green screens,we're talking three, four, five posts a"
+    },
+    {
+      "endMs": "1529240",
+      "startMs": "1525400",
+      "startTimeText": "25:25",
+      "text": "day. That's per platform. So all of asudden you're going to like 20, 30 posts"
+    },
+    {
+      "endMs": "1533280",
+      "startMs": "1528320",
+      "startTimeText": "25:28",
+      "text": "a day per platform. You're going to beall over the place. Then take the"
+    },
+    {
+      "endMs": "1535560",
+      "startMs": "1530520",
+      "startTimeText": "25:30",
+      "text": "winners from there and run them as adsto your thing."
+    },
+    {
+      "endMs": "1536600",
+      "startMs": "1534400",
+      "startTimeText": "25:34",
+      "text": ">> To the webinar.>> To your launch."
+    },
+    {
+      "endMs": "1538640",
+      "startMs": "1536280",
+      "startTimeText": "25:36",
+      "text": ">> Yeah.>> To the wait list or the webinar?"
+    },
+    {
+      "endMs": "1540920",
+      "startMs": "1538400",
+      "startTimeText": "25:38",
+      "text": "Depending>> Well, you have you're used to do the"
+    },
+    {
+      "endMs": "1542960",
+      "startMs": "1539720",
+      "startTimeText": "25:39",
+      "text": "launches I think we do with the ads cuzyou're used to doing that and that's"
+    },
+    {
+      "endMs": "1545040",
+      "startMs": "1542000",
+      "startTimeText": "25:42",
+      "text": "fine.Um"
+    },
+    {
+      "endMs": "1546280",
+      "startMs": "1543600",
+      "startTimeText": "25:43",
+      "text": "this I just want to do fourth organicfor now."
+    },
+    {
+      "endMs": "1549360",
+      "startMs": "1545520",
+      "startTimeText": "25:45",
+      "text": ">> Okay.>> Just so it Now, if all of a sudden we we"
+    },
+    {
+      "endMs": "1552160",
+      "startMs": "1547800",
+      "startTimeText": "25:47",
+      "text": "find out like maybe this just turns intoa better cycle where you just run ads"
+    },
+    {
+      "endMs": "1555200",
+      "startMs": "1550720",
+      "startTimeText": "25:50",
+      "text": "every week to a webinar that you do oncea week, I'm fine with it."
+    },
+    {
+      "endMs": "1559280",
+      "startMs": "1554040",
+      "startTimeText": "25:54",
+      "text": ">> Okay.>> But this is your ad strategy."
+    },
+    {
+      "endMs": "1560280",
+      "startMs": "1557000",
+      "startTimeText": "25:57",
+      "text": ">> Okay. So then this goes into the waitlist."
+    },
+    {
+      "endMs": "1561800",
+      "startMs": "1559880",
+      "startTimeText": "25:59",
+      "text": ">> Mhm.>> Okay."
+    },
+    {
+      "endMs": "1566280",
+      "startMs": "1561200",
+      "startTimeText": "26:01",
+      "text": "Okay.>> Uh what we found work is having like a"
+    },
+    {
+      "endMs": "1571400",
+      "startMs": "1563800",
+      "startTimeText": "26:03",
+      "text": "3-second delayon the banner. So if you have like a CTA"
+    },
+    {
+      "endMs": "1576680",
+      "startMs": "1568920",
+      "startTimeText": "26:08",
+      "text": "um that's like, \"Hey, register formy next whatever, my launch.\" Wouldn't"
+    },
+    {
+      "endMs": "1580480",
+      "startMs": "1573840",
+      "startTimeText": "26:13",
+      "text": "say that, but my my thing. Umjust delay the the button by like 3"
+    },
+    {
+      "endMs": "1582280",
+      "startMs": "1578440",
+      "startTimeText": "26:18",
+      "text": "seconds. Like the banner on the on thevideo."
+    },
+    {
+      "endMs": "1586240",
+      "startMs": "1581360",
+      "startTimeText": "26:21",
+      "text": ">> At the end.>> So if it the hook starts 3 seconds, then"
+    },
+    {
+      "endMs": "1587080",
+      "startMs": "1584640",
+      "startTimeText": "26:24",
+      "text": "put your CTA in and then it can staythere."
+    },
+    {
+      "endMs": "1589080",
+      "startMs": "1586600",
+      "startTimeText": "26:26",
+      "text": ">> Okay.>> We just found that it gets it's higher"
+    },
+    {
+      "endMs": "1590320",
+      "startMs": "1588360",
+      "startTimeText": "26:28",
+      "text": "quality traffic.>> Okay."
+    },
+    {
+      "endMs": "1591600",
+      "startMs": "1589560",
+      "startTimeText": "26:29",
+      "text": ">> Just a little tactic.>> Okay."
+    },
+    {
+      "endMs": "1595640",
+      "startMs": "1590920",
+      "startTimeText": "26:30",
+      "text": ">> How's this feel?>> It feels good. But it's funny, it's not"
+    },
+    {
+      "endMs": "1598520",
+      "startMs": "1593360",
+      "startTimeText": "26:33",
+      "text": "what I expected. I was expecting likehigher setters."
+    },
+    {
+      "endMs": "1601440",
+      "startMs": "1597400",
+      "startTimeText": "26:37",
+      "text": ">> No.I don't even want you in the DMs."
+    },
+    {
+      "endMs": "1605280",
+      "startMs": "1600480",
+      "startTimeText": "26:40",
+      "text": "Ideally.>> I think you can get one one person to"
+    },
+    {
+      "endMs": "1607560",
+      "startMs": "1602920",
+      "startTimeText": "26:42",
+      "text": "really just point people over to Yeah.>> You know, like, \"Tina's doing this"
+    },
+    {
+      "endMs": "1612120",
+      "startMs": "1606400",
+      "startTimeText": "26:46",
+      "text": "thing.\" Da da da. Okay.>> Yeah, you can also um hook up uh"
+    },
+    {
+      "endMs": "1614560",
+      "startMs": "1610440",
+      "startTimeText": "26:50",
+      "text": "AI now to just respond. So that'salready been linked up on Instagram. So"
+    },
+    {
+      "endMs": "1617640",
+      "startMs": "1613560",
+      "startTimeText": "26:53",
+      "text": "it can just respond right away.>> that's one of the things when people DM"
+    },
+    {
+      "endMs": "1622280",
+      "startMs": "1616120",
+      "startTimeText": "26:56",
+      "text": "me, they're like, holy [ __ ] you're areal person addressing actual prob- you"
+    },
+    {
+      "endMs": "1625160",
+      "startMs": "1620200",
+      "startTimeText": "27:00",
+      "text": "know, like I don't want that. Them tofeel I'm managing people's feelings"
+    },
+    {
+      "endMs": "1628520",
+      "startMs": "1624600",
+      "startTimeText": "27:04",
+      "text": "again.>> Yeah."
+    },
+    {
+      "endMs": "1631120",
+      "startMs": "1626120",
+      "startTimeText": "27:06",
+      "text": "I don't respond to everybody who DMs me.>> That's true."
+    },
+    {
+      "endMs": "1633280",
+      "startMs": "1629120",
+      "startTimeText": "27:09",
+      "text": ">> I don't think. And if I did, I wouldn'tbe able to help a lot of business"
+    },
+    {
+      "endMs": "1636080",
+      "startMs": "1632200",
+      "startTimeText": "27:12",
+      "text": "owners.I'd be DMing all day."
+    },
+    {
+      "endMs": "1637200",
+      "startMs": "1635240",
+      "startTimeText": "27:15",
+      "text": "So.>> That's true."
+    },
+    {
+      "endMs": "1640800",
+      "startMs": "1636400",
+      "startTimeText": "27:16",
+      "text": ">> It's your call.>> Yeah. I could have a human do it."
+    },
+    {
+      "endMs": "1646320",
+      "startMs": "1639360",
+      "startTimeText": "27:19",
+      "text": ">> Yeah. But they probably would like I'drather them just like I'd rather them"
+    },
+    {
+      "endMs": "1650040",
+      "startMs": "1643200",
+      "startTimeText": "27:23",
+      "text": "push to you and get a fractionalizedversion of you than a whole percentage"
+    },
+    {
+      "endMs": "1651360",
+      "startMs": "1648320",
+      "startTimeText": "27:28",
+      "text": "of somebody who's not.>> Got it."
+    },
+    {
+      "endMs": "1652920",
+      "startMs": "1651000",
+      "startTimeText": "27:31",
+      "text": ">> Cool?>> Yeah."
+    },
+    {
+      "endMs": "1656840",
+      "startMs": "1652160",
+      "startTimeText": "27:32",
+      "text": ">> I mean, this feels prettystraightforward. We got a recurring"
+    },
+    {
+      "endMs": "1660560",
+      "startMs": "1654600",
+      "startTimeText": "27:34",
+      "text": "here. We need to structure the webinar.We add these elements to the conversion"
+    },
+    {
+      "endMs": "1663840",
+      "startMs": "1658240",
+      "startTimeText": "27:38",
+      "text": "process. We expand delivery here, andthen we blow the [ __ ] door off the"
+    },
+    {
+      "endMs": "1667680",
+      "startMs": "1662200",
+      "startTimeText": "27:42",
+      "text": "the front end. Now, one thing I do wantto address is that I think you said"
+    },
+    {
+      "endMs": "1671240",
+      "startMs": "1666160",
+      "startTimeText": "27:46",
+      "text": "you're self-sabotaging or something likethat. You making more money"
+    },
+    {
+      "endMs": "1674600",
+      "startMs": "1670240",
+      "startTimeText": "27:50",
+      "text": "means that you are helping morefamilies."
+    },
+    {
+      "endMs": "1678200",
+      "startMs": "1672720",
+      "startTimeText": "27:52",
+      "text": "And you can help all the families whocan't afford it with this."
+    },
+    {
+      "endMs": "1683960",
+      "startMs": "1679320",
+      "startTimeText": "27:59",
+      "text": "I have helped a zillion more peoplebusiness owners who have not paid me"
+    },
+    {
+      "endMs": "1686400",
+      "startMs": "1683120",
+      "startTimeText": "28:03",
+      "text": "than the ones who have.>> Yeah."
+    },
+    {
+      "endMs": "1688200",
+      "startMs": "1684640",
+      "startTimeText": "28:04",
+      "text": ">> And that's fine. I want that. Like I cannever I could never possibly"
+    },
+    {
+      "endMs": "1690920",
+      "startMs": "1687720",
+      "startTimeText": "28:07",
+      "text": ">> Yeah.>> Right?"
+    },
+    {
+      "endMs": "1694880",
+      "startMs": "1689160",
+      "startTimeText": "28:09",
+      "text": "So I think if you can just you have tojust separate out the if I charge it's"
+    },
+    {
+      "endMs": "1700040",
+      "startMs": "1693240",
+      "startTimeText": "28:13",
+      "text": "bad because I know that you also hadsome resistance to raising the price."
+    },
+    {
+      "endMs": "1704640",
+      "startMs": "1697640",
+      "startTimeText": "28:17",
+      "text": ">> Yeah. I'm I mean, like one of my biggestfears and I feel silly even saying it is"
+    },
+    {
+      "endMs": "1707520",
+      "startMs": "1702720",
+      "startTimeText": "28:22",
+      "text": "like I don't want people to think I'm init for the money."
+    },
+    {
+      "endMs": "1711680",
+      "startMs": "1706400",
+      "startTimeText": "28:26",
+      "text": "And that's like>> is in it to make money. The business is."
+    },
+    {
+      "endMs": "1714880",
+      "startMs": "1709880",
+      "startTimeText": "28:29",
+      "text": "You own the business.You can be in it for whatever reason you"
+    },
+    {
+      "endMs": "1718600",
+      "startMs": "1713240",
+      "startTimeText": "28:33",
+      "text": "want. The business needs to make aprofit in order to grow."
+    },
+    {
+      "endMs": "1721280",
+      "startMs": "1717360",
+      "startTimeText": "28:37",
+      "text": "And if you want to help more people, itwill like you can help more people and"
+    },
+    {
+      "endMs": "1723200",
+      "startMs": "1720520",
+      "startTimeText": "28:40",
+      "text": "make more money.>> Mhm."
+    },
+    {
+      "endMs": "1726520",
+      "startMs": "1721840",
+      "startTimeText": "28:41",
+      "text": ">> Rather than or.Because um uh my friend Taki says this"
+    },
+    {
+      "endMs": "1729400",
+      "startMs": "1725400",
+      "startTimeText": "28:45",
+      "text": "great thing. He says, either you can bea starving artist or you can be a"
+    },
+    {
+      "endMs": "1731120",
+      "startMs": "1727840",
+      "startTimeText": "28:47",
+      "text": "soulless corporation and I think thatthe beauty's in the middle."
+    },
+    {
+      "endMs": "1735840",
+      "startMs": "1730400",
+      "startTimeText": "28:50",
+      "text": ">> Yeah.>> And so if we make all this stuff, we're"
+    },
+    {
+      "endMs": "1738600",
+      "startMs": "1734000",
+      "startTimeText": "28:54",
+      "text": "helping lots of people for free, but forthe percentage of people that want more"
+    },
+    {
+      "endMs": "1742800",
+      "startMs": "1737320",
+      "startTimeText": "28:57",
+      "text": "helpthere's a there's a for purchase option."
+    },
+    {
+      "endMs": "1744440",
+      "startMs": "1742160",
+      "startTimeText": "29:02",
+      "text": ">> Okay.>> Joe?"
+    },
+    {
+      "endMs": "1746440",
+      "startMs": "1743240",
+      "startTimeText": "29:03",
+      "text": ">> Yeah. Okay.>> All right?"
+    },
+    {
+      "endMs": "1747480",
+      "startMs": "1744800",
+      "startTimeText": "29:04",
+      "text": ">> Yeah.Easy."
+    },
+    {
+      "endMs": "1749320",
+      "startMs": "1747000",
+      "startTimeText": "29:07",
+      "text": ">> Easy.>> Easy."
+    },
+    {
+      "endMs": "1751240",
+      "startMs": "1747920",
+      "startTimeText": "29:07",
+      "text": ">> Easy. Okay.>> All right."
+    },
+    {
+      "endMs": "1755240",
+      "startMs": "1750400",
+      "startTimeText": "29:10",
+      "text": "Doable.>> All right, doable. We did it. [music]"
+    },
+    {
+      "endMs": "1760680",
+      "startMs": "1753280",
+      "startTimeText": "29:13",
+      "text": ">> Hey Alex, I've got some updates. I'vebeen working hard implementing on all of"
+    },
+    {
+      "endMs": "1764840",
+      "startMs": "1757680",
+      "startTimeText": "29:17",
+      "text": "the directives and Alex tasked me withcreating a structured webinar and that"
+    },
+    {
+      "endMs": "1768960",
+      "startMs": "1763040",
+      "startTimeText": "29:23",
+      "text": "was the first thing I did. If it wasn'tfor this show, if it wasn't for what"
+    },
+    {
+      "endMs": "1772520",
+      "startMs": "1766600",
+      "startTimeText": "29:26",
+      "text": "we're doing here, I don't think I wouldhave finished the webinar. It was so"
+    },
+    {
+      "endMs": "1777035",
+      "startMs": "1770920",
+      "startTimeText": "29:30",
+      "text": "painful and I have to say even though itwas really painful, it is finally"
+    },
+    {
+      "endMs": "1779280",
+      "startMs": "1774840",
+      "startTimeText": "29:34",
+      "text": "working. Like surprise surprise.>> [laughter]"
+    },
+    {
+      "endMs": "1784440",
+      "startMs": "1777800",
+      "startTimeText": "29:37",
+      "text": ">> The times I'm spending in DMs havesignificantly decreased. I was spending"
+    },
+    {
+      "endMs": "1788560",
+      "startMs": "1781600",
+      "startTimeText": "29:41",
+      "text": "about 30 hours a week just handholdingevery person that comes through. It was"
+    },
+    {
+      "endMs": "1793200",
+      "startMs": "1786000",
+      "startTimeText": "29:46",
+      "text": "a lot of work. I've since created a newstructure where I'm in there for maybe"
+    },
+    {
+      "endMs": "1798480",
+      "startMs": "1790840",
+      "startTimeText": "29:50",
+      "text": "three to five hours a week instead, sosignificantly reduced by 90%. Uh I've"
+    },
+    {
+      "endMs": "1802680",
+      "startMs": "1796200",
+      "startTimeText": "29:56",
+      "text": "created a structure where my team canalso help me as well [music] to ask some"
+    },
+    {
+      "endMs": "1806565",
+      "startMs": "1800880",
+      "startTimeText": "30:00",
+      "text": "of the initial questions and we justdirect everyone to the webinar."
+    },
+    {
+      "endMs": "1806565",
+      "startMs": "1804545",
+      "startTimeText": "30:04",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "1812480",
+      "startMs": "1808600",
+      "startTimeText": "30:08",
+      "text": ">> All right, let's see where you're at onthe scaling roadmap."
+    },
+    {
+      "endMs": "1818040",
+      "startMs": "1810880",
+      "startTimeText": "30:10",
+      "text": "All right, let's see where you at. Soyou're at How many employees you have?"
+    },
+    {
+      "endMs": "1822120",
+      "startMs": "1815080",
+      "startTimeText": "30:15",
+      "text": ">> Uh not including the coaches, seven.Including the coaches, uh 12."
+    },
+    {
+      "endMs": "1827040",
+      "startMs": "1821040",
+      "startTimeText": "30:21",
+      "text": ">> Okay, so you're probably between thesetwo steps. So team five to nine and 10"
+    },
+    {
+      "endMs": "1828600",
+      "startMs": "1824720",
+      "startTimeText": "30:24",
+      "text": "to 19 in terms of prioritizing andproductizing."
+    },
+    {
+      "endMs": "1831320",
+      "startMs": "1827840",
+      "startTimeText": "30:27",
+      "text": ">> Okay.>> All right. So we'll probably have a"
+    },
+    {
+      "endMs": "1834800",
+      "startMs": "1829960",
+      "startTimeText": "30:29",
+      "text": "little bit of a mix here.So if we're looking at product, you said"
+    },
+    {
+      "endMs": "1835986",
+      "startMs": "1832960",
+      "startTimeText": "30:32",
+      "text": "yes to anyone who would pay.>> Yes."
+    },
+    {
+      "endMs": "1837360",
+      "startMs": "1835360",
+      "startTimeText": "30:35",
+      "text": ">> Right.>> [laughter]"
+    },
+    {
+      "endMs": "1838760",
+      "startMs": "1836360",
+      "startTimeText": "30:36",
+      "text": ">> And you're getting feedback from lots ofdifferent people."
+    },
+    {
+      "endMs": "1841760",
+      "startMs": "1837960",
+      "startTimeText": "30:37",
+      "text": ">> Yes.>> And so we need to be a little bit more"
+    },
+    {
+      "endMs": "1844800",
+      "startMs": "1839960",
+      "startTimeText": "30:39",
+      "text": "specific about our product and youalready did cut one of them, right? You"
+    },
+    {
+      "endMs": "1846720",
+      "startMs": "1843200",
+      "startTimeText": "30:43",
+      "text": "had the picky eaters in the in the inthe the high mama."
+    },
+    {
+      "endMs": "1849280",
+      "startMs": "1845920",
+      "startTimeText": "30:45",
+      "text": ">> Yeah.>> We already We already made that"
+    },
+    {
+      "endMs": "1852320",
+      "startMs": "1847760",
+      "startTimeText": "30:47",
+      "text": "selection, right? So, you're you'repartially graduated from here. From an"
+    },
+    {
+      "endMs": "1854320",
+      "startMs": "1851120",
+      "startTimeText": "30:51",
+      "text": "unqualified lease perspective, you'relike, \"Well, I want to help everyone.\""
+    },
+    {
+      "endMs": "1858000",
+      "startMs": "1853280",
+      "startTimeText": "30:53",
+      "text": "That's what we make the content for.>> And I got rid of all my lower payment"
+    },
+    {
+      "endMs": "1860920",
+      "startMs": "1856040",
+      "startTimeText": "30:56",
+      "text": "plans. I had a 12-month and an 8-month.>> for us. I love this for us. All right."
+    },
+    {
+      "endMs": "1861840",
+      "startMs": "1859800",
+      "startTimeText": "30:59",
+      "text": "And then same thing, we got rid of theone-on-one."
+    },
+    {
+      "endMs": "1863880",
+      "startMs": "1861640",
+      "startTimeText": "31:01",
+      "text": ">> Yeah.>> Or we're pricing it way higher. Those"
+    },
+    {
+      "endMs": "1866320",
+      "startMs": "1863280",
+      "startTimeText": "31:03",
+      "text": "are options.>> Okay."
+    },
+    {
+      "endMs": "1870760",
+      "startMs": "1864160",
+      "startTimeText": "31:04",
+      "text": ">> Okay? Now, from a sales perspective,this You have decent tracking."
+    },
+    {
+      "endMs": "1875080",
+      "startMs": "1869360",
+      "startTimeText": "31:09",
+      "text": "But I think we might be looking overhere cuz now you're at this level. We"
+    },
+    {
+      "endMs": "1876520",
+      "startMs": "1872960",
+      "startTimeText": "31:12",
+      "text": "need to create sales aids and materials.Webinar."
+    },
+    {
+      "endMs": "1879560",
+      "startMs": "1875920",
+      "startTimeText": "31:15",
+      "text": ">> Yes. [laughter]>> Right? Install weekly game tape between"
+    },
+    {
+      "endMs": "1882560",
+      "startMs": "1878360",
+      "startTimeText": "31:18",
+      "text": "CS, sales, and marketing. Basicallymaking sure that Well, your process This"
+    },
+    {
+      "endMs": "1883840",
+      "startMs": "1881280",
+      "startTimeText": "31:21",
+      "text": "happens more when you have a sales team.So, you don't have to worry about that"
+    },
+    {
+      "endMs": "1885880",
+      "startMs": "1883400",
+      "startTimeText": "31:23",
+      "text": "as much.>> Okay."
+    },
+    {
+      "endMs": "1888080",
+      "startMs": "1884280",
+      "startTimeText": "31:24",
+      "text": ">> And the refund rate stuff, we're goingto make sure that we're going to onboard"
+    },
+    {
+      "endMs": "1890840",
+      "startMs": "1886880",
+      "startTimeText": "31:26",
+      "text": "a little sooner. That way, we don't haveto worry about that. All right. So, that"
+    },
+    {
+      "endMs": "1894400",
+      "startMs": "1889600",
+      "startTimeText": "31:29",
+      "text": "feels like this is about the the theright thing. Spend more on niche-down"
+    },
+    {
+      "endMs": "1896720",
+      "startMs": "1892520",
+      "startTimeText": "31:32",
+      "text": "messaging. That's all these littlevideos that we're talking about, which"
+    },
+    {
+      "endMs": "1898640",
+      "startMs": "1895600",
+      "startTimeText": "31:35",
+      "text": "then turns into ads.>> Mhm."
+    },
+    {
+      "endMs": "1899760",
+      "startMs": "1897440",
+      "startTimeText": "31:37",
+      "text": ">> So, that's what we're doing on the onthe marketing side."
+    },
+    {
+      "endMs": "1903240",
+      "startMs": "1899520",
+      "startTimeText": "31:39",
+      "text": ">> Okay.>> And [clears throat] we don't need to"
+    },
+    {
+      "endMs": "1907600",
+      "startMs": "1900960",
+      "startTimeText": "31:40",
+      "text": "worry about this one for now. And thenuh build proper CS playbook to onboard"
+    },
+    {
+      "endMs": "1910000",
+      "startMs": "1904640",
+      "startTimeText": "31:44",
+      "text": "and train team answers.It's going to review all the past ones,"
+    },
+    {
+      "endMs": "1912040",
+      "startMs": "1908920",
+      "startTimeText": "31:48",
+      "text": "make suggestions, and they can justapprove."
+    },
+    {
+      "endMs": "1914640",
+      "startMs": "1910480",
+      "startTimeText": "31:50",
+      "text": ">> Got it.>> Does these feel like your problems?"
+    },
+    {
+      "endMs": "1915400",
+      "startMs": "1913520",
+      "startTimeText": "31:53",
+      "text": ">> Yeah. Yes.>> Yes."
+    },
+    {
+      "endMs": "1919040",
+      "startMs": "1915242",
+      "startTimeText": "31:55",
+      "text": ">> [laughter]>> If you're If you're watching from home,"
+    },
+    {
+      "endMs": "1921760",
+      "startMs": "1917240",
+      "startTimeText": "31:57",
+      "text": "you can fill out the form and it'll tellyou where you're at and gives tons of"
+    },
+    {
+      "endMs": "1923840",
+      "startMs": "1920600",
+      "startTimeText": "32:00",
+      "text": "videos for every one of these things ina lot more detail. And it's free, so go"
+    },
+    {
+      "endMs": "1926720",
+      "startMs": "1923160",
+      "startTimeText": "32:03",
+      "text": "grab it.>> I think Tina could scale the most"
+    },
+    {
+      "endMs": "1929652",
+      "startMs": "1925067",
+      "startTimeText": "32:05",
+      "text": "[music] out of everybody. Tina'spersonality and the nature of her"
+    },
+    {
+      "endMs": "1931680",
+      "startMs": "1928920",
+      "startTimeText": "32:08",
+      "text": "business cuz>> [music]"
+    },
+    {
+      "endMs": "1935120",
+      "startMs": "1929840",
+      "startTimeText": "32:09",
+      "text": ">> she literally solves problems.>> If she continues to be led by her heart"
+    },
+    {
+      "endMs": "1936920",
+      "startMs": "1933480",
+      "startTimeText": "32:13",
+      "text": "and combines that with data, thenthere'll be nothing [music] stopping her"
+    },
+    {
+      "endMs": "1941880",
+      "startMs": "1936120",
+      "startTimeText": "32:16",
+      "text": "whatsoever.>> I'm like the queen of execution. Like"
+    },
+    {
+      "endMs": "1945600",
+      "startMs": "1938680",
+      "startTimeText": "32:18",
+      "text": "you watch me, the next 90 days like>> Pressure's on."
+    },
+    {
+      "endMs": "1945600",
+      "startMs": "1942560",
+      "startTimeText": "32:22",
+      "text": ">> Oh my gosh."
+    },
+    {
+      "endMs": "1948047",
+      "startMs": "1946027",
+      "startTimeText": "32:26",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "1952240",
+      "startMs": "1949640",
+      "startTimeText": "32:29",
+      "text": ">> All right."
+    },
+    {
+      "endMs": "1958800",
+      "startMs": "1952920",
+      "startTimeText": "32:32",
+      "text": "I hate this part. UmSo, I have to decide whether you scale"
+    },
+    {
+      "endMs": "1962920",
+      "startMs": "1957240",
+      "startTimeText": "32:37",
+      "text": "fail because that's what makes thisinteresting. Um"
+    },
+    {
+      "endMs": "1965320",
+      "startMs": "1961600",
+      "startTimeText": "32:41",
+      "text": "before I tell you the answer,>> Yeah."
+    },
+    {
+      "endMs": "1969160",
+      "startMs": "1963240",
+      "startTimeText": "32:43",
+      "text": ">> um I want to say thatI think"
+    },
+    {
+      "endMs": "1973600",
+      "startMs": "1966360",
+      "startTimeText": "32:46",
+      "text": "this is a very right down the middlewill work."
+    },
+    {
+      "endMs": "1976200",
+      "startMs": "1971480",
+      "startTimeText": "32:51",
+      "text": "The only fear I have isthe emotional side of it for you"
+    },
+    {
+      "endMs": "1979200",
+      "startMs": "1975720",
+      "startTimeText": "32:55",
+      "text": ">> Yeah.>> of whether or not"
+    },
+    {
+      "endMs": "1983160",
+      "startMs": "1977840",
+      "startTimeText": "32:57",
+      "text": "you will actually be able to pullyourself out because it is like you said"
+    },
+    {
+      "endMs": "1985280",
+      "startMs": "1981560",
+      "startTimeText": "33:01",
+      "text": "at the very beginning, it's a decision.You said you have a decision to scale"
+    },
+    {
+      "endMs": "1988080",
+      "startMs": "1985160",
+      "startTimeText": "33:05",
+      "text": ">> Mhm.>> which means you have to also have a"
+    },
+    {
+      "endMs": "1992880",
+      "startMs": "1986280",
+      "startTimeText": "33:06",
+      "text": "decision, which is that I'm not going toanswer every individual DM because I'm"
+    },
+    {
+      "endMs": "1996160",
+      "startMs": "1990840",
+      "startTimeText": "33:10",
+      "text": "going to take a local cost to have aglobal [music] benefit."
+    },
+    {
+      "endMs": "1999680",
+      "startMs": "1994920",
+      "startTimeText": "33:14",
+      "text": "And so, it's the same reason that, youknow, Steve Jobs, Elon Musk, or Bezos"
+    },
+    {
+      "endMs": "2003080",
+      "startMs": "1998520",
+      "startTimeText": "33:18",
+      "text": "can't respond every customer servicerequest on on Amazon or Tesla or Apple."
+    },
+    {
+      "endMs": "2006120",
+      "startMs": "2002040",
+      "startTimeText": "33:22",
+      "text": "It's because they wanted to help morepeople."
+    },
+    {
+      "endMs": "2008880",
+      "startMs": "2004080",
+      "startTimeText": "33:24",
+      "text": "Um that is probably [music] my biggestfear around the scaling it. The"
+    },
+    {
+      "endMs": "2011840",
+      "startMs": "2007880",
+      "startTimeText": "33:27",
+      "text": "mechanics of this are reallystraightforward and I think that because"
+    },
+    {
+      "endMs": "2014360",
+      "startMs": "2010520",
+      "startTimeText": "33:30",
+      "text": "of your affiliate background, you can doit."
+    },
+    {
+      "endMs": "2017160",
+      "startMs": "2012720",
+      "startTimeText": "33:32",
+      "text": "And so, I'm very torn on this onebecause"
+    },
+    {
+      "endMs": "2019320",
+      "startMs": "2015680",
+      "startTimeText": "33:35",
+      "text": "I just don't know enough about the softside of Tina of whether or not"
+    },
+    {
+      "endMs": "2023320",
+      "startMs": "2019040",
+      "startTimeText": "33:39",
+      "text": ">> Yeah.>> you can draw the line."
+    },
+    {
+      "endMs": "2023320",
+      "startMs": "2020800",
+      "startTimeText": "33:40",
+      "text": "Um"
+    },
+    {
+      "endMs": "2033360",
+      "startMs": "2029040",
+      "startTimeText": "33:49",
+      "text": "How big do you want this to be?>> Mhm."
+    },
+    {
+      "endMs": "2036520",
+      "startMs": "2032200",
+      "startTimeText": "33:52",
+      "text": "Honestly?>> Give me a year. 12 months."
+    },
+    {
+      "endMs": "2040403",
+      "startMs": "2035640",
+      "startTimeText": "33:55",
+      "text": ">> In this 12 months?>> Mhm."
+    },
+    {
+      "endMs": "2040403",
+      "startMs": "2037520",
+      "startTimeText": "33:57",
+      "text": ">> 500 new clients. [music]"
+    },
+    {
+      "endMs": "2049560",
+      "startMs": "2043920",
+      "startTimeText": "34:03",
+      "text": "And I have plans to do certifications[music]"
+    },
+    {
+      "endMs": "2052040",
+      "startMs": "2046800",
+      "startTimeText": "34:06",
+      "text": "and more people. No, no, no.Really?"
+    },
+    {
+      "endMs": "2057120",
+      "startMs": "2054103",
+      "startTimeText": "34:14",
+      "text": ">> [sighs]>> God, I hate this. Um"
+    },
+    {
+      "endMs": "2059480",
+      "startMs": "2056159",
+      "startTimeText": "34:16",
+      "text": ">> I can execute. [music]>> No."
+    },
+    {
+      "endMs": "2064120",
+      "startMs": "2059639",
+      "startTimeText": "34:19",
+      "text": "Will you actually just do this and notdo anything else?"
+    },
+    {
+      "endMs": "2066720",
+      "startMs": "2062679",
+      "startTimeText": "34:22",
+      "text": ">> Yes.>> All right."
+    },
+    {
+      "endMs": "2069800",
+      "startMs": "2065600",
+      "startTimeText": "34:25",
+      "text": "Then you have scaled and you will bescaling. All right, you'll move on to"
+    },
+    {
+      "endMs": "2071133",
+      "startMs": "2068240",
+      "startTimeText": "34:28",
+      "text": "the next round. Rock and roll.>> Okay."
+    },
+    {
+      "endMs": "2073159",
+      "startMs": "2070280",
+      "startTimeText": "34:30",
+      "text": ">> Okay.>> [laughter]"
+    },
+    {
+      "endMs": "2075679",
+      "startMs": "2071879",
+      "startTimeText": "34:31",
+      "text": ">> Oh my god,it's a"
+    },
+    {
+      "endMs": "2078800",
+      "startMs": "2075280",
+      "startTimeText": "34:35",
+      "text": ">> Okay.>> No, I can do it. I can do it. I Yeah."
+    },
+    {
+      "endMs": "2079560",
+      "startMs": "2078120",
+      "startTimeText": "34:38",
+      "text": ">> Yeah.>> You got it."
+    },
+    {
+      "endMs": "2081720",
+      "startMs": "2079320",
+      "startTimeText": "34:39",
+      "text": ">> Thank you.>> Little Ceasar."
+    },
+    {
+      "endMs": "2083240",
+      "startMs": "2080360",
+      "startTimeText": "34:40",
+      "text": ">> All right.Thank you."
+    },
+    {
+      "endMs": "2084679",
+      "startMs": "2082320",
+      "startTimeText": "34:42",
+      "text": ">> You got to do this though.>> I will."
+    },
+    {
+      "endMs": "2088320",
+      "startMs": "2083720",
+      "startTimeText": "34:43",
+      "text": ">> Okay.>> I will. [laughter] So, I'm going to kill"
+    },
+    {
+      "endMs": "2091480",
+      "startMs": "2086720",
+      "startTimeText": "34:46",
+      "text": "it. I'm going to crush it. And even Iwas kind of offended when he was like, I"
+    },
+    {
+      "endMs": "2095040",
+      "startMs": "2089679",
+      "startTimeText": "34:49",
+      "text": "don't know if like you can separate theemotions from it. And I was like, dude,"
+    },
+    {
+      "endMs": "2101840",
+      "startMs": "2094059",
+      "startTimeText": "34:54",
+      "text": ">> [laughter]>> you have no idea. I can kill it."
+    },
+    {
+      "endMs": "2101840",
+      "startMs": "2098960",
+      "startTimeText": "34:58",
+      "text": "It's done. It's in the bag."
+    },
+    {
+      "endMs": "2110640",
+      "startMs": "2105400",
+      "startTimeText": "35:05",
+      "text": ">> It was a really tough one.Um,"
+    },
+    {
+      "endMs": "2113720",
+      "startMs": "2107960",
+      "startTimeText": "35:07",
+      "text": "I think the big thing was that she haddone affiliate marketing in the past."
+    },
+    {
+      "endMs": "2117360",
+      "startMs": "2112080",
+      "startTimeText": "35:12",
+      "text": "And so, I didn't thinkshe was going to get tripped up on the"
+    },
+    {
+      "endMs": "2121280",
+      "startMs": "2115040",
+      "startTimeText": "35:15",
+      "text": "technical stuff, which sometimes whenyou're a smaller business, that can trip"
+    },
+    {
+      "endMs": "2123480",
+      "startMs": "2118960",
+      "startTimeText": "35:18",
+      "text": "you up. And so, I think she has skillsthat will allow her to actually execute"
+    },
+    {
+      "endMs": "2126040",
+      "startMs": "2122560",
+      "startTimeText": "35:22",
+      "text": "this.The big fear that I have is what I said"
+    },
+    {
+      "endMs": "2130000",
+      "startMs": "2124720",
+      "startTimeText": "35:24",
+      "text": "originally, which is like, I'm not sureif she's going to emotionally be able to"
+    },
+    {
+      "endMs": "2132360",
+      "startMs": "2127400",
+      "startTimeText": "35:27",
+      "text": "do it. I was really torn on this one.But, I'm I'm basically just going to"
+    },
+    {
+      "endMs": "2136360",
+      "startMs": "2131440",
+      "startTimeText": "35:31",
+      "text": "give her the benefit of the doubt oflike, will she execute this? And I'm"
+    },
+    {
+      "endMs": "2141440",
+      "startMs": "2134280",
+      "startTimeText": "35:34",
+      "text": "hoping that her globalneed or desire to help people outweighs"
+    },
+    {
+      "endMs": "2145240",
+      "startMs": "2138720",
+      "startTimeText": "35:38",
+      "text": "her local need tosatisfy every person who messages her."
+    },
+    {
+      "endMs": "2150040",
+      "startMs": "2143000",
+      "startTimeText": "35:43",
+      "text": ">> I was like really surprised at like howkind he was. Not to say that he's not"
+    },
+    {
+      "endMs": "2153240",
+      "startMs": "2146920",
+      "startTimeText": "35:46",
+      "text": "kind, but like he just his demeanor,it was really shocking. I thought I"
+    },
+    {
+      "endMs": "2157640",
+      "startMs": "2151560",
+      "startTimeText": "35:51",
+      "text": "would have been a lot more nervous, buthe was just so kind. And I just like it"
+    },
+    {
+      "endMs": "2160520",
+      "startMs": "2155320",
+      "startTimeText": "35:55",
+      "text": "really allowed me to relax as soon as Ijust started talking."
+    },
+    {
+      "endMs": "2163600",
+      "startMs": "2159000",
+      "startTimeText": "35:59",
+      "text": ">> All right. And so, that was this episodeof Scale or Fail. Stay tuned for the"
+    },
+    {
+      "endMs": "2168520",
+      "startMs": "2161920",
+      "startTimeText": "36:01",
+      "text": "next one as they all compete for$100,000 and a year of working on"
+    },
+    {
+      "endMs": "2168520",
+      "startMs": "2166000",
+      "startTimeText": "36:06",
+      "text": "scaling."
+    }
+  ],
+  "transcript_only_text": " This is Tina, and she's competing for a\nchance to win $100,000 and this golden ticket, which gives her\naccess to an entire year of guidance from me and the team behind my $250\nmillion per year portfolio. She'll have the next hour with me, where she'll\nexplain her business, and at the end, I'll decide if she'll scale or fail. If\nshe's chosen to scale, she'll move on to the finale for a chance to win the grand\nprize. My name is Alex Hormozi, and this is\nScale or Fail. >> [music] >> My name is Tina Sue, and I help parents\nof children with autism, ADHD, and speech [music] delay. The reason why I'm\nhere to get help is because I know that this mission is so [music] much bigger\nthan me. It is my vision that in my lifetime, through this work, getting it\nout to as many families [music] as possible and having so many examples of\nchildren that are healing, so we can change the mainstream views on how\nautism [music] is treated. >> Hi.\n>> Hi. How's it going? >> Good. Amazing.\n>> Excited? >> Yeah.\n>> Ready to rock? >> Yes.\n>> All right. >> Yeah.\n>> Tell me about the business. >> My name is Tina, Tina Sue, and in the\nlast 12 months I did $770,000, and $555,000\nis profit. >> Amazing.\n>> 72% profit margin. >> And you helped a bunch of families.\n>> Yep. >> Okay. So, what do you sell? How do you\nmake the dollars work? >> Yeah, so my core product is called Hi\nMama. >> Okay.\n>> And it's a group program that helps children [music] who have speech delay.\nSo, for example, non-verbal kids to speak their first words.\n>> Okay. >> While also at the same time healing,\nreducing of autism symptoms as well. >> Okay. Got it. And the offer you sell is\n2,500 bucks a year? >> Uh the offer, so the Hi Mama program is\n2,500. >> Uh-huh.\n>> And it's for the year with a 3-month intensive in the beginning, 9 months of\naftercare. >> Okay.\n>> So, once a person is in the program, then I sell them on to the all-access\npass, which gets them every cohort of High Mama the 3-month intensive.\n>> Cool. >> So, they can stay in the energy and they\ncan continue >> Cool.\n>> to move on to the next level of their children's healing.\n>> What do you think stopping you right now? >> Me?\n>> [laughter] >> Okay.\n>> So, I am doing everything. >> Mhm.\n>> Um I just like I can't let go of >> You're so busy.\n>> so so I have like every single Instagram conversation. This is how I currently I\ndon't do sales calls. Uh and I'm in every piece of marketing. I'm in the\ndelivery. >> Yeah.\n>> My team handles customer service, but I'm often in that as well. So, just I\nhave my hands in everything and at the end of the day I just don't have time\nfor anything. [music] So, low-hanging fruits just doesn't get done.\n>> Yeah. >> Yeah.\n>> Understood. Okay. Why does solving this matter? Why is growing this business\nimportant versus just staying where you are and making 500 grand a year?\n>> Yeah. Yeah. Um I mean, it's it's it's not about the\nmoney. Um before starting this business, I had another business and I still have\nthat business and [music] I had developed that other business\nyou know, from nothing like when my son was a baby between the hours of 8:00\np.m. and 2:00 a.m. >> Savage.\n>> I grew that all the way to $20 million. >> Amazing.\n>> And I had that business when this happened with my son. And so um so my\nson used to have autism, ADHD, and epilepsy. And [music]\nwe had done everything conventional medicine told us to do.\n>> Mhm. >> All the conventional therapies and\nmedication. >> Mhm.\n>> And [music] my son got worse and at he was when he was nine.\n>> Yeah. >> The last [music] of his ADHD\n>> Mhm. >> I'm going to cry. Okay.\n>> When he was nine, the last of his ADHD medication stopped working. He had been\non seven at that time. And they were ready to move him on to\nantipsychotics. >> Yeah.\n>> And he stopped [music] sleeping and it was just hell.\n>> Yeah. >> Yeah. Um\n>> And so, you wanted to fix it? >> And then somebody like just recommended\nit's like, \"Hey, look into holistic change what you're eating and the\nenvironment and so I went on this like holistic journey to helping him.\nAnd in two years\n>> It's okay. >> Um\n>> [music] >> in two years all of his\nsymptoms of autism, ADHD, and epilepsy went into [music] remission.\n>> Awesome. It's amazing.\n>> Yeah, and then when he got better I was like I have to do this.\n>> Yeah. Well, congratulations. You did it. Now you're helping people out. You're\nmaking money doing it. >> Yeah, so I had to like I just paused\nfrom my other business and like just went all in and just I just go in with\nthe attitude [music] of I'm on year four. I just go in with like I didn't\neven look at the numbers. I'm like I don't even care. [music] I'm willing to\nwork for free cuz that's how I started my first\nbusiness is literally, you know, >> [sighs]\n>> So, we're going to You can big exhale. You're good. There you go. You're good.\n[laughter] >> not what I planned on saying.\n>> You're fine. Don't worry about it. You're good. I'll probably challenge you\non a couple things around like the numbers and making money because I'm\nsensing that that will limit the amount of people that you can help because on\nsome level and you can correct me if I'm wrong, it feels like you may have\nequated like maybe charging more having upsells or even having a more\nstandardized sales process with bad. And I I don't think that that's going to be\nthe case and I think the more we can structure some of these things and know\nall of the numbers of the business the more families you're ultimately going to\nhelp. >> Yeah. Yeah.\n>> Okay, I'll ask this question but I'm pretty sure I know the answer.\n>> Okay. >> Do you think the business model as it\ncurrently stands will scale? >> How it is today probably not to the\nscale I would want. >> Okay.\n>> But but it can scale to my goal. >> Okay, so you're open to changing some\nthings. >> I'm open. Yes.\n>> cool. Let's do it. Let's rock. >> Wow, Gino seems to be extremely genuine.\nHer The of business is needed. [music] >> I wanted to make it clear that I'm not\nin it just for the money. >> Being a mom myself, I definitely related\nto that goal for her and how she's helping so many other families.\n>> I think we have a a similar goal of helping people and so I I really like\nthat. I have no doubt that what she's doing is is going to scale incredibly\nwell because of the market that she's in. >> So, [music]\nwe're going to fix this in standard fashion and by standard fashion, I like\ndoing things back to front. >> So, we'll fix offer\nand then we'll fix the conversion process and you're like, how's this back\nto front? Well, this is the thing you deliver, right?\n>> Mhm. >> Um and then we'll go to traffic. Okay?\nThis is kind of our our three-step approach. Okay, so right now, you\ncurrently don't have like a formal pitch or webinar that you go through. You do\nlike a three to four hour like Monday thing.\n>> Yeah, and it's only just because I have resistance to creating webinars.\n>> Yeah, why? >> Um\n>> [sighs and gasps] >> I just I don't want this to be\nsorry for saying this, but like bro marketing. Like I don't I don't want\npeople to feel sold to. >> Mhm.\n>> Um so >> People only feel sold to if it's bad.\n>> Oh. >> A good selling\n>> Yeah. >> feels good.\n>> I tried working on a webinar for like a few weeks and I just like couldn't get\n>> about how many things you've bought over the last month.\nHow many did you feel sold to? >> That's true.\n>> Probably not many. >> Yeah.\n>> And every one of those purchases, somebody for sure thought about how to\nget you to buy. >> Yeah.\n>> It's just they did a good job. >> Yeah.\n>> All right, so just from a belief breaking perspective, I agree with you,\nshould not sell poorly. >> Yeah.\n>> So, you should sell well. >> Yeah.\n>> Yeah? Okay. So, fundamentally, what's happening is you're probably doing over\nthree to four hours covering the points that could be covered in 45 minutes\nand you just don't want to be as structured about it. And if you're just\nstructured about it, your value per second will go up for the for the the\nparent. >> Yeah.\n>> And if your stated goal is that you want to help more parents,\nhaving the expectation that they're going to wait two, three hours before\nhearing about how you can help them um is doing a disservice cuz you're losing\nhalf of them anyways. So, like I think that does them a disservice\n>> Yeah. >> because of whatever belief that you have\nabout selling poorly. >> Yeah.\n>> Right? >> Yeah.\n>> So, I think from a this is me actually getting into conversion, but I'll put\nthis here, which is structured\nwebinar. And I think one of the things that holds\na lot of people back with webinars is they think that like webinars have this\nvery specific >> Yeah.\n>> language pattern. It's No, it's just it's really clear communication. It's\nLet me tell my quick story so that I have some reason why you should listen\nto me. There's going to be a big promise right before that. That's what you start\nwith, which is like why the hell are you here? What it like why is it worth\nstaying on? Right? Who am I? And then you say, this\nis the main thing that we're going to talk about, which is then the the call\nit your your core you showing what you shared here was your kind of core\ntransformation that you went through. This is the old way, new way. It's a\nvery classic pitch. Um I used to do this, this didn't work,\nand then I discovered a friend of mine, guru comes in, shares the secret\nknowledge, which was that holistic was the way. I implemented the stuff, and\nthen I got this great outcome both internally and externally. It was\namazing. But it didn't just work for me, it worked for X, Y, and Z as well,\nbecause then we're going to hit the different avatars that come up. And so,\nthe big three biggest concerns that people have about this is problem number\none, problem number two, problem number three.\nAnd then you just systematically break down each of the three problems. And\nwith each one of them, you're going to follow a\nwhat they think. They think this, right?\nAnd then you're going to say why wrong?\n>> [snorts] >> Why that's not true? Like I used to\nbelieve this, it's not true. What's right?\nAnd then proof. And proof can be anything. Proof can be\nstats, it can be stories, um anything that just proves the point\nand ideally as many forms of proof as you can.\n>> Okay. >> Okay? So, if we can just take our 4-hour\nmarathon and turn it into a 45-minute more structured presentation with slides\nthat has visuals to support because some of them are listening within the\nbackground, all these other things. If you can have it more visually\nstimulating, you'll get a higher conversion rate. Cuz right now I think\nyou actually have an avatar that's in a ton of pain and wants to buy cuz you're\nconverting like 9% right now, which I think you could probably convert double\nthat because you're also selling to a warm audience. And if you want to scale\nit, which you're saying you do, you have to sell to a cold audience. And\nso the ads that you're running right now are pretty much just targeting your\nexisting people since most people are coming in already know who you are. So\nwe can't sell to people who already know who you are. You have to sell like they\ndon't know. And then you will sell people who don't\nknow you. But if you sell only like you're selling to people who do know\nyou, then no one who doesn't know you will buy.\n>> Got it. >> So it makes sense? You got to sell like\nit's cold to warm and it converts everything. If you sell like it's warm\nto everyone, you'll only convert warm. >> Got it. Got it.\n>> Okay. From an offer perspective, >> [sighs]\n>> do you know what your upsell uh percentage is from the back end of the\nfront end? >> 10.\n>> So 10% of people are taking the second offer?\n>> Yeah. >> Mhm. Any reason you don't just do\n6-month and have it recurring? >> That's a good I I've thought about that.\n>> and three. Like three months of intensive, three months of\n>> aftercare. >> aftercare whatever. And so we want to\nmake the actual conversion to aftercare before aftercare comes up.\nSo this is also a conversion thing, but sell\nupsell during intensive three months. All\nright. And ideally ideally you want to sell at the halfway point\nand then at like the two-thirds and then you do a last chance\nat the end. So right now you're only selling here.\nYou want to sell here and here as well. The more times you ask the more likely\nthey are to take the purchase offer. If you sell only at the end typically and\nyou're not even selling, you're like kind of mentioning it.\n>> mentioned it. >> Right. If you actually if you were\nactually just only sell, you'd usually get about a third. So you're getting\nless than that, which is if you just wait till the end.\n>> Got it. >> If you wait if you go to the halfway\npoint and the the two-thirds point, you'll be able to get like half or more.\n>> Got it. Got it. I actually sell most to the people in the aftercare. So when\nthey're done closer to the 12 month. >> You want to sell them when they're hot.\n>> Yeah. >> Cuz everyone cools off over time. So you\nwant to sell when the pain is pain is still elevated and they're and ideally\nfrom a buying perspective, you want to sell when they're mid-decision, not\nmaking a new decision. So, they're still in flight and you're\nlike, \"Hey, let's just keep the party going.\" Not, \"Okay, we've finished that\nthing. Now, do you want to start the It's a It's a different It's a heavier\nsale.\" And about a third of people will take that offer, but you can get two\nthirds or more if you sell during the process.\n>> Got it. >> People are always scared of that cuz\nthey're like, \"What's the I'm not done yet.\" It's like, \"It's okay. They've\nalready gotten value.\" >> paid. I don't want to\n>> It's not like that. It doesn't work that way. If you go for run a marathon and\nyou buy shoes and the guy's like, \"Hey, do you want, you know, one of those tank\ntops to go with it and an iPhone band?\" You're probably like, \"Well, well, I\njust bought. I'm not buying anything.\" It's like, \"No, you're still in the\nYou're still in flight, right?\" Now, if you finish the marathon race and they\nsay, \"Do you want an an iPhone thing for your wrist?\" You're like, \"No, I'm I'm\nactually pretty good.\" You know what I'm saying?\n>> Yeah. Okay. >> Okay.\n>> Um Okay. So, from the offer itself, I think\nI think we go $2,500. Uh basically bi-annually. Hopefully I'm\nsaying this right. I think it's bi-annually. If it's not, I'm sure\nsomeone in the comments will correct me. Okay. So, during the launch, does\neveryone buy through checkout? >> They can buy through checkout, but a lot\nof them >> Do they?\n>> Uh about 30% do. >> so a third of them do. So, what I want\nto do, and this might sound like a little little wild,\n>> Yeah. >> is I want you to have $2,500 checkout\nprice. >> Mhm.\n>> And want to have a $3,000 uh one-on-one price. So, if I have to talk to you one-on-one,\nit's it's $500 extra. And it's just because if I were to charge hourly for\nme consulting with you, it would be $500 an hour.\n>> Yeah. >> And so, I'll only charge you for 1 hour\num to do that, but this is if you're like on the fence, let\nme just already cover all these issues. Now, I think part of the reason that\nyou're getting all these questions is you don't have a structured webinar.\nSo, you're not having a structured FAQ part, right? Which then this is going to\ngo to conversion. What I want you to do is if you look at all You already have\nall the DMs categorized, right? Or you have like a big data set of all the all\nthe DM conversations you've had, right? >> Yeah. Yeah.\n>> I want you to take call it every single bucket of of FAQ\n>> Mhm. >> and I want you to review it at the end\nof the webinar. And I want you to do it is just pull the question behind you or\npull it up on the screen and then answer it.\n>> Answer it live. >> Yeah. Okay. Okay.\n>> Because because they have the same questions.\n>> Yeah. >> There's there's no new questions.\nThere's no new questions. >> Yeah.\n>> So the only reason that like you have to do this one-on-one is and it's wasting a\nton of your time is we're just not handling it. Just handle it up front.\nSo when we have our think what they think we have our point, you know, intro\nour promise your intro which is your story\norigin and we have point one, two, and three\nof the webinar >> Mhm.\n>> then you have your offer and then you have your FAQ.\n>> And then how many questions? >> As many as there are.\n>> Okay. >> Just think about buckets. Like I mean\nthere's there's probably six flavors or eight flavors or nine Whatever how many\nquestions there are like you answer all of them.\n>> Yeah. >> As long as they're on, keep answering.\n>> Okay. >> Okay.\n>> But >> Cuz you're used to doing three or four\nhours. So like you just keep answering questions. I'm dead serious. Just keep\nanswering questions. If they're still on, keep answering questions.\n>> Yeah. >> But answer the ones that you already\nknow that represent the big like answer it in in order of greatest percentage of\nquestions. >> Okay.\n>> So it's like the majority if I had only pick one question to answer it'd be this\none and it's going to be 40% of people. And my number two most asked question is\ngoing to be this which is 25% of people. And then my number three and then it\ngoes into the long tail. >> Got it. Got it.\n>> Okay? >> But the problem with like having the\nlive parents come here versus my three-four-hour thing is because they\ntake a long time and it could be like I'll invite up to eight parents.\n>> Uh-huh. >> But that might be my own problem. But\ncuz that could drag that that could drag this on like\n>> Oh that's cuz you're doing like Zoom calls. Not like and you're getting 10%\nof those people to buy? >> 10% that come live buy but every time\n>> That's insane. >> Even outside the replay for the\nthree-four-hour thing, if someone watches it and they can truly afford it\n>> Yeah. >> they'll they'll reach out to my in my\nDMs and be like can I buy? Can I get it now?\n>> Yeah. >> So this is how I'm converting them.\n>> Yeah, we just need to basically your delivery needs to become your content\nand your pitches need to be your pitches. You're kind of like muddling\nthe two. >> [laughter]\n>> Right? >> Yeah.\n>> Just sell when you need to sell, deliver when you need to deliver.\nAnd all that delivery stuff, that becomes content which I'll get to in a\nsecond when we get to traffic. >> Okay.\n>> Okay? >> Okay.\n>> How does this feel? >> Um this 3,000 one\n>> to have a reason for them to check out rather than having to DM you.\n>> Oh. >> If you want to have a call with me,\nit'll be $3,000. I just add 500 bucks cuz it it cost my time.\n>> So so okay, so when they're checking out they have these two options. They can\neither do >> you can just check out now and if you\nwant to talk to me >> Mhm.\n>> then it's $3,000. It's an extra 500 bucks and that's just because it's going\nto take my time. >> Oh, extra $500. Okay, got it.\n>> I know this because everyone's and I would just just state the fact and tell\nthe truth. Like I can't physically talk to everyone and this is why you need\nmore people on those calls. That's why it's like you're doing eight people at a\ntime. It's just a waste. Like let's get 50 people or 100 people on the call.\n>> Yeah. >> Have a structured webinar, answer all\nthe questions, make this offer, more people will be willing to buy and then\nit's like if you were not sure >> If you're not sure and you want to talk\nto me then >> yeah, go ahead.\n>> Okay. But what if it's like too many people or is that offer there cuz less\npeople people won't >> the the goal is that more people don't\nwant to pay the extra $500. Now if everyone is wants to pay this, then\ngreat. We raise our prices. >> [laughter]\n>> Cuz I'm like I don't want to do one-on-one\n>> No, great. Yeah, well but like that they're doing it now for you're doing it\nfor free right now. >> Yeah.\n>> Right, so like let's at least get paid for it if you're going to do it but the\ngoal is to incentivize people to do this.\n>> Got it. >> And again, we're selling biannually so\nautomatically this whole thing is going to switch because they're going to have\nto opt out rather than opting in. >> Got it.\n>> Track? >> Yes.\n>> Okay. >> Yes.\n>> So on the conversion process, I think one of the big one of the big ones is\nhusband slash it's mostly female buyers, husband's not there.\nSo I would just say give a three-day no sweat\nuh guarantee. >> Okay.\n>> Which you're legally have to anyways. Uh so people get back out of a purchase\nwhich is that if someone changes their mind, they change their mind. Right? And\nso just say, \"Hey, no worries. Buy it and if for some reason in the next three\ndays you talk to your husband and he's like, I don't want our kid to get\nbetter. I want him to stay the same and get worse and like this be a problem\nforever.\" If he says that, no worries, just let me know refund you.\n>> Okay. >> All right, so that way it's like get in\nand then that way um what we want to do to counteract like potential refunds,\nwhich is not going to be high anyways, is you want to do your onboarding ASAP.\nSo, as soon as someone buys, >> Mhm.\n>> do the onboarding like the next day cuz then the likelihood that they get cold\nfeet goes down. >> Got it.\n>> Just give them value as fast as you [clears throat] can.\n>> Okay, give value as fast as you can. >> Cuz if they if they buy and then they\nget on board, the likelihood they refund is really low.\n>> Yeah, yeah, yeah. >> so it's like let's just pull it forward.\n>> Got it, got it. >> Like they have 3 days to do it, but you\ncan deliver ASAP. Right? >> So, on my live events currently, I'll\nhave something like if you buy while you're on this call, there's a bonus.\nSo, should I take that out or >> No, I mean you can do have a price goes\nup and there's a bonus. So, this is cheaper and you get more.\n>> Okay. >> Cool.\n>> Yeah. >> Now,\nuh you have this $150 a month thing for like one-on-one with your\n>> It's not with me, yeah. It's my membership.\n>> team. >> Yeah, with my coaching team.\n>> So, if you're going to do that, you need to make it like five times as expensive\nor get rid of it. >> Oh.\n>> It's not priced right. >> Okay.\n>> Yeah, cuz you have one-to-many and then it's like for twice the price you get\none-on-one, basically. Right? So, it should be like five times the price.\n>> Mhm. >> [clears throat]\n>> So, it's like think like 8,000, 8,000, 10,000 is what it would be if I wanted\nto have. People have the money. I promise, they do.\nAnd that money will allow you to scale it.\n>> [laughter] >> It just it it like one on it just it it\nthe math doesn't math. >> Yeah, but it's not with me.\n>> No, I know. >> It's with my team.\n>> I know, it's it's it's it's not about >> But it's like it's like support.\n>> It's buying behavior. It's buying behavior. So, either include\nthe like include your base level support, which is what you have without\none-on-one. >> Yeah.\n>> And then if they want one-on-one, they have to pay for the one-on-one price.\nMany people everybody needs one-on-one, everything.\n>> [gasps] >> But it just doesn't mean that everyone\ncan afford it. It's not worth it's You have a responsibility to the\nbusiness. And the business has a responsibility to\ncustomers. But your responsibility is to make sure the business survives and\ngrows. >> Mhm.\n>> And in order for the business to survive and grow, it has to take care of the\ncustomer. So it's a it's a it's a circle.\nDoes that make sense? >> Yeah. Yeah.\n>> Okay. On the delivery part, so this is on delivery a little bit. Um\nyou have this Telegram, right? That you use cohorts in Telegram.\n>> Mhm. >> You can Are you familiar with AI?\n>> Mhm. >> Okay. So what I would do is I'd vibe\ncode um an agent that searches the whole Telegram\n>> Mhm. >> uh and looks for past responses that are\nsimilar to the question and then suggests it to you or your team\nand then you can check or exit and then it sends it.\nAnd that way you're going to dramatically increase the leverage that\nyou have for each of your delivery people.\n>> So have the agent send it automatically?\n>> No, so basically you'll vibe code a dashboard.\n>> Yeah. >> They don't even have to be in Telegram.\n>> Yeah. >> Like your team.\n>> Yeah. >> They have a dashboard. And then people\nask the questions so it's convenient for them. But you make it convenient for\nyour team to have them all in one place where it already has suggested answers\nand they just reply or edit. Single way faster.\n>> Got it. Okay. I can do that. Yeah.\n>> How frequently are you running webinars? >> Once every every time there's a launch.\nSo so that is >> So this is what I would consider doing.\n>> Yeah. >> Once a week hold a webinar\n>> Uh-huh. >> for all the people who DM you and say,\n\"Hey, I'm doing a live thing with other parents that way you won't feel alone.\nCome attend.\" And then you can just do the structured webinar once a week and\nthen mop up everyone that's been in your DMs\n>> Mhm. >> and just send reminders to them to show\nup. That way you don't have to go into all these long conversations cuz you're\nhaving the same conversation 100 times in a row.\n>> Yeah. >> Okay.\n>> Yeah. >> And then you still do your launches\nthat's going to be the paid. But your your weekly webinar can be\norganic. >> Okay.\n>> That That feel okay? >> only only for the people that are DMing\nme or should I >> No, I would just no. Should I message\nthe waitlist too? >> Um I would just do For me I'd rather\njust have all the people who are DMing you. I'd use my waitlist for the\nlaunches. >> Okay.\n>> Cuz it'll be like more razzle-dazzle. But you're just We're trying to account\nfor like what happens in between. So big picture, we're changing from our 3-hour\n3 to 4-hour marathon to a structured webinar.\n>> Okay. going to follow this structure. We can bring up the people live to do\nthe proof for each of the points if you want to and that's only for your\nlaunches. We'll still use the same webinar. You\ndon't have to have the live people. The upsell timing we're going to shift.\nRight? Because we won't even need to cuz we're going to we're going to be\nbi-annually here anyways. So this might not even be an issue.\n>> you don't think it matters whether it's 6 month or 12 month.\n>> Conversions say that I know. >> Okay.\n>> say. >> Cuz I thought it was like oh you get a\nyear might be >> Let me say it differently.\nDo you want to have your tooth pulled out in 5 minutes or 5 hours?\nIf you can fix your fix my kid in half the time, fix my kid in half the time.\n>> Yeah. >> The bi-annual is still happening on a 6\nmonth basis anyway. So that's automatic. I still want to have a conversion like\npush and reminder cuz I don't want to bug people without them knowing. That's\nnot the goal. >> Yeah.\n>> But we want to have like it's like we want to get the legal right to do it\nhere, but we want to have the psychological right from here.\n>> Got it. >> track?\n>> Got it. >> Okay.\nUh we're doing this pricing so that we get more people to not DM you and buy\nimmediately. So it'll be a cheaper price and a bonus if they buy on and if they\nbuy from you one-on-one and you're like you don't get the bonus and it costs\nmore. Now if you're on the call you can be like hey I'm not supposed to do this\nbut I'll give you the the bonus if they if they ask for it.\n>> Mhm. Got it. >> We're going to vibe code delivery so you\nget way more leverage from your team. That's all good?\n>> Mhm. >> Okay.\nAnd we're going to include this little no sweat on the pitch and we're going to\nadd our FAQs in. That's all conversion stuff. Okay.\nOnce we have all this, now we have an offer that's already renewing. We're\nrenewing at the right point. We have a structured conversion process delivery.\nYou got more leverage. We have our FAQs covered and we have guarantees so we can\ndeal with the spouse issue. Now we just need a more traffic. Okay?\nSo this is what I want to do. So how many\nSo you have like 200 plus testimonials that you've already captured which is\ngreat. >> There's like 200 I haven't even posted.\n>> Yeah. Yeah. So you have post those. Um how much Q&A is there in your delivery?\n>> A lot. >> Okay.\n>> And they're the same questions every cohort.\n>> That's great. So um you're familiar with Dave Ramsey?\n>> Yes. >> Yes. Yes.\n>> He people on and they say I should probably spend less than I'm than I'm\nspending and I should save more money and he says that's a great idea.\nIf you did it for 45 years. And so even though it's the same\nquestion for you the audience will not perceive it as the\nsame question. And so I want you to take those Q&As and\nyou can probably have an AI editor just cut it down. Worst case you can have an\noffshore editor do it cuz it's a very repeatable cutting process.\nAnd I'd love you how many how many How many Q&As would you say you do per week?\nWhen I say I don't mean sessions, I mean actual questions that you're answering.\n>> Actual questions like on the live calls? >> Yeah.\n>> Probably between 30 to 50. >> Okay.\n>> Yeah. >> So\nto me that means you get 30 to 50 posts a\nweek. Just by capturing and editing them. So\nthat all of a sudden >> So So it doesn't matter like what we do\nin the program is like being shown out. Doesn't matter.\n>> No, cuz it's going to be so it's going to be bite-sized. You also have\nquestions that are coming in from Telegram, right? And all those\nquestions. >> Yes.\n>> So the ones that get like uploaded or have a lot of like engagement around it,\nI would do green screen answers. >> What does that mean?\n>> So you pull the question behind you >> Okay.\n>> and you just talk about the question. >> Okay.\n>> You've probably seen reaction videos. >> Okay.\n>> You just react to the question. >> Okay.\n>> This is a question I you know like So and you can have an AI voice read it and\nthen you respond or you can read it and respond. Either way it's fine.\n>> Okay. >> That's right.\n>> Yeah. >> Just don't start with a lot of people\nhave been asking me this question. That's a terrible hook.\n>> Okay, don't start [laughter] with that. Okay, got it. Got it. Got it. Got it.\nGot it. >> Okay. Um when you go on these other\nplatforms, if Instagram is where you're used to converting everyone, push people\nfrom those platforms to Instagram. So if you do YouTube shorts, your\ndescription should say DM me on Instagram.\n>> Okay. >> If people are on TikTok, have your bio\nsay DM me on Instagram. That way we can just funnel everything to one conversion\npoint. And then that pushes people to webinar.\n>> Got it. >> Okay.\nNow we should probably post the 200 testimonials. >> But I really want to edit all of them.\n>> Well, you for all of this you need to get editing.\n>> Yeah. >> You have the profit.\n>> Yeah. >> You have the profit to do it and that's\nnot going to cost a lot of money. Now, on\nthe ad side, these content\nbecome ads. Because if we're if you're if you're\ncapturing 30 to 40 posts plus your green screens,\nwe're talking three, four, five posts a day. That's per platform. So all of a\nsudden you're going to like 20, 30 posts a day per platform. You're going to be\nall over the place. Then take the winners from there and run them as ads\nto your thing. >> To the webinar.\n>> To your launch. >> Yeah.\n>> To the wait list or the webinar? Depending\n>> Well, you have you're used to do the launches I think we do with the ads cuz\nyou're used to doing that and that's fine.\nUm this I just want to do fourth organic\nfor now. >> Okay.\n>> Just so it Now, if all of a sudden we we find out like maybe this just turns into\na better cycle where you just run ads every week to a webinar that you do once\na week, I'm fine with it. >> Okay.\n>> But this is your ad strategy. >> Okay. So then this goes into the wait\nlist. >> Mhm.\n>> Okay. Okay.\n>> Uh what we found work is having like a 3-second delay\non the banner. So if you have like a CTA um that's like, \"Hey, register for\nmy next whatever, my launch.\" Wouldn't say that, but my my thing. Um\njust delay the the button by like 3 seconds. Like the banner on the on the\nvideo. >> At the end.\n>> So if it the hook starts 3 seconds, then put your CTA in and then it can stay\nthere. >> Okay.\n>> We just found that it gets it's higher quality traffic.\n>> Okay. >> Just a little tactic.\n>> Okay. >> How's this feel?\n>> It feels good. But it's funny, it's not what I expected. I was expecting like\nhigher setters. >> No.\nI don't even want you in the DMs. Ideally.\n>> I think you can get one one person to really just point people over to Yeah.\n>> You know, like, \"Tina's doing this thing.\" Da da da. Okay.\n>> Yeah, you can also um hook up uh AI now to just respond. So that's\nalready been linked up on Instagram. So it can just respond right away.\n>> that's one of the things when people DM me, they're like, holy [ __ ] you're a\nreal person addressing actual prob- you know, like I don't want that. Them to\nfeel I'm managing people's feelings again.\n>> Yeah. I don't respond to everybody who DMs me.\n>> That's true. >> I don't think. And if I did, I wouldn't\nbe able to help a lot of business owners.\nI'd be DMing all day. So.\n>> That's true. >> It's your call.\n>> Yeah. I could have a human do it. >> Yeah. But they probably would like I'd\nrather them just like I'd rather them push to you and get a fractionalized\nversion of you than a whole percentage of somebody who's not.\n>> Got it. >> Cool?\n>> Yeah. >> I mean, this feels pretty\nstraightforward. We got a recurring here. We need to structure the webinar.\nWe add these elements to the conversion process. We expand delivery here, and\nthen we blow the [ __ ] door off the the front end. Now, one thing I do want\nto address is that I think you said you're self-sabotaging or something like\nthat. You making more money means that you are helping more\nfamilies. And you can help all the families who\ncan't afford it with this. I have helped a zillion more people\nbusiness owners who have not paid me than the ones who have.\n>> Yeah. >> And that's fine. I want that. Like I can\nnever I could never possibly >> Yeah.\n>> Right? So I think if you can just you have to\njust separate out the if I charge it's bad because I know that you also had\nsome resistance to raising the price. >> Yeah. I'm I mean, like one of my biggest\nfears and I feel silly even saying it is like I don't want people to think I'm in\nit for the money. And that's like\n>> is in it to make money. The business is. You own the business.\nYou can be in it for whatever reason you want. The business needs to make a\nprofit in order to grow. And if you want to help more people, it\nwill like you can help more people and make more money.\n>> Mhm. >> Rather than or.\nBecause um uh my friend Taki says this great thing. He says, either you can be\na starving artist or you can be a soulless corporation and I think that\nthe beauty's in the middle. >> Yeah.\n>> And so if we make all this stuff, we're helping lots of people for free, but for\nthe percentage of people that want more help\nthere's a there's a for purchase option. >> Okay.\n>> Joe? >> Yeah. Okay.\n>> All right? >> Yeah.\nEasy. >> Easy.\n>> Easy. >> Easy. Okay.\n>> All right. Doable.\n>> All right, doable. We did it. [music] >> Hey Alex, I've got some updates. I've\nbeen working hard implementing on all of the directives and Alex tasked me with\ncreating a structured webinar and that was the first thing I did. If it wasn't\nfor this show, if it wasn't for what we're doing here, I don't think I would\nhave finished the webinar. It was so painful and I have to say even though it\nwas really painful, it is finally working. Like surprise surprise.\n>> [laughter] >> The times I'm spending in DMs have\nsignificantly decreased. I was spending about 30 hours a week just handholding\nevery person that comes through. It was a lot of work. I've since created a new\nstructure where I'm in there for maybe three to five hours a week instead, so\nsignificantly reduced by 90%. Uh I've created a structure where my team can\nalso help me as well [music] to ask some of the initial questions and we just\ndirect everyone to the webinar. >> [music] >> All right, let's see where you're at on\nthe scaling roadmap. All right, let's see where you at. So\nyou're at How many employees you have? >> Uh not including the coaches, seven.\nIncluding the coaches, uh 12. >> Okay, so you're probably between these\ntwo steps. So team five to nine and 10 to 19 in terms of prioritizing and\nproductizing. >> Okay.\n>> All right. So we'll probably have a little bit of a mix here.\nSo if we're looking at product, you said yes to anyone who would pay.\n>> Yes. >> Right.\n>> [laughter] >> And you're getting feedback from lots of\ndifferent people. >> Yes.\n>> And so we need to be a little bit more specific about our product and you\nalready did cut one of them, right? You had the picky eaters in the in the in\nthe the high mama. >> Yeah.\n>> We already We already made that selection, right? So, you're you're\npartially graduated from here. From an unqualified lease perspective, you're\nlike, \"Well, I want to help everyone.\" That's what we make the content for.\n>> And I got rid of all my lower payment plans. I had a 12-month and an 8-month.\n>> for us. I love this for us. All right. And then same thing, we got rid of the\none-on-one. >> Yeah.\n>> Or we're pricing it way higher. Those are options.\n>> Okay. >> Okay? Now, from a sales perspective,\nthis You have decent tracking. But I think we might be looking over\nhere cuz now you're at this level. We need to create sales aids and materials.\nWebinar. >> Yes. [laughter]\n>> Right? Install weekly game tape between CS, sales, and marketing. Basically\nmaking sure that Well, your process This happens more when you have a sales team.\nSo, you don't have to worry about that as much.\n>> Okay. >> And the refund rate stuff, we're going\nto make sure that we're going to onboard a little sooner. That way, we don't have\nto worry about that. All right. So, that feels like this is about the the the\nright thing. Spend more on niche-down messaging. That's all these little\nvideos that we're talking about, which then turns into ads.\n>> Mhm. >> So, that's what we're doing on the on\nthe marketing side. >> Okay.\n>> And [clears throat] we don't need to worry about this one for now. And then\nuh build proper CS playbook to onboard and train team answers.\nIt's going to review all the past ones, make suggestions, and they can just\napprove. >> Got it.\n>> Does these feel like your problems? >> Yeah. Yes.\n>> Yes. >> [laughter]\n>> If you're If you're watching from home, you can fill out the form and it'll tell\nyou where you're at and gives tons of videos for every one of these things in\na lot more detail. And it's free, so go grab it.\n>> I think Tina could scale the most [music] out of everybody. Tina's\npersonality and the nature of her business cuz\n>> [music] >> she literally solves problems.\n>> If she continues to be led by her heart and combines that with data, then\nthere'll be nothing [music] stopping her whatsoever.\n>> I'm like the queen of execution. Like you watch me, the next 90 days like\n>> Pressure's on. >> Oh my gosh. >> [music] >> All right. I hate this part. Um\nSo, I have to decide whether you scale fail because that's what makes this\ninteresting. Um before I tell you the answer,\n>> Yeah. >> um I want to say that\nI think this is a very right down the middle\nwill work. The only fear I have is\nthe emotional side of it for you >> Yeah.\n>> of whether or not you will actually be able to pull\nyourself out because it is like you said at the very beginning, it's a decision.\nYou said you have a decision to scale >> Mhm.\n>> which means you have to also have a decision, which is that I'm not going to\nanswer every individual DM because I'm going to take a local cost to have a\nglobal [music] benefit. And so, it's the same reason that, you\nknow, Steve Jobs, Elon Musk, or Bezos can't respond every customer service\nrequest on on Amazon or Tesla or Apple. It's because they wanted to help more\npeople. Um that is probably [music] my biggest\nfear around the scaling it. The mechanics of this are really\nstraightforward and I think that because of your affiliate background, you can do\nit. And so, I'm very torn on this one\nbecause I just don't know enough about the soft\nside of Tina of whether or not >> Yeah.\n>> you can draw the line. Um How big do you want this to be?\n>> Mhm. Honestly?\n>> Give me a year. 12 months. >> In this 12 months?\n>> Mhm. >> 500 new clients. [music] And I have plans to do certifications\n[music] and more people. No, no, no.\nReally? >> [sighs]\n>> God, I hate this. Um >> I can execute. [music]\n>> No. Will you actually just do this and not\ndo anything else? >> Yes.\n>> All right. Then you have scaled and you will be\nscaling. All right, you'll move on to the next round. Rock and roll.\n>> Okay. >> Okay.\n>> [laughter] >> Oh my god,\nit's a >> Okay.\n>> No, I can do it. I can do it. I Yeah. >> Yeah.\n>> You got it. >> Thank you.\n>> Little Ceasar. >> All right.\nThank you. >> You got to do this though.\n>> I will. >> Okay.\n>> I will. [laughter] So, I'm going to kill it. I'm going to crush it. And even I\nwas kind of offended when he was like, I don't know if like you can separate the\nemotions from it. And I was like, dude, >> [laughter]\n>> you have no idea. I can kill it. It's done. It's in the bag. >> It was a really tough one.\nUm, I think the big thing was that she had\ndone affiliate marketing in the past. And so, I didn't think\nshe was going to get tripped up on the technical stuff, which sometimes when\nyou're a smaller business, that can trip you up. And so, I think she has skills\nthat will allow her to actually execute this.\nThe big fear that I have is what I said originally, which is like, I'm not sure\nif she's going to emotionally be able to do it. I was really torn on this one.\nBut, I'm I'm basically just going to give her the benefit of the doubt of\nlike, will she execute this? And I'm hoping that her global\nneed or desire to help people outweighs her local need to\nsatisfy every person who messages her. >> I was like really surprised at like how\nkind he was. Not to say that he's not kind, but like he just his demeanor,\nit was really shocking. I thought I would have been a lot more nervous, but\nhe was just so kind. And I just like it really allowed me to relax as soon as I\njust started talking. >> All right. And so, that was this episode\nof Scale or Fail. Stay tuned for the next one as they all compete for\n$100,000 and a year of working on scaling.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=8VqSFBMMS4M",
+  "videoId": "8VqSFBMMS4M"
+}

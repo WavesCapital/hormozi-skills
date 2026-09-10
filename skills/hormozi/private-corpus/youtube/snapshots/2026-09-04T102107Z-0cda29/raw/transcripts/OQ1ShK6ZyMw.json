@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Paying off ignorance debt is the single"
+    },
+    {
+      "endMs": "5279",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "greatest thing that everyone can do in"
+    },
+    {
+      "endMs": "7200",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "their entire lives until they die. The"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "5279",
+      "startTimeText": "0:05",
+      "text": "source of evil is ignorance. So"
+    },
+    {
+      "endMs": "10240",
+      "startMs": "7200",
+      "startTimeText": "0:07",
+      "text": "knowledge would be the ultimate good if"
+    },
+    {
+      "endMs": "11440",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "you knew everything about everything."
+    },
+    {
+      "endMs": "13120",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "Like it's kind of like you can't hate"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "someone close up. Like if you completely"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "understood someone's everything, then"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "you wouldn't be upset with"
+    }
+  ],
+  "transcript_only_text": " Paying  off  ignorance  debt  is  the  single \n greatest  thing  that  everyone  can  do  in \n their  entire  lives  until  they  die.  The \n source  of  evil  is  ignorance.  So \n knowledge  would  be  the  ultimate  good  if \n you  knew  everything  about  everything. \n Like  it's  kind  of like  you  can't  hate \n someone  close  up.  Like  if  you  completely \n understood  someone's  everything,  then \n you  wouldn't  be  upset  with",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=OQ1ShK6ZyMw",
+  "videoId": "OQ1ShK6ZyMw"
+}

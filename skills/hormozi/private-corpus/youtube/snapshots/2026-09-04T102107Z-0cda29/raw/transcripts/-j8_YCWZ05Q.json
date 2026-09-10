@@ -1,0 +1,3731 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3000",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "22,265,736"
+    },
+    {
+      "endMs": "10480",
+      "startMs": "5000",
+      "startTimeText": "0:05",
+      "text": "total users on School as of today. And"
+    },
+    {
+      "endMs": "12200",
+      "startMs": "8320",
+      "startTimeText": "0:08",
+      "text": "to get that big, we had to know how to"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "retain users. And one of the biggest"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "12200",
+      "startTimeText": "0:12",
+      "text": "places we learned this from is the"
+    },
+    {
+      "endMs": "17320",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "communities on the platform itself. And"
+    },
+    {
+      "endMs": "19240",
+      "startMs": "16160",
+      "startTimeText": "0:16",
+      "text": "so in this video, I'm going to break"
+    },
+    {
+      "endMs": "21280",
+      "startMs": "17320",
+      "startTimeText": "0:17",
+      "text": "down what we've learned so far that you"
+    },
+    {
+      "endMs": "23600",
+      "startMs": "19240",
+      "startTimeText": "0:19",
+      "text": "can use to retain your customers longer"
+    },
+    {
+      "endMs": "24760",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "in any recurring revenue business. And"
+    },
+    {
+      "endMs": "26800",
+      "startMs": "23600",
+      "startTimeText": "0:23",
+      "text": "this is a special shout out to the"
+    },
+    {
+      "endMs": "28240",
+      "startMs": "24760",
+      "startTimeText": "0:24",
+      "text": "School and Sam. I'm taking all the"
+    },
+    {
+      "endMs": "29440",
+      "startMs": "26800",
+      "startTimeText": "0:26",
+      "text": "learnings that he put in the School News"
+    },
+    {
+      "endMs": "31480",
+      "startMs": "28240",
+      "startTimeText": "0:28",
+      "text": "and I'm trying to make them public cuz I"
+    },
+    {
+      "endMs": "33840",
+      "startMs": "29440",
+      "startTimeText": "0:29",
+      "text": "think they're awesome. So number one is"
+    },
+    {
+      "endMs": "36240",
+      "startMs": "31480",
+      "startTimeText": "0:31",
+      "text": "think of churn like a leaky bucket. And"
+    },
+    {
+      "endMs": "38280",
+      "startMs": "33840",
+      "startTimeText": "0:33",
+      "text": "then diagnose what's actually happening."
+    },
+    {
+      "endMs": "39920",
+      "startMs": "36240",
+      "startTimeText": "0:36",
+      "text": "So your MRR, meaning your monthly"
+    },
+    {
+      "endMs": "42120",
+      "startMs": "38280",
+      "startTimeText": "0:38",
+      "text": "recurring revenue, grows when new"
+    },
+    {
+      "endMs": "45720",
+      "startMs": "39920",
+      "startTimeText": "0:39",
+      "text": "members are greater than churn members."
+    },
+    {
+      "endMs": "48840",
+      "startMs": "42120",
+      "startTimeText": "0:42",
+      "text": "So for example, if you sell five people"
+    },
+    {
+      "endMs": "51280",
+      "startMs": "45720",
+      "startTimeText": "0:45",
+      "text": "and you lose four, your MRR will grow."
+    },
+    {
+      "endMs": "53480",
+      "startMs": "48840",
+      "startTimeText": "0:48",
+      "text": "If you sell five new members and five"
+    },
+    {
+      "endMs": "55680",
+      "startMs": "51280",
+      "startTimeText": "0:51",
+      "text": "churn, your growth will be flat. You"
+    },
+    {
+      "endMs": "57400",
+      "startMs": "53480",
+      "startTimeText": "0:53",
+      "text": "begin declining when you have fewer new"
+    },
+    {
+      "endMs": "59720",
+      "startMs": "55680",
+      "startTimeText": "0:55",
+      "text": "people than people who leave. And so"
+    },
+    {
+      "endMs": "61760",
+      "startMs": "57400",
+      "startTimeText": "0:57",
+      "text": "tactically, what you want to do is track"
+    },
+    {
+      "endMs": "64040",
+      "startMs": "59720",
+      "startTimeText": "0:59",
+      "text": "those two numbers on a monthly basis,"
+    },
+    {
+      "endMs": "65440",
+      "startMs": "61760",
+      "startTimeText": "1:01",
+      "text": "joins versus cancels, and then force"
+    },
+    {
+      "endMs": "67800",
+      "startMs": "64040",
+      "startTimeText": "1:04",
+      "text": "yourself to label the businesses"
+    },
+    {
+      "endMs": "70400",
+      "startMs": "65440",
+      "startTimeText": "1:05",
+      "text": "growing, flat, or declining based on"
+    },
+    {
+      "endMs": "72400",
+      "startMs": "67800",
+      "startTimeText": "1:07",
+      "text": "that. That's thing one."
+    },
+    {
+      "endMs": "74640",
+      "startMs": "70400",
+      "startTimeText": "1:10",
+      "text": "Thing two. You want to use retention"
+    },
+    {
+      "endMs": "75920",
+      "startMs": "72400",
+      "startTimeText": "1:12",
+      "text": "benchmarks. And so this way you can know"
+    },
+    {
+      "endMs": "77520",
+      "startMs": "74640",
+      "startTimeText": "1:14",
+      "text": "if you're good. And so I'll just give"
+    },
+    {
+      "endMs": "80400",
+      "startMs": "75920",
+      "startTimeText": "1:15",
+      "text": "you the School platform averages. Now to"
+    },
+    {
+      "endMs": "83240",
+      "startMs": "77520",
+      "startTimeText": "1:17",
+      "text": "be clear, this isn't uh churn for like"
+    },
+    {
+      "endMs": "85400",
+      "startMs": "80400",
+      "startTimeText": "1:20",
+      "text": "an insurance premium or an alarm system."
+    },
+    {
+      "endMs": "87840",
+      "startMs": "83240",
+      "startTimeText": "1:23",
+      "text": "But if you sell anything that is, I"
+    },
+    {
+      "endMs": "89800",
+      "startMs": "85400",
+      "startTimeText": "1:25",
+      "text": "would say, a tradi- you know, a consumer"
+    },
+    {
+      "endMs": "91680",
+      "startMs": "87840",
+      "startTimeText": "1:27",
+      "text": "service that's not like a home service,"
+    },
+    {
+      "endMs": "93680",
+      "startMs": "89800",
+      "startTimeText": "1:29",
+      "text": "but just like a weight loss service or"
+    },
+    {
+      "endMs": "95000",
+      "startMs": "91680",
+      "startTimeText": "1:31",
+      "text": "anything that you'd help somebody uh or"
+    },
+    {
+      "endMs": "97680",
+      "startMs": "93680",
+      "startTimeText": "1:33",
+      "text": "remote service or anything that's like"
+    },
+    {
+      "endMs": "99440",
+      "startMs": "95000",
+      "startTimeText": "1:35",
+      "text": "an online service, um these metrics will"
+    },
+    {
+      "endMs": "102000",
+      "startMs": "97680",
+      "startTimeText": "1:37",
+      "text": "probably be much more correlated to what"
+    },
+    {
+      "endMs": "104600",
+      "startMs": "99440",
+      "startTimeText": "1:39",
+      "text": "you're at. And so the platform average"
+    },
+    {
+      "endMs": "106480",
+      "startMs": "102000",
+      "startTimeText": "1:42",
+      "text": "across School is 80% monthly retention."
+    },
+    {
+      "endMs": "108560",
+      "startMs": "104600",
+      "startTimeText": "1:44",
+      "text": "So said differently, it's 20% churn. So"
+    },
+    {
+      "endMs": "111120",
+      "startMs": "106480",
+      "startTimeText": "1:46",
+      "text": "80% stay, 20% leave. That's the platform"
+    },
+    {
+      "endMs": "113800",
+      "startMs": "108560",
+      "startTimeText": "1:48",
+      "text": "average. Now the best groups have less"
+    },
+    {
+      "endMs": "116520",
+      "startMs": "111120",
+      "startTimeText": "1:51",
+      "text": "than 10% churn, aka 90% retention month"
+    },
+    {
+      "endMs": "119480",
+      "startMs": "113800",
+      "startTimeText": "1:53",
+      "text": "over month. The not good groups have"
+    },
+    {
+      "endMs": "121960",
+      "startMs": "116520",
+      "startTimeText": "1:56",
+      "text": "less than 70% retention, aka 30% or"
+    },
+    {
+      "endMs": "123360",
+      "startMs": "119480",
+      "startTimeText": "1:59",
+      "text": "higher. And so tactically, if less than"
+    },
+    {
+      "endMs": "125760",
+      "startMs": "121960",
+      "startTimeText": "2:01",
+      "text": "seven out of 10 people want to stay on a"
+    },
+    {
+      "endMs": "127120",
+      "startMs": "123360",
+      "startTimeText": "2:03",
+      "text": "monthly basis, you probably need to work"
+    },
+    {
+      "endMs": "129320",
+      "startMs": "125760",
+      "startTimeText": "2:05",
+      "text": "on your retention more than anything"
+    },
+    {
+      "endMs": "131320",
+      "startMs": "127120",
+      "startTimeText": "2:07",
+      "text": "else. It'll be the highest ROI lever."
+    },
+    {
+      "endMs": "133800",
+      "startMs": "129320",
+      "startTimeText": "2:09",
+      "text": "Now, to put this in context, if you take"
+    },
+    {
+      "endMs": "135280",
+      "startMs": "131320",
+      "startTimeText": "2:11",
+      "text": "your turn from 20% to 10%,"
+    },
+    {
+      "endMs": "137400",
+      "startMs": "133800",
+      "startTimeText": "2:13",
+      "text": "or said differently, you take your"
+    },
+    {
+      "endMs": "140640",
+      "startMs": "135280",
+      "startTimeText": "2:15",
+      "text": "retention from 80 to 90%, you didn't"
+    },
+    {
+      "endMs": "142840",
+      "startMs": "137400",
+      "startTimeText": "2:17",
+      "text": "just get a 10 or 12% boost, you got a"
+    },
+    {
+      "endMs": "144640",
+      "startMs": "140640",
+      "startTimeText": "2:20",
+      "text": "double in the LTV per customer. Meaning"
+    },
+    {
+      "endMs": "146640",
+      "startMs": "142840",
+      "startTimeText": "2:22",
+      "text": "customers stay twice as long when you"
+    },
+    {
+      "endMs": "147720",
+      "startMs": "144640",
+      "startTimeText": "2:24",
+      "text": "make that change. And so, one of the big"
+    },
+    {
+      "endMs": "149320",
+      "startMs": "146640",
+      "startTimeText": "2:26",
+      "text": "things that people get confused about"
+    },
+    {
+      "endMs": "151560",
+      "startMs": "147720",
+      "startTimeText": "2:27",
+      "text": "these small numbers is that the smaller"
+    },
+    {
+      "endMs": "153680",
+      "startMs": "149320",
+      "startTimeText": "2:29",
+      "text": "the number, the bigger the change by"
+    },
+    {
+      "endMs": "155840",
+      "startMs": "151560",
+      "startTimeText": "2:31",
+      "text": "percentages when you make these small"
+    },
+    {
+      "endMs": "158240",
+      "startMs": "153680",
+      "startTimeText": "2:33",
+      "text": "tweaks. And to be clear, this is all"
+    },
+    {
+      "endMs": "159600",
+      "startMs": "155840",
+      "startTimeText": "2:35",
+      "text": "monthly in comparison to others, not in"
+    },
+    {
+      "endMs": "161320",
+      "startMs": "158240",
+      "startTimeText": "2:38",
+      "text": "comparison to have like a sellable"
+    },
+    {
+      "endMs": "162280",
+      "startMs": "159600",
+      "startTimeText": "2:39",
+      "text": "business or anything like that."
+    },
+    {
+      "endMs": "165200",
+      "startMs": "161320",
+      "startTimeText": "2:41",
+      "text": "Real quick, I'm going to show you the"
+    },
+    {
+      "endMs": "167800",
+      "startMs": "162280",
+      "startTimeText": "2:42",
+      "text": "exact 10-stage roadmap from zero to 100"
+    },
+    {
+      "endMs": "169280",
+      "startMs": "165200",
+      "startTimeText": "2:45",
+      "text": "million plus that less than 1% of"
+    },
+    {
+      "endMs": "170760",
+      "startMs": "167800",
+      "startTimeText": "2:47",
+      "text": "companies finish. I've now done multiple"
+    },
+    {
+      "endMs": "172760",
+      "startMs": "169280",
+      "startTimeText": "2:49",
+      "text": "times, and so I can say with a lot of"
+    },
+    {
+      "endMs": "174560",
+      "startMs": "170760",
+      "startTimeText": "2:50",
+      "text": "confidence that these are the stages as"
+    },
+    {
+      "endMs": "176680",
+      "startMs": "172760",
+      "startTimeText": "2:52",
+      "text": "head count increases that you need to"
+    },
+    {
+      "endMs": "178200",
+      "startMs": "174560",
+      "startTimeText": "2:54",
+      "text": "get through. And I broke each of these"
+    },
+    {
+      "endMs": "180160",
+      "startMs": "176680",
+      "startTimeText": "2:56",
+      "text": "down by eight different functions of the"
+    },
+    {
+      "endMs": "181600",
+      "startMs": "178200",
+      "startTimeText": "2:58",
+      "text": "business, what the constraint feels"
+    },
+    {
+      "endMs": "183000",
+      "startMs": "180160",
+      "startTimeText": "3:00",
+      "text": "like, like what are the symptoms of it"
+    },
+    {
+      "endMs": "184480",
+      "startMs": "181600",
+      "startTimeText": "3:01",
+      "text": "when you're going through it, and then"
+    },
+    {
+      "endMs": "186400",
+      "startMs": "183000",
+      "startTimeText": "3:03",
+      "text": "what steps we actually took to graduate."
+    },
+    {
+      "endMs": "188239",
+      "startMs": "184480",
+      "startTimeText": "3:04",
+      "text": "And we've done this across software,"
+    },
+    {
+      "endMs": "190160",
+      "startMs": "186400",
+      "startTimeText": "3:06",
+      "text": "physical products, uh service"
+    },
+    {
+      "endMs": "192320",
+      "startMs": "188239",
+      "startTimeText": "3:08",
+      "text": "businesses, brick-and-mortar, all of"
+    },
+    {
+      "endMs": "193840",
+      "startMs": "190160",
+      "startTimeText": "3:10",
+      "text": "this, and it works. And it's my gift to"
+    },
+    {
+      "endMs": "195200",
+      "startMs": "192320",
+      "startTimeText": "3:12",
+      "text": "you, it's absolutely free. And so, the"
+    },
+    {
+      "endMs": "197120",
+      "startMs": "193840",
+      "startTimeText": "3:13",
+      "text": "link's in the description, but you just"
+    },
+    {
+      "endMs": "198200",
+      "startMs": "195200",
+      "startTimeText": "3:15",
+      "text": "go acquisition.com/roadmap,"
+    },
+    {
+      "endMs": "199920",
+      "startMs": "197120",
+      "startTimeText": "3:17",
+      "text": "just enter your info, and it'll spit it"
+    },
+    {
+      "endMs": "203120",
+      "startMs": "198200",
+      "startTimeText": "3:18",
+      "text": "right back to you all free. So, number"
+    },
+    {
+      "endMs": "206400",
+      "startMs": "199920",
+      "startTimeText": "3:19",
+      "text": "three is the biggest rule is that churn"
+    },
+    {
+      "endMs": "208160",
+      "startMs": "203120",
+      "startTimeText": "3:23",
+      "text": "drops dramatically with time. All right,"
+    },
+    {
+      "endMs": "210480",
+      "startMs": "206400",
+      "startTimeText": "3:26",
+      "text": "so this is like this is a very cool"
+    },
+    {
+      "endMs": "211560",
+      "startMs": "208160",
+      "startTimeText": "3:28",
+      "text": "inference that that uh Sam shared with"
+    },
+    {
+      "endMs": "214480",
+      "startMs": "210480",
+      "startTimeText": "3:30",
+      "text": "me that I thought was really, really"
+    },
+    {
+      "endMs": "216480",
+      "startMs": "211560",
+      "startTimeText": "3:31",
+      "text": "interesting. So, it it it's very easy to"
+    },
+    {
+      "endMs": "218519",
+      "startMs": "214480",
+      "startTimeText": "3:34",
+      "text": "think, \"Okay, my average churn is, call"
+    },
+    {
+      "endMs": "220880",
+      "startMs": "216480",
+      "startTimeText": "3:36",
+      "text": "it 10% a month.\" But when you actually"
+    },
+    {
+      "endMs": "222080",
+      "startMs": "218519",
+      "startTimeText": "3:38",
+      "text": "look at cohorts of churn, meaning people"
+    },
+    {
+      "endMs": "223519",
+      "startMs": "220880",
+      "startTimeText": "3:40",
+      "text": "who are at their sixth month versus"
+    },
+    {
+      "endMs": "225440",
+      "startMs": "222080",
+      "startTimeText": "3:42",
+      "text": "people at the second month versus third"
+    },
+    {
+      "endMs": "227400",
+      "startMs": "223519",
+      "startTimeText": "3:43",
+      "text": "month, etc., the averages across"
+    },
+    {
+      "endMs": "230000",
+      "startMs": "225440",
+      "startTimeText": "3:45",
+      "text": "platform are also very different by"
+    },
+    {
+      "endMs": "233200",
+      "startMs": "227400",
+      "startTimeText": "3:47",
+      "text": "month. And so, for example, month one to"
+    },
+    {
+      "endMs": "235840",
+      "startMs": "230000",
+      "startTimeText": "3:50",
+      "text": "three are the highest churn. So, they're"
+    },
+    {
+      "endMs": "237800",
+      "startMs": "233200",
+      "startTimeText": "3:53",
+      "text": "20% plus during these months. Now, if"
+    },
+    {
+      "endMs": "239640",
+      "startMs": "235840",
+      "startTimeText": "3:55",
+      "text": "you keep someone 90 days, which seems to"
+    },
+    {
+      "endMs": "242200",
+      "startMs": "237800",
+      "startTimeText": "3:57",
+      "text": "be the first kind of big churn drop-off"
+    },
+    {
+      "endMs": "243680",
+      "startMs": "239640",
+      "startTimeText": "3:59",
+      "text": "point, it drops to around 10% or less."
+    },
+    {
+      "endMs": "244680",
+      "startMs": "242200",
+      "startTimeText": "4:02",
+      "text": "And you're like, \"Huh, that's kind of"
+    },
+    {
+      "endMs": "246920",
+      "startMs": "243680",
+      "startTimeText": "4:03",
+      "text": "interesting.\" Basically, it drops in"
+    },
+    {
+      "endMs": "249240",
+      "startMs": "244680",
+      "startTimeText": "4:04",
+      "text": "half if you get people to day 90."
+    },
+    {
+      "endMs": "251800",
+      "startMs": "246920",
+      "startTimeText": "4:06",
+      "text": "Now, by month six, so another 90 days"
+    },
+    {
+      "endMs": "254520",
+      "startMs": "249240",
+      "startTimeText": "4:09",
+      "text": "after that, churn gets extremely low."
+    },
+    {
+      "endMs": "257200",
+      "startMs": "251800",
+      "startTimeText": "4:11",
+      "text": "So, it goes from like 10% to 2%. All"
+    },
+    {
+      "endMs": "258480",
+      "startMs": "254520",
+      "startTimeText": "4:14",
+      "text": "right, so a 5x decrease or a 5x increase"
+    },
+    {
+      "endMs": "261359",
+      "startMs": "257200",
+      "startTimeText": "4:17",
+      "text": "in LTV, depending on how you want to see"
+    },
+    {
+      "endMs": "263360",
+      "startMs": "258480",
+      "startTimeText": "4:18",
+      "text": "it. And so, the implications of this are"
+    },
+    {
+      "endMs": "264840",
+      "startMs": "261359",
+      "startTimeText": "4:21",
+      "text": "huge because a lot of people will"
+    },
+    {
+      "endMs": "267000",
+      "startMs": "263360",
+      "startTimeText": "4:23",
+      "text": "obsess, myself included, about like,"
+    },
+    {
+      "endMs": "268120",
+      "startMs": "264840",
+      "startTimeText": "4:24",
+      "text": "\"How do I get my my monthly churn down,"
+    },
+    {
+      "endMs": "269360",
+      "startMs": "267000",
+      "startTimeText": "4:27",
+      "text": "you know, over and over again?\" An"
+    },
+    {
+      "endMs": "270480",
+      "startMs": "268120",
+      "startTimeText": "4:28",
+      "text": "easier way to think about decreasing"
+    },
+    {
+      "endMs": "271880",
+      "startMs": "269360",
+      "startTimeText": "4:29",
+      "text": "your churn is not, \"How do I make this"
+    },
+    {
+      "endMs": "273960",
+      "startMs": "270480",
+      "startTimeText": "4:30",
+      "text": "number go down?\" but, \"How do I get"
+    },
+    {
+      "endMs": "275080",
+      "startMs": "271880",
+      "startTimeText": "4:31",
+      "text": "someone to stay past day 90? How do I"
+    },
+    {
+      "endMs": "276880",
+      "startMs": "273960",
+      "startTimeText": "4:33",
+      "text": "get these people to stay past month"
+    },
+    {
+      "endMs": "278240",
+      "startMs": "275080",
+      "startTimeText": "4:35",
+      "text": "six?\" Because those become much more"
+    },
+    {
+      "endMs": "280200",
+      "startMs": "276880",
+      "startTimeText": "4:36",
+      "text": "tactical in terms of like, \"This is what"
+    },
+    {
+      "endMs": "281760",
+      "startMs": "278240",
+      "startTimeText": "4:38",
+      "text": "I can do.\" Now, to be clear, if your"
+    },
+    {
+      "endMs": "283240",
+      "startMs": "280200",
+      "startTimeText": "4:40",
+      "text": "community or recurring revenue thing is"
+    },
+    {
+      "endMs": "284480",
+      "startMs": "281760",
+      "startTimeText": "4:41",
+      "text": "less than 90 days old, then your churn"
+    },
+    {
+      "endMs": "285760",
+      "startMs": "283240",
+      "startTimeText": "4:43",
+      "text": "is always going to be inflated cuz you"
+    },
+    {
+      "endMs": "287240",
+      "startMs": "284480",
+      "startTimeText": "4:44",
+      "text": "haven't even gotten those customers"
+    },
+    {
+      "endMs": "289200",
+      "startMs": "285760",
+      "startTimeText": "4:45",
+      "text": "who've made it past that point that"
+    },
+    {
+      "endMs": "290240",
+      "startMs": "287240",
+      "startTimeText": "4:47",
+      "text": "would, over time, decrease your monthly"
+    },
+    {
+      "endMs": "291720",
+      "startMs": "289200",
+      "startTimeText": "4:49",
+      "text": "churn."
+    },
+    {
+      "endMs": "294000",
+      "startMs": "290240",
+      "startTimeText": "4:50",
+      "text": "If it's less than six months old, it's"
+    },
+    {
+      "endMs": "295760",
+      "startMs": "291720",
+      "startTimeText": "4:51",
+      "text": "the same thing, just a little bit less."
+    },
+    {
+      "endMs": "297120",
+      "startMs": "294000",
+      "startTimeText": "4:54",
+      "text": "And so, to be clear, don't overhaul your"
+    },
+    {
+      "endMs": "300400",
+      "startMs": "295760",
+      "startTimeText": "4:55",
+      "text": "entire business because your month one"
+    },
+    {
+      "endMs": "302800",
+      "startMs": "297120",
+      "startTimeText": "4:57",
+      "text": "churn sucks. Uh that's normal for it to"
+    },
+    {
+      "endMs": "303840",
+      "startMs": "300400",
+      "startTimeText": "5:00",
+      "text": "be higher than the other months, unless"
+    },
+    {
+      "endMs": "305160",
+      "startMs": "302800",
+      "startTimeText": "5:02",
+      "text": "basically everyone's leaving, in which"
+    },
+    {
+      "endMs": "306680",
+      "startMs": "303840",
+      "startTimeText": "5:03",
+      "text": "case, yes, you should go fix that. All"
+    },
+    {
+      "endMs": "307840",
+      "startMs": "305160",
+      "startTimeText": "5:05",
+      "text": "right, so that's number three. And I"
+    },
+    {
+      "endMs": "309200",
+      "startMs": "306680",
+      "startTimeText": "5:06",
+      "text": "think that one's like really, really"
+    },
+    {
+      "endMs": "311000",
+      "startMs": "307840",
+      "startTimeText": "5:07",
+      "text": "big, and I want to like hit on that."
+    },
+    {
+      "endMs": "312360",
+      "startMs": "309200",
+      "startTimeText": "5:09",
+      "text": "Like,"
+    },
+    {
+      "endMs": "314280",
+      "startMs": "311000",
+      "startTimeText": "5:11",
+      "text": "I would say, if you had to focus on"
+    },
+    {
+      "endMs": "315600",
+      "startMs": "312360",
+      "startTimeText": "5:12",
+      "text": "three tactics, have a very specific"
+    },
+    {
+      "endMs": "317320",
+      "startMs": "314280",
+      "startTimeText": "5:14",
+      "text": "strategy for getting people past the"
+    },
+    {
+      "endMs": "319160",
+      "startMs": "315600",
+      "startTimeText": "5:15",
+      "text": "first month cuz that's the biggest month"
+    },
+    {
+      "endMs": "321480",
+      "startMs": "317320",
+      "startTimeText": "5:17",
+      "text": "of churn. So, that's going to come from"
+    },
+    {
+      "endMs": "324240",
+      "startMs": "319160",
+      "startTimeText": "5:19",
+      "text": "activation, onboarding, expectation"
+    },
+    {
+      "endMs": "326480",
+      "startMs": "321480",
+      "startTimeText": "5:21",
+      "text": "setting, selling the right promises on"
+    },
+    {
+      "endMs": "327480",
+      "startMs": "324240",
+      "startTimeText": "5:24",
+      "text": "the front end, showing up every day,"
+    },
+    {
+      "endMs": "331040",
+      "startMs": "326480",
+      "startTimeText": "5:26",
+      "text": "making sure that you're providing"
+    },
+    {
+      "endMs": "332160",
+      "startMs": "327480",
+      "startTimeText": "5:27",
+      "text": "content in that in that environment."
+    },
+    {
+      "endMs": "333520",
+      "startMs": "331040",
+      "startTimeText": "5:31",
+      "text": "Day 90 is probably going to have to"
+    },
+    {
+      "endMs": "335320",
+      "startMs": "332160",
+      "startTimeText": "5:32",
+      "text": "deliver some sort of outcome, some sort"
+    },
+    {
+      "endMs": "336919",
+      "startMs": "333520",
+      "startTimeText": "5:33",
+      "text": "of change in behavior for them. Month"
+    },
+    {
+      "endMs": "338840",
+      "startMs": "335320",
+      "startTimeText": "5:35",
+      "text": "six, it's usually them connecting with"
+    },
+    {
+      "endMs": "340200",
+      "startMs": "336919",
+      "startTimeText": "5:36",
+      "text": "other people within that community. All"
+    },
+    {
+      "endMs": "343080",
+      "startMs": "338840",
+      "startTimeText": "5:38",
+      "text": "right, and so, this is kind of as these"
+    },
+    {
+      "endMs": "345160",
+      "startMs": "340200",
+      "startTimeText": "5:40",
+      "text": "things develop. Now, number four, ask"
+    },
+    {
+      "endMs": "346800",
+      "startMs": "343080",
+      "startTimeText": "5:43",
+      "text": "people why they canceled, and then look"
+    },
+    {
+      "endMs": "348160",
+      "startMs": "345160",
+      "startTimeText": "5:45",
+      "text": "for the patterns. So, I would say,"
+    },
+    {
+      "endMs": "349360",
+      "startMs": "346800",
+      "startTimeText": "5:46",
+      "text": "earlier on in my career, I would just"
+    },
+    {
+      "endMs": "350800",
+      "startMs": "348160",
+      "startTimeText": "5:48",
+      "text": "like when someone says, \"Oh, it costs"
+    },
+    {
+      "endMs": "351680",
+      "startMs": "349360",
+      "startTimeText": "5:49",
+      "text": "too much.\" I would just ignore them. I'd"
+    },
+    {
+      "endMs": "353320",
+      "startMs": "350800",
+      "startTimeText": "5:50",
+      "text": "be like, \"Oh, they just don't understand"
+    },
+    {
+      "endMs": "355400",
+      "startMs": "351680",
+      "startTimeText": "5:51",
+      "text": "the value.\" But over time, I've learned"
+    },
+    {
+      "endMs": "358880",
+      "startMs": "353320",
+      "startTimeText": "5:53",
+      "text": "to appreciate that like I'll tell you a"
+    },
+    {
+      "endMs": "361120",
+      "startMs": "355400",
+      "startTimeText": "5:55",
+      "text": "a cool little thing. Sam has"
+    },
+    {
+      "endMs": "362400",
+      "startMs": "358880",
+      "startTimeText": "5:58",
+      "text": "the head of customer support sits right"
+    },
+    {
+      "endMs": "364360",
+      "startMs": "361120",
+      "startTimeText": "6:01",
+      "text": "next to him"
+    },
+    {
+      "endMs": "365880",
+      "startMs": "362400",
+      "startTimeText": "6:02",
+      "text": "in the whole office. And the reason for"
+    },
+    {
+      "endMs": "367400",
+      "startMs": "364360",
+      "startTimeText": "6:04",
+      "text": "that is cuz he wanted a very tight"
+    },
+    {
+      "endMs": "369040",
+      "startMs": "365880",
+      "startTimeText": "6:05",
+      "text": "feedback loop between the problems that"
+    },
+    {
+      "endMs": "370640",
+      "startMs": "367400",
+      "startTimeText": "6:07",
+      "text": "customers are experiencing, the reasons"
+    },
+    {
+      "endMs": "372320",
+      "startMs": "369040",
+      "startTimeText": "6:09",
+      "text": "they're canceling, and the things that"
+    },
+    {
+      "endMs": "374240",
+      "startMs": "370640",
+      "startTimeText": "6:10",
+      "text": "are getting built. And that's why School"
+    },
+    {
+      "endMs": "376480",
+      "startMs": "372320",
+      "startTimeText": "6:12",
+      "text": "is such a strong platform, it's so good."
+    },
+    {
+      "endMs": "377640",
+      "startMs": "374240",
+      "startTimeText": "6:14",
+      "text": "And so tactically, message people who"
+    },
+    {
+      "endMs": "379720",
+      "startMs": "376480",
+      "startTimeText": "6:16",
+      "text": "are canceling say, \"Hey, why are you"
+    },
+    {
+      "endMs": "381040",
+      "startMs": "377640",
+      "startTimeText": "6:17",
+      "text": "canceling?\" And don't knee-jerk, you"
+    },
+    {
+      "endMs": "382080",
+      "startMs": "379720",
+      "startTimeText": "6:19",
+      "text": "know, on one response to be clear."
+    },
+    {
+      "endMs": "383440",
+      "startMs": "381040",
+      "startTimeText": "6:21",
+      "text": "They'll be like, \"Oh, this one person"
+    },
+    {
+      "endMs": "386160",
+      "startMs": "382080",
+      "startTimeText": "6:22",
+      "text": "canceled.\" Like, look for patterns,"
+    },
+    {
+      "endMs": "387640",
+      "startMs": "383440",
+      "startTimeText": "6:23",
+      "text": "collect enough feedback uh to see them."
+    },
+    {
+      "endMs": "390160",
+      "startMs": "386160",
+      "startTimeText": "6:26",
+      "text": "And so tactically, you can create a"
+    },
+    {
+      "endMs": "391800",
+      "startMs": "387640",
+      "startTimeText": "6:27",
+      "text": "simple DM script, and then you can tag"
+    },
+    {
+      "endMs": "393520",
+      "startMs": "390160",
+      "startTimeText": "6:30",
+      "text": "the reason that people have in an Excel"
+    },
+    {
+      "endMs": "395840",
+      "startMs": "391800",
+      "startTimeText": "6:31",
+      "text": "sheet. So, it could be like price,"
+    },
+    {
+      "endMs": "397680",
+      "startMs": "393520",
+      "startTimeText": "6:33",
+      "text": "overwhelm, not using, it's missing a"
+    },
+    {
+      "endMs": "399280",
+      "startMs": "395840",
+      "startTimeText": "6:35",
+      "text": "feature, or it's not what I expected."
+    },
+    {
+      "endMs": "401520",
+      "startMs": "397680",
+      "startTimeText": "6:37",
+      "text": "And you can look at that, and for every"
+    },
+    {
+      "endMs": "403880",
+      "startMs": "399280",
+      "startTimeText": "6:39",
+      "text": "20 cancels or so, review the top one or"
+    },
+    {
+      "endMs": "406200",
+      "startMs": "401520",
+      "startTimeText": "6:41",
+      "text": "two reasons, and then fix those. Really"
+    },
+    {
+      "endMs": "408880",
+      "startMs": "403880",
+      "startTimeText": "6:43",
+      "text": "tactical advice, please do this."
+    },
+    {
+      "endMs": "410400",
+      "startMs": "406200",
+      "startTimeText": "6:46",
+      "text": "Number five, ask your best members why"
+    },
+    {
+      "endMs": "411800",
+      "startMs": "408880",
+      "startTimeText": "6:48",
+      "text": "they stay. So, we're asking the bad"
+    },
+    {
+      "endMs": "413160",
+      "startMs": "410400",
+      "startTimeText": "6:50",
+      "text": "people why they leave, we're asking the"
+    },
+    {
+      "endMs": "415440",
+      "startMs": "411800",
+      "startTimeText": "6:51",
+      "text": "good people why they stay, and then do"
+    },
+    {
+      "endMs": "417400",
+      "startMs": "413160",
+      "startTimeText": "6:53",
+      "text": "more of that. So, identify the longest"
+    },
+    {
+      "endMs": "418840",
+      "startMs": "415440",
+      "startTimeText": "6:55",
+      "text": "tenured people, aka the most engaged"
+    },
+    {
+      "endMs": "420360",
+      "startMs": "417400",
+      "startTimeText": "6:57",
+      "text": "members, and then ask them like, \"What"
+    },
+    {
+      "endMs": "422400",
+      "startMs": "418840",
+      "startTimeText": "6:58",
+      "text": "made you stay?"
+    },
+    {
+      "endMs": "424560",
+      "startMs": "420360",
+      "startTimeText": "7:00",
+      "text": "What's the number one value that you get"
+    },
+    {
+      "endMs": "426040",
+      "startMs": "422400",
+      "startTimeText": "7:02",
+      "text": "here?\" And so then tactically, whatever"
+    },
+    {
+      "endMs": "428080",
+      "startMs": "424560",
+      "startTimeText": "7:04",
+      "text": "shows up repeatedly becomes your kind of"
+    },
+    {
+      "endMs": "429520",
+      "startMs": "426040",
+      "startTimeText": "7:06",
+      "text": "retention engine. And so everything else"
+    },
+    {
+      "endMs": "431960",
+      "startMs": "428080",
+      "startTimeText": "7:08",
+      "text": "after that is really optional. And I"
+    },
+    {
+      "endMs": "433680",
+      "startMs": "429520",
+      "startTimeText": "7:09",
+      "text": "would I want to emphasize this point."
+    },
+    {
+      "endMs": "436080",
+      "startMs": "431960",
+      "startTimeText": "7:11",
+      "text": "If you can only do one thing that gets"
+    },
+    {
+      "endMs": "437400",
+      "startMs": "433680",
+      "startTimeText": "7:13",
+      "text": "people to stay, why would you do five?"
+    },
+    {
+      "endMs": "439280",
+      "startMs": "436080",
+      "startTimeText": "7:16",
+      "text": "And this is a lesson that took me too"
+    },
+    {
+      "endMs": "440919",
+      "startMs": "437400",
+      "startTimeText": "7:17",
+      "text": "long to learn because often times, we"
+    },
+    {
+      "endMs": "442640",
+      "startMs": "439280",
+      "startTimeText": "7:19",
+      "text": "believe that in order to fix things, we"
+    },
+    {
+      "endMs": "443880",
+      "startMs": "440919",
+      "startTimeText": "7:20",
+      "text": "need to fix them through addition. When"
+    },
+    {
+      "endMs": "446640",
+      "startMs": "442640",
+      "startTimeText": "7:22",
+      "text": "often times, we need to fix them through"
+    },
+    {
+      "endMs": "448800",
+      "startMs": "443880",
+      "startTimeText": "7:23",
+      "text": "subtraction and amelioration, aka making"
+    },
+    {
+      "endMs": "450800",
+      "startMs": "446640",
+      "startTimeText": "7:26",
+      "text": "it better rather than adding more stuff."
+    },
+    {
+      "endMs": "452160",
+      "startMs": "448800",
+      "startTimeText": "7:28",
+      "text": "Because if you were to simply fulfill"
+    },
+    {
+      "endMs": "453560",
+      "startMs": "450800",
+      "startTimeText": "7:30",
+      "text": "the promise that you originally made,"
+    },
+    {
+      "endMs": "454880",
+      "startMs": "452160",
+      "startTimeText": "7:32",
+      "text": "they'd probably stay. So, if you think"
+    },
+    {
+      "endMs": "457440",
+      "startMs": "453560",
+      "startTimeText": "7:33",
+      "text": "about, \"How do I improve the quality of"
+    },
+    {
+      "endMs": "459320",
+      "startMs": "454880",
+      "startTimeText": "7:34",
+      "text": "a product?\" You make a promise, and then"
+    },
+    {
+      "endMs": "460400",
+      "startMs": "457440",
+      "startTimeText": "7:37",
+      "text": "you remove all friction associated with"
+    },
+    {
+      "endMs": "461640",
+      "startMs": "459320",
+      "startTimeText": "7:39",
+      "text": "getting that thing. And so the"
+    },
+    {
+      "endMs": "463040",
+      "startMs": "460400",
+      "startTimeText": "7:40",
+      "text": "businesses, the products, and the"
+    },
+    {
+      "endMs": "465080",
+      "startMs": "461640",
+      "startTimeText": "7:41",
+      "text": "services that win are the ones that"
+    },
+    {
+      "endMs": "467120",
+      "startMs": "463040",
+      "startTimeText": "7:43",
+      "text": "simply make all the things that suck"
+    },
+    {
+      "endMs": "469080",
+      "startMs": "465080",
+      "startTimeText": "7:45",
+      "text": "about achieving the good thing go away."
+    },
+    {
+      "endMs": "471440",
+      "startMs": "467120",
+      "startTimeText": "7:47",
+      "text": "School fundamentally helps people get"
+    },
+    {
+      "endMs": "473400",
+      "startMs": "469080",
+      "startTimeText": "7:49",
+      "text": "started online. And so all we've done is"
+    },
+    {
+      "endMs": "474680",
+      "startMs": "471440",
+      "startTimeText": "7:51",
+      "text": "try to optimize to make it as easy as"
+    },
+    {
+      "endMs": "476600",
+      "startMs": "473400",
+      "startTimeText": "7:53",
+      "text": "humanly possible, and that doesn't mean"
+    },
+    {
+      "endMs": "478880",
+      "startMs": "474680",
+      "startTimeText": "7:54",
+      "text": "adding more features. It means making"
+    },
+    {
+      "endMs": "480800",
+      "startMs": "476600",
+      "startTimeText": "7:56",
+      "text": "everything in the background just vanish"
+    },
+    {
+      "endMs": "482080",
+      "startMs": "478880",
+      "startTimeText": "7:58",
+      "text": "so it just works, which leads me to"
+    },
+    {
+      "endMs": "483640",
+      "startMs": "480800",
+      "startTimeText": "8:00",
+      "text": "number six."
+    },
+    {
+      "endMs": "485240",
+      "startMs": "482080",
+      "startTimeText": "8:02",
+      "text": "Price objections. You don't want to"
+    },
+    {
+      "endMs": "488120",
+      "startMs": "483640",
+      "startTimeText": "8:03",
+      "text": "guess, you want to tier based on"
+    },
+    {
+      "endMs": "489880",
+      "startMs": "485240",
+      "startTimeText": "8:05",
+      "text": "evidence. So at School, so us eating our"
+    },
+    {
+      "endMs": "492000",
+      "startMs": "488120",
+      "startTimeText": "8:08",
+      "text": "own dog food, we had a bunch of people"
+    },
+    {
+      "endMs": "494200",
+      "startMs": "489880",
+      "startTimeText": "8:09",
+      "text": "canceling saying, \"It's too expensive.\""
+    },
+    {
+      "endMs": "496120",
+      "startMs": "492000",
+      "startTimeText": "8:12",
+      "text": "And so what we did is we created a lower"
+    },
+    {
+      "endMs": "498000",
+      "startMs": "494200",
+      "startTimeText": "8:14",
+      "text": "tier while still keeping the higher tier"
+    },
+    {
+      "endMs": "499480",
+      "startMs": "496120",
+      "startTimeText": "8:16",
+      "text": "available with some additional,"
+    },
+    {
+      "endMs": "500720",
+      "startMs": "498000",
+      "startTimeText": "8:18",
+      "text": "uh, you know, metrics and, you know,"
+    },
+    {
+      "endMs": "503080",
+      "startMs": "499480",
+      "startTimeText": "8:19",
+      "text": "additional admins, things that, you"
+    },
+    {
+      "endMs": "505400",
+      "startMs": "500720",
+      "startTimeText": "8:20",
+      "text": "know, unique URLs, you know, no no"
+    },
+    {
+      "endMs": "508680",
+      "startMs": "503080",
+      "startTimeText": "8:23",
+      "text": "sidebars of competitor groups kind of"
+    },
+    {
+      "endMs": "509919",
+      "startMs": "505400",
+      "startTimeText": "8:25",
+      "text": "advertising the same area. We kept that"
+    },
+    {
+      "endMs": "511240",
+      "startMs": "508680",
+      "startTimeText": "8:28",
+      "text": "for the high-level people, but the"
+    },
+    {
+      "endMs": "512400",
+      "startMs": "509919",
+      "startTimeText": "8:29",
+      "text": "people who are lower-level, who are just"
+    },
+    {
+      "endMs": "515000",
+      "startMs": "511240",
+      "startTimeText": "8:31",
+      "text": "kind of hobbyists, who are just getting"
+    },
+    {
+      "endMs": "520039",
+      "startMs": "512400",
+      "startTimeText": "8:32",
+      "text": "started, we created a 11 times cheaper"
+    },
+    {
+      "endMs": "522120",
+      "startMs": "515000",
+      "startTimeText": "8:35",
+      "text": "tier from $99 to $9. Right? And so"
+    },
+    {
+      "endMs": "524160",
+      "startMs": "520039",
+      "startTimeText": "8:40",
+      "text": "this was important for School because a"
+    },
+    {
+      "endMs": "525440",
+      "startMs": "522120",
+      "startTimeText": "8:42",
+      "text": "lot of hobby groups are people getting"
+    },
+    {
+      "endMs": "526640",
+      "startMs": "524160",
+      "startTimeText": "8:44",
+      "text": "started and maybe they're not"
+    },
+    {
+      "endMs": "528520",
+      "startMs": "525440",
+      "startTimeText": "8:45",
+      "text": "necessarily making a ton of money. They"
+    },
+    {
+      "endMs": "529960",
+      "startMs": "526640",
+      "startTimeText": "8:46",
+      "text": "got to figure out a few months, and the"
+    },
+    {
+      "endMs": "532720",
+      "startMs": "528520",
+      "startTimeText": "8:48",
+      "text": "difference between $100 a month and, you"
+    },
+    {
+      "endMs": "534560",
+      "startMs": "529960",
+      "startTimeText": "8:49",
+      "text": "know, uh, $9 a month is pretty huge. And"
+    },
+    {
+      "endMs": "536240",
+      "startMs": "532720",
+      "startTimeText": "8:52",
+      "text": "so that allowed the people who were like"
+    },
+    {
+      "endMs": "537400",
+      "startMs": "534560",
+      "startTimeText": "8:54",
+      "text": "still figuring it out to still be able"
+    },
+    {
+      "endMs": "539400",
+      "startMs": "536240",
+      "startTimeText": "8:56",
+      "text": "to use the tool and stay and then"
+    },
+    {
+      "endMs": "541320",
+      "startMs": "537400",
+      "startTimeText": "8:57",
+      "text": "ultimately be successful longer term."
+    },
+    {
+      "endMs": "543560",
+      "startMs": "539400",
+      "startTimeText": "8:59",
+      "text": "Now, tactically,"
+    },
+    {
+      "endMs": "545880",
+      "startMs": "541320",
+      "startTimeText": "9:01",
+      "text": "if your ideal customers, this is a very"
+    },
+    {
+      "endMs": "548040",
+      "startMs": "543560",
+      "startTimeText": "9:03",
+      "text": "important point, if your ideal customer"
+    },
+    {
+      "endMs": "549600",
+      "startMs": "545880",
+      "startTimeText": "9:05",
+      "text": "say the price is the issue,"
+    },
+    {
+      "endMs": "552560",
+      "startMs": "548040",
+      "startTimeText": "9:08",
+      "text": "then you can add a lower tier or a"
+    },
+    {
+      "endMs": "554120",
+      "startMs": "549600",
+      "startTimeText": "9:09",
+      "text": "standard plan. If non-ideal people say"
+    },
+    {
+      "endMs": "556040",
+      "startMs": "552560",
+      "startTimeText": "9:12",
+      "text": "it's too expensive, just ignore it. That"
+    },
+    {
+      "endMs": "557680",
+      "startMs": "554120",
+      "startTimeText": "9:14",
+      "text": "means that the price is actually acting"
+    },
+    {
+      "endMs": "558600",
+      "startMs": "556040",
+      "startTimeText": "9:16",
+      "text": "as a good filter, right? Like if you if"
+    },
+    {
+      "endMs": "560320",
+      "startMs": "557680",
+      "startTimeText": "9:17",
+      "text": "you're like, \"I want a community for a"
+    },
+    {
+      "endMs": "561560",
+      "startMs": "558600",
+      "startTimeText": "9:18",
+      "text": "million dollar plus business owners,\""
+    },
+    {
+      "endMs": "562880",
+      "startMs": "560320",
+      "startTimeText": "9:20",
+      "text": "and people who are not a million dollars"
+    },
+    {
+      "endMs": "563760",
+      "startMs": "561560",
+      "startTimeText": "9:21",
+      "text": "plus say this is expensive, then it's"
+    },
+    {
+      "endMs": "566440",
+      "startMs": "562880",
+      "startTimeText": "9:22",
+      "text": "like,"
+    },
+    {
+      "endMs": "568640",
+      "startMs": "563760",
+      "startTimeText": "9:23",
+      "text": "\"Great. Bingo. It's working.\" All right?"
+    },
+    {
+      "endMs": "569960",
+      "startMs": "566440",
+      "startTimeText": "9:26",
+      "text": "Um, same thing with whoever your avatar"
+    },
+    {
+      "endMs": "571720",
+      "startMs": "568640",
+      "startTimeText": "9:28",
+      "text": "is, which leads to number seven,"
+    },
+    {
+      "endMs": "574960",
+      "startMs": "569960",
+      "startTimeText": "9:29",
+      "text": "overwhelm. So let's talk about this. The"
+    },
+    {
+      "endMs": "578160",
+      "startMs": "571720",
+      "startTimeText": "9:31",
+      "text": "number one reason people churn, outside"
+    },
+    {
+      "endMs": "580560",
+      "startMs": "574960",
+      "startTimeText": "9:34",
+      "text": "of price, is overwhelm. It is the churn"
+    },
+    {
+      "endMs": "583440",
+      "startMs": "578160",
+      "startTimeText": "9:38",
+      "text": "driver. And this is why doing less can"
+    },
+    {
+      "endMs": "584640",
+      "startMs": "580560",
+      "startTimeText": "9:40",
+      "text": "often retain more. And so, the core idea"
+    },
+    {
+      "endMs": "587200",
+      "startMs": "583440",
+      "startTimeText": "9:43",
+      "text": "behind this is like, I don't have the"
+    },
+    {
+      "endMs": "588760",
+      "startMs": "584640",
+      "startTimeText": "9:44",
+      "text": "time, I can't keep up, I can't utilize"
+    },
+    {
+      "endMs": "589800",
+      "startMs": "587200",
+      "startTimeText": "9:47",
+      "text": "it. And usually just means there's too"
+    },
+    {
+      "endMs": "591520",
+      "startMs": "588760",
+      "startTimeText": "9:48",
+      "text": "much stuff. So, I want to I want to"
+    },
+    {
+      "endMs": "594120",
+      "startMs": "589800",
+      "startTimeText": "9:49",
+      "text": "break down a real-world example of this"
+    },
+    {
+      "endMs": "597320",
+      "startMs": "591520",
+      "startTimeText": "9:51",
+      "text": "outside of school that applied the same"
+    },
+    {
+      "endMs": "598520",
+      "startMs": "594120",
+      "startTimeText": "9:54",
+      "text": "concept. So, Planet Fitness uh is a $10"
+    },
+    {
+      "endMs": "600520",
+      "startMs": "597320",
+      "startTimeText": "9:57",
+      "text": "a month, you know, gym subscription."
+    },
+    {
+      "endMs": "601760",
+      "startMs": "598520",
+      "startTimeText": "9:58",
+      "text": "They have some upsells, whatever. And"
+    },
+    {
+      "endMs": "602960",
+      "startMs": "600520",
+      "startTimeText": "10:00",
+      "text": "they were able to enter the market in a"
+    },
+    {
+      "endMs": "604000",
+      "startMs": "601760",
+      "startTimeText": "10:01",
+      "text": "place that there's already tons of gyms,"
+    },
+    {
+      "endMs": "605640",
+      "startMs": "602960",
+      "startTimeText": "10:02",
+      "text": "there's already tons of health clubs,"
+    },
+    {
+      "endMs": "607280",
+      "startMs": "604000",
+      "startTimeText": "10:04",
+      "text": "etc. But what they realized when they"
+    },
+    {
+      "endMs": "608840",
+      "startMs": "605640",
+      "startTimeText": "10:05",
+      "text": "surveyed customers is that people joined"
+    },
+    {
+      "endMs": "610000",
+      "startMs": "607280",
+      "startTimeText": "10:07",
+      "text": "health clubs and they were paying $59 a"
+    },
+    {
+      "endMs": "611800",
+      "startMs": "608840",
+      "startTimeText": "10:08",
+      "text": "month or whatever, and they had"
+    },
+    {
+      "endMs": "614280",
+      "startMs": "610000",
+      "startTimeText": "10:10",
+      "text": "basketball courts and racquetball courts"
+    },
+    {
+      "endMs": "615760",
+      "startMs": "611800",
+      "startTimeText": "10:11",
+      "text": "and uh cardio and pool and all this"
+    },
+    {
+      "endMs": "617600",
+      "startMs": "614280",
+      "startTimeText": "10:14",
+      "text": "other stuff, right? And when they"
+    },
+    {
+      "endMs": "619680",
+      "startMs": "615760",
+      "startTimeText": "10:15",
+      "text": "surveyed people, the vast majority"
+    },
+    {
+      "endMs": "621080",
+      "startMs": "617600",
+      "startTimeText": "10:17",
+      "text": "people just used the cardio equipment"
+    },
+    {
+      "endMs": "622160",
+      "startMs": "619680",
+      "startTimeText": "10:19",
+      "text": "and a little bit of weights."
+    },
+    {
+      "endMs": "624040",
+      "startMs": "621080",
+      "startTimeText": "10:21",
+      "text": "And so, they were like, wait, so these"
+    },
+    {
+      "endMs": "626120",
+      "startMs": "622160",
+      "startTimeText": "10:22",
+      "text": "have these massively built-out things,"
+    },
+    {
+      "endMs": "627800",
+      "startMs": "624040",
+      "startTimeText": "10:24",
+      "text": "but people are only using 10 or 15% of"
+    },
+    {
+      "endMs": "629040",
+      "startMs": "626120",
+      "startTimeText": "10:26",
+      "text": "the facility. And so, what they did,"
+    },
+    {
+      "endMs": "631160",
+      "startMs": "627800",
+      "startTimeText": "10:27",
+      "text": "they said, what if we just took out that"
+    },
+    {
+      "endMs": "632960",
+      "startMs": "629040",
+      "startTimeText": "10:29",
+      "text": "10 or 15% put it over here and then"
+    },
+    {
+      "endMs": "634080",
+      "startMs": "631160",
+      "startTimeText": "10:31",
+      "text": "charge way less for it? And by doing"
+    },
+    {
+      "endMs": "635240",
+      "startMs": "632960",
+      "startTimeText": "10:32",
+      "text": "that, they had a superior value"
+    },
+    {
+      "endMs": "637080",
+      "startMs": "634080",
+      "startTimeText": "10:34",
+      "text": "proposition. Now, here's where it gets"
+    },
+    {
+      "endMs": "639480",
+      "startMs": "635240",
+      "startTimeText": "10:35",
+      "text": "really interesting."
+    },
+    {
+      "endMs": "641800",
+      "startMs": "637080",
+      "startTimeText": "10:37",
+      "text": "When you have five things that you pay"
+    },
+    {
+      "endMs": "644520",
+      "startMs": "639480",
+      "startTimeText": "10:39",
+      "text": "for, but you only use one, you feel like"
+    },
+    {
+      "endMs": "647040",
+      "startMs": "641800",
+      "startTimeText": "10:41",
+      "text": "you're only getting 20% of the value."
+    },
+    {
+      "endMs": "648760",
+      "startMs": "644520",
+      "startTimeText": "10:44",
+      "text": "If for the same price,"
+    },
+    {
+      "endMs": "650080",
+      "startMs": "647040",
+      "startTimeText": "10:47",
+      "text": "you just offer that one thing, people"
+    },
+    {
+      "endMs": "652240",
+      "startMs": "648760",
+      "startTimeText": "10:48",
+      "text": "feel like they're getting 100% of the"
+    },
+    {
+      "endMs": "654200",
+      "startMs": "650080",
+      "startTimeText": "10:50",
+      "text": "value. So, someone is more likely to"
+    },
+    {
+      "endMs": "655560",
+      "startMs": "652240",
+      "startTimeText": "10:52",
+      "text": "churn in this scenario because you added"
+    },
+    {
+      "endMs": "658240",
+      "startMs": "654200",
+      "startTimeText": "10:54",
+      "text": "more stuff because now they feel like"
+    },
+    {
+      "endMs": "659600",
+      "startMs": "655560",
+      "startTimeText": "10:55",
+      "text": "they're using not enough of it. Wild."
+    },
+    {
+      "endMs": "660960",
+      "startMs": "658240",
+      "startTimeText": "10:58",
+      "text": "So, us as business owners a lot of times"
+    },
+    {
+      "endMs": "661920",
+      "startMs": "659600",
+      "startTimeText": "10:59",
+      "text": "we're thinking, oh, I'm going to I'm"
+    },
+    {
+      "endMs": "663360",
+      "startMs": "660960",
+      "startTimeText": "11:00",
+      "text": "going to add this, you know, I'm going"
+    },
+    {
+      "endMs": "664960",
+      "startMs": "661920",
+      "startTimeText": "11:01",
+      "text": "to add all this extra stuff, but the"
+    },
+    {
+      "endMs": "666360",
+      "startMs": "663360",
+      "startTimeText": "11:03",
+      "text": "reality is all we did is we gave them"
+    },
+    {
+      "endMs": "667680",
+      "startMs": "664960",
+      "startTimeText": "11:04",
+      "text": "more reason to cancel because they never"
+    },
+    {
+      "endMs": "668880",
+      "startMs": "666360",
+      "startTimeText": "11:06",
+      "text": "used it."
+    },
+    {
+      "endMs": "670280",
+      "startMs": "667680",
+      "startTimeText": "11:07",
+      "text": "And so, we had a community on School"
+    },
+    {
+      "endMs": "672480",
+      "startMs": "668880",
+      "startTimeText": "11:08",
+      "text": "where they found out about this, they"
+    },
+    {
+      "endMs": "674240",
+      "startMs": "670280",
+      "startTimeText": "11:10",
+      "text": "deleted content that they had, and they"
+    },
+    {
+      "endMs": "676839",
+      "startMs": "672480",
+      "startTimeText": "11:12",
+      "text": "took their churn from 30%"
+    },
+    {
+      "endMs": "679760",
+      "startMs": "674240",
+      "startTimeText": "11:14",
+      "text": "month-over-month to five. They had a six"
+    },
+    {
+      "endMs": "680880",
+      "startMs": "676839",
+      "startTimeText": "11:16",
+      "text": "x increase in LTV by simply having fewer"
+    },
+    {
+      "endMs": "682880",
+      "startMs": "679760",
+      "startTimeText": "11:19",
+      "text": "things."
+    },
+    {
+      "endMs": "685200",
+      "startMs": "680880",
+      "startTimeText": "11:20",
+      "text": "All right? A simple version of this is,"
+    },
+    {
+      "endMs": "686839",
+      "startMs": "682880",
+      "startTimeText": "11:22",
+      "text": "and I'll I'll give you a tactical uh"
+    },
+    {
+      "endMs": "688960",
+      "startMs": "685200",
+      "startTimeText": "11:25",
+      "text": "I'll give you a couple tactics on this."
+    },
+    {
+      "endMs": "691200",
+      "startMs": "686839",
+      "startTimeText": "11:26",
+      "text": "So, you can make a a little form and"
+    },
+    {
+      "endMs": "693160",
+      "startMs": "688960",
+      "startTimeText": "11:28",
+      "text": "just simply ask your customers, hey, if"
+    },
+    {
+      "endMs": "694800",
+      "startMs": "691200",
+      "startTimeText": "11:31",
+      "text": "I were to delete everything, what one"
+    },
+    {
+      "endMs": "696880",
+      "startMs": "693160",
+      "startTimeText": "11:33",
+      "text": "thing would you fight for? And on the"
+    },
+    {
+      "endMs": "699160",
+      "startMs": "694800",
+      "startTimeText": "11:34",
+      "text": "inverse, if I were to keep everything"
+    },
+    {
+      "endMs": "701440",
+      "startMs": "696880",
+      "startTimeText": "11:36",
+      "text": "and just remove only one feature, which"
+    },
+    {
+      "endMs": "702840",
+      "startMs": "699160",
+      "startTimeText": "11:39",
+      "text": "one thing would you not mind seeing go?\""
+    },
+    {
+      "endMs": "704080",
+      "startMs": "701440",
+      "startTimeText": "11:41",
+      "text": "And then if you chart those on a graph,"
+    },
+    {
+      "endMs": "705600",
+      "startMs": "702840",
+      "startTimeText": "11:42",
+      "text": "what you'll find out is what the number"
+    },
+    {
+      "endMs": "707040",
+      "startMs": "704080",
+      "startTimeText": "11:44",
+      "text": "one and number two most valuable things"
+    },
+    {
+      "endMs": "709720",
+      "startMs": "705600",
+      "startTimeText": "11:45",
+      "text": "are. And often times it's really"
+    },
+    {
+      "endMs": "711320",
+      "startMs": "707040",
+      "startTimeText": "11:47",
+      "text": "outsized. And most of the time, you just"
+    },
+    {
+      "endMs": "713160",
+      "startMs": "709720",
+      "startTimeText": "11:49",
+      "text": "need to do those things and basically"
+    },
+    {
+      "endMs": "714280",
+      "startMs": "711320",
+      "startTimeText": "11:51",
+      "text": "forget about everything else. Cuz one of"
+    },
+    {
+      "endMs": "715240",
+      "startMs": "713160",
+      "startTimeText": "11:53",
+      "text": "the big things we have to remember is"
+    },
+    {
+      "endMs": "718280",
+      "startMs": "714280",
+      "startTimeText": "11:54",
+      "text": "that"
+    },
+    {
+      "endMs": "720920",
+      "startMs": "715240",
+      "startTimeText": "11:55",
+      "text": "people who are using your services are"
+    },
+    {
+      "endMs": "722920",
+      "startMs": "718280",
+      "startTimeText": "11:58",
+      "text": "not full-time using your stuff. They"
+    },
+    {
+      "endMs": "725080",
+      "startMs": "720920",
+      "startTimeText": "12:00",
+      "text": "have lives. And so we want to think"
+    },
+    {
+      "endMs": "727000",
+      "startMs": "722920",
+      "startTimeText": "12:02",
+      "text": "about value per second, not seconds of"
+    },
+    {
+      "endMs": "728880",
+      "startMs": "725080",
+      "startTimeText": "12:05",
+      "text": "value. And in the digital world, that"
+    },
+    {
+      "endMs": "731200",
+      "startMs": "727000",
+      "startTimeText": "12:07",
+      "text": "might mean just one post, one call"
+    },
+    {
+      "endMs": "732640",
+      "startMs": "728880",
+      "startTimeText": "12:08",
+      "text": "recording, or just one single action"
+    },
+    {
+      "endMs": "733960",
+      "startMs": "731200",
+      "startTimeText": "12:11",
+      "text": "that you need to take that's valuable"
+    },
+    {
+      "endMs": "735480",
+      "startMs": "732640",
+      "startTimeText": "12:12",
+      "text": "for them. That's it. If someone just"
+    },
+    {
+      "endMs": "736560",
+      "startMs": "733960",
+      "startTimeText": "12:13",
+      "text": "gets that every week from you, they're"
+    },
+    {
+      "endMs": "738520",
+      "startMs": "735480",
+      "startTimeText": "12:15",
+      "text": "in."
+    },
+    {
+      "endMs": "741720",
+      "startMs": "736560",
+      "startTimeText": "12:16",
+      "text": "Which leads to number eight. Design for"
+    },
+    {
+      "endMs": "743360",
+      "startMs": "738520",
+      "startTimeText": "12:18",
+      "text": "the extremes. Have a busy path, like the"
+    },
+    {
+      "endMs": "744680",
+      "startMs": "741720",
+      "startTimeText": "12:21",
+      "text": "person who's just kind of like a dabbler"
+    },
+    {
+      "endMs": "746480",
+      "startMs": "743360",
+      "startTimeText": "12:23",
+      "text": "dipping their toe in the water, and then"
+    },
+    {
+      "endMs": "748800",
+      "startMs": "744680",
+      "startTimeText": "12:24",
+      "text": "also have kind of like the power user"
+    },
+    {
+      "endMs": "752680",
+      "startMs": "746480",
+      "startTimeText": "12:26",
+      "text": "depth. And so a busy member should be"
+    },
+    {
+      "endMs": "753960",
+      "startMs": "748800",
+      "startTimeText": "12:28",
+      "text": "able to get value from a distance. They"
+    },
+    {
+      "endMs": "755480",
+      "startMs": "752680",
+      "startTimeText": "12:32",
+      "text": "should be able to keep up and not feel"
+    },
+    {
+      "endMs": "758000",
+      "startMs": "753960",
+      "startTimeText": "12:33",
+      "text": "like they're left behind. On the other"
+    },
+    {
+      "endMs": "760839",
+      "startMs": "755480",
+      "startTimeText": "12:35",
+      "text": "hand, a hardcore person should be able"
+    },
+    {
+      "endMs": "763240",
+      "startMs": "758000",
+      "startTimeText": "12:38",
+      "text": "to go deep all day. And so tactically,"
+    },
+    {
+      "endMs": "765839",
+      "startMs": "760839",
+      "startTimeText": "12:40",
+      "text": "make an explicit start here {slash}"
+    },
+    {
+      "endMs": "767600",
+      "startMs": "763240",
+      "startTimeText": "12:43",
+      "text": "weekly cadence flow for the busy people,"
+    },
+    {
+      "endMs": "770080",
+      "startMs": "765839",
+      "startTimeText": "12:45",
+      "text": "while leaving optional kind of like side"
+    },
+    {
+      "endMs": "772040",
+      "startMs": "767600",
+      "startTimeText": "12:47",
+      "text": "quests and depth for the kind of like"
+    },
+    {
+      "endMs": "775480",
+      "startMs": "770080",
+      "startTimeText": "12:50",
+      "text": "heavy users or heavy Yeah, the heavy"
+    },
+    {
+      "endMs": "777960",
+      "startMs": "772040",
+      "startTimeText": "12:52",
+      "text": "users. Nine, move the ladder closer to"
+    },
+    {
+      "endMs": "780600",
+      "startMs": "775480",
+      "startTimeText": "12:55",
+      "text": "the front. So front-load the thing that"
+    },
+    {
+      "endMs": "781960",
+      "startMs": "777960",
+      "startTimeText": "12:57",
+      "text": "people love. So we use snakes and"
+    },
+    {
+      "endMs": "784040",
+      "startMs": "780600",
+      "startTimeText": "13:00",
+      "text": "ladders as a concept. So you want to"
+    },
+    {
+      "endMs": "786000",
+      "startMs": "781960",
+      "startTimeText": "13:01",
+      "text": "remove the snakes, aka the friction, the"
+    },
+    {
+      "endMs": "787680",
+      "startMs": "784040",
+      "startTimeText": "13:04",
+      "text": "confusion, the overwhelm. And if there's"
+    },
+    {
+      "endMs": "789920",
+      "startMs": "786000",
+      "startTimeText": "13:06",
+      "text": "a long ladder, the thing that makes"
+    },
+    {
+      "endMs": "791560",
+      "startMs": "787680",
+      "startTimeText": "13:07",
+      "text": "people stick, put it in the onboarding."
+    },
+    {
+      "endMs": "793360",
+      "startMs": "789920",
+      "startTimeText": "13:09",
+      "text": "So tactically, if the calls are the"
+    },
+    {
+      "endMs": "794960",
+      "startMs": "791560",
+      "startTimeText": "13:11",
+      "text": "stickiest thing, or this specific"
+    },
+    {
+      "endMs": "796320",
+      "startMs": "793360",
+      "startTimeText": "13:13",
+      "text": "service, or this specific"
+    },
+    {
+      "endMs": "798400",
+      "startMs": "794960",
+      "startTimeText": "13:14",
+      "text": "implementation, or onboarding, or"
+    },
+    {
+      "endMs": "801120",
+      "startMs": "796320",
+      "startTimeText": "13:16",
+      "text": "activation, the best call replay,"
+    },
+    {
+      "endMs": "803880",
+      "startMs": "798400",
+      "startTimeText": "13:18",
+      "text": "whatever it is, the pin post, put that"
+    },
+    {
+      "endMs": "805160",
+      "startMs": "801120",
+      "startTimeText": "13:21",
+      "text": "sticky sticky thing up front. And you"
+    },
+    {
+      "endMs": "806400",
+      "startMs": "803880",
+      "startTimeText": "13:23",
+      "text": "want to pin, this is now a"
+    },
+    {
+      "endMs": "808000",
+      "startMs": "805160",
+      "startTimeText": "13:25",
+      "text": "school-specific thing, but it still"
+    },
+    {
+      "endMs": "809480",
+      "startMs": "806400",
+      "startTimeText": "13:26",
+      "text": "works with any onboarding, is you want"
+    },
+    {
+      "endMs": "811200",
+      "startMs": "808000",
+      "startTimeText": "13:28",
+      "text": "to pin the fast win up front so new"
+    },
+    {
+      "endMs": "813120",
+      "startMs": "809480",
+      "startTimeText": "13:29",
+      "text": "members hit that value ideally within"
+    },
+    {
+      "endMs": "814360",
+      "startMs": "811200",
+      "startTimeText": "13:31",
+      "text": "the first 24 hours. And this works for"
+    },
+    {
+      "endMs": "815760",
+      "startMs": "813120",
+      "startTimeText": "13:33",
+      "text": "any recurring business, whether you're"
+    },
+    {
+      "endMs": "817080",
+      "startMs": "814360",
+      "startTimeText": "13:34",
+      "text": "teaching someone how to sell, teaching"
+    },
+    {
+      "endMs": "819720",
+      "startMs": "815760",
+      "startTimeText": "13:35",
+      "text": "them to work leads, teaching them how to"
+    },
+    {
+      "endMs": "821640",
+      "startMs": "817080",
+      "startTimeText": "13:37",
+      "text": "pickle pickle jars, whatever. Like, as"
+    },
+    {
+      "endMs": "823400",
+      "startMs": "819720",
+      "startTimeText": "13:39",
+      "text": "long as you have a way to get people a"
+    },
+    {
+      "endMs": "825760",
+      "startMs": "821640",
+      "startTimeText": "13:41",
+      "text": "win fast,"
+    },
+    {
+      "endMs": "827840",
+      "startMs": "823400",
+      "startTimeText": "13:43",
+      "text": "they will like you more. 10, show up"
+    },
+    {
+      "endMs": "829960",
+      "startMs": "825760",
+      "startTimeText": "13:45",
+      "text": "daily and care. So, this is something"
+    },
+    {
+      "endMs": "831960",
+      "startMs": "827840",
+      "startTimeText": "13:47",
+      "text": "that we saw across all communities is"
+    },
+    {
+      "endMs": "834160",
+      "startMs": "829960",
+      "startTimeText": "13:49",
+      "text": "that the owners who showed up in the"
+    },
+    {
+      "endMs": "835920",
+      "startMs": "831960",
+      "startTimeText": "13:51",
+      "text": "community on a daily basis had"
+    },
+    {
+      "endMs": "838920",
+      "startMs": "834160",
+      "startTimeText": "13:54",
+      "text": "significantly higher retention than the"
+    },
+    {
+      "endMs": "841240",
+      "startMs": "835920",
+      "startTimeText": "13:55",
+      "text": "people who didn't. Big surprise. Now,"
+    },
+    {
+      "endMs": "842720",
+      "startMs": "838920",
+      "startTimeText": "13:58",
+      "text": "we've basically never seen this fail."
+    },
+    {
+      "endMs": "844160",
+      "startMs": "841240",
+      "startTimeText": "14:01",
+      "text": "And so, if a member feels like the owner"
+    },
+    {
+      "endMs": "846200",
+      "startMs": "842720",
+      "startTimeText": "14:02",
+      "text": "isn't active or doesn't care, they"
+    },
+    {
+      "endMs": "847760",
+      "startMs": "844160",
+      "startTimeText": "14:04",
+      "text": "leave. And so, a tactile minimum would"
+    },
+    {
+      "endMs": "849120",
+      "startMs": "846200",
+      "startTimeText": "14:06",
+      "text": "just be like, put an alarm, make it part"
+    },
+    {
+      "endMs": "851320",
+      "startMs": "847760",
+      "startTimeText": "14:07",
+      "text": "of your daily routine."
+    },
+    {
+      "endMs": "853840",
+      "startMs": "849120",
+      "startTimeText": "14:09",
+      "text": "And so, on a small level, you can clear"
+    },
+    {
+      "endMs": "855440",
+      "startMs": "851320",
+      "startTimeText": "14:11",
+      "text": "notifications, DMs, you know, uh report"
+    },
+    {
+      "endMs": "856920",
+      "startMs": "853840",
+      "startTimeText": "14:13",
+      "text": "whatever content or, you know, deal with"
+    },
+    {
+      "endMs": "858760",
+      "startMs": "855440",
+      "startTimeText": "14:15",
+      "text": "content that people might have reported."
+    },
+    {
+      "endMs": "860280",
+      "startMs": "856920",
+      "startTimeText": "14:16",
+      "text": "Now, this is talking about school, but"
+    },
+    {
+      "endMs": "862240",
+      "startMs": "858760",
+      "startTimeText": "14:18",
+      "text": "you can apply this to your own business,"
+    },
+    {
+      "endMs": "863520",
+      "startMs": "860280",
+      "startTimeText": "14:20",
+      "text": "which is like, what am I doing every day"
+    },
+    {
+      "endMs": "865760",
+      "startMs": "862240",
+      "startTimeText": "14:22",
+      "text": "to show up for my customers and can I"
+    },
+    {
+      "endMs": "867600",
+      "startMs": "863520",
+      "startTimeText": "14:23",
+      "text": "make that a repeated action that I do"
+    },
+    {
+      "endMs": "868920",
+      "startMs": "865760",
+      "startTimeText": "14:25",
+      "text": "that's high value and high leverage."
+    },
+    {
+      "endMs": "870560",
+      "startMs": "867600",
+      "startTimeText": "14:27",
+      "text": "This also means like, read the"
+    },
+    {
+      "endMs": "872240",
+      "startMs": "868920",
+      "startTimeText": "14:28",
+      "text": "complaints every morning of customers"
+    },
+    {
+      "endMs": "873920",
+      "startMs": "870560",
+      "startTimeText": "14:30",
+      "text": "who are dealing with issues. Because if"
+    },
+    {
+      "endMs": "875120",
+      "startMs": "872240",
+      "startTimeText": "14:32",
+      "text": "you if you want to hide your head in the"
+    },
+    {
+      "endMs": "877080",
+      "startMs": "873920",
+      "startTimeText": "14:33",
+      "text": "sand,"
+    },
+    {
+      "endMs": "877839",
+      "startMs": "875120",
+      "startTimeText": "14:35",
+      "text": "uh you will be"
+    },
+    {
+      "endMs": "879480",
+      "startMs": "877080",
+      "startTimeText": "14:37",
+      "text": "well, I guess your head will be in the"
+    },
+    {
+      "endMs": "880880",
+      "startMs": "877839",
+      "startTimeText": "14:37",
+      "text": "sand and that will suck cuz then you got"
+    },
+    {
+      "endMs": "881680",
+      "startMs": "879480",
+      "startTimeText": "14:39",
+      "text": "it in your ears and your nose and it's"
+    },
+    {
+      "endMs": "882920",
+      "startMs": "880880",
+      "startTimeText": "14:40",
+      "text": "like, you know, how are you going to"
+    },
+    {
+      "endMs": "884680",
+      "startMs": "881680",
+      "startTimeText": "14:41",
+      "text": "live, right? So, it's that's a tough"
+    },
+    {
+      "endMs": "886520",
+      "startMs": "882920",
+      "startTimeText": "14:42",
+      "text": "life. And so,"
+    },
+    {
+      "endMs": "888280",
+      "startMs": "884680",
+      "startTimeText": "14:44",
+      "text": "so, you know, encourage the good"
+    },
+    {
+      "endMs": "890240",
+      "startMs": "886520",
+      "startTimeText": "14:46",
+      "text": "behavior that you that you have, the the"
+    },
+    {
+      "endMs": "892080",
+      "startMs": "888280",
+      "startTimeText": "14:48",
+      "text": "people who follow what you want. People"
+    },
+    {
+      "endMs": "893920",
+      "startMs": "890240",
+      "startTimeText": "14:50",
+      "text": "leave nice reviews, people leave nice"
+    },
+    {
+      "endMs": "896200",
+      "startMs": "892080",
+      "startTimeText": "14:52",
+      "text": "testimonials. You want to tell people"
+    },
+    {
+      "endMs": "898440",
+      "startMs": "893920",
+      "startTimeText": "14:53",
+      "text": "and say, \"Good job.\" On the other hand,"
+    },
+    {
+      "endMs": "901640",
+      "startMs": "896200",
+      "startTimeText": "14:56",
+      "text": "delete bad stuff and delete bad people."
+    },
+    {
+      "endMs": "903080",
+      "startMs": "898440",
+      "startTimeText": "14:58",
+      "text": "I cannot tell you how powerful deleting"
+    },
+    {
+      "endMs": "904160",
+      "startMs": "901640",
+      "startTimeText": "15:01",
+      "text": "cancer is is. Like, if they do it in"
+    },
+    {
+      "endMs": "906040",
+      "startMs": "903080",
+      "startTimeText": "15:03",
+      "text": "your body, you should do it in your"
+    },
+    {
+      "endMs": "907400",
+      "startMs": "904160",
+      "startTimeText": "15:04",
+      "text": "community or membership. Which leads me"
+    },
+    {
+      "endMs": "909280",
+      "startMs": "906040",
+      "startTimeText": "15:06",
+      "text": "to number"
+    },
+    {
+      "endMs": "912520",
+      "startMs": "907400",
+      "startTimeText": "15:07",
+      "text": "11, which is a weekly call and a"
+    },
+    {
+      "endMs": "914400",
+      "startMs": "909280",
+      "startTimeText": "15:09",
+      "text": "recording. And so, live voice / face"
+    },
+    {
+      "endMs": "916240",
+      "startMs": "912520",
+      "startTimeText": "15:12",
+      "text": "deepens relationships. And so,"
+    },
+    {
+      "endMs": "917880",
+      "startMs": "914400",
+      "startTimeText": "15:14",
+      "text": "recordings kind of just like let busy"
+    },
+    {
+      "endMs": "919320",
+      "startMs": "916240",
+      "startTimeText": "15:16",
+      "text": "people keep up. There's very often that"
+    },
+    {
+      "endMs": "921240",
+      "startMs": "917880",
+      "startTimeText": "15:17",
+      "text": "there's like weekly podcasts that have"
+    },
+    {
+      "endMs": "923160",
+      "startMs": "919320",
+      "startTimeText": "15:19",
+      "text": "tremendous retention. It's just like"
+    },
+    {
+      "endMs": "925680",
+      "startMs": "921240",
+      "startTimeText": "15:21",
+      "text": "it's just enough like I think about TV"
+    },
+    {
+      "endMs": "927000",
+      "startMs": "923160",
+      "startTimeText": "15:23",
+      "text": "shows. Like obviously Netflix created"
+    },
+    {
+      "endMs": "928640",
+      "startMs": "925680",
+      "startTimeText": "15:25",
+      "text": "the binge culture but the vast majority"
+    },
+    {
+      "endMs": "930800",
+      "startMs": "927000",
+      "startTimeText": "15:27",
+      "text": "shows are like once a week. It's enough"
+    },
+    {
+      "endMs": "932600",
+      "startMs": "928640",
+      "startTimeText": "15:28",
+      "text": "that people can keep up with it."
+    },
+    {
+      "endMs": "935120",
+      "startMs": "930800",
+      "startTimeText": "15:30",
+      "text": "And too many of these kind of like extra"
+    },
+    {
+      "endMs": "936760",
+      "startMs": "932600",
+      "startTimeText": "15:32",
+      "text": "add-ons, people kind of revert to that"
+    },
+    {
+      "endMs": "937920",
+      "startMs": "935120",
+      "startTimeText": "15:35",
+      "text": "one thing and you want to make sure that"
+    },
+    {
+      "endMs": "940000",
+      "startMs": "936760",
+      "startTimeText": "15:36",
+      "text": "the one thing they're consuming is the"
+    },
+    {
+      "endMs": "941920",
+      "startMs": "937920",
+      "startTimeText": "15:37",
+      "text": "best one. So if you're unsure what kind"
+    },
+    {
+      "endMs": "944240",
+      "startMs": "940000",
+      "startTimeText": "15:40",
+      "text": "of communication cadence to stick with,"
+    },
+    {
+      "endMs": "947480",
+      "startMs": "941920",
+      "startTimeText": "15:41",
+      "text": "just default to like one big thing per"
+    },
+    {
+      "endMs": "949200",
+      "startMs": "944240",
+      "startTimeText": "15:44",
+      "text": "week uh and then like a best of post."
+    },
+    {
+      "endMs": "951200",
+      "startMs": "947480",
+      "startTimeText": "15:47",
+      "text": "Very simple. So it could be like weekly"
+    },
+    {
+      "endMs": "952720",
+      "startMs": "949200",
+      "startTimeText": "15:49",
+      "text": "call and weekly post. That's all you"
+    },
+    {
+      "endMs": "954120",
+      "startMs": "951200",
+      "startTimeText": "15:51",
+      "text": "have to do. Very very simple within a"
+    },
+    {
+      "endMs": "956720",
+      "startMs": "952720",
+      "startTimeText": "15:52",
+      "text": "community structure. Let's go to number"
+    },
+    {
+      "endMs": "959480",
+      "startMs": "954120",
+      "startTimeText": "15:54",
+      "text": "12. So you want to add an annual plan"
+    },
+    {
+      "endMs": "961280",
+      "startMs": "956720",
+      "startTimeText": "15:56",
+      "text": "with a discount. So the reason this"
+    },
+    {
+      "endMs": "962920",
+      "startMs": "959480",
+      "startTimeText": "15:59",
+      "text": "works is that annual always has lower"
+    },
+    {
+      "endMs": "964240",
+      "startMs": "961280",
+      "startTimeText": "16:01",
+      "text": "churn than monthly and it's because you"
+    },
+    {
+      "endMs": "967960",
+      "startMs": "962920",
+      "startTimeText": "16:02",
+      "text": "only need to decide one time rather than"
+    },
+    {
+      "endMs": "970600",
+      "startMs": "964240",
+      "startTimeText": "16:04",
+      "text": "12. And so annual buyers churn less."
+    },
+    {
+      "endMs": "972200",
+      "startMs": "967960",
+      "startTimeText": "16:07",
+      "text": "And even beyond the they can't cancel"
+    },
+    {
+      "endMs": "973440",
+      "startMs": "970600",
+      "startTimeText": "16:10",
+      "text": "effect, right? So like because they"
+    },
+    {
+      "endMs": "975480",
+      "startMs": "972200",
+      "startTimeText": "16:12",
+      "text": "can't cancel because they already paid"
+    },
+    {
+      "endMs": "977000",
+      "startMs": "973440",
+      "startTimeText": "16:13",
+      "text": "is one element of that, but the other"
+    },
+    {
+      "endMs": "978200",
+      "startMs": "975480",
+      "startTimeText": "16:15",
+      "text": "element is just that like typically"
+    },
+    {
+      "endMs": "979760",
+      "startMs": "977000",
+      "startTimeText": "16:17",
+      "text": "those people are also more committed."
+    },
+    {
+      "endMs": "981240",
+      "startMs": "978200",
+      "startTimeText": "16:18",
+      "text": "They also got a lower rate. So there's a"
+    },
+    {
+      "endMs": "982280",
+      "startMs": "979760",
+      "startTimeText": "16:19",
+      "text": "lot of and they're also more qualified"
+    },
+    {
+      "endMs": "984000",
+      "startMs": "981240",
+      "startTimeText": "16:21",
+      "text": "because they've paid more up front. So"
+    },
+    {
+      "endMs": "986640",
+      "startMs": "982280",
+      "startTimeText": "16:22",
+      "text": "there's a lot of and and and. So having"
+    },
+    {
+      "endMs": "989120",
+      "startMs": "984000",
+      "startTimeText": "16:24",
+      "text": "that is valuable. Now a common practice"
+    },
+    {
+      "endMs": "991560",
+      "startMs": "986640",
+      "startTimeText": "16:26",
+      "text": "here is 16 16 or 17% which is usually"
+    },
+    {
+      "endMs": "993400",
+      "startMs": "989120",
+      "startTimeText": "16:29",
+      "text": "buy 10 get two. All right. So if you're"
+    },
+    {
+      "endMs": "995680",
+      "startMs": "991560",
+      "startTimeText": "16:31",
+      "text": "not doing this within whatever service"
+    },
+    {
+      "endMs": "996920",
+      "startMs": "993400",
+      "startTimeText": "16:33",
+      "text": "you sell, have an annual component that"
+    },
+    {
+      "endMs": "998480",
+      "startMs": "995680",
+      "startTimeText": "16:35",
+      "text": "you should implement like today, like"
+    },
+    {
+      "endMs": "1000320",
+      "startMs": "996920",
+      "startTimeText": "16:36",
+      "text": "right now, first thing you do after"
+    },
+    {
+      "endMs": "1002040",
+      "startMs": "998480",
+      "startTimeText": "16:38",
+      "text": "this. Announce it and expect a"
+    },
+    {
+      "endMs": "1003560",
+      "startMs": "1000320",
+      "startTimeText": "16:40",
+      "text": "meaningful chunk of people to take it."
+    },
+    {
+      "endMs": "1006240",
+      "startMs": "1002040",
+      "startTimeText": "16:42",
+      "text": "And what that does is it stabilizes"
+    },
+    {
+      "endMs": "1008440",
+      "startMs": "1003560",
+      "startTimeText": "16:43",
+      "text": "retention. 13, you want to build"
+    },
+    {
+      "endMs": "1010160",
+      "startMs": "1006240",
+      "startTimeText": "16:46",
+      "text": "belonging via one-on-one relationships"
+    },
+    {
+      "endMs": "1013200",
+      "startMs": "1008440",
+      "startTimeText": "16:48",
+      "text": "and 10 true regulars. Now this isn't a"
+    },
+    {
+      "endMs": "1015400",
+      "startMs": "1010160",
+      "startTimeText": "16:50",
+      "text": "digital community, but from a business"
+    },
+    {
+      "endMs": "1016640",
+      "startMs": "1013200",
+      "startTimeText": "16:53",
+      "text": "that has any kind of"
+    },
+    {
+      "endMs": "1018080",
+      "startMs": "1015400",
+      "startTimeText": "16:55",
+      "text": "community that's involved, real and"
+    },
+    {
+      "endMs": "1019360",
+      "startMs": "1016640",
+      "startTimeText": "16:56",
+      "text": "person, etc."
+    },
+    {
+      "endMs": "1020480",
+      "startMs": "1018080",
+      "startTimeText": "16:58",
+      "text": "Fostering one-on-one relationship which"
+    },
+    {
+      "endMs": "1021680",
+      "startMs": "1019360",
+      "startTimeText": "16:59",
+      "text": "is thinking like what are the unique"
+    },
+    {
+      "endMs": "1024520",
+      "startMs": "1020480",
+      "startTimeText": "17:00",
+      "text": "aspects of these people who are coming"
+    },
+    {
+      "endMs": "1026680",
+      "startMs": "1021680",
+      "startTimeText": "17:01",
+      "text": "in and can I pair them with other people"
+    },
+    {
+      "endMs": "1028560",
+      "startMs": "1024520",
+      "startTimeText": "17:04",
+      "text": "who are like them? Because if people"
+    },
+    {
+      "endMs": "1029760",
+      "startMs": "1026680",
+      "startTimeText": "17:06",
+      "text": "find I think there's um"
+    },
+    {
+      "endMs": "1031280",
+      "startMs": "1028560",
+      "startTimeText": "17:08",
+      "text": "Layla shared this out with me. This is"
+    },
+    {
+      "endMs": "1033640",
+      "startMs": "1029760",
+      "startTimeText": "17:09",
+      "text": "on the employee side but it totally"
+    },
+    {
+      "endMs": "1034800",
+      "startMs": "1031280",
+      "startTimeText": "17:11",
+      "text": "transfers which is if an employee has a"
+    },
+    {
+      "endMs": "1037439",
+      "startMs": "1033640",
+      "startTimeText": "17:13",
+      "text": "friend that they are friends with"
+    },
+    {
+      "endMs": "1039600",
+      "startMs": "1034800",
+      "startTimeText": "17:14",
+      "text": "outside of work, they stay five times"
+    },
+    {
+      "endMs": "1042079",
+      "startMs": "1037439",
+      "startTimeText": "17:17",
+      "text": "longer at their job. Think about wow"
+    },
+    {
+      "endMs": "1043720",
+      "startMs": "1039600",
+      "startTimeText": "17:19",
+      "text": "that is. Just one friend outside of work"
+    },
+    {
+      "endMs": "1046839",
+      "startMs": "1042079",
+      "startTimeText": "17:22",
+      "text": "or one person that they're like really"
+    },
+    {
+      "endMs": "1049720",
+      "startMs": "1043720",
+      "startTimeText": "17:23",
+      "text": "good friends with. And so, like hack of"
+    },
+    {
+      "endMs": "1050840",
+      "startMs": "1046839",
+      "startTimeText": "17:26",
+      "text": "hacks, like get them to make one real"
+    },
+    {
+      "endMs": "1052480",
+      "startMs": "1049720",
+      "startTimeText": "17:29",
+      "text": "friend. Now, that's easier said than"
+    },
+    {
+      "endMs": "1053840",
+      "startMs": "1050840",
+      "startTimeText": "17:30",
+      "text": "done, but the nice thing that you should"
+    },
+    {
+      "endMs": "1054920",
+      "startMs": "1052480",
+      "startTimeText": "17:32",
+      "text": "have hopefully everyone should have one"
+    },
+    {
+      "endMs": "1057120",
+      "startMs": "1053840",
+      "startTimeText": "17:33",
+      "text": "thing in common, which is that they're"
+    },
+    {
+      "endMs": "1059120",
+      "startMs": "1054920",
+      "startTimeText": "17:34",
+      "text": "all uh patrons of your business. So,"
+    },
+    {
+      "endMs": "1060480",
+      "startMs": "1057120",
+      "startTimeText": "17:37",
+      "text": "they at least have that interest someway"
+    },
+    {
+      "endMs": "1062480",
+      "startMs": "1059120",
+      "startTimeText": "17:39",
+      "text": "in common."
+    },
+    {
+      "endMs": "1064160",
+      "startMs": "1060480",
+      "startTimeText": "17:40",
+      "text": "And so, uh the fastest way to do this is"
+    },
+    {
+      "endMs": "1065840",
+      "startMs": "1062480",
+      "startTimeText": "17:42",
+      "text": "also introduce some of the true regulars"
+    },
+    {
+      "endMs": "1067440",
+      "startMs": "1064160",
+      "startTimeText": "17:44",
+      "text": "to the new members. And I used to do"
+    },
+    {
+      "endMs": "1068600",
+      "startMs": "1065840",
+      "startTimeText": "17:45",
+      "text": "this at my gyms. Like, otherwise"
+    },
+    {
+      "endMs": "1069760",
+      "startMs": "1067440",
+      "startTimeText": "17:47",
+      "text": "everyone just feels brand new. They feel"
+    },
+    {
+      "endMs": "1070680",
+      "startMs": "1068600",
+      "startTimeText": "17:48",
+      "text": "like in-group out-group. Like, you don't"
+    },
+    {
+      "endMs": "1071720",
+      "startMs": "1069760",
+      "startTimeText": "17:49",
+      "text": "want to have people feel like they're"
+    },
+    {
+      "endMs": "1073680",
+      "startMs": "1070680",
+      "startTimeText": "17:50",
+      "text": "walking in on someone else's"
+    },
+    {
+      "endMs": "1075640",
+      "startMs": "1071720",
+      "startTimeText": "17:51",
+      "text": "conversation. So, if somebody's new to a"
+    },
+    {
+      "endMs": "1076920",
+      "startMs": "1073680",
+      "startTimeText": "17:53",
+      "text": "party, right? And you're holding a party"
+    },
+    {
+      "endMs": "1079080",
+      "startMs": "1075640",
+      "startTimeText": "17:55",
+      "text": "and someone walks in, what do you do?"
+    },
+    {
+      "endMs": "1081520",
+      "startMs": "1076920",
+      "startTimeText": "17:56",
+      "text": "Oh, this is John. John, meet Tina. Meet"
+    },
+    {
+      "endMs": "1083280",
+      "startMs": "1079080",
+      "startTimeText": "17:59",
+      "text": "you know, meet Jesse. Meet meet Trish."
+    },
+    {
+      "endMs": "1084520",
+      "startMs": "1081520",
+      "startTimeText": "18:01",
+      "text": "Uh you know, John's really good at X, Y,"
+    },
+    {
+      "endMs": "1086040",
+      "startMs": "1083280",
+      "startTimeText": "18:03",
+      "text": "and Z. Trish's great. John, blah blah"
+    },
+    {
+      "endMs": "1087360",
+      "startMs": "1084520",
+      "startTimeText": "18:04",
+      "text": "blah. Right? And so, it's just like just"
+    },
+    {
+      "endMs": "1088880",
+      "startMs": "1086040",
+      "startTimeText": "18:06",
+      "text": "help them build rapport, which building"
+    },
+    {
+      "endMs": "1090440",
+      "startMs": "1087360",
+      "startTimeText": "18:07",
+      "text": "rapport just comes down to like what"
+    },
+    {
+      "endMs": "1093720",
+      "startMs": "1088880",
+      "startTimeText": "18:08",
+      "text": "things do they have overlap over? That's"
+    },
+    {
+      "endMs": "1094960",
+      "startMs": "1090440",
+      "startTimeText": "18:10",
+      "text": "all it is. All right. Um but within the"
+    },
+    {
+      "endMs": "1096360",
+      "startMs": "1093720",
+      "startTimeText": "18:13",
+      "text": "digital community, so going back to"
+    },
+    {
+      "endMs": "1097680",
+      "startMs": "1094960",
+      "startTimeText": "18:14",
+      "text": "going to school,"
+    },
+    {
+      "endMs": "1099920",
+      "startMs": "1096360",
+      "startTimeText": "18:16",
+      "text": "you can anchor engagement in community"
+    },
+    {
+      "endMs": "1102280",
+      "startMs": "1097680",
+      "startTimeText": "18:17",
+      "text": "with 10 regulars. That's it. You just"
+    },
+    {
+      "endMs": "1104440",
+      "startMs": "1099920",
+      "startTimeText": "18:19",
+      "text": "need 10 regulars. The the tactical piece"
+    },
+    {
+      "endMs": "1106680",
+      "startMs": "1102280",
+      "startTimeText": "18:22",
+      "text": "of this is that identify the top 10"
+    },
+    {
+      "endMs": "1108600",
+      "startMs": "1104440",
+      "startTimeText": "18:24",
+      "text": "people. These are your model citizens."
+    },
+    {
+      "endMs": "1110520",
+      "startMs": "1106680",
+      "startTimeText": "18:26",
+      "text": "The best customers. Your best avatars."
+    },
+    {
+      "endMs": "1112240",
+      "startMs": "1108600",
+      "startTimeText": "18:28",
+      "text": "DM them. Figure out their goals."
+    },
+    {
+      "endMs": "1114440",
+      "startMs": "1110520",
+      "startTimeText": "18:30",
+      "text": "Spotlight them, meaning give them public"
+    },
+    {
+      "endMs": "1116440",
+      "startMs": "1112240",
+      "startTimeText": "18:32",
+      "text": "kudos. Invite them to contribute, not"
+    },
+    {
+      "endMs": "1117960",
+      "startMs": "1114440",
+      "startTimeText": "18:34",
+      "text": "just like watch them do it. And if you"
+    },
+    {
+      "endMs": "1119760",
+      "startMs": "1116440",
+      "startTimeText": "18:36",
+      "text": "can, again, publicly recognize in any"
+    },
+    {
+      "endMs": "1121320",
+      "startMs": "1117960",
+      "startTimeText": "18:37",
+      "text": "way possible, it further reinforces the"
+    },
+    {
+      "endMs": "1123960",
+      "startMs": "1119760",
+      "startTimeText": "18:39",
+      "text": "behavior. And you want to introduce the"
+    },
+    {
+      "endMs": "1125680",
+      "startMs": "1121320",
+      "startTimeText": "18:41",
+      "text": "new people to them. AKA matchmaking."
+    },
+    {
+      "endMs": "1127440",
+      "startMs": "1123960",
+      "startTimeText": "18:43",
+      "text": "Sometimes tactics can be very"
+    },
+    {
+      "endMs": "1130000",
+      "startMs": "1125680",
+      "startTimeText": "18:45",
+      "text": "overwhelming. Uh but sometimes they're"
+    },
+    {
+      "endMs": "1131560",
+      "startMs": "1127440",
+      "startTimeText": "18:47",
+      "text": "exactly what you need. Uh if you have a"
+    },
+    {
+      "endMs": "1133240",
+      "startMs": "1130000",
+      "startTimeText": "18:50",
+      "text": "recurring revenue business, don't expect"
+    },
+    {
+      "endMs": "1135120",
+      "startMs": "1131560",
+      "startTimeText": "18:51",
+      "text": "to implement all of the stuff at once."
+    },
+    {
+      "endMs": "1136720",
+      "startMs": "1133240",
+      "startTimeText": "18:53",
+      "text": "Just take one thing off the list and do"
+    },
+    {
+      "endMs": "1137960",
+      "startMs": "1135120",
+      "startTimeText": "18:55",
+      "text": "it. Add it in consistently. And then"
+    },
+    {
+      "endMs": "1139840",
+      "startMs": "1136720",
+      "startTimeText": "18:56",
+      "text": "once you get consistent with that one,"
+    },
+    {
+      "endMs": "1142280",
+      "startMs": "1137960",
+      "startTimeText": "18:57",
+      "text": "add another one off the list. And so,"
+    },
+    {
+      "endMs": "1143520",
+      "startMs": "1139840",
+      "startTimeText": "18:59",
+      "text": "conquering churn or you know"
+    },
+    {
+      "endMs": "1144560",
+      "startMs": "1142280",
+      "startTimeText": "19:02",
+      "text": "uh trying to have an alliteration for"
+    },
+    {
+      "endMs": "1146000",
+      "startMs": "1143520",
+      "startTimeText": "19:03",
+      "text": "attention."
+    },
+    {
+      "endMs": "1147800",
+      "startMs": "1144560",
+      "startTimeText": "19:04",
+      "text": "Like mastering retention, but I need an"
+    },
+    {
+      "endMs": "1151440",
+      "startMs": "1146000",
+      "startTimeText": "19:06",
+      "text": "R."
+    },
+    {
+      "endMs": "1152800",
+      "startMs": "1147800",
+      "startTimeText": "19:07",
+      "text": "Something retention. Uh remastering"
+    },
+    {
+      "endMs": "1155160",
+      "startMs": "1151440",
+      "startTimeText": "19:11",
+      "text": "retention."
+    },
+    {
+      "endMs": "1156560",
+      "startMs": "1152800",
+      "startTimeText": "19:12",
+      "text": "Um just comes down to doing 100 small"
+    },
+    {
+      "endMs": "1158680",
+      "startMs": "1155160",
+      "startTimeText": "19:15",
+      "text": "things consistently over a very long"
+    },
+    {
+      "endMs": "1161120",
+      "startMs": "1156560",
+      "startTimeText": "19:16",
+      "text": "period of time. And so most people think"
+    },
+    {
+      "endMs": "1162840",
+      "startMs": "1158680",
+      "startTimeText": "19:18",
+      "text": "that growth looks like this,"
+    },
+    {
+      "endMs": "1164480",
+      "startMs": "1161120",
+      "startTimeText": "19:21",
+      "text": "when in fact, growth really just looks"
+    },
+    {
+      "endMs": "1166640",
+      "startMs": "1162840",
+      "startTimeText": "19:22",
+      "text": "like a flat retention curve, and then"
+    },
+    {
+      "endMs": "1168200",
+      "startMs": "1164480",
+      "startTimeText": "19:24",
+      "text": "what happens is it just keeps growing."
+    },
+    {
+      "endMs": "1170360",
+      "startMs": "1166640",
+      "startTimeText": "19:26",
+      "text": "And so I hope this helps. Keep crushing"
+    },
+    {
+      "endMs": "1170360",
+      "startMs": "1168200",
+      "startTimeText": "19:28",
+      "text": "it."
+    }
+  ],
+  "transcript_only_text": " 22,265,736 \n total  users  on  School  as  of  today.  And \n to  get  that  big,  we  had  to  know  how  to \n retain  users.  And  one  of  the  biggest \n places  we  learned  this  from  is  the \n communities  on  the  platform  itself.  And \n so  in  this  video,  I'm  going  to  break \n down  what  we've  learned  so  far  that  you \n can  use  to  retain  your  customers  longer \n in  any  recurring  revenue  business.  And \n this  is  a  special  shout  out  to  the \n School  and  Sam.  I'm  taking  all  the \n learnings  that  he  put  in  the  School  News \n and  I'm  trying  to  make  them  public  cuz  I \n think  they're  awesome.  So  number  one  is \n think  of  churn  like  a  leaky  bucket.  And \n then  diagnose  what's  actually  happening. \n So  your  MRR,  meaning  your  monthly \n recurring  revenue,  grows  when  new \n members  are  greater  than  churn  members. \n So  for  example,  if  you  sell  five  people \n and  you  lose  four,  your  MRR  will  grow. \n If  you  sell  five  new  members  and  five \n churn,  your  growth  will  be  flat.  You \n begin  declining  when  you  have  fewer  new \n people  than  people  who  leave.  And  so \n tactically,  what  you  want  to  do  is  track \n those  two  numbers  on  a  monthly  basis, \n joins  versus  cancels,  and  then  force \n yourself  to  label  the  businesses \n growing,  flat,  or  declining  based  on \n that.  That's  thing  one. \n Thing  two.  You  want  to  use  retention \n benchmarks.  And  so  this  way  you  can  know \n if  you're  good.  And  so  I'll  just  give \n you  the  School  platform  averages.  Now  to \n be  clear,  this  isn't  uh  churn  for  like \n an  insurance  premium  or  an  alarm  system. \n But  if  you  sell  anything  that  is,  I \n would  say,  a  tradi-  you  know,  a  consumer \n service  that's  not  like  a  home  service, \n but  just  like  a  weight  loss  service  or \n anything  that  you'd  help  somebody  uh  or \n remote  service  or  anything  that's  like \n an  online  service,  um  these  metrics  will \n probably  be  much  more  correlated  to  what \n you're  at.  And  so  the  platform  average \n across  School  is  80%  monthly  retention. \n So  said  differently,  it's  20%  churn.  So \n 80%  stay,  20%  leave.  That's  the  platform \n average.  Now  the  best  groups  have  less \n than  10%  churn,  aka  90%  retention  month \n over  month.  The  not  good  groups  have \n less  than  70%  retention,  aka  30%  or \n higher.  And  so  tactically,  if  less  than \n seven  out  of  10  people  want  to  stay  on  a \n monthly  basis,  you  probably  need  to  work \n on  your  retention  more  than  anything \n else.  It'll  be  the  highest  ROI  lever. \n Now,  to  put  this  in  context,  if  you  take \n your  turn  from  20%  to  10%, \n or  said  differently,  you  take  your \n retention  from  80  to  90%,  you  didn't \n just  get  a  10  or  12%  boost,  you  got  a \n double  in  the  LTV  per  customer.  Meaning \n customers  stay  twice  as  long  when  you \n make  that  change.  And  so,  one  of  the  big \n things  that  people  get  confused  about \n these  small  numbers  is  that  the  smaller \n the  number,  the  bigger  the  change  by \n percentages  when  you  make  these  small \n tweaks.  And  to  be  clear,  this  is  all \n monthly  in  comparison  to  others,  not  in \n comparison  to  have  like  a  sellable \n business  or  anything  like  that. \n Real  quick,  I'm  going  to  show  you  the \n exact  10-stage  roadmap  from  zero  to  100 \n million  plus  that  less  than  1%  of \n companies  finish.  I've  now  done  multiple \n times,  and  so  I  can  say  with  a  lot  of \n confidence  that  these  are  the  stages  as \n head  count  increases  that  you  need  to \n get  through.  And  I  broke  each  of  these \n down  by  eight  different  functions  of  the \n business,  what  the  constraint  feels \n like,  like  what  are  the  symptoms  of  it \n when  you're  going  through  it,  and  then \n what  steps  we  actually  took  to  graduate. \n And  we've  done  this  across  software, \n physical  products,  uh  service \n businesses,  brick-and-mortar,  all  of \n this,  and  it  works.  And  it's  my  gift  to \n you,  it's  absolutely  free.  And  so,  the \n link's  in  the  description,  but  you  just \n go  acquisition.com/roadmap, \n just  enter  your  info,  and  it'll  spit  it \n right  back  to  you  all  free.  So,  number \n three  is  the  biggest  rule  is  that  churn \n drops  dramatically  with  time.  All  right, \n so  this  is  like  this  is  a  very  cool \n inference  that  that  uh  Sam  shared  with \n me  that  I  thought  was  really,  really \n interesting.  So,  it  it  it's  very  easy  to \n think,  \"Okay,  my  average  churn  is,  call \n it  10%  a  month.\"  But  when  you  actually \n look  at  cohorts  of  churn,  meaning  people \n who  are  at  their  sixth  month  versus \n people  at  the  second  month  versus  third \n month,  etc.,  the  averages  across \n platform  are  also  very  different  by \n month.  And  so,  for  example,  month  one  to \n three  are  the  highest  churn.  So,  they're \n 20%  plus  during  these  months.  Now,  if \n you  keep  someone  90  days,  which  seems  to \n be  the  first  kind  of  big  churn  drop-off \n point,  it  drops  to  around  10%  or  less. \n And  you're  like,  \"Huh,  that's  kind  of \n interesting.\"  Basically,  it  drops  in \n half  if  you  get  people  to  day  90. \n Now,  by  month  six,  so  another  90  days \n after  that,  churn  gets  extremely  low. \n So,  it  goes  from  like  10%  to  2%.  All \n right,  so  a  5x  decrease  or  a  5x  increase \n in  LTV,  depending  on  how  you  want  to  see \n it.  And  so,  the  implications  of  this  are \n huge  because  a  lot  of  people  will \n obsess,  myself  included,  about  like, \n \"How  do  I  get  my  my  monthly  churn  down, \n you  know,  over  and  over  again?\"  An \n easier  way  to  think  about  decreasing \n your  churn  is  not,  \"How  do  I  make  this \n number  go  down?\"  but,  \"How  do  I  get \n someone  to  stay  past  day  90?  How  do  I \n get  these  people  to  stay  past  month \n six?\"  Because  those  become  much  more \n tactical  in  terms  of  like,  \"This  is  what \n I  can  do.\"  Now,  to  be  clear,  if  your \n community  or  recurring  revenue  thing  is \n less  than  90  days  old,  then  your  churn \n is  always  going  to  be  inflated  cuz  you \n haven't  even  gotten  those  customers \n who've  made  it  past  that  point  that \n would,  over  time,  decrease  your  monthly \n churn. \n If  it's  less  than  six  months  old,  it's \n the  same  thing,  just  a  little  bit  less. \n And  so,  to  be  clear,  don't  overhaul  your \n entire  business  because  your  month  one \n churn  sucks.  Uh  that's  normal  for  it  to \n be  higher  than  the  other  months,  unless \n basically  everyone's  leaving,  in  which \n case,  yes,  you  should  go  fix  that.  All \n right,  so  that's  number  three.  And  I \n think  that  one's  like  really,  really \n big,  and  I  want  to  like  hit  on  that. \n Like, \n I  would  say,  if  you  had  to  focus  on \n three  tactics,  have  a  very  specific \n strategy  for  getting  people  past  the \n first  month  cuz  that's  the  biggest  month \n of  churn.  So,  that's  going  to  come  from \n activation,  onboarding,  expectation \n setting,  selling  the  right  promises  on \n the  front  end,  showing  up  every  day, \n making  sure  that  you're  providing \n content  in  that  in  that  environment. \n Day  90  is  probably  going  to  have  to \n deliver  some  sort  of  outcome,  some  sort \n of  change  in  behavior  for  them.  Month \n six,  it's  usually  them  connecting  with \n other  people  within  that  community.  All \n right,  and  so,  this  is  kind  of  as  these \n things  develop.  Now,  number  four,  ask \n people  why  they  canceled,  and  then  look \n for  the  patterns.  So,  I  would  say, \n earlier  on  in  my  career,  I  would  just \n like  when  someone  says,  \"Oh,  it  costs \n too  much.\"  I  would  just  ignore  them.  I'd \n be  like,  \"Oh,  they  just  don't  understand \n the  value.\"  But  over  time,  I've  learned \n to  appreciate  that  like  I'll  tell  you  a \n a  cool  little  thing.  Sam  has \n the  head  of  customer  support  sits  right \n next  to  him \n in  the  whole  office.  And  the  reason  for \n that  is  cuz  he  wanted  a  very  tight \n feedback  loop  between  the  problems  that \n customers  are  experiencing,  the  reasons \n they're  canceling,  and  the  things  that \n are  getting  built.  And  that's  why  School \n is  such  a  strong  platform,  it's  so  good. \n And  so  tactically,  message  people  who \n are  canceling  say,  \"Hey,  why  are  you \n canceling?\"  And  don't  knee-jerk,  you \n know,  on  one  response  to  be  clear. \n They'll  be  like,  \"Oh,  this  one  person \n canceled.\"  Like,  look  for  patterns, \n collect  enough  feedback  uh  to  see  them. \n And  so  tactically,  you  can  create  a \n simple  DM  script,  and  then  you  can  tag \n the  reason  that  people  have  in  an  Excel \n sheet.  So,  it  could  be  like  price, \n overwhelm,  not  using,  it's  missing  a \n feature,  or  it's  not  what  I  expected. \n And  you  can  look  at  that,  and  for  every \n 20  cancels  or  so,  review  the  top  one  or \n two  reasons,  and  then  fix  those.  Really \n tactical  advice,  please  do  this. \n Number  five,  ask  your  best  members  why \n they  stay.  So,  we're  asking  the  bad \n people  why  they  leave,  we're  asking  the \n good  people  why  they  stay,  and  then  do \n more  of  that.  So,  identify  the  longest \n tenured  people,  aka  the  most  engaged \n members,  and  then  ask  them  like,  \"What \n made  you  stay? \n What's  the  number  one  value  that  you  get \n here?\"  And  so  then  tactically,  whatever \n shows  up  repeatedly  becomes  your  kind  of \n retention  engine.  And  so  everything  else \n after  that  is  really  optional.  And  I \n would  I  want  to  emphasize  this  point. \n If  you  can  only  do  one  thing  that  gets \n people  to  stay,  why  would  you  do  five? \n And  this  is  a  lesson  that  took  me  too \n long  to  learn  because  often  times,  we \n believe  that  in  order  to  fix  things,  we \n need  to  fix  them  through  addition.  When \n often  times,  we  need  to  fix  them  through \n subtraction  and  amelioration,  aka  making \n it  better  rather  than  adding  more  stuff. \n Because  if  you  were  to  simply  fulfill \n the  promise  that  you  originally  made, \n they'd  probably  stay.  So,  if  you  think \n about,  \"How  do  I  improve  the  quality  of \n a  product?\"  You  make  a  promise,  and  then \n you  remove  all  friction  associated  with \n getting  that  thing.  And  so  the \n businesses,  the  products,  and  the \n services  that  win  are  the  ones  that \n simply  make  all  the  things  that  suck \n about  achieving  the  good  thing  go  away. \n School  fundamentally  helps  people  get \n started  online.  And  so  all  we've  done  is \n try  to  optimize  to  make  it  as  easy  as \n humanly  possible,  and  that  doesn't  mean \n adding  more  features.  It  means  making \n everything  in  the  background  just  vanish \n so  it  just  works,  which  leads  me  to \n number  six. \n Price  objections.  You  don't  want  to \n guess,  you  want  to  tier  based  on \n evidence.  So  at  School,  so  us  eating  our \n own  dog  food,  we  had  a  bunch  of  people \n canceling  saying,  \"It's  too  expensive.\" \n And  so  what  we  did  is  we  created  a  lower \n tier  while  still  keeping  the  higher  tier \n available  with  some  additional, \n uh,  you  know,  metrics  and,  you  know, \n additional  admins,  things  that,  you \n know,  unique  URLs,  you  know,  no  no \n sidebars  of  competitor  groups  kind  of \n advertising  the  same  area.  We  kept  that \n for  the  high-level  people,  but  the \n people  who  are  lower-level,  who  are  just \n kind  of  hobbyists,  who  are  just  getting \n started,  we  created  a  11  times  cheaper \n tier  from  $99  to  $9.  Right?  And  so \n this  was  important  for  School  because  a \n lot  of  hobby  groups  are  people  getting \n started  and  maybe  they're  not \n necessarily  making  a  ton  of  money.  They \n got  to  figure  out  a  few  months,  and  the \n difference  between  $100  a  month  and,  you \n know,  uh,  $9  a  month  is  pretty  huge.  And \n so  that  allowed  the  people  who  were  like \n still  figuring  it  out  to  still  be  able \n to  use  the  tool  and  stay  and  then \n ultimately  be  successful  longer  term. \n Now,  tactically, \n if  your  ideal  customers,  this  is  a  very \n important  point,  if  your  ideal  customer \n say  the  price  is  the  issue, \n then  you  can  add  a  lower  tier  or  a \n standard  plan.  If  non-ideal  people  say \n it's  too  expensive,  just  ignore  it.  That \n means  that  the  price  is  actually  acting \n as  a  good  filter,  right?  Like  if  you  if \n you're  like,  \"I  want  a  community  for  a \n million  dollar  plus  business  owners,\" \n and  people  who  are  not  a  million  dollars \n plus  say  this  is  expensive,  then  it's \n like, \n \"Great.  Bingo.  It's  working.\"  All  right? \n Um,  same  thing  with  whoever  your  avatar \n is,  which  leads  to  number  seven, \n overwhelm.  So  let's  talk  about  this.  The \n number  one  reason  people  churn,  outside \n of  price,  is  overwhelm.  It  is  the  churn \n driver.  And  this  is  why  doing  less  can \n often  retain  more.  And  so,  the  core  idea \n behind  this  is  like,  I  don't  have  the \n time,  I  can't  keep  up,  I  can't  utilize \n it.  And  usually  just  means  there's  too \n much  stuff.  So,  I  want  to  I  want  to \n break  down  a  real-world  example  of  this \n outside  of  school  that  applied  the  same \n concept.  So,  Planet  Fitness  uh  is  a  $10 \n a  month,  you  know,  gym  subscription. \n They  have  some  upsells,  whatever.  And \n they  were  able  to  enter  the  market  in  a \n place  that  there's  already  tons  of  gyms, \n there's  already  tons  of  health  clubs, \n etc.  But  what  they  realized  when  they \n surveyed  customers  is  that  people  joined \n health  clubs  and  they  were  paying  $59  a \n month  or  whatever,  and  they  had \n basketball  courts  and  racquetball  courts \n and  uh  cardio  and  pool  and  all  this \n other  stuff,  right?  And  when  they \n surveyed  people,  the  vast  majority \n people  just  used  the  cardio  equipment \n and  a  little  bit  of  weights. \n And  so,  they  were  like,  wait,  so  these \n have  these  massively  built-out  things, \n but  people  are  only  using  10  or  15%  of \n the  facility.  And  so,  what  they  did, \n they  said,  what  if  we  just  took  out  that \n 10  or  15%  put  it  over  here  and  then \n charge  way  less  for  it?  And  by  doing \n that,  they  had  a  superior  value \n proposition.  Now,  here's  where  it  gets \n really  interesting. \n When  you  have  five  things  that  you  pay \n for,  but  you  only  use  one,  you  feel  like \n you're  only  getting  20%  of  the  value. \n If  for  the  same  price, \n you  just  offer  that  one  thing,  people \n feel  like  they're  getting  100%  of  the \n value.  So,  someone  is  more  likely  to \n churn  in  this  scenario  because  you  added \n more  stuff  because  now  they  feel  like \n they're  using  not  enough  of  it.  Wild. \n So,  us  as  business  owners  a  lot  of  times \n we're  thinking,  oh,  I'm  going  to  I'm \n going  to  add  this,  you  know,  I'm  going \n to  add  all  this  extra  stuff,  but  the \n reality  is  all  we  did  is  we  gave  them \n more  reason  to  cancel  because  they  never \n used  it. \n And  so,  we  had  a  community  on  School \n where  they  found  out  about  this,  they \n deleted  content  that  they  had,  and  they \n took  their  churn  from  30% \n month-over-month  to  five.  They  had  a  six \n x  increase  in  LTV  by  simply  having  fewer \n things. \n All  right?  A  simple  version  of  this  is, \n and  I'll  I'll  give  you  a  tactical  uh \n I'll  give  you  a  couple  tactics  on  this. \n So,  you  can  make  a  a  little  form  and \n just  simply  ask  your  customers,  hey,  if \n I  were  to  delete  everything,  what  one \n thing  would  you  fight  for?  And  on  the \n inverse,  if  I  were  to  keep  everything \n and  just  remove  only  one  feature,  which \n one  thing  would  you  not  mind  seeing  go?\" \n And  then  if  you  chart  those  on  a  graph, \n what  you'll  find  out  is  what  the  number \n one  and  number  two  most  valuable  things \n are.  And  often  times  it's  really \n outsized.  And  most  of  the  time,  you  just \n need  to  do  those  things  and  basically \n forget  about  everything  else.  Cuz  one  of \n the  big  things  we  have  to  remember  is \n that \n people  who  are  using  your  services  are \n not  full-time  using  your  stuff.  They \n have  lives.  And  so  we  want  to  think \n about  value  per  second,  not  seconds  of \n value.  And  in  the  digital  world,  that \n might  mean  just  one  post,  one  call \n recording,  or  just  one  single  action \n that  you  need  to  take  that's  valuable \n for  them.  That's  it.  If  someone  just \n gets  that  every  week  from  you,  they're \n in. \n Which  leads  to  number  eight.  Design  for \n the  extremes.  Have  a  busy  path,  like  the \n person  who's  just  kind  of  like  a  dabbler \n dipping  their  toe  in  the  water,  and  then \n also  have  kind  of  like  the  power  user \n depth.  And  so  a  busy  member  should  be \n able  to  get  value  from  a  distance.  They \n should  be  able  to  keep  up  and  not  feel \n like  they're  left  behind.  On  the  other \n hand,  a  hardcore  person  should  be  able \n to  go  deep  all  day.  And  so  tactically, \n make  an  explicit  start  here  {slash} \n weekly  cadence  flow  for  the  busy  people, \n while  leaving  optional  kind  of  like  side \n quests  and  depth  for  the  kind  of  like \n heavy  users  or  heavy  Yeah,  the  heavy \n users.  Nine,  move  the  ladder  closer  to \n the  front.  So  front-load  the  thing  that \n people  love.  So  we  use  snakes  and \n ladders  as  a  concept.  So  you  want  to \n remove  the  snakes,  aka  the  friction,  the \n confusion,  the  overwhelm.  And  if  there's \n a  long  ladder,  the  thing  that  makes \n people  stick,  put  it  in  the  onboarding. \n So  tactically,  if  the  calls  are  the \n stickiest  thing,  or  this  specific \n service,  or  this  specific \n implementation,  or  onboarding,  or \n activation,  the  best  call  replay, \n whatever  it  is,  the  pin  post,  put  that \n sticky  sticky  thing  up  front.  And  you \n want  to  pin,  this  is  now  a \n school-specific  thing,  but  it  still \n works  with  any  onboarding,  is  you  want \n to  pin  the  fast  win  up  front  so  new \n members  hit  that  value  ideally  within \n the  first  24  hours.  And  this  works  for \n any  recurring  business,  whether  you're \n teaching  someone  how  to  sell,  teaching \n them  to  work  leads,  teaching  them  how  to \n pickle  pickle  jars,  whatever.  Like,  as \n long  as  you  have  a  way  to  get  people  a \n win  fast, \n they  will  like  you  more.  10,  show  up \n daily  and  care.  So,  this  is  something \n that  we  saw  across  all  communities  is \n that  the  owners  who  showed  up  in  the \n community  on  a  daily  basis  had \n significantly  higher  retention  than  the \n people  who  didn't.  Big  surprise.  Now, \n we've  basically  never  seen  this  fail. \n And  so,  if  a  member  feels  like  the  owner \n isn't  active  or  doesn't  care,  they \n leave.  And  so,  a  tactile  minimum  would \n just  be  like,  put  an  alarm,  make  it  part \n of  your  daily  routine. \n And  so,  on  a  small  level,  you  can  clear \n notifications,  DMs,  you  know,  uh  report \n whatever  content  or,  you  know,  deal  with \n content  that  people  might  have  reported. \n Now,  this  is  talking  about  school,  but \n you  can  apply  this  to  your  own  business, \n which  is  like,  what  am  I  doing  every  day \n to  show  up  for  my  customers  and  can  I \n make  that  a  repeated  action  that  I  do \n that's  high  value  and  high  leverage. \n This  also  means  like,  read  the \n complaints  every  morning  of  customers \n who  are  dealing  with  issues.  Because  if \n you  if  you  want  to  hide  your  head  in  the \n sand, \n uh  you  will  be \n well,  I  guess  your  head  will  be  in  the \n sand  and  that  will  suck  cuz  then  you  got \n it  in  your  ears  and  your  nose  and  it's \n like,  you  know,  how  are  you  going  to \n live,  right?  So,  it's  that's  a  tough \n life.  And  so, \n so,  you  know,  encourage  the  good \n behavior  that  you  that  you  have,  the  the \n people  who  follow  what  you  want.  People \n leave  nice  reviews,  people  leave  nice \n testimonials.  You  want  to  tell  people \n and  say,  \"Good  job.\"  On  the  other  hand, \n delete  bad  stuff  and  delete  bad  people. \n I  cannot  tell  you  how  powerful  deleting \n cancer  is  is.  Like,  if  they  do  it  in \n your  body,  you  should  do  it  in  your \n community  or  membership.  Which  leads  me \n to  number \n 11,  which  is  a  weekly  call  and  a \n recording.  And  so,  live  voice  /  face \n deepens  relationships.  And  so, \n recordings  kind  of  just  like  let  busy \n people  keep  up.  There's  very  often  that \n there's  like  weekly  podcasts  that  have \n tremendous  retention.  It's  just  like \n it's  just  enough  like  I  think  about  TV \n shows.  Like  obviously  Netflix  created \n the  binge  culture  but  the  vast  majority \n shows  are  like  once  a  week.  It's  enough \n that  people  can  keep  up  with  it. \n And  too  many  of  these  kind  of  like  extra \n add-ons,  people  kind  of  revert  to  that \n one  thing  and  you  want  to  make  sure  that \n the  one  thing  they're  consuming  is  the \n best  one.  So  if  you're  unsure  what  kind \n of  communication  cadence  to  stick  with, \n just  default  to  like  one  big  thing  per \n week  uh  and  then  like  a  best  of  post. \n Very  simple.  So  it  could  be  like  weekly \n call  and  weekly  post.  That's  all  you \n have  to  do.  Very  very  simple  within  a \n community  structure.  Let's  go  to  number \n 12.  So  you  want  to  add  an  annual  plan \n with  a  discount.  So  the  reason  this \n works  is  that  annual  always  has  lower \n churn  than  monthly  and  it's  because  you \n only  need  to  decide  one  time  rather  than \n 12.  And  so  annual  buyers  churn  less. \n And  even  beyond  the  they  can't  cancel \n effect,  right?  So  like  because  they \n can't  cancel  because  they  already  paid \n is  one  element  of  that,  but  the  other \n element  is  just  that  like  typically \n those  people  are  also  more  committed. \n They  also  got  a  lower  rate.  So  there's  a \n lot  of  and  they're  also  more  qualified \n because  they've  paid  more  up  front.  So \n there's  a  lot  of  and  and  and.  So  having \n that  is  valuable.  Now  a  common  practice \n here  is  16  16  or  17%  which  is  usually \n buy  10  get  two.  All  right.  So  if  you're \n not  doing  this  within  whatever  service \n you  sell,  have  an  annual  component  that \n you  should  implement  like  today,  like \n right  now,  first  thing  you  do  after \n this.  Announce  it  and  expect  a \n meaningful  chunk  of  people  to  take  it. \n And  what  that  does  is  it  stabilizes \n retention.  13,  you  want  to  build \n belonging  via  one-on-one  relationships \n and  10  true  regulars.  Now  this  isn't  a \n digital  community,  but  from  a  business \n that  has  any  kind  of \n community  that's  involved,  real  and \n person,  etc. \n Fostering  one-on-one  relationship  which \n is  thinking  like  what  are  the  unique \n aspects  of  these  people  who  are  coming \n in  and  can  I  pair  them  with  other  people \n who  are  like  them?  Because  if  people \n find  I  think  there's  um \n Layla  shared  this  out  with  me.  This  is \n on  the  employee  side  but  it  totally \n transfers  which  is  if  an  employee  has  a \n friend  that  they  are  friends  with \n outside  of  work,  they  stay  five  times \n longer  at  their  job.  Think  about  wow \n that  is.  Just  one  friend  outside  of  work \n or  one  person  that  they're  like  really \n good  friends  with.  And  so,  like  hack  of \n hacks,  like  get  them  to  make  one  real \n friend.  Now,  that's  easier  said  than \n done,  but  the  nice  thing  that  you  should \n have  hopefully  everyone  should  have  one \n thing  in  common,  which  is  that  they're \n all  uh  patrons  of  your  business.  So, \n they  at  least  have  that  interest  someway \n in  common. \n And  so,  uh  the  fastest  way  to  do  this  is \n also  introduce  some  of  the  true  regulars \n to  the  new  members.  And  I  used  to  do \n this  at  my  gyms.  Like,  otherwise \n everyone  just  feels  brand  new.  They  feel \n like  in-group  out-group.  Like,  you  don't \n want  to  have  people  feel  like  they're \n walking  in  on  someone  else's \n conversation.  So,  if  somebody's  new  to  a \n party,  right?  And  you're  holding  a  party \n and  someone  walks  in,  what  do  you  do? \n Oh,  this  is  John.  John,  meet  Tina.  Meet \n you  know,  meet  Jesse.  Meet  meet  Trish. \n Uh  you  know,  John's  really  good  at  X,  Y, \n and  Z.  Trish's  great.  John,  blah  blah \n blah.  Right?  And  so,  it's  just  like  just \n help  them  build  rapport,  which  building \n rapport  just  comes  down  to  like  what \n things  do  they  have  overlap  over?  That's \n all  it  is.  All  right.  Um  but  within  the \n digital  community,  so  going  back  to \n going  to  school, \n you  can  anchor  engagement  in  community \n with  10  regulars.  That's  it.  You  just \n need  10  regulars.  The  the  tactical  piece \n of  this  is  that  identify  the  top  10 \n people.  These  are  your  model  citizens. \n The  best  customers.  Your  best  avatars. \n DM  them.  Figure  out  their  goals. \n Spotlight  them,  meaning  give  them  public \n kudos.  Invite  them  to  contribute,  not \n just  like  watch  them  do  it.  And  if  you \n can,  again,  publicly  recognize  in  any \n way  possible,  it  further  reinforces  the \n behavior.  And  you  want  to  introduce  the \n new  people  to  them.  AKA  matchmaking. \n Sometimes  tactics  can  be  very \n overwhelming.  Uh  but  sometimes  they're \n exactly  what  you  need.  Uh  if  you  have  a \n recurring  revenue  business,  don't  expect \n to  implement  all  of  the  stuff  at  once. \n Just  take  one  thing  off  the  list  and  do \n it.  Add  it  in  consistently.  And  then \n once  you  get  consistent  with  that  one, \n add  another  one  off  the  list.  And  so, \n conquering  churn  or  you  know \n uh  trying  to  have  an  alliteration  for \n attention. \n Like  mastering  retention,  but  I  need  an \n R. \n Something  retention.  Uh  remastering \n retention. \n Um  just  comes  down  to  doing  100  small \n things  consistently  over  a  very  long \n period  of  time.  And  so  most  people  think \n that  growth  looks  like  this, \n when  in  fact,  growth  really  just  looks \n like  a  flat  retention  curve,  and  then \n what  happens  is  it  just  keeps  growing. \n And  so  I  hope  this  helps.  Keep  crushing \n it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=-j8_YCWZ05Q",
+  "videoId": "-j8_YCWZ05Q"
+}

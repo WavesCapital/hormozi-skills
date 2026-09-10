@@ -1,0 +1,419 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Alex, I want to start my own agency, but"
+    },
+    {
+      "endMs": "6200",
+      "startMs": "1400",
+      "startTimeText": "0:01",
+      "text": "due to AI, I'm afraid to start it. Man,"
+    },
+    {
+      "endMs": "9960",
+      "startMs": "4320",
+      "startTimeText": "0:04",
+      "text": "everyone's so afraid. Uh I've been"
+    },
+    {
+      "endMs": "9960",
+      "startMs": "6200",
+      "startTimeText": "0:06",
+      "text": "planning on it for 2 years. Bro."
+    },
+    {
+      "endMs": "15065",
+      "startMs": "10360",
+      "startTimeText": "0:10",
+      "text": "But couldn't start it. Why? I'm 16. Now,"
+    },
+    {
+      "endMs": "15680",
+      "startMs": "12720",
+      "startTimeText": "0:12",
+      "text": "to be fair, that you are young."
+    },
+    {
+      "endMs": "18760",
+      "startMs": "15065",
+      "startTimeText": "0:15",
+      "text": ">> [laughter]"
+    },
+    {
+      "endMs": "18760",
+      "startMs": "15680",
+      "startTimeText": "0:15",
+      "text": ">> I was 12."
+    },
+    {
+      "endMs": "22160",
+      "startMs": "19040",
+      "startTimeText": "0:19",
+      "text": "Should I start the agency or should I"
+    },
+    {
+      "endMs": "23560",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "switch?"
+    },
+    {
+      "endMs": "25440",
+      "startMs": "22160",
+      "startTimeText": "0:22",
+      "text": "All right, dude. You're not switching"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "23560",
+      "startTimeText": "0:23",
+      "text": "cuz you haven't started. Dude, start."
+    },
+    {
+      "endMs": "29280",
+      "startMs": "25440",
+      "startTimeText": "0:25",
+      "text": "Start. 100%. Be like if you're 16 and"
+    },
+    {
+      "endMs": "30560",
+      "startMs": "28160",
+      "startTimeText": "0:28",
+      "text": "you're watching my stuff, you're way"
+    },
+    {
+      "endMs": "32480",
+      "startMs": "29280",
+      "startTimeText": "0:29",
+      "text": "ahead of the game, man. Again, there's"
+    },
+    {
+      "endMs": "34400",
+      "startMs": "30560",
+      "startTimeText": "0:30",
+      "text": "this fear, right? I You keep seeing the"
+    },
+    {
+      "endMs": "37280",
+      "startMs": "32480",
+      "startTimeText": "0:32",
+      "text": "I keep seeing this this return, this"
+    },
+    {
+      "endMs": "38560",
+      "startMs": "34400",
+      "startTimeText": "0:34",
+      "text": "fear around the future. And it's like,"
+    },
+    {
+      "endMs": "39920",
+      "startMs": "37280",
+      "startTimeText": "0:37",
+      "text": "I'm going to let something unknown in"
+    },
+    {
+      "endMs": "42840",
+      "startMs": "38560",
+      "startTimeText": "0:38",
+      "text": "the future prevent me from taking"
+    },
+    {
+      "endMs": "44440",
+      "startMs": "39920",
+      "startTimeText": "0:39",
+      "text": "something that is known today."
+    },
+    {
+      "endMs": "46440",
+      "startMs": "42840",
+      "startTimeText": "0:42",
+      "text": "We have like so little faith in our"
+    },
+    {
+      "endMs": "49600",
+      "startMs": "44440",
+      "startTimeText": "0:44",
+      "text": "ability to figure things out. Like if I"
+    },
+    {
+      "endMs": "51080",
+      "startMs": "46440",
+      "startTimeText": "0:46",
+      "text": "could wish one thing for you, it's that"
+    },
+    {
+      "endMs": "53320",
+      "startMs": "49600",
+      "startTimeText": "0:49",
+      "text": "you will figure it out. So, let me give"
+    },
+    {
+      "endMs": "55880",
+      "startMs": "51080",
+      "startTimeText": "0:51",
+      "text": "you an idea. Confidence"
+    },
+    {
+      "endMs": "57920",
+      "startMs": "53320",
+      "startTimeText": "0:53",
+      "text": "is domain-specific, but over time can"
+    },
+    {
+      "endMs": "60080",
+      "startMs": "55880",
+      "startTimeText": "0:55",
+      "text": "generalize. So, what does that mean?"
+    },
+    {
+      "endMs": "63320",
+      "startMs": "57920",
+      "startTimeText": "0:57",
+      "text": "So, if I am good at singing,"
+    },
+    {
+      "endMs": "64440",
+      "startMs": "60080",
+      "startTimeText": "1:00",
+      "text": "I sing, and then eventually,"
+    },
+    {
+      "endMs": "66160",
+      "startMs": "63320",
+      "startTimeText": "1:03",
+      "text": "uh"
+    },
+    {
+      "endMs": "68440",
+      "startMs": "64440",
+      "startTimeText": "1:04",
+      "text": "I don't have any stress about singing."
+    },
+    {
+      "endMs": "69920",
+      "startMs": "66160",
+      "startTimeText": "1:06",
+      "text": "Now, I might have stress about public"
+    },
+    {
+      "endMs": "70880",
+      "startMs": "68440",
+      "startTimeText": "1:08",
+      "text": "speaking."
+    },
+    {
+      "endMs": "72640",
+      "startMs": "69920",
+      "startTimeText": "1:09",
+      "text": "But,"
+    },
+    {
+      "endMs": "75080",
+      "startMs": "70880",
+      "startTimeText": "1:10",
+      "text": "if I sing enough times, and I talk"
+    },
+    {
+      "endMs": "76400",
+      "startMs": "72640",
+      "startTimeText": "1:12",
+      "text": "between my acts, I might get to a point"
+    },
+    {
+      "endMs": "77960",
+      "startMs": "75080",
+      "startTimeText": "1:15",
+      "text": "where I say, \"Huh,"
+    },
+    {
+      "endMs": "79760",
+      "startMs": "76400",
+      "startTimeText": "1:16",
+      "text": "I don't I don't I don't think I should"
+    },
+    {
+      "endMs": "81800",
+      "startMs": "77960",
+      "startTimeText": "1:17",
+      "text": "be nervous for speaking. I've I've kind"
+    },
+    {
+      "endMs": "84880",
+      "startMs": "79760",
+      "startTimeText": "1:19",
+      "text": "of done something really close to that"
+    },
+    {
+      "endMs": "86000",
+      "startMs": "81800",
+      "startTimeText": "1:21",
+      "text": "before. So, this should kind of carry.\""
+    },
+    {
+      "endMs": "87200",
+      "startMs": "84880",
+      "startTimeText": "1:24",
+      "text": "And then let's say you speak, and then"
+    },
+    {
+      "endMs": "89200",
+      "startMs": "86000",
+      "startTimeText": "1:26",
+      "text": "you don't get nervous, and you could do"
+    },
+    {
+      "endMs": "90800",
+      "startMs": "87200",
+      "startTimeText": "1:27",
+      "text": "a good job. So, then you start to think"
+    },
+    {
+      "endMs": "92920",
+      "startMs": "89200",
+      "startTimeText": "1:29",
+      "text": "to yourself, \"Huh,"
+    },
+    {
+      "endMs": "94320",
+      "startMs": "90800",
+      "startTimeText": "1:30",
+      "text": "whenever I do new things, I prepare like"
+    },
+    {
+      "endMs": "96240",
+      "startMs": "92920",
+      "startTimeText": "1:32",
+      "text": "I did for singing and speaking, and I"
+    },
+    {
+      "endMs": "97680",
+      "startMs": "94320",
+      "startTimeText": "1:34",
+      "text": "tend to succeed in general when I"
+    },
+    {
+      "endMs": "99520",
+      "startMs": "96240",
+      "startTimeText": "1:36",
+      "text": "dedicate time and effort towards an"
+    },
+    {
+      "endMs": "102320",
+      "startMs": "97680",
+      "startTimeText": "1:37",
+      "text": "endeavor that I find meaningful.\" And"
+    },
+    {
+      "endMs": "104040",
+      "startMs": "99520",
+      "startTimeText": "1:39",
+      "text": "so, I haven't done this thing yet, but I"
+    },
+    {
+      "endMs": "105800",
+      "startMs": "102320",
+      "startTimeText": "1:42",
+      "text": "am confident that I will be able to"
+    },
+    {
+      "endMs": "108440",
+      "startMs": "104040",
+      "startTimeText": "1:44",
+      "text": "succeed because I've done so in the"
+    },
+    {
+      "endMs": "110600",
+      "startMs": "105800",
+      "startTimeText": "1:45",
+      "text": "past. And so, the idea is that you might"
+    },
+    {
+      "endMs": "112160",
+      "startMs": "108440",
+      "startTimeText": "1:48",
+      "text": "not have done that thing before, but you"
+    },
+    {
+      "endMs": "114160",
+      "startMs": "110600",
+      "startTimeText": "1:50",
+      "text": "can generalize something that you have"
+    },
+    {
+      "endMs": "115600",
+      "startMs": "112160",
+      "startTimeText": "1:52",
+      "text": "done before towards that thing, which"
+    },
+    {
+      "endMs": "118800",
+      "startMs": "114160",
+      "startTimeText": "1:54",
+      "text": "allows you to"
+    },
+    {
+      "endMs": "121080",
+      "startMs": "115600",
+      "startTimeText": "1:55",
+      "text": "extrapolate or stand atop"
+    },
+    {
+      "endMs": "123640",
+      "startMs": "118800",
+      "startTimeText": "1:58",
+      "text": "your past history. And so, one of my"
+    },
+    {
+      "endMs": "125000",
+      "startMs": "121080",
+      "startTimeText": "2:01",
+      "text": "most quoted tweets of all time was"
+    },
+    {
+      "endMs": "126760",
+      "startMs": "123640",
+      "startTimeText": "2:03",
+      "text": "um"
+    },
+    {
+      "endMs": "128280",
+      "startMs": "125000",
+      "startTimeText": "2:05",
+      "text": "outwork yourself-doubt, but you want to"
+    },
+    {
+      "endMs": "131720",
+      "startMs": "126760",
+      "startTimeText": "2:06",
+      "text": "give yourself a stack of undeniable"
+    },
+    {
+      "endMs": "131720",
+      "startMs": "128280",
+      "startTimeText": "2:08",
+      "text": "proof that you are who you say you are."
+    }
+  ],
+  "transcript_only_text": " Alex,  I  want  to  start  my  own  agency,  but \n due  to  AI,  I'm  afraid  to  start  it.  Man, \n everyone's  so  afraid.  Uh  I've  been \n planning  on  it  for  2  years.  Bro. \n But  couldn't  start  it.  Why?  I'm  16.  Now, \n to  be  fair,  that  you  are  young. \n >> [laughter] \n >> I  was  12. \n Should  I  start  the  agency  or  should  I \n switch? \n All  right,  dude.  You're  not  switching \n cuz  you  haven't  started.  Dude,  start. \n Start.  100%.  Be  like  if  you're  16  and \n you're  watching  my  stuff,  you're  way \n ahead  of  the  game,  man.  Again,  there's \n this  fear,  right?  I  You  keep  seeing  the \n I  keep  seeing  this  this  return,  this \n fear  around  the  future.  And  it's  like, \n I'm  going  to  let  something  unknown  in \n the  future  prevent  me  from  taking \n something  that  is  known  today. \n We  have  like  so  little  faith  in  our \n ability  to  figure  things  out.  Like  if  I \n could  wish  one  thing  for  you,  it's  that \n you  will  figure  it  out.  So,  let  me  give \n you  an  idea.  Confidence \n is  domain-specific,  but  over  time  can \n generalize.  So,  what  does  that  mean? \n So,  if  I  am  good  at  singing, \n I  sing,  and  then  eventually, \n uh \n I  don't  have  any  stress  about  singing. \n Now,  I  might  have  stress  about  public \n speaking. \n But, \n if  I  sing  enough  times,  and  I  talk \n between  my  acts,  I  might  get  to  a  point \n where  I  say,  \"Huh, \n I  don't  I  don't  I  don't  think  I  should \n be  nervous  for  speaking.  I've  I've  kind \n of  done  something  really  close  to  that \n before.  So,  this  should  kind  of  carry.\" \n And  then  let's  say  you  speak,  and  then \n you  don't  get  nervous,  and  you  could  do \n a  good  job.  So,  then  you  start  to  think \n to  yourself,  \"Huh, \n whenever  I  do  new  things,  I  prepare  like \n I  did  for  singing  and  speaking,  and  I \n tend  to  succeed  in  general  when  I \n dedicate  time  and  effort  towards  an \n endeavor  that  I  find  meaningful.\"  And \n so,  I  haven't  done  this  thing  yet,  but  I \n am  confident  that  I  will  be  able  to \n succeed  because  I've  done  so  in  the \n past.  And  so,  the  idea  is  that  you  might \n not  have  done  that  thing  before,  but  you \n can  generalize  something  that  you  have \n done  before  towards  that  thing,  which \n allows  you  to \n extrapolate  or  stand  atop \n your  past  history.  And  so,  one  of  my \n most  quoted  tweets  of  all  time  was \n um \n outwork  yourself-doubt,  but  you  want  to \n give  yourself  a  stack  of  undeniable \n proof  that  you  are  who  you  say  you  are.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=JYhnsgG0YoQ",
+  "videoId": "JYhnsgG0YoQ"
+}

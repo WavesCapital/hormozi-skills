@@ -1,0 +1,296 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=SH_peVFs4oo&ei=uI-eaqa1JpSo0_wPk8f-CA&caps=asr&opi=112496729&exp=xpo,xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801576&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=40726109D90FFDE89C867BDC613810FAAA419C61.B6CD50D8946A5BD87512E229FE1A122B3D6E8515&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": null,
+  "credits_charged": 1,
+  "credits_remaining": 14278,
+  "description": "You can get “good enough” at almost anything in 20 hours of focused effort.\n\nThe problem is…most people spend a decade delaying the first hour.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:18",
+  "durationMs": 18000,
+  "genre": "Education",
+  "id": "SH_peVFs4oo",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 133,
+  "likeCountText": "133",
+  "most_replayed": null,
+  "publishDate": "2026-09-07T00:01:11-07:00",
+  "publishDateText": "Sep 7, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/SH_peVFs4oo/maxresdefault.jpg",
+  "title": "It Takes 20 Hours — But People Wait a Decade to Start",
+  "type": "video",
+  "viewCountInt": 1693,
+  "viewCountText": "1,693",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "HxEQCHpZzHk",
+      "lengthInSeconds": 3788,
+      "lengthText": "1:03:08",
+      "publishDate": "2025-09-07T10:19:37.811Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-07T10:19:37.811Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/HxEQCHpZzHk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCYtoggu282yHS2YYGLkeXQmAJxOA",
+      "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
+      "videoUrl": "https://www.youtube.com/watch?v=HxEQCHpZzHk",
+      "viewCountInt": 1700000,
+      "viewCountText": "1.7M views"
+    },
+    {
+      "channel": {
+        "title": "Andrew Huberman and HealthyGamerGG",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "9G2MRFs4vac",
+      "lengthInSeconds": 11324,
+      "lengthText": "3:08:44",
+      "publishDate": "2026-03-07T10:19:37.811Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-03-07T10:19:37.811Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/9G2MRFs4vac/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD6uqQpBizYZWWaUShf6qDeJwcT4Q",
+      "title": "Unlearn Negative Thoughts & Behaviors Patterns | Dr. Alok Kanojia (Healthy Gamer)",
+      "videoUrl": "https://www.youtube.com/watch?v=9G2MRFs4vac",
+      "viewCountInt": 2000000,
+      "viewCountText": "2M views"
+    },
+    {
+      "channel": {
+        "handle": "jaredjonesorlandoliving",
+        "id": "UCqPh1P2Ek65n4i0rK_MDbrA",
+        "title": "Jared Jones - Orlando Living",
+        "url": "https://www.youtube.com/@jaredjonesorlandoliving"
+      },
+      "id": "ajEEi3ri92E",
+      "lengthInSeconds": 1585,
+      "lengthText": "26:25",
+      "publishDate": "2026-07-07T10:19:37.811Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-07T10:19:37.811Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/ajEEi3ri92E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJ3lzJsblcCmYs-NKr4R0UQnEKUQ",
+      "title": "Florida’s 15 Mega-Projects: UNRECOGNIZABLE by 2030",
+      "videoUrl": "https://www.youtube.com/watch?v=ajEEi3ri92E",
+      "viewCountInt": 296000,
+      "viewCountText": "296K views"
+    },
+    {
+      "channel": {
+        "handle": "BibleStudyWithMyronGolden",
+        "id": "UCQvECB1KyzGF3g6FslFneRw",
+        "title": "Bible Study With Myron Golden",
+        "url": "https://www.youtube.com/@BibleStudyWithMyronGolden"
+      },
+      "id": "0Wmj4mIyLto",
+      "lengthInSeconds": 3221,
+      "lengthText": "53:41",
+      "publishDate": "2025-09-07T10:19:37.811Z",
+      "publishDateText": "Streamed 1 year ago",
+      "publishedTime": "2025-09-07T10:19:37.811Z",
+      "publishedTimeText": "Streamed 1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/0Wmj4mIyLto/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAtd3z82rB9dHO_Bl6uZk14uay-HA",
+      "title": "Why Purpose Is The Only Path To Fulfillment",
+      "videoUrl": "https://www.youtube.com/watch?v=0Wmj4mIyLto",
+      "viewCountInt": 759000,
+      "viewCountText": "759K views"
+    },
+    {
+      "channel": {
+        "handle": "Fameoid",
+        "id": "UCOdvOte3v0md0anfMgyrahw",
+        "title": "Fameoid",
+        "url": "https://www.youtube.com/@Fameoid"
+      },
+      "id": "-IOntaERI3I",
+      "lengthInSeconds": 602,
+      "lengthText": "10:02",
+      "publishDate": "2026-09-04T10:19:37.811Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-09-04T10:19:37.811Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/-IOntaERI3I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBA8-NUjwQE6HOoFWjXMu7phxRKGw",
+      "title": "These might be Dolly Parton’s most hilarious moments ever caught on Camera”",
+      "videoUrl": "https://www.youtube.com/watch?v=-IOntaERI3I",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "Versus_Net",
+        "id": "UCH_EHQMN6h-SrVfevnt39CQ",
+        "title": "VS+",
+        "url": "https://www.youtube.com/@Versus_Net"
+      },
+      "id": "o3cvPBLFTow",
+      "lengthInSeconds": 659,
+      "lengthText": "10:59",
+      "publishDate": "2026-08-07T10:19:37.811Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-07T10:19:37.811Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/o3cvPBLFTow/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCvhDcLzK3tGYl5slIlj3jDmRED3A",
+      "title": "Damn... Tyson was Terrifying in His 5th Fight",
+      "videoUrl": "https://www.youtube.com/watch?v=o3cvPBLFTow",
+      "viewCountInt": 1400000,
+      "viewCountText": "1.4M views"
+    },
+    {
+      "channel": {
+        "handle": "caseysimpsonchannel",
+        "id": "UCxkHxDw01hUk48UV_zlbaow",
+        "title": "Casey Simpson",
+        "url": "https://www.youtube.com/@caseysimpsonchannel"
+      },
+      "id": "hPfMhw3wSEo",
+      "lengthInSeconds": 2228,
+      "lengthText": "37:08",
+      "publishDate": "2026-09-06T20:19:37.811Z",
+      "publishDateText": "14 hours ago",
+      "publishedTime": "2026-09-06T20:19:37.811Z",
+      "publishedTimeText": "14 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/hPfMhw3wSEo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLABEHFvhDcdVGgS9l5F9ueKjN-yaA",
+      "title": "Yesterday We Reached AGI. Now What?",
+      "videoUrl": "https://www.youtube.com/watch?v=hPfMhw3wSEo",
+      "viewCountInt": 453000,
+      "viewCountText": "453K views"
+    },
+    {
+      "channel": {
+        "handle": "DataWithBaraa",
+        "id": "UC8_RSKwbU1OmZWNEoLV1tQg",
+        "title": "Data with Baraa",
+        "url": "https://www.youtube.com/@DataWithBaraa"
+      },
+      "id": "fBOtbNqgc0s",
+      "lengthInSeconds": 14280,
+      "lengthText": "3:58:00",
+      "publishDate": "2026-08-24T10:19:37.811Z",
+      "publishDateText": "Streamed 2 weeks ago",
+      "publishedTime": "2026-08-24T10:19:37.811Z",
+      "publishedTimeText": "Streamed 2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/fBOtbNqgc0s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJf-OWs8Gf6ltydCzclZ5CCuIZvQ",
+      "title": "Intro to Data Architecture (Part 1) | LIVE",
+      "videoUrl": "https://www.youtube.com/watch?v=fBOtbNqgc0s",
+      "viewCountInt": 167000,
+      "viewCountText": "167K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "uaLNfijnp-8",
+      "lengthInSeconds": 2234,
+      "lengthText": "37:14",
+      "publishDate": "2026-09-05T10:19:37.811Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-05T10:19:37.811Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/uaLNfijnp-8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3zwEIsaaclBD5PwqISYwvcDsY1w",
+      "title": "This Video Should Be Required Viewing for Business Owners",
+      "videoUrl": "https://www.youtube.com/watch?v=uaLNfijnp-8",
+      "viewCountInt": 218000,
+      "viewCountText": "218K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and The Science and Experience of Energy ",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "6xlmaorRY0w",
+      "lengthInSeconds": 9518,
+      "lengthText": "2:38:38",
+      "publishDate": "2026-07-07T10:19:37.811Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-07T10:19:37.811Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/6xlmaorRY0w/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC6c7E-W5_IepmvXl4OWxYa_z2GxQ",
+      "title": "The Mitochondria Doctor: This Reverses Gray Hair, Makes You Feel Young Again & Fixes Disease!",
+      "videoUrl": "https://www.youtube.com/watch?v=6xlmaorRY0w",
+      "viewCountInt": 5600000,
+      "viewCountText": "5.6M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "OHu1FY1R-x0",
+      "lengthInSeconds": 1117,
+      "lengthText": "18:37",
+      "publishDate": "2026-08-24T10:19:37.811Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-24T10:19:37.811Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/OHu1FY1R-x0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfzytzQNklB3wRrxvnNcEIIkCHuQ",
+      "title": "It took me 37 years to realize what I'll tell you in 18 minutes.",
+      "videoUrl": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "viewCountInt": 563000,
+      "viewCountText": "563K views"
+    },
+    {
+      "channel": {
+        "title": "Raj Shamani and Andrew Huberman",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "Y566_T-YlNQ",
+      "lengthInSeconds": 10016,
+      "lengthText": "2:46:56",
+      "publishDate": "2026-09-02T10:19:37.811Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-09-02T10:19:37.811Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/Y566_T-YlNQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAhGLlQJnfzzF3w7jPvx2W3gmlIqQ",
+      "title": "Andrew Huberman: Become Mentally Dangerous With These Daily Habits | FO556 Raj Shamani",
+      "videoUrl": "https://www.youtube.com/watch?v=Y566_T-YlNQ",
+      "viewCountInt": 6600000,
+      "viewCountText": "6.6M views"
+    }
+  ]
+}

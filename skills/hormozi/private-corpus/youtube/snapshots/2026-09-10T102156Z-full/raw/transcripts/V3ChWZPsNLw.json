@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "What's the difference between these two"
+    },
+    {
+      "endMs": "4920",
+      "startMs": "1160",
+      "startTimeText": "0:01",
+      "text": "paper clips? This one, you can buy a"
+    },
+    {
+      "endMs": "7360",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "thousand for five bucks, and this one"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "4920",
+      "startTimeText": "0:04",
+      "text": "alone costs over two hundred dollars."
+    },
+    {
+      "endMs": "10560",
+      "startMs": "7360",
+      "startTimeText": "0:07",
+      "text": "This one's a Prada paper clip, and this"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "one is run-of-the-mill. The main reason"
+    },
+    {
+      "endMs": "13480",
+      "startMs": "10560",
+      "startTimeText": "0:10",
+      "text": "is that you're not actually paying two"
+    },
+    {
+      "endMs": "14840",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "hundred dollars for this paper clip."
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13480",
+      "startTimeText": "0:13",
+      "text": "You're paying two hundred dollars for"
+    },
+    {
+      "endMs": "18280",
+      "startMs": "14840",
+      "startTimeText": "0:14",
+      "text": "the brand of Prada, and all the"
+    },
+    {
+      "endMs": "20080",
+      "startMs": "16720",
+      "startTimeText": "0:16",
+      "text": "associations of status that go with"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "18280",
+      "startTimeText": "0:18",
+      "text": "that. And so for some people, the two"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "20080",
+      "startTimeText": "0:20",
+      "text": "hundred dollars is actually a steal."
+    }
+  ],
+  "transcript_only_text": " What's  the  difference  between  these  two \n paper  clips?  This  one,  you  can  buy  a \n thousand  for  five  bucks,  and  this  one \n alone  costs  over  two  hundred  dollars. \n This  one's  a  Prada  paper  clip,  and  this \n one  is  run-of-the-mill.  The  main  reason \n is  that  you're  not  actually  paying  two \n hundred  dollars  for  this  paper  clip. \n You're  paying  two  hundred  dollars  for \n the  brand  of  Prada,  and  all  the \n associations  of  status  that  go  with \n that.  And  so  for  some  people,  the  two \n hundred  dollars  is  actually  a  steal.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=V3ChWZPsNLw",
+  "videoId": "V3ChWZPsNLw"
+}

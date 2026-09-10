@@ -1,0 +1,119 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2800",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You never have to say no. It's a"
+    },
+    {
+      "endMs": "4280",
+      "startMs": "1280",
+      "startTimeText": "0:01",
+      "text": "three-step. They state an unreasonable"
+    },
+    {
+      "endMs": "5600",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "demand, do you have this or can I have"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "this or whatever? And so you say, \"Well,"
+    },
+    {
+      "endMs": "8440",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "I'm guessing the intention behind that"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "question is to solve this problem, is"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "8440",
+      "startTimeText": "0:08",
+      "text": "that right?\" If they say not, then it's"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "like, \"Then what is the intention?\""
+    },
+    {
+      "endMs": "13840",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "There's I haven't said anything wrong"
+    },
+    {
+      "endMs": "15400",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "yet. Then they give me the intention."
+    },
+    {
+      "endMs": "16800",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "\"Oh, cool. If we did it like this, would"
+    },
+    {
+      "endMs": "18280",
+      "startMs": "15400",
+      "startTimeText": "0:15",
+      "text": "that solve that for you?\" They said no,"
+    },
+    {
+      "endMs": "20000",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "then oh, \"Would this solve that?\" Like,"
+    },
+    {
+      "endMs": "21600",
+      "startMs": "18280",
+      "startTimeText": "0:18",
+      "text": "I have no wrong answer. I only take"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "20000",
+      "startTimeText": "0:20",
+      "text": "shots on goal that if I get a yes, then"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "21600",
+      "startTimeText": "0:21",
+      "text": "I'm done."
+    }
+  ],
+  "transcript_only_text": " You  never  have  to  say  no.  It's  a \n three-step.  They  state  an  unreasonable \n demand,  do  you  have  this  or  can  I  have \n this  or  whatever?  And  so  you  say,  \"Well, \n I'm  guessing  the  intention  behind  that \n question  is  to  solve  this  problem,  is \n that  right?\"  If  they  say  not,  then  it's \n like,  \"Then  what  is  the  intention?\" \n There's  I  haven't  said  anything  wrong \n yet.  Then  they  give  me  the  intention. \n \"Oh,  cool.  If  we  did  it  like  this,  would \n that  solve  that  for  you?\"  They  said  no, \n then  oh,  \"Would  this  solve  that?\"  Like, \n I  have  no  wrong  answer.  I  only  take \n shots  on  goal  that  if  I  get  a  yes,  then \n I'm  done.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mPbb2Gk3fr4",
+  "videoId": "mPbb2Gk3fr4"
+}

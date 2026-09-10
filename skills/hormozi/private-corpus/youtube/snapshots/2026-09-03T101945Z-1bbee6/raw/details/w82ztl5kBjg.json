@@ -1,0 +1,291 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 39,
+  "commentCountText": "39",
+  "credits_charged": 1,
+  "description": "Business is surprisingly simple but deceptively hard. On a long enough time horizon, the only thing that matters is making a product everyone loves. If you did only that, you'd beat just about everyone.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:02:00",
+  "durationMs": 120000,
+  "genre": "Education",
+  "id": "w82ztl5kBjg",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 4604,
+  "likeCountText": "4604",
+  "most_replayed": null,
+  "publishDate": "2026-08-19T17:01:11-07:00",
+  "publishDateText": "Aug 19, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/w82ztl5kBjg/maxresdefault.jpg",
+  "title": "Your Promotion and Delivery Are the Same Thing",
+  "type": "video",
+  "viewCountInt": 123350,
+  "viewCountText": "123,350",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "8VqSFBMMS4M",
+      "lengthInSeconds": 2172,
+      "lengthText": "36:12",
+      "publishDate": "2026-08-02T10:49:03.331Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:49:03.331Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/8VqSFBMMS4M/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLArGnS5yruVEKR2JgAWJl42BM_Keg",
+      "title": "If You Hate Selling, Please Watch This | Scale or Fail",
+      "videoUrl": "https://www.youtube.com/watch?v=8VqSFBMMS4M",
+      "viewCountInt": 165000,
+      "viewCountText": "165K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-02T10:49:03.331Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:49:03.331Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLA7Y0YtPW3mF55_ovH7pljzcHIVEQ",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "CleoAbram",
+        "id": "UC415bOPUcGSamy543abLmRA",
+        "title": "Cleo Abram",
+        "url": "https://www.youtube.com/@CleoAbram"
+      },
+      "id": "yWgHx0HE8m8",
+      "lengthInSeconds": 982,
+      "lengthText": "16:22",
+      "publishDate": "2026-08-30T10:49:03.331Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-08-30T10:49:03.331Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/yWgHx0HE8m8/hqdefault_custom_3.jpg?sqp=CKz839QG-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBz9KYSQ_nhvZtZWrk6GGI3XV-T5A",
+      "title": "Something’s Happening to the Ozone Hole",
+      "videoUrl": "https://www.youtube.com/watch?v=yWgHx0HE8m8",
+      "viewCountInt": 3700000,
+      "viewCountText": "3.7M views"
+    },
+    {
+      "channel": {
+        "handle": "tradgedyandhope",
+        "id": "UCFyAgi9phA7ErVY_bPC1Cjg",
+        "title": "T&H - Inspiration & Motivation",
+        "url": "https://www.youtube.com/@tradgedyandhope"
+      },
+      "id": "-y7VSp9ErLg",
+      "lengthInSeconds": 1707,
+      "lengthText": "28:27",
+      "publishDate": "2026-08-19T10:49:03.331Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:49:03.331Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/-y7VSp9ErLg/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLB7KWNrDSgVCkspb3oMDqUsougNrg",
+      "title": "I wasted 33 years trapped in my own head before Anthony Bourdain explained this in 30 minutes…",
+      "videoUrl": "https://www.youtube.com/watch?v=-y7VSp9ErLg",
+      "viewCountInt": 238000,
+      "viewCountText": "238K views"
+    },
+    {
+      "channel": {
+        "handle": "HormoziNL",
+        "id": "UCsa1nmzv07IlZ4QN-W-1ktQ",
+        "title": "Next Level with Hormozi",
+        "url": "https://www.youtube.com/@HormoziNL"
+      },
+      "id": "pYfelEORkBE",
+      "lengthInSeconds": 424,
+      "lengthText": "7:04",
+      "publishDate": "2026-08-21T10:49:03.331Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-21T10:49:03.331Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/pYfelEORkBE/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDTeoRtv9wCGBaRL3e4y1xhrZDb-w",
+      "title": "One Habit Cures It All, Solve Problems Effectively - Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=pYfelEORkBE",
+      "viewCountInt": 50,
+      "viewCountText": "50 views"
+    },
+    {
+      "channel": {
+        "handle": "standupmaths",
+        "id": "UCSju5G2aFaWMqn-_0YBtq5A",
+        "title": "Stand-up Maths",
+        "url": "https://www.youtube.com/@standupmaths"
+      },
+      "id": "ixXOUeBOPJw",
+      "lengthInSeconds": 1190,
+      "lengthText": "19:50",
+      "publishDate": "2026-09-01T14:49:03.331Z",
+      "publishDateText": "20 hours ago",
+      "publishedTime": "2026-09-01T14:49:03.331Z",
+      "publishedTimeText": "20 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/ixXOUeBOPJw/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDjnWx42HTAN9PMRfn0QL-L8N49eg",
+      "title": "The sorting algorithm that shouldn’t.",
+      "videoUrl": "https://www.youtube.com/watch?v=ixXOUeBOPJw",
+      "viewCountInt": 650000,
+      "viewCountText": "650K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "jn9AFMKlGLA",
+      "lengthInSeconds": 301,
+      "lengthText": "5:01",
+      "publishDate": "2025-11-02T10:49:03.331Z",
+      "publishDateText": "10 months ago",
+      "publishedTime": "2025-11-02T10:49:03.331Z",
+      "publishedTimeText": "10 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jn9AFMKlGLA/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLC9_PMDYv0F54C_WTCFiFwRVfJZNQ",
+      "title": "Inventing Spanish - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=jn9AFMKlGLA",
+      "viewCountInt": 8100000,
+      "viewCountText": "8.1M views"
+    },
+    {
+      "channel": {
+        "handle": "JustinSung",
+        "id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
+        "title": "Justin Sung",
+        "url": "https://www.youtube.com/@JustinSung"
+      },
+      "id": "nIABz0Z4IRA",
+      "lengthInSeconds": 503,
+      "lengthText": "8:23",
+      "publishDate": "2026-08-21T10:49:03.331Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-21T10:49:03.331Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/nIABz0Z4IRA/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLBzTurM5zDX2N3WcjCnNFvpQs4Vzw",
+      "title": "How to Learn So Fast People Assume You're Naturally Gifted",
+      "videoUrl": "https://www.youtube.com/watch?v=nIABz0Z4IRA",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "19aunTn3SfI",
+      "lengthInSeconds": 829,
+      "lengthText": "13:49",
+      "publishDate": "2025-09-02T10:49:03.331Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:49:03.331Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/19aunTn3SfI/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLAP1ptKvel8Fk9gPCzeOr0ZkNYaPw",
+      "title": "THIS Is #1 FASTEST Way To BURN Body Fat (Based on Science)",
+      "videoUrl": "https://www.youtube.com/watch?v=19aunTn3SfI",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "title": "Jon Youshaei and MrBeast 2",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "wPeUb2SVmEc",
+      "lengthInSeconds": 2439,
+      "lengthText": "40:39",
+      "publishDate": "2026-05-02T10:49:03.331Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-05-02T10:49:03.331Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/wPeUb2SVmEc/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLC1LqopghbLB8ZS2q9I8-nZVZ7POA",
+      "title": "How MrBeast Works 18 Hours Per Day",
+      "videoUrl": "https://www.youtube.com/watch?v=wPeUb2SVmEc",
+      "viewCountInt": 1900000,
+      "viewCountText": "1.9M views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "FUBVuvstPCs",
+      "lengthInSeconds": 219,
+      "lengthText": "3:39",
+      "publishDate": "2026-04-02T10:49:03.331Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:49:03.331Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/FUBVuvstPCs/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLDrbAEdjG4tiWtVhKVAj31X_kKW1A",
+      "title": "MAHAspital - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=FUBVuvstPCs",
+      "viewCountInt": 4200000,
+      "viewCountText": "4.2M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "UDBkiBnMrHs",
+      "lengthInSeconds": 1574,
+      "lengthText": "26:14",
+      "publishDate": "2026-01-02T10:49:03.331Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2026-01-02T10:49:03.331Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/UDBkiBnMrHs/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvcY&rs=AOn4CLCuPUwyAn58pwBvMvmBBd3XIkjqkw",
+      "title": "If you’re ambitious but inconsistent, please watch this",
+      "videoUrl": "https://www.youtube.com/watch?v=UDBkiBnMrHs",
+      "viewCountInt": 1700000,
+      "viewCountText": "1.7M views"
+    }
+  ]
+}

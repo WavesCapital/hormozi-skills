@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6640",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people without being"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "3679",
+      "startTimeText": "0:03",
+      "text": "smarter or luckier, but by being willing"
+    },
+    {
+      "endMs": "11679",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "to endure pain and uncertainty. That's a"
+    },
+    {
+      "endMs": "13759",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "big one, uncertainty for longer. Because"
+    },
+    {
+      "endMs": "15759",
+      "startMs": "11679",
+      "startTimeText": "0:11",
+      "text": "the fastest growth periods are often the"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "13759",
+      "startTimeText": "0:13",
+      "text": "most miserable. If you want progress,"
+    },
+    {
+      "endMs": "18480",
+      "startMs": "15759",
+      "startTimeText": "0:15",
+      "text": "get used to"
+    }
+  ],
+  "transcript_only_text": " You  can  beat  99%  of  people  without  being \n smarter  or  luckier,  but  by  being  willing \n to  endure  pain  and  uncertainty.  That's  a \n big  one,  uncertainty  for  longer.  Because \n the  fastest  growth  periods  are  often  the \n most  miserable.  If  you  want  progress, \n get  used  to",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=HaC9xcdIg9U",
+  "videoId": "HaC9xcdIg9U"
+}

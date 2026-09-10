@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Many of you guys have good ideas. Are"
+    },
+    {
+      "endMs": "5520",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "there better ideas? Maybe, but like a"
+    },
+    {
+      "endMs": "7600",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "good idea done exceptionally well still"
+    },
+    {
+      "endMs": "8760",
+      "startMs": "5520",
+      "startTimeText": "0:05",
+      "text": "crushes. It's the balance between both."
+    },
+    {
+      "endMs": "9600",
+      "startMs": "7600",
+      "startTimeText": "0:07",
+      "text": "And that's why like you can go to"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "business either way. You can have"
+    },
+    {
+      "endMs": "14640",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "brilliant ideas or you can like execute"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "brilliantly. If you do both, you know,"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "14640",
+      "startTimeText": "0:14",
+      "text": "you break records, right?"
+    }
+  ],
+  "transcript_only_text": " Many  of  you  guys  have  good  ideas.  Are \n there  better  ideas?  Maybe,  but  like  a \n good  idea  done  exceptionally  well  still \n crushes.  It's  the  balance  between  both. \n And  that's  why  like  you  can  go  to \n business  either  way.  You  can  have \n brilliant  ideas  or  you  can  like  execute \n brilliantly.  If  you  do  both,  you  know, \n you  break  records,  right?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=nkdz0rkBnu8",
+  "videoId": "nkdz0rkBnu8"
+}

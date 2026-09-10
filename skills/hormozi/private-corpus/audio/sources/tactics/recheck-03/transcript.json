@@ -1,0 +1,2807 @@
+{
+  "text": " number 21. 97 beats 47 in a front-end offer split test. If you want premium customers, stop selling cheap stuff. Most people think that charging something versus giving something away for free brings a higher quality customer. And that's true, but you can actually take it a step further by testing the low ticket prices. We just got fascinating data back from a split test from one of our portfolio companies that made us a lot of money. Here's what we tested. Two identical sales funnels, the only difference was the ticket price. So group A had a $49 ticket price, group B $97 ticket price. So the LTV changes over time between the two groups is what shocked us. So LTV by day zero, so right up front, 51.42. So basically 51 bucks and 42 cents, exactly what you'd expect because $97 minus 49 is $52. So the immediate value was obviously the difference in price. Now by day 30, this is where it got interesting. Now the $97 customers were worth $212 more. By day 120, they were worth $292 more. And by day 180, they were worth $891 more. And so the translation is the $97 buyer spent nearly $900 more per person over the 180 days. And here's the kicker. The customer acquisition cost was nearly identical. It was within 15%. So maybe you spend 15% to get a customer that's worth 10 times the price. That's a great deal. So here's the hidden gold. Higher front end prices didn't just make more money up front. They positioned the product better in the customer's minds to get the same customer to be willing to pay more and attracted better buyers. And we're talking 41% plus higher lifetime value at 180 from one change. So my takeaway is your front end price isn't just a revenue decision, it's a customer quality filter. Profit hack number 22. Time-based surge pricing. If you're charging the same amount during your busy times as your",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.74,
+      "text": " number 21. 97 beats 47 in a front-end offer split test. If you want premium customers,",
+      "tokens": [
+        50365,
+        1230,
+        5080,
+        13,
+        23399,
+        16447,
+        16953,
+        294,
+        257,
+        1868,
+        12,
+        521,
+        2626,
+        7472,
+        1500,
+        13,
+        759,
+        291,
+        528,
+        12049,
+        4581,
+        11,
+        50752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.061047978357437555,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 1.6038888966951603e-12,
+      "words": [
+        {
+          "word": " number",
+          "start": 0.0,
+          "end": 0.82,
+          "probability": 0.1334228515625
+        },
+        {
+          "word": " 21.",
+          "start": 0.82,
+          "end": 1.18,
+          "probability": 0.96435546875
+        },
+        {
+          "word": " 97",
+          "start": 2.08,
+          "end": 2.68,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " beats",
+          "start": 2.68,
+          "end": 3.34,
+          "probability": 0.998046875
+        },
+        {
+          "word": " 47",
+          "start": 3.34,
+          "end": 3.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " in",
+          "start": 3.94,
+          "end": 4.26,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 4.26,
+          "end": 4.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " front",
+          "start": 4.36,
+          "end": 4.52,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "-end",
+          "start": 4.52,
+          "end": 4.66,
+          "probability": 0.8974609375
+        },
+        {
+          "word": " offer",
+          "start": 4.66,
+          "end": 4.88,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " split",
+          "start": 4.88,
+          "end": 5.2,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " test.",
+          "start": 5.2,
+          "end": 5.5,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " If",
+          "start": 6.02,
+          "end": 6.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " you",
+          "start": 6.62,
+          "end": 6.72,
+          "probability": 1.0
+        },
+        {
+          "word": " want",
+          "start": 6.72,
+          "end": 6.94,
+          "probability": 1.0
+        },
+        {
+          "word": " premium",
+          "start": 6.94,
+          "end": 7.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " customers,",
+          "start": 7.24,
+          "end": 7.74,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.98,
+      "end": 13.26,
+      "text": " stop selling cheap stuff. Most people think that charging something versus giving something away",
+      "tokens": [
+        50752,
+        1590,
+        6511,
+        7084,
+        1507,
+        13,
+        4534,
+        561,
+        519,
+        300,
+        11379,
+        746,
+        5717,
+        2902,
+        746,
+        1314,
+        51030
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.061047978357437555,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 1.6038888966951603e-12,
+      "words": [
+        {
+          "word": " stop",
+          "start": 7.98,
+          "end": 8.18,
+          "probability": 1.0
+        },
+        {
+          "word": " selling",
+          "start": 8.18,
+          "end": 8.58,
+          "probability": 1.0
+        },
+        {
+          "word": " cheap",
+          "start": 8.58,
+          "end": 8.82,
+          "probability": 1.0
+        },
+        {
+          "word": " stuff.",
+          "start": 8.82,
+          "end": 9.16,
+          "probability": 1.0
+        },
+        {
+          "word": " Most",
+          "start": 9.7,
+          "end": 10.3,
+          "probability": 1.0
+        },
+        {
+          "word": " people",
+          "start": 10.3,
+          "end": 10.52,
+          "probability": 1.0
+        },
+        {
+          "word": " think",
+          "start": 10.52,
+          "end": 10.86,
+          "probability": 1.0
+        },
+        {
+          "word": " that",
+          "start": 10.86,
+          "end": 11.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " charging",
+          "start": 11.06,
+          "end": 11.44,
+          "probability": 1.0
+        },
+        {
+          "word": " something",
+          "start": 11.44,
+          "end": 11.84,
+          "probability": 1.0
+        },
+        {
+          "word": " versus",
+          "start": 11.84,
+          "end": 12.24,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " giving",
+          "start": 12.24,
+          "end": 12.6,
+          "probability": 1.0
+        },
+        {
+          "word": " something",
+          "start": 12.6,
+          "end": 12.96,
+          "probability": 1.0
+        },
+        {
+          "word": " away",
+          "start": 12.96,
+          "end": 13.26,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.26,
+      "end": 18.62,
+      "text": " for free brings a higher quality customer. And that's true, but you can actually take it a step",
+      "tokens": [
+        51030,
+        337,
+        1737,
+        5607,
+        257,
+        2946,
+        3125,
+        5474,
+        13,
+        400,
+        300,
+        311,
+        2074,
+        11,
+        457,
+        291,
+        393,
+        767,
+        747,
+        309,
+        257,
+        1823,
+        51297
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.061047978357437555,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 1.6038888966951603e-12,
+      "words": [
+        {
+          "word": " for",
+          "start": 13.26,
+          "end": 13.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " free",
+          "start": 13.46,
+          "end": 13.78,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " brings",
+          "start": 13.78,
+          "end": 14.12,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 14.12,
+          "end": 14.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " higher",
+          "start": 14.22,
+          "end": 14.46,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " quality",
+          "start": 14.46,
+          "end": 14.8,
+          "probability": 0.86279296875
+        },
+        {
+          "word": " customer.",
+          "start": 14.8,
+          "end": 15.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " And",
+          "start": 15.46,
+          "end": 16.06,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " that's",
+          "start": 16.06,
+          "end": 16.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " true,",
+          "start": 16.44,
+          "end": 16.8,
+          "probability": 1.0
+        },
+        {
+          "word": " but",
+          "start": 16.96,
+          "end": 17.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " you",
+          "start": 17.42,
+          "end": 17.5,
+          "probability": 1.0
+        },
+        {
+          "word": " can",
+          "start": 17.5,
+          "end": 17.64,
+          "probability": 1.0
+        },
+        {
+          "word": " actually",
+          "start": 17.64,
+          "end": 18.02,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " take",
+          "start": 18.02,
+          "end": 18.3,
+          "probability": 1.0
+        },
+        {
+          "word": " it",
+          "start": 18.3,
+          "end": 18.38,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 18.38,
+          "end": 18.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " step",
+          "start": 18.46,
+          "end": 18.62,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.62,
+      "end": 23.74,
+      "text": " further by testing the low ticket prices. We just got fascinating data back from a split test from",
+      "tokens": [
+        51297,
+        3052,
+        538,
+        4997,
+        264,
+        2295,
+        10550,
+        7901,
+        13,
+        492,
+        445,
+        658,
+        10343,
+        1412,
+        646,
+        490,
+        257,
+        7472,
+        1500,
+        490,
+        51553
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.061047978357437555,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 1.6038888966951603e-12,
+      "words": [
+        {
+          "word": " further",
+          "start": 18.62,
+          "end": 18.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " by",
+          "start": 18.94,
+          "end": 19.16,
+          "probability": 1.0
+        },
+        {
+          "word": " testing",
+          "start": 19.16,
+          "end": 19.48,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " the",
+          "start": 19.48,
+          "end": 19.66,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " low",
+          "start": 19.66,
+          "end": 19.8,
+          "probability": 0.998046875
+        },
+        {
+          "word": " ticket",
+          "start": 19.8,
+          "end": 20.02,
+          "probability": 0.7978515625
+        },
+        {
+          "word": " prices.",
+          "start": 20.02,
+          "end": 20.42,
+          "probability": 1.0
+        },
+        {
+          "word": " We",
+          "start": 20.76,
+          "end": 21.22,
+          "probability": 1.0
+        },
+        {
+          "word": " just",
+          "start": 21.22,
+          "end": 21.42,
+          "probability": 1.0
+        },
+        {
+          "word": " got",
+          "start": 21.42,
+          "end": 21.6,
+          "probability": 1.0
+        },
+        {
+          "word": " fascinating",
+          "start": 21.6,
+          "end": 22.2,
+          "probability": 1.0
+        },
+        {
+          "word": " data",
+          "start": 22.2,
+          "end": 22.5,
+          "probability": 1.0
+        },
+        {
+          "word": " back",
+          "start": 22.5,
+          "end": 22.84,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " from",
+          "start": 22.84,
+          "end": 23.04,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 23.04,
+          "end": 23.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " split",
+          "start": 23.14,
+          "end": 23.34,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " test",
+          "start": 23.34,
+          "end": 23.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " from",
+          "start": 23.6,
+          "end": 23.74,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.74,
+      "end": 28.32,
+      "text": " one of our portfolio companies that made us a lot of money. Here's what we tested. Two identical",
+      "tokens": [
+        51553,
+        472,
+        295,
+        527,
+        12583,
+        3431,
+        300,
+        1027,
+        505,
+        257,
+        688,
+        295,
+        1460,
+        13,
+        1692,
+        311,
+        437,
+        321,
+        8246,
+        13,
+        4453,
+        14800,
+        51782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.061047978357437555,
+      "compression_ratio": 1.5833333333333333,
+      "no_speech_prob": 1.6038888966951603e-12,
+      "words": [
+        {
+          "word": " one",
+          "start": 23.74,
+          "end": 23.84,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " of",
+          "start": 23.84,
+          "end": 23.92,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " our",
+          "start": 23.92,
+          "end": 24.04,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " portfolio",
+          "start": 24.04,
+          "end": 24.4,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " companies",
+          "start": 24.4,
+          "end": 24.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " that",
+          "start": 24.78,
+          "end": 24.96,
+          "probability": 1.0
+        },
+        {
+          "word": " made",
+          "start": 24.96,
+          "end": 25.12,
+          "probability": 1.0
+        },
+        {
+          "word": " us",
+          "start": 25.12,
+          "end": 25.26,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " a",
+          "start": 25.26,
+          "end": 25.38,
+          "probability": 1.0
+        },
+        {
+          "word": " lot",
+          "start": 25.38,
+          "end": 25.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " of",
+          "start": 25.46,
+          "end": 25.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " money.",
+          "start": 25.58,
+          "end": 25.82,
+          "probability": 1.0
+        },
+        {
+          "word": " Here's",
+          "start": 26.16,
+          "end": 26.72,
+          "probability": 1.0
+        },
+        {
+          "word": " what",
+          "start": 26.72,
+          "end": 26.82,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " we",
+          "start": 26.82,
+          "end": 26.92,
+          "probability": 1.0
+        },
+        {
+          "word": " tested.",
+          "start": 26.92,
+          "end": 27.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Two",
+          "start": 27.64,
+          "end": 27.96,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " identical",
+          "start": 27.96,
+          "end": 28.32,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2832,
+      "start": 28.32,
+      "end": 34.38,
+      "text": " sales funnels, the only difference was the ticket price. So group A had a $49 ticket price,",
+      "tokens": [
+        50365,
+        5763,
+        1019,
+        19936,
+        11,
+        264,
+        787,
+        2649,
+        390,
+        264,
+        10550,
+        3218,
+        13,
+        407,
+        1594,
+        316,
+        632,
+        257,
+        1848,
+        14938,
+        10550,
+        3218,
+        11,
+        50668
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08669409125742286,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 6.66334066916352e-13,
+      "words": [
+        {
+          "word": " sales",
+          "start": 28.32,
+          "end": 28.66,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " funnels,",
+          "start": 28.66,
+          "end": 29.0,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 29.16,
+          "end": 29.34,
+          "probability": 1.0
+        },
+        {
+          "word": " only",
+          "start": 29.34,
+          "end": 29.54,
+          "probability": 1.0
+        },
+        {
+          "word": " difference",
+          "start": 29.54,
+          "end": 29.84,
+          "probability": 1.0
+        },
+        {
+          "word": " was",
+          "start": 29.84,
+          "end": 30.38,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 30.38,
+          "end": 30.64,
+          "probability": 1.0
+        },
+        {
+          "word": " ticket",
+          "start": 30.64,
+          "end": 30.96,
+          "probability": 1.0
+        },
+        {
+          "word": " price.",
+          "start": 30.96,
+          "end": 31.34,
+          "probability": 1.0
+        },
+        {
+          "word": " So",
+          "start": 31.76,
+          "end": 32.06,
+          "probability": 0.9462890625
+        },
+        {
+          "word": " group",
+          "start": 32.06,
+          "end": 32.34,
+          "probability": 0.630859375
+        },
+        {
+          "word": " A",
+          "start": 32.34,
+          "end": 32.6,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " had",
+          "start": 32.6,
+          "end": 32.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 32.94,
+          "end": 33.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " $49",
+          "start": 33.06,
+          "end": 33.54,
+          "probability": 0.998046875
+        },
+        {
+          "word": " ticket",
+          "start": 33.54,
+          "end": 33.98,
+          "probability": 0.998046875
+        },
+        {
+          "word": " price,",
+          "start": 33.98,
+          "end": 34.38,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2832,
+      "start": 34.54,
+      "end": 41.02,
+      "text": " group B $97 ticket price. So the LTV changes over time between the two groups is what shocked us.",
+      "tokens": [
+        50688,
+        1594,
+        363,
+        1848,
+        23247,
+        10550,
+        3218,
+        13,
+        407,
+        264,
+        441,
+        12586,
+        2962,
+        670,
+        565,
+        1296,
+        264,
+        732,
+        3935,
+        307,
+        437,
+        12763,
+        505,
+        13,
+        51002
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08669409125742286,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 6.66334066916352e-13,
+      "words": [
+        {
+          "word": " group",
+          "start": 34.54,
+          "end": 34.9,
+          "probability": 0.998046875
+        },
+        {
+          "word": " B",
+          "start": 34.9,
+          "end": 35.18,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " $97",
+          "start": 35.18,
+          "end": 35.98,
+          "probability": 0.90380859375
+        },
+        {
+          "word": " ticket",
+          "start": 35.98,
+          "end": 36.38,
+          "probability": 1.0
+        },
+        {
+          "word": " price.",
+          "start": 36.38,
+          "end": 36.7,
+          "probability": 1.0
+        },
+        {
+          "word": " So",
+          "start": 36.9,
+          "end": 37.52,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 37.52,
+          "end": 37.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " LTV",
+          "start": 37.78,
+          "end": 38.12,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " changes",
+          "start": 38.12,
+          "end": 38.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " over",
+          "start": 38.56,
+          "end": 38.96,
+          "probability": 1.0
+        },
+        {
+          "word": " time",
+          "start": 38.96,
+          "end": 39.3,
+          "probability": 1.0
+        },
+        {
+          "word": " between",
+          "start": 39.3,
+          "end": 39.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " the",
+          "start": 39.56,
+          "end": 39.76,
+          "probability": 1.0
+        },
+        {
+          "word": " two",
+          "start": 39.76,
+          "end": 39.86,
+          "probability": 0.998046875
+        },
+        {
+          "word": " groups",
+          "start": 39.86,
+          "end": 40.14,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " is",
+          "start": 40.14,
+          "end": 40.28,
+          "probability": 1.0
+        },
+        {
+          "word": " what",
+          "start": 40.28,
+          "end": 40.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " shocked",
+          "start": 40.42,
+          "end": 40.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " us.",
+          "start": 40.78,
+          "end": 41.02,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2832,
+      "start": 41.2,
+      "end": 48.44,
+      "text": " So LTV by day zero, so right up front, 51.42. So basically 51 bucks and 42 cents,",
+      "tokens": [
+        51012,
+        407,
+        441,
+        12586,
+        538,
+        786,
+        4018,
+        11,
+        370,
+        558,
+        493,
+        1868,
+        11,
+        18485,
+        13,
+        15628,
+        13,
+        407,
+        1936,
+        18485,
+        11829,
+        293,
+        14034,
+        14941,
+        11,
+        51373
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08669409125742286,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 6.66334066916352e-13,
+      "words": [
+        {
+          "word": " So",
+          "start": 41.2,
+          "end": 41.76,
+          "probability": 1.0
+        },
+        {
+          "word": " LTV",
+          "start": 41.76,
+          "end": 42.22,
+          "probability": 1.0
+        },
+        {
+          "word": " by",
+          "start": 42.22,
+          "end": 42.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " day",
+          "start": 42.48,
+          "end": 42.68,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " zero,",
+          "start": 42.68,
+          "end": 43.14,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " so",
+          "start": 43.36,
+          "end": 43.44,
+          "probability": 1.0
+        },
+        {
+          "word": " right",
+          "start": 43.44,
+          "end": 43.64,
+          "probability": 1.0
+        },
+        {
+          "word": " up",
+          "start": 43.64,
+          "end": 43.8,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " front,",
+          "start": 43.8,
+          "end": 44.1,
+          "probability": 1.0
+        },
+        {
+          "word": " 51",
+          "start": 44.34,
+          "end": 45.16,
+          "probability": 0.90380859375
+        },
+        {
+          "word": ".42.",
+          "start": 45.16,
+          "end": 46.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " So",
+          "start": 46.62,
+          "end": 46.72,
+          "probability": 1.0
+        },
+        {
+          "word": " basically",
+          "start": 46.72,
+          "end": 46.98,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " 51",
+          "start": 46.98,
+          "end": 47.42,
+          "probability": 0.8857421875
+        },
+        {
+          "word": " bucks",
+          "start": 47.42,
+          "end": 47.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " and",
+          "start": 47.7,
+          "end": 47.86,
+          "probability": 0.984375
+        },
+        {
+          "word": " 42",
+          "start": 47.86,
+          "end": 48.18,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " cents,",
+          "start": 48.18,
+          "end": 48.44,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2832,
+      "start": 48.64,
+      "end": 55.5,
+      "text": " exactly what you'd expect because $97 minus 49 is $52. So the immediate value was obviously",
+      "tokens": [
+        51381,
+        2293,
+        437,
+        291,
+        1116,
+        2066,
+        570,
+        1848,
+        23247,
+        3175,
+        16513,
+        307,
+        1848,
+        17602,
+        13,
+        407,
+        264,
+        11629,
+        2158,
+        390,
+        2745,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08669409125742286,
+      "compression_ratio": 1.5316455696202531,
+      "no_speech_prob": 6.66334066916352e-13,
+      "words": [
+        {
+          "word": " exactly",
+          "start": 48.64,
+          "end": 49.04,
+          "probability": 1.0
+        },
+        {
+          "word": " what",
+          "start": 49.04,
+          "end": 49.2,
+          "probability": 1.0
+        },
+        {
+          "word": " you'd",
+          "start": 49.2,
+          "end": 49.38,
+          "probability": 1.0
+        },
+        {
+          "word": " expect",
+          "start": 49.38,
+          "end": 49.74,
+          "probability": 1.0
+        },
+        {
+          "word": " because",
+          "start": 49.74,
+          "end": 50.04,
+          "probability": 0.9599609375
+        },
+        {
+          "word": " $97",
+          "start": 50.04,
+          "end": 50.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " minus",
+          "start": 50.62,
+          "end": 51.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 49",
+          "start": 51.2,
+          "end": 51.66,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " is",
+          "start": 51.66,
+          "end": 52.32,
+          "probability": 1.0
+        },
+        {
+          "word": " $52.",
+          "start": 52.32,
+          "end": 52.74,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " So",
+          "start": 53.1,
+          "end": 53.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " the",
+          "start": 53.22,
+          "end": 53.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " immediate",
+          "start": 53.72,
+          "end": 54.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " value",
+          "start": 54.18,
+          "end": 54.66,
+          "probability": 1.0
+        },
+        {
+          "word": " was",
+          "start": 54.66,
+          "end": 54.98,
+          "probability": 1.0
+        },
+        {
+          "word": " obviously",
+          "start": 54.98,
+          "end": 55.5,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5550,
+      "start": 55.5,
+      "end": 61.86,
+      "text": " the difference in price. Now by day 30, this is where it got interesting. Now the $97 customers",
+      "tokens": [
+        50365,
+        264,
+        2649,
+        294,
+        3218,
+        13,
+        823,
+        538,
+        786,
+        2217,
+        11,
+        341,
+        307,
+        689,
+        309,
+        658,
+        1880,
+        13,
+        823,
+        264,
+        1848,
+        23247,
+        4581,
+        50683
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08578132721314947,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 6.689449341679143e-13,
+      "words": [
+        {
+          "word": " the",
+          "start": 55.5,
+          "end": 55.66,
+          "probability": 0.9580078125
+        },
+        {
+          "word": " difference",
+          "start": 55.66,
+          "end": 55.88,
+          "probability": 1.0
+        },
+        {
+          "word": " in",
+          "start": 55.88,
+          "end": 56.04,
+          "probability": 1.0
+        },
+        {
+          "word": " price.",
+          "start": 56.04,
+          "end": 56.3,
+          "probability": 1.0
+        },
+        {
+          "word": " Now",
+          "start": 56.56,
+          "end": 57.16,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " by",
+          "start": 57.16,
+          "end": 57.34,
+          "probability": 0.603515625
+        },
+        {
+          "word": " day",
+          "start": 57.34,
+          "end": 57.52,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " 30,",
+          "start": 57.52,
+          "end": 57.9,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " this",
+          "start": 58.06,
+          "end": 58.16,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 58.16,
+          "end": 58.26,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " where",
+          "start": 58.26,
+          "end": 58.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " it",
+          "start": 58.38,
+          "end": 58.46,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " got",
+          "start": 58.46,
+          "end": 58.56,
+          "probability": 1.0
+        },
+        {
+          "word": " interesting.",
+          "start": 58.56,
+          "end": 59.1,
+          "probability": 1.0
+        },
+        {
+          "word": " Now",
+          "start": 59.58,
+          "end": 60.18,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 60.18,
+          "end": 60.42,
+          "probability": 0.95849609375
+        },
+        {
+          "word": " $97",
+          "start": 60.42,
+          "end": 60.92,
+          "probability": 0.994140625
+        },
+        {
+          "word": " customers",
+          "start": 60.92,
+          "end": 61.86,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5550,
+      "start": 61.86,
+      "end": 71.74,
+      "text": " were worth $212 more. By day 120, they were worth $292 more. And by day 180, they were worth $891",
+      "tokens": [
+        50683,
+        645,
+        3163,
+        1848,
+        4436,
+        17,
+        544,
+        13,
+        3146,
+        786,
+        10411,
+        11,
+        436,
+        645,
+        3163,
+        1848,
+        11871,
+        17,
+        544,
+        13,
+        400,
+        538,
+        786,
+        11971,
+        11,
+        436,
+        645,
+        3163,
+        1848,
+        21115,
+        16,
+        51178
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08578132721314947,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 6.689449341679143e-13,
+      "words": [
+        {
+          "word": " were",
+          "start": 61.86,
+          "end": 62.54,
+          "probability": 1.0
+        },
+        {
+          "word": " worth",
+          "start": 62.54,
+          "end": 62.84,
+          "probability": 1.0
+        },
+        {
+          "word": " $212",
+          "start": 62.84,
+          "end": 64.0,
+          "probability": 0.95947265625
+        },
+        {
+          "word": " more.",
+          "start": 64.0,
+          "end": 64.56,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " By",
+          "start": 64.82,
+          "end": 65.34,
+          "probability": 1.0
+        },
+        {
+          "word": " day",
+          "start": 65.34,
+          "end": 65.56,
+          "probability": 1.0
+        },
+        {
+          "word": " 120,",
+          "start": 65.56,
+          "end": 66.04,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " they",
+          "start": 66.34,
+          "end": 66.42,
+          "probability": 1.0
+        },
+        {
+          "word": " were",
+          "start": 66.42,
+          "end": 66.54,
+          "probability": 0.9365234375
+        },
+        {
+          "word": " worth",
+          "start": 66.54,
+          "end": 66.7,
+          "probability": 0.99609375
+        },
+        {
+          "word": " $292",
+          "start": 66.7,
+          "end": 67.82,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " more.",
+          "start": 67.82,
+          "end": 68.32,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " And",
+          "start": 68.54,
+          "end": 68.8,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " by",
+          "start": 68.8,
+          "end": 68.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " day",
+          "start": 68.92,
+          "end": 69.12,
+          "probability": 1.0
+        },
+        {
+          "word": " 180,",
+          "start": 69.12,
+          "end": 69.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " they",
+          "start": 69.88,
+          "end": 69.96,
+          "probability": 1.0
+        },
+        {
+          "word": " were",
+          "start": 69.96,
+          "end": 70.06,
+          "probability": 0.990234375
+        },
+        {
+          "word": " worth",
+          "start": 70.06,
+          "end": 70.24,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " $891",
+          "start": 70.24,
+          "end": 71.74,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5550,
+      "start": 71.74,
+      "end": 80.76,
+      "text": " more. And so the translation is the $97 buyer spent nearly $900 more per person over the 180 days.",
+      "tokens": [
+        51178,
+        544,
+        13,
+        400,
+        370,
+        264,
+        12853,
+        307,
+        264,
+        1848,
+        23247,
+        24645,
+        4418,
+        6217,
+        1848,
+        23943,
+        544,
+        680,
+        954,
+        670,
+        264,
+        11971,
+        1708,
+        13,
+        51629
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08578132721314947,
+      "compression_ratio": 1.6312849162011174,
+      "no_speech_prob": 6.689449341679143e-13,
+      "words": [
+        {
+          "word": " more.",
+          "start": 71.74,
+          "end": 72.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " And",
+          "start": 72.68,
+          "end": 73.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " so",
+          "start": 73.22,
+          "end": 73.3,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 73.3,
+          "end": 73.42,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " translation",
+          "start": 73.42,
+          "end": 73.82,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " is",
+          "start": 73.82,
+          "end": 74.14,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 74.14,
+          "end": 74.52,
+          "probability": 0.52734375
+        },
+        {
+          "word": " $97",
+          "start": 74.52,
+          "end": 75.08,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " buyer",
+          "start": 75.08,
+          "end": 75.82,
+          "probability": 0.81689453125
+        },
+        {
+          "word": " spent",
+          "start": 75.82,
+          "end": 76.24,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " nearly",
+          "start": 76.24,
+          "end": 76.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $900",
+          "start": 76.94,
+          "end": 77.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " more",
+          "start": 77.96,
+          "end": 78.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " per",
+          "start": 78.58,
+          "end": 79.06,
+          "probability": 1.0
+        },
+        {
+          "word": " person",
+          "start": 79.06,
+          "end": 79.52,
+          "probability": 1.0
+        },
+        {
+          "word": " over",
+          "start": 79.52,
+          "end": 79.88,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 79.88,
+          "end": 80.0,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " 180",
+          "start": 80.0,
+          "end": 80.38,
+          "probability": 0.994140625
+        },
+        {
+          "word": " days.",
+          "start": 80.38,
+          "end": 80.76,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8076,
+      "start": 80.76,
+      "end": 86.44,
+      "text": " And here's the kicker. The customer acquisition cost was nearly identical. It was within 15%.",
+      "tokens": [
+        50365,
+        400,
+        510,
+        311,
+        264,
+        4437,
+        260,
+        13,
+        440,
+        5474,
+        21668,
+        2063,
+        390,
+        6217,
+        14800,
+        13,
+        467,
+        390,
+        1951,
+        2119,
+        6856,
+        50656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13105222681066492,
+      "compression_ratio": 1.6311111111111112,
+      "no_speech_prob": 9.251025509873778e-13,
+      "words": [
+        {
+          "word": " And",
+          "start": 80.76,
+          "end": 81.38,
+          "probability": 0.9365234375
+        },
+        {
+          "word": " here's",
+          "start": 81.38,
+          "end": 81.62,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 81.62,
+          "end": 81.72,
+          "probability": 1.0
+        },
+        {
+          "word": " kicker.",
+          "start": 81.72,
+          "end": 82.0,
+          "probability": 1.0
+        },
+        {
+          "word": " The",
+          "start": 82.24,
+          "end": 82.58,
+          "probability": 0.8828125
+        },
+        {
+          "word": " customer",
+          "start": 82.58,
+          "end": 82.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " acquisition",
+          "start": 82.96,
+          "end": 83.4,
+          "probability": 1.0
+        },
+        {
+          "word": " cost",
+          "start": 83.4,
+          "end": 83.8,
+          "probability": 1.0
+        },
+        {
+          "word": " was",
+          "start": 83.8,
+          "end": 84.06,
+          "probability": 1.0
+        },
+        {
+          "word": " nearly",
+          "start": 84.06,
+          "end": 84.52,
+          "probability": 1.0
+        },
+        {
+          "word": " identical.",
+          "start": 84.52,
+          "end": 85.0,
+          "probability": 1.0
+        },
+        {
+          "word": " It",
+          "start": 85.34,
+          "end": 85.34,
+          "probability": 1.0
+        },
+        {
+          "word": " was",
+          "start": 85.34,
+          "end": 85.44,
+          "probability": 1.0
+        },
+        {
+          "word": " within",
+          "start": 85.44,
+          "end": 85.7,
+          "probability": 1.0
+        },
+        {
+          "word": " 15%.",
+          "start": 85.7,
+          "end": 86.44,
+          "probability": 0.9912109375
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8076,
+      "start": 86.44,
+      "end": 94.0,
+      "text": " So maybe you spend 15% to get a customer that's worth 10 times the price. That's a great deal.",
+      "tokens": [
+        50656,
+        407,
+        1310,
+        291,
+        3496,
+        2119,
+        4,
+        281,
+        483,
+        257,
+        5474,
+        300,
+        311,
+        3163,
+        1266,
+        1413,
+        264,
+        3218,
+        13,
+        663,
+        311,
+        257,
+        869,
+        2028,
+        13,
+        51029
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13105222681066492,
+      "compression_ratio": 1.6311111111111112,
+      "no_speech_prob": 9.251025509873778e-13,
+      "words": [
+        {
+          "word": " So",
+          "start": 86.44,
+          "end": 87.18,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " maybe",
+          "start": 87.18,
+          "end": 87.7,
+          "probability": 0.97607421875
+        },
+        {
+          "word": " you",
+          "start": 87.7,
+          "end": 87.8,
+          "probability": 1.0
+        },
+        {
+          "word": " spend",
+          "start": 87.8,
+          "end": 87.98,
+          "probability": 0.79052734375
+        },
+        {
+          "word": " 15",
+          "start": 87.98,
+          "end": 88.5,
+          "probability": 1.0
+        },
+        {
+          "word": "%",
+          "start": 88.5,
+          "end": 88.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 88.8,
+          "end": 89.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " get",
+          "start": 89.04,
+          "end": 89.16,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 89.16,
+          "end": 89.26,
+          "probability": 1.0
+        },
+        {
+          "word": " customer",
+          "start": 89.26,
+          "end": 89.64,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " that's",
+          "start": 89.64,
+          "end": 90.34,
+          "probability": 0.998046875
+        },
+        {
+          "word": " worth",
+          "start": 90.34,
+          "end": 91.04,
+          "probability": 1.0
+        },
+        {
+          "word": " 10",
+          "start": 91.04,
+          "end": 91.66,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " times",
+          "start": 91.66,
+          "end": 92.04,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " the",
+          "start": 92.04,
+          "end": 92.2,
+          "probability": 1.0
+        },
+        {
+          "word": " price.",
+          "start": 92.2,
+          "end": 92.56,
+          "probability": 1.0
+        },
+        {
+          "word": " That's",
+          "start": 92.92,
+          "end": 93.44,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 93.44,
+          "end": 93.52,
+          "probability": 1.0
+        },
+        {
+          "word": " great",
+          "start": 93.52,
+          "end": 93.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " deal.",
+          "start": 93.72,
+          "end": 94.0,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8076,
+      "start": 94.32,
+      "end": 99.26,
+      "text": " So here's the hidden gold. Higher front end prices didn't just make more money up front.",
+      "tokens": [
+        51054,
+        407,
+        510,
+        311,
+        264,
+        7633,
+        3821,
+        13,
+        31997,
+        1868,
+        917,
+        7901,
+        994,
+        380,
+        445,
+        652,
+        544,
+        1460,
+        493,
+        1868,
+        13,
+        51291
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13105222681066492,
+      "compression_ratio": 1.6311111111111112,
+      "no_speech_prob": 9.251025509873778e-13,
+      "words": [
+        {
+          "word": " So",
+          "start": 94.32,
+          "end": 94.84,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " here's",
+          "start": 94.84,
+          "end": 95.08,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 95.08,
+          "end": 95.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " hidden",
+          "start": 95.16,
+          "end": 95.32,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " gold.",
+          "start": 95.32,
+          "end": 95.58,
+          "probability": 0.849609375
+        },
+        {
+          "word": " Higher",
+          "start": 96.12,
+          "end": 96.64,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " front",
+          "start": 96.64,
+          "end": 96.92,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " end",
+          "start": 96.92,
+          "end": 97.04,
+          "probability": 0.55712890625
+        },
+        {
+          "word": " prices",
+          "start": 97.04,
+          "end": 97.44,
+          "probability": 1.0
+        },
+        {
+          "word": " didn't",
+          "start": 97.44,
+          "end": 98.02,
+          "probability": 1.0
+        },
+        {
+          "word": " just",
+          "start": 98.02,
+          "end": 98.24,
+          "probability": 1.0
+        },
+        {
+          "word": " make",
+          "start": 98.24,
+          "end": 98.46,
+          "probability": 1.0
+        },
+        {
+          "word": " more",
+          "start": 98.46,
+          "end": 98.66,
+          "probability": 1.0
+        },
+        {
+          "word": " money",
+          "start": 98.66,
+          "end": 98.88,
+          "probability": 1.0
+        },
+        {
+          "word": " up",
+          "start": 98.88,
+          "end": 99.04,
+          "probability": 0.91064453125
+        },
+        {
+          "word": " front.",
+          "start": 99.04,
+          "end": 99.26,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8076,
+      "start": 99.42,
+      "end": 103.72,
+      "text": " They positioned the product better in the customer's minds to get the same customer to be",
+      "tokens": [
+        51304,
+        814,
+        24889,
+        264,
+        1674,
+        1101,
+        294,
+        264,
+        5474,
+        311,
+        9634,
+        281,
+        483,
+        264,
+        912,
+        5474,
+        281,
+        312,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13105222681066492,
+      "compression_ratio": 1.6311111111111112,
+      "no_speech_prob": 9.251025509873778e-13,
+      "words": [
+        {
+          "word": " They",
+          "start": 99.42,
+          "end": 99.82,
+          "probability": 1.0
+        },
+        {
+          "word": " positioned",
+          "start": 99.82,
+          "end": 100.28,
+          "probability": 0.7490234375
+        },
+        {
+          "word": " the",
+          "start": 100.28,
+          "end": 100.46,
+          "probability": 1.0
+        },
+        {
+          "word": " product",
+          "start": 100.46,
+          "end": 100.78,
+          "probability": 1.0
+        },
+        {
+          "word": " better",
+          "start": 100.78,
+          "end": 101.08,
+          "probability": 1.0
+        },
+        {
+          "word": " in",
+          "start": 101.08,
+          "end": 101.34,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 101.34,
+          "end": 101.44,
+          "probability": 1.0
+        },
+        {
+          "word": " customer's",
+          "start": 101.44,
+          "end": 101.92,
+          "probability": 0.9736328125
+        },
+        {
+          "word": " minds",
+          "start": 101.92,
+          "end": 102.24,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " to",
+          "start": 102.24,
+          "end": 102.46,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 102.46,
+          "end": 102.62,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 102.62,
+          "end": 102.78,
+          "probability": 1.0
+        },
+        {
+          "word": " same",
+          "start": 102.78,
+          "end": 103.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " customer",
+          "start": 103.02,
+          "end": 103.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 103.42,
+          "end": 103.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " be",
+          "start": 103.6,
+          "end": 103.72,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10372,
+      "start": 103.72,
+      "end": 111.4,
+      "text": " willing to pay more and attracted better buyers. And we're talking 41% plus higher lifetime value",
+      "tokens": [
+        50365,
+        4950,
+        281,
+        1689,
+        544,
+        293,
+        15912,
+        1101,
+        23465,
+        13,
+        400,
+        321,
+        434,
+        1417,
+        18173,
+        4,
+        1804,
+        2946,
+        11364,
+        2158,
+        50750
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1036751793652046,
+      "compression_ratio": 1.4261603375527425,
+      "no_speech_prob": 6.432536794886978e-13,
+      "words": [
+        {
+          "word": " willing",
+          "start": 103.72,
+          "end": 104.08,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " to",
+          "start": 104.08,
+          "end": 104.26,
+          "probability": 1.0
+        },
+        {
+          "word": " pay",
+          "start": 104.26,
+          "end": 104.48,
+          "probability": 1.0
+        },
+        {
+          "word": " more",
+          "start": 104.48,
+          "end": 104.88,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 104.88,
+          "end": 105.7,
+          "probability": 0.81298828125
+        },
+        {
+          "word": " attracted",
+          "start": 105.7,
+          "end": 106.62,
+          "probability": 0.98583984375
+        },
+        {
+          "word": " better",
+          "start": 106.62,
+          "end": 106.9,
+          "probability": 1.0
+        },
+        {
+          "word": " buyers.",
+          "start": 106.9,
+          "end": 107.46,
+          "probability": 1.0
+        },
+        {
+          "word": " And",
+          "start": 107.64,
+          "end": 108.0,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " we're",
+          "start": 108.0,
+          "end": 108.18,
+          "probability": 1.0
+        },
+        {
+          "word": " talking",
+          "start": 108.18,
+          "end": 108.44,
+          "probability": 1.0
+        },
+        {
+          "word": " 41",
+          "start": 108.44,
+          "end": 109.16,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "%",
+          "start": 109.16,
+          "end": 109.46,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " plus",
+          "start": 109.46,
+          "end": 110.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " higher",
+          "start": 110.02,
+          "end": 110.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " lifetime",
+          "start": 110.72,
+          "end": 111.02,
+          "probability": 0.9658203125
+        },
+        {
+          "word": " value",
+          "start": 111.02,
+          "end": 111.4,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10372,
+      "start": 111.4,
+      "end": 118.02,
+      "text": " at 180 from one change. So my takeaway is your front end price isn't just a revenue decision,",
+      "tokens": [
+        50750,
+        412,
+        11971,
+        490,
+        472,
+        1319,
+        13,
+        407,
+        452,
+        30681,
+        307,
+        428,
+        1868,
+        917,
+        3218,
+        1943,
+        380,
+        445,
+        257,
+        9324,
+        3537,
+        11,
+        51081
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1036751793652046,
+      "compression_ratio": 1.4261603375527425,
+      "no_speech_prob": 6.432536794886978e-13,
+      "words": [
+        {
+          "word": " at",
+          "start": 111.4,
+          "end": 111.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 180",
+          "start": 111.58,
+          "end": 112.04,
+          "probability": 0.8623046875
+        },
+        {
+          "word": " from",
+          "start": 112.04,
+          "end": 112.68,
+          "probability": 0.9814453125
+        },
+        {
+          "word": " one",
+          "start": 112.68,
+          "end": 113.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " change.",
+          "start": 113.06,
+          "end": 113.5,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " So",
+          "start": 113.74,
+          "end": 114.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " my",
+          "start": 114.36,
+          "end": 114.72,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " takeaway",
+          "start": 114.72,
+          "end": 115.02,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " is",
+          "start": 115.02,
+          "end": 115.36,
+          "probability": 1.0
+        },
+        {
+          "word": " your",
+          "start": 115.36,
+          "end": 116.12,
+          "probability": 0.91796875
+        },
+        {
+          "word": " front",
+          "start": 116.12,
+          "end": 116.36,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " end",
+          "start": 116.36,
+          "end": 116.48,
+          "probability": 0.791015625
+        },
+        {
+          "word": " price",
+          "start": 116.48,
+          "end": 116.76,
+          "probability": 1.0
+        },
+        {
+          "word": " isn't",
+          "start": 116.76,
+          "end": 117.06,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " just",
+          "start": 117.06,
+          "end": 117.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " a",
+          "start": 117.18,
+          "end": 117.32,
+          "probability": 1.0
+        },
+        {
+          "word": " revenue",
+          "start": 117.32,
+          "end": 117.64,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " decision,",
+          "start": 117.64,
+          "end": 118.02,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10372,
+      "start": 118.26,
+      "end": 126.32,
+      "text": " it's a customer quality filter. Profit hack number 22. Time-based surge pricing.",
+      "tokens": [
+        51081,
+        309,
+        311,
+        257,
+        5474,
+        3125,
+        6608,
+        13,
+        6039,
+        270,
+        10339,
+        1230,
+        5853,
+        13,
+        6161,
+        12,
+        6032,
+        18989,
+        17621,
+        13,
+        51495
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1036751793652046,
+      "compression_ratio": 1.4261603375527425,
+      "no_speech_prob": 6.432536794886978e-13,
+      "words": [
+        {
+          "word": " it's",
+          "start": 118.26,
+          "end": 118.44,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 118.44,
+          "end": 118.56,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " customer",
+          "start": 118.56,
+          "end": 119.1,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " quality",
+          "start": 119.1,
+          "end": 119.64,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " filter.",
+          "start": 119.64,
+          "end": 120.1,
+          "probability": 1.0
+        },
+        {
+          "word": " Profit",
+          "start": 121.16,
+          "end": 121.82,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " hack",
+          "start": 121.82,
+          "end": 122.32,
+          "probability": 0.9697265625
+        },
+        {
+          "word": " number",
+          "start": 122.32,
+          "end": 123.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 22.",
+          "start": 123.1,
+          "end": 123.66,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Time",
+          "start": 124.54,
+          "end": 125.2,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "-based",
+          "start": 125.2,
+          "end": 125.54,
+          "probability": 0.92578125
+        },
+        {
+          "word": " surge",
+          "start": 125.54,
+          "end": 125.9,
+          "probability": 0.8671875
+        },
+        {
+          "word": " pricing.",
+          "start": 125.9,
+          "end": 126.32,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10372,
+      "start": 127.0,
+      "end": 129.98,
+      "text": " If you're charging the same amount during your busy times as your",
+      "tokens": [
+        51531,
+        759,
+        291,
+        434,
+        11379,
+        264,
+        912,
+        2372,
+        1830,
+        428,
+        5856,
+        1413,
+        382,
+        428,
+        51680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1036751793652046,
+      "compression_ratio": 1.4261603375527425,
+      "no_speech_prob": 6.432536794886978e-13,
+      "words": [
+        {
+          "word": " If",
+          "start": 127.0,
+          "end": 127.66,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " you're",
+          "start": 127.66,
+          "end": 127.82,
+          "probability": 1.0
+        },
+        {
+          "word": " charging",
+          "start": 127.82,
+          "end": 128.1,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " the",
+          "start": 128.1,
+          "end": 128.28,
+          "probability": 1.0
+        },
+        {
+          "word": " same",
+          "start": 128.28,
+          "end": 128.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " amount",
+          "start": 128.52,
+          "end": 128.82,
+          "probability": 1.0
+        },
+        {
+          "word": " during",
+          "start": 128.82,
+          "end": 129.04,
+          "probability": 1.0
+        },
+        {
+          "word": " your",
+          "start": 129.04,
+          "end": 129.2,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " busy",
+          "start": 129.2,
+          "end": 129.44,
+          "probability": 1.0
+        },
+        {
+          "word": " times",
+          "start": 129.44,
+          "end": 129.76,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " as",
+          "start": 129.76,
+          "end": 129.94,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " your",
+          "start": 129.94,
+          "end": 129.98,
+          "probability": 0.58154296875
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 12998,
+      "start": 129.96,
+      "end": 129.96,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.4897915522257487,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 3.224236155840998e-11,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

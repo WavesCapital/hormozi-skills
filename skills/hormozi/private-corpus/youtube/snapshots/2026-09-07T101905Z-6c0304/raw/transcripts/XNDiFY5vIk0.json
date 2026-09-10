@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Focus is about the number of things that"
+    },
+    {
+      "endMs": "5840",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "you say [music] no to. People are always"
+    },
+    {
+      "endMs": "7640",
+      "startMs": "4240",
+      "startTimeText": "0:04",
+      "text": "trying to figure out like productivity"
+    },
+    {
+      "endMs": "9440",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "hacks, but they want to add things to"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "7640",
+      "startTimeText": "0:07",
+      "text": "their lives to become more productive,"
+    },
+    {
+      "endMs": "12960",
+      "startMs": "9440",
+      "startTimeText": "0:09",
+      "text": "which is completely counter to what"
+    },
+    {
+      "endMs": "14680",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "focus even means. It's getting rid of"
+    },
+    {
+      "endMs": "17400",
+      "startMs": "12960",
+      "startTimeText": "0:12",
+      "text": "everything that's not the thing is how"
+    },
+    {
+      "endMs": "17400",
+      "startMs": "14680",
+      "startTimeText": "0:14",
+      "text": "you focus."
+    }
+  ],
+  "transcript_only_text": " Focus  is  about  the  number  of  things  that \n you  say  [music]  no  to.  People  are  always \n trying  to  figure  out  like  productivity \n hacks,  but  they  want  to  add  things  to \n their  lives  to  become  more  productive, \n which  is  completely  counter  to  what \n focus  even  means.  It's  getting  rid  of \n everything  that's  not  the  thing  is  how \n you  focus.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XNDiFY5vIk0",
+  "videoId": "XNDiFY5vIk0"
+}

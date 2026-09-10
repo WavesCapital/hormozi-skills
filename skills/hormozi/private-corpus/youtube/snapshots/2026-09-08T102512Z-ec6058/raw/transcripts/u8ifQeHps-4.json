@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When I'm forced to make a decision"
+    },
+    {
+      "endMs": "4320",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "between two things, I prefer to choose"
+    },
+    {
+      "endMs": "6200",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "the one that's the more [music] epic"
+    },
+    {
+      "endMs": "8600",
+      "startMs": "4320",
+      "startTimeText": "0:04",
+      "text": "story. I've thought about that frame a"
+    },
+    {
+      "endMs": "10040",
+      "startMs": "6200",
+      "startTimeText": "0:06",
+      "text": "lot and it's still continued to win out"
+    },
+    {
+      "endMs": "11400",
+      "startMs": "8600",
+      "startTimeText": "0:08",
+      "text": "because either you have an epic story of"
+    },
+    {
+      "endMs": "14000",
+      "startMs": "10040",
+      "startTimeText": "0:10",
+      "text": "failure or you have an epic story of"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "11400",
+      "startTimeText": "0:11",
+      "text": "success, but no 85-year-olds regretting"
+    },
+    {
+      "endMs": "18680",
+      "startMs": "14000",
+      "startTimeText": "0:14",
+      "text": "their epic stories. They are regretting"
+    },
+    {
+      "endMs": "18680",
+      "startMs": "15560",
+      "startTimeText": "0:15",
+      "text": "the stories they never told."
+    }
+  ],
+  "transcript_only_text": " When  I'm  forced  to  make  a  decision \n between  two  things,  I  prefer  to  choose \n the  one  that's  the  more  [music]  epic \n story.  I've  thought  about  that  frame  a \n lot  and  it's  still  continued  to  win  out \n because  either  you  have  an  epic  story  of \n failure  or  you  have  an  epic  story  of \n success,  but  no  85-year-olds  regretting \n their  epic  stories.  They  are  regretting \n the  stories  they  never  told.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=u8ifQeHps-4",
+  "videoId": "u8ifQeHps-4"
+}

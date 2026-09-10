@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The Rocky cut scene lasts two minutes inthe movie, but it can last five years in"
+    },
+    {
+      "endMs": "9560",
+      "startMs": "5040",
+      "startTimeText": "0:05",
+      "text": "real life. [music] And there is nobackground music. You know what I mean?"
+    },
+    {
+      "endMs": "13360",
+      "startMs": "8240",
+      "startTimeText": "0:08",
+      "text": "And there's no audience waiting to cheerfor you, and you don't know that you're"
+    },
+    {
+      "endMs": "16640",
+      "startMs": "11120",
+      "startTimeText": "0:11",
+      "text": "going to beat Apollo Creed.So, you're in it for five years, and I"
+    },
+    {
+      "endMs": "20560",
+      "startMs": "15200",
+      "startTimeText": "0:15",
+      "text": "think the hard part of entrepreneurshipis the uncertainty that you don't know"
+    },
+    {
+      "endMs": "23640",
+      "startMs": "18560",
+      "startTimeText": "0:18",
+      "text": "if it's going [music] to work out.But taking to the other natural extreme,"
+    },
+    {
+      "endMs": "26480",
+      "startMs": "21960",
+      "startTimeText": "0:21",
+      "text": "if you did know and you were guaranteedthat it was going to work, it wouldn't"
+    },
+    {
+      "endMs": "29600",
+      "startMs": "24800",
+      "startTimeText": "0:24",
+      "text": "be worth it. We want a guarantee from aworld that doesn't give any."
+    },
+    {
+      "endMs": "32880",
+      "startMs": "28320",
+      "startTimeText": "0:28",
+      "text": "And the fact that it doesn't give aguarantee is what makes it worth it."
+    }
+  ],
+  "transcript_only_text": " The Rocky cut scene lasts two minutes in\nthe movie, but it can last five years in real life. [music] And there is no\nbackground music. You know what I mean? And there's no audience waiting to cheer\nfor you, and you don't know that you're going to beat Apollo Creed.\nSo, you're in it for five years, and I think the hard part of entrepreneurship\nis the uncertainty that you don't know if it's going [music] to work out.\nBut taking to the other natural extreme, if you did know and you were guaranteed\nthat it was going to work, it wouldn't be worth it. We want a guarantee from a\nworld that doesn't give any. And the fact that it doesn't give a\nguarantee is what makes it worth it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=LNEYVyxAf-g",
+  "videoId": "LNEYVyxAf-g"
+}

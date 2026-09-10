@@ -1,0 +1,1327 @@
+{
+  "text": " physical products offer, the boot factory offer. One pair of boots, $200. Buy X, get Y free offer. Buy one for $600, get two pairs free. End result, they still buy three pairs of $200 boots for a total of $600. Three versions. Now here's three different versions for an 18 months of services agreement, aka three pairs of boots. Here's a good version. Buy 12 months, get six months free, $1,800. Here's a better version. Buy six months, get six months free, $1,800. Here's the best version. Buy six months, get 12 months free. $1,800. Everyone pays the same price for the same amount of service, but the third option is the most compelling. Hint, it has the most free stuff. Important notes. Buy X, get Y free gets people to buy more stuff and provide more value. It used to take a whole year for some of my service businesses to make their money, but",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.3,
+      "text": " physical products offer, the boot factory offer. One pair of boots, $200. Buy X, get Y free offer.",
+      "tokens": [
+        50365,
+        4001,
+        3383,
+        2626,
+        11,
+        264,
+        11450,
+        9265,
+        2626,
+        13,
+        1485,
+        6119,
+        295,
+        15194,
+        11,
+        1848,
+        7629,
+        13,
+        19146,
+        1783,
+        11,
+        483,
+        398,
+        1737,
+        2626,
+        13,
+        50631
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07407989786632026,
+      "compression_ratio": 1.8937007874015748,
+      "no_speech_prob": 9.543767685860072e-13,
+      "words": [
+        {
+          "word": " physical",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.95361328125
+        },
+        {
+          "word": " products",
+          "start": 0.18,
+          "end": 0.5,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " offer,",
+          "start": 0.5,
+          "end": 0.76,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " the",
+          "start": 0.98,
+          "end": 1.2,
+          "probability": 0.98779296875
+        },
+        {
+          "word": " boot",
+          "start": 1.2,
+          "end": 1.36,
+          "probability": 0.9013671875
+        },
+        {
+          "word": " factory",
+          "start": 1.36,
+          "end": 1.64,
+          "probability": 1.0
+        },
+        {
+          "word": " offer.",
+          "start": 1.64,
+          "end": 1.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " One",
+          "start": 2.08,
+          "end": 2.36,
+          "probability": 0.994140625
+        },
+        {
+          "word": " pair",
+          "start": 2.36,
+          "end": 2.54,
+          "probability": 1.0
+        },
+        {
+          "word": " of",
+          "start": 2.54,
+          "end": 2.64,
+          "probability": 1.0
+        },
+        {
+          "word": " boots,",
+          "start": 2.64,
+          "end": 2.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $200.",
+          "start": 3.08,
+          "end": 3.32,
+          "probability": 0.994140625
+        },
+        {
+          "word": " Buy",
+          "start": 3.92,
+          "end": 4.36,
+          "probability": 0.99609375
+        },
+        {
+          "word": " X,",
+          "start": 4.36,
+          "end": 4.56,
+          "probability": 0.9521484375
+        },
+        {
+          "word": " get",
+          "start": 4.68,
+          "end": 4.72,
+          "probability": 0.98583984375
+        },
+        {
+          "word": " Y",
+          "start": 4.72,
+          "end": 4.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " free",
+          "start": 4.88,
+          "end": 5.06,
+          "probability": 0.98046875
+        },
+        {
+          "word": " offer.",
+          "start": 5.06,
+          "end": 5.3,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.64,
+      "end": 10.96,
+      "text": " Buy one for $600, get two pairs free. End result, they still buy three pairs of $200 boots for a",
+      "tokens": [
+        50659,
+        19146,
+        472,
+        337,
+        1848,
+        15707,
+        11,
+        483,
+        732,
+        15494,
+        1737,
+        13,
+        6967,
+        1874,
+        11,
+        436,
+        920,
+        2256,
+        1045,
+        15494,
+        295,
+        1848,
+        7629,
+        15194,
+        337,
+        257,
+        50912
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07407989786632026,
+      "compression_ratio": 1.8937007874015748,
+      "no_speech_prob": 9.543767685860072e-13,
+      "words": [
+        {
+          "word": " Buy",
+          "start": 5.64,
+          "end": 6.02,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " one",
+          "start": 6.02,
+          "end": 6.26,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " for",
+          "start": 6.26,
+          "end": 6.46,
+          "probability": 1.0
+        },
+        {
+          "word": " $600,",
+          "start": 6.46,
+          "end": 7.18,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 7.48,
+          "end": 7.58,
+          "probability": 1.0
+        },
+        {
+          "word": " two",
+          "start": 7.58,
+          "end": 7.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " pairs",
+          "start": 7.74,
+          "end": 7.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " free.",
+          "start": 7.96,
+          "end": 8.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " End",
+          "start": 8.6,
+          "end": 8.68,
+          "probability": 0.32177734375
+        },
+        {
+          "word": " result,",
+          "start": 8.68,
+          "end": 8.96,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " they",
+          "start": 9.2,
+          "end": 9.32,
+          "probability": 1.0
+        },
+        {
+          "word": " still",
+          "start": 9.32,
+          "end": 9.48,
+          "probability": 1.0
+        },
+        {
+          "word": " buy",
+          "start": 9.48,
+          "end": 9.66,
+          "probability": 1.0
+        },
+        {
+          "word": " three",
+          "start": 9.66,
+          "end": 9.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " pairs",
+          "start": 9.8,
+          "end": 10.04,
+          "probability": 1.0
+        },
+        {
+          "word": " of",
+          "start": 10.04,
+          "end": 10.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $200",
+          "start": 10.16,
+          "end": 10.4,
+          "probability": 1.0
+        },
+        {
+          "word": " boots",
+          "start": 10.4,
+          "end": 10.7,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " for",
+          "start": 10.7,
+          "end": 10.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 10.86,
+          "end": 10.96,
+          "probability": 0.97998046875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.96,
+      "end": 17.2,
+      "text": " total of $600. Three versions. Now here's three different versions for an 18 months of services",
+      "tokens": [
+        50912,
+        3217,
+        295,
+        1848,
+        15707,
+        13,
+        6244,
+        9606,
+        13,
+        823,
+        510,
+        311,
+        1045,
+        819,
+        9606,
+        337,
+        364,
+        2443,
+        2493,
+        295,
+        3328,
+        51225
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07407989786632026,
+      "compression_ratio": 1.8937007874015748,
+      "no_speech_prob": 9.543767685860072e-13,
+      "words": [
+        {
+          "word": " total",
+          "start": 10.96,
+          "end": 11.04,
+          "probability": 1.0
+        },
+        {
+          "word": " of",
+          "start": 11.04,
+          "end": 11.16,
+          "probability": 1.0
+        },
+        {
+          "word": " $600.",
+          "start": 11.16,
+          "end": 11.48,
+          "probability": 1.0
+        },
+        {
+          "word": " Three",
+          "start": 12.7,
+          "end": 13.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " versions.",
+          "start": 13.18,
+          "end": 13.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Now",
+          "start": 14.18,
+          "end": 14.66,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " here's",
+          "start": 14.66,
+          "end": 14.9,
+          "probability": 0.86083984375
+        },
+        {
+          "word": " three",
+          "start": 14.9,
+          "end": 15.1,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " different",
+          "start": 15.1,
+          "end": 15.3,
+          "probability": 1.0
+        },
+        {
+          "word": " versions",
+          "start": 15.3,
+          "end": 15.62,
+          "probability": 1.0
+        },
+        {
+          "word": " for",
+          "start": 15.62,
+          "end": 15.96,
+          "probability": 1.0
+        },
+        {
+          "word": " an",
+          "start": 15.96,
+          "end": 16.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 18",
+          "start": 16.1,
+          "end": 16.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " months",
+          "start": 16.44,
+          "end": 16.7,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " of",
+          "start": 16.7,
+          "end": 16.88,
+          "probability": 1.0
+        },
+        {
+          "word": " services",
+          "start": 16.88,
+          "end": 17.2,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.2,
+      "end": 22.88,
+      "text": " agreement, aka three pairs of boots. Here's a good version. Buy 12 months, get six months free,",
+      "tokens": [
+        51225,
+        8106,
+        11,
+        28042,
+        1045,
+        15494,
+        295,
+        15194,
+        13,
+        1692,
+        311,
+        257,
+        665,
+        3037,
+        13,
+        19146,
+        2272,
+        2493,
+        11,
+        483,
+        2309,
+        2493,
+        1737,
+        11,
+        51510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07407989786632026,
+      "compression_ratio": 1.8937007874015748,
+      "no_speech_prob": 9.543767685860072e-13,
+      "words": [
+        {
+          "word": " agreement,",
+          "start": 17.2,
+          "end": 17.6,
+          "probability": 1.0
+        },
+        {
+          "word": " aka",
+          "start": 17.94,
+          "end": 18.22,
+          "probability": 0.89453125
+        },
+        {
+          "word": " three",
+          "start": 18.22,
+          "end": 18.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " pairs",
+          "start": 18.7,
+          "end": 18.96,
+          "probability": 1.0
+        },
+        {
+          "word": " of",
+          "start": 18.96,
+          "end": 19.08,
+          "probability": 1.0
+        },
+        {
+          "word": " boots.",
+          "start": 19.08,
+          "end": 19.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Here's",
+          "start": 19.76,
+          "end": 20.24,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 20.24,
+          "end": 20.32,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " good",
+          "start": 20.32,
+          "end": 20.42,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " version.",
+          "start": 20.42,
+          "end": 20.72,
+          "probability": 1.0
+        },
+        {
+          "word": " Buy",
+          "start": 21.18,
+          "end": 21.56,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " 12",
+          "start": 21.56,
+          "end": 21.8,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " months,",
+          "start": 21.8,
+          "end": 22.08,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 22.22,
+          "end": 22.3,
+          "probability": 1.0
+        },
+        {
+          "word": " six",
+          "start": 22.3,
+          "end": 22.52,
+          "probability": 0.9921875
+        },
+        {
+          "word": " months",
+          "start": 22.52,
+          "end": 22.68,
+          "probability": 1.0
+        },
+        {
+          "word": " free,",
+          "start": 22.68,
+          "end": 22.88,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.24,
+      "end": 28.42,
+      "text": " $1,800. Here's a better version. Buy six months, get six months free, $1,800. Here's the best",
+      "tokens": [
+        51525,
+        1848,
+        16,
+        11,
+        14423,
+        13,
+        1692,
+        311,
+        257,
+        1101,
+        3037,
+        13,
+        19146,
+        2309,
+        2493,
+        11,
+        483,
+        2309,
+        2493,
+        1737,
+        11,
+        1848,
+        16,
+        11,
+        14423,
+        13,
+        1692,
+        311,
+        264,
+        1151,
+        51787
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07407989786632026,
+      "compression_ratio": 1.8937007874015748,
+      "no_speech_prob": 9.543767685860072e-13,
+      "words": [
+        {
+          "word": " $1",
+          "start": 23.24,
+          "end": 23.36,
+          "probability": 0.87890625
+        },
+        {
+          "word": ",800.",
+          "start": 23.36,
+          "end": 23.56,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Here's",
+          "start": 24.02,
+          "end": 24.32,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 24.32,
+          "end": 24.4,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " better",
+          "start": 24.4,
+          "end": 24.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " version.",
+          "start": 24.54,
+          "end": 24.82,
+          "probability": 1.0
+        },
+        {
+          "word": " Buy",
+          "start": 25.26,
+          "end": 25.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " six",
+          "start": 25.42,
+          "end": 25.68,
+          "probability": 0.994140625
+        },
+        {
+          "word": " months,",
+          "start": 25.68,
+          "end": 25.9,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 26.02,
+          "end": 26.16,
+          "probability": 1.0
+        },
+        {
+          "word": " six",
+          "start": 26.16,
+          "end": 26.42,
+          "probability": 1.0
+        },
+        {
+          "word": " months",
+          "start": 26.42,
+          "end": 26.58,
+          "probability": 1.0
+        },
+        {
+          "word": " free,",
+          "start": 26.58,
+          "end": 26.82,
+          "probability": 1.0
+        },
+        {
+          "word": " $1",
+          "start": 27.14,
+          "end": 27.28,
+          "probability": 1.0
+        },
+        {
+          "word": ",800.",
+          "start": 27.28,
+          "end": 27.48,
+          "probability": 1.0
+        },
+        {
+          "word": " Here's",
+          "start": 27.88,
+          "end": 28.14,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 28.14,
+          "end": 28.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " best",
+          "start": 28.24,
+          "end": 28.42,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2842,
+      "start": 28.42,
+      "end": 33.9,
+      "text": " version. Buy six months, get 12 months free. $1,800. Everyone pays the same price for the",
+      "tokens": [
+        50365,
+        3037,
+        13,
+        19146,
+        2309,
+        2493,
+        11,
+        483,
+        2272,
+        2493,
+        1737,
+        13,
+        1848,
+        16,
+        11,
+        14423,
+        13,
+        5198,
+        10604,
+        264,
+        912,
+        3218,
+        337,
+        264,
+        50640
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06722613384849147,
+      "compression_ratio": 1.5836909871244635,
+      "no_speech_prob": 8.930617204951086e-13,
+      "words": [
+        {
+          "word": " version.",
+          "start": 28.42,
+          "end": 28.72,
+          "probability": 0.95556640625
+        },
+        {
+          "word": " Buy",
+          "start": 28.98,
+          "end": 29.32,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " six",
+          "start": 29.32,
+          "end": 29.54,
+          "probability": 0.84130859375
+        },
+        {
+          "word": " months,",
+          "start": 29.54,
+          "end": 29.78,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 29.86,
+          "end": 29.98,
+          "probability": 1.0
+        },
+        {
+          "word": " 12",
+          "start": 29.98,
+          "end": 30.24,
+          "probability": 0.9697265625
+        },
+        {
+          "word": " months",
+          "start": 30.24,
+          "end": 30.46,
+          "probability": 1.0
+        },
+        {
+          "word": " free.",
+          "start": 30.46,
+          "end": 30.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " $1",
+          "start": 30.9,
+          "end": 31.2,
+          "probability": 0.974609375
+        },
+        {
+          "word": ",800.",
+          "start": 31.2,
+          "end": 31.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Everyone",
+          "start": 32.26,
+          "end": 32.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " pays",
+          "start": 32.7,
+          "end": 33.04,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 33.04,
+          "end": 33.18,
+          "probability": 1.0
+        },
+        {
+          "word": " same",
+          "start": 33.18,
+          "end": 33.4,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " price",
+          "start": 33.4,
+          "end": 33.66,
+          "probability": 1.0
+        },
+        {
+          "word": " for",
+          "start": 33.66,
+          "end": 33.82,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 33.82,
+          "end": 33.9,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2842,
+      "start": 33.9,
+      "end": 37.82,
+      "text": " same amount of service, but the third option is the most compelling. Hint, it has the most free",
+      "tokens": [
+        50640,
+        912,
+        2372,
+        295,
+        2643,
+        11,
+        457,
+        264,
+        2636,
+        3614,
+        307,
+        264,
+        881,
+        20050,
+        13,
+        389,
+        686,
+        11,
+        309,
+        575,
+        264,
+        881,
+        1737,
+        50838
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06722613384849147,
+      "compression_ratio": 1.5836909871244635,
+      "no_speech_prob": 8.930617204951086e-13,
+      "words": [
+        {
+          "word": " same",
+          "start": 33.9,
+          "end": 34.02,
+          "probability": 0.97509765625
+        },
+        {
+          "word": " amount",
+          "start": 34.02,
+          "end": 34.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " of",
+          "start": 34.16,
+          "end": 34.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " service,",
+          "start": 34.24,
+          "end": 34.48,
+          "probability": 0.998046875
+        },
+        {
+          "word": " but",
+          "start": 34.6,
+          "end": 34.66,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 34.66,
+          "end": 34.78,
+          "probability": 1.0
+        },
+        {
+          "word": " third",
+          "start": 34.78,
+          "end": 34.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " option",
+          "start": 34.94,
+          "end": 35.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " is",
+          "start": 35.28,
+          "end": 35.48,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 35.48,
+          "end": 35.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " most",
+          "start": 35.6,
+          "end": 35.82,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " compelling.",
+          "start": 35.82,
+          "end": 36.18,
+          "probability": 1.0
+        },
+        {
+          "word": " Hint,",
+          "start": 36.5,
+          "end": 36.94,
+          "probability": 0.994140625
+        },
+        {
+          "word": " it",
+          "start": 37.08,
+          "end": 37.14,
+          "probability": 1.0
+        },
+        {
+          "word": " has",
+          "start": 37.14,
+          "end": 37.32,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 37.32,
+          "end": 37.44,
+          "probability": 1.0
+        },
+        {
+          "word": " most",
+          "start": 37.44,
+          "end": 37.64,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " free",
+          "start": 37.64,
+          "end": 37.82,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2842,
+      "start": 37.82,
+      "end": 44.34,
+      "text": " stuff. Important notes. Buy X, get Y free gets people to buy more stuff and provide more value.",
+      "tokens": [
+        50838,
+        1507,
+        13,
+        42908,
+        5570,
+        13,
+        19146,
+        1783,
+        11,
+        483,
+        398,
+        1737,
+        2170,
+        561,
+        281,
+        2256,
+        544,
+        1507,
+        293,
+        2893,
+        544,
+        2158,
+        13,
+        51162
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06722613384849147,
+      "compression_ratio": 1.5836909871244635,
+      "no_speech_prob": 8.930617204951086e-13,
+      "words": [
+        {
+          "word": " stuff.",
+          "start": 37.82,
+          "end": 38.12,
+          "probability": 1.0
+        },
+        {
+          "word": " Important",
+          "start": 38.98,
+          "end": 39.42,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " notes.",
+          "start": 39.42,
+          "end": 39.72,
+          "probability": 0.990234375
+        },
+        {
+          "word": " Buy",
+          "start": 40.54,
+          "end": 40.82,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " X,",
+          "start": 40.82,
+          "end": 41.1,
+          "probability": 0.91064453125
+        },
+        {
+          "word": " get",
+          "start": 41.22,
+          "end": 41.26,
+          "probability": 0.6640625
+        },
+        {
+          "word": " Y",
+          "start": 41.26,
+          "end": 41.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " free",
+          "start": 41.44,
+          "end": 41.64,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " gets",
+          "start": 41.64,
+          "end": 41.9,
+          "probability": 0.9306640625
+        },
+        {
+          "word": " people",
+          "start": 41.9,
+          "end": 42.22,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 42.22,
+          "end": 42.36,
+          "probability": 1.0
+        },
+        {
+          "word": " buy",
+          "start": 42.36,
+          "end": 42.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " more",
+          "start": 42.54,
+          "end": 42.8,
+          "probability": 1.0
+        },
+        {
+          "word": " stuff",
+          "start": 42.8,
+          "end": 43.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " and",
+          "start": 43.06,
+          "end": 43.48,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " provide",
+          "start": 43.48,
+          "end": 43.8,
+          "probability": 0.91064453125
+        },
+        {
+          "word": " more",
+          "start": 43.8,
+          "end": 44.02,
+          "probability": 1.0
+        },
+        {
+          "word": " value.",
+          "start": 44.02,
+          "end": 44.34,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2842,
+      "start": 44.800000000000004,
+      "end": 49.38,
+      "text": " It used to take a whole year for some of my service businesses to make their money, but",
+      "tokens": [
+        51199,
+        467,
+        1143,
+        281,
+        747,
+        257,
+        1379,
+        1064,
+        337,
+        512,
+        295,
+        452,
+        2643,
+        6011,
+        281,
+        652,
+        641,
+        1460,
+        11,
+        457,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06722613384849147,
+      "compression_ratio": 1.5836909871244635,
+      "no_speech_prob": 8.930617204951086e-13,
+      "words": [
+        {
+          "word": " It",
+          "start": 44.800000000000004,
+          "end": 45.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " used",
+          "start": 45.24,
+          "end": 45.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 45.38,
+          "end": 45.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " take",
+          "start": 45.48,
+          "end": 45.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " a",
+          "start": 45.62,
+          "end": 45.72,
+          "probability": 1.0
+        },
+        {
+          "word": " whole",
+          "start": 45.72,
+          "end": 45.88,
+          "probability": 0.994140625
+        },
+        {
+          "word": " year",
+          "start": 45.88,
+          "end": 46.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " for",
+          "start": 46.1,
+          "end": 46.32,
+          "probability": 1.0
+        },
+        {
+          "word": " some",
+          "start": 46.32,
+          "end": 46.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " of",
+          "start": 46.58,
+          "end": 46.7,
+          "probability": 1.0
+        },
+        {
+          "word": " my",
+          "start": 46.7,
+          "end": 46.84,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " service",
+          "start": 46.84,
+          "end": 47.14,
+          "probability": 0.984375
+        },
+        {
+          "word": " businesses",
+          "start": 47.14,
+          "end": 47.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 47.56,
+          "end": 47.8,
+          "probability": 1.0
+        },
+        {
+          "word": " make",
+          "start": 47.8,
+          "end": 47.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " their",
+          "start": 47.92,
+          "end": 48.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " money,",
+          "start": 48.06,
+          "end": 48.24,
+          "probability": 1.0
+        },
+        {
+          "word": " but",
+          "start": 48.66,
+          "end": 49.38,
+          "probability": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

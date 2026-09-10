@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4280",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Mexican, black, white, Asian, gay,"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "straight, whatever. You will always get"
+    },
+    {
+      "endMs": "8720",
+      "startMs": "4280",
+      "startTimeText": "0:04",
+      "text": "respect for work. You work your ass off,"
+    },
+    {
+      "endMs": "10200",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "people will respect you for it. Now, the"
+    },
+    {
+      "endMs": "11720",
+      "startMs": "8720",
+      "startTimeText": "0:08",
+      "text": "problem comes when you think you're"
+    },
+    {
+      "endMs": "13480",
+      "startMs": "10200",
+      "startTimeText": "0:10",
+      "text": "working your ass off, but you're really"
+    },
+    {
+      "endMs": "15480",
+      "startMs": "11720",
+      "startTimeText": "0:11",
+      "text": "not working that hard. It's kind of like"
+    },
+    {
+      "endMs": "17640",
+      "startMs": "13480",
+      "startTimeText": "0:13",
+      "text": "the 10 hours of prep for a presentation"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "versus 30. You think you're working hard"
+    },
+    {
+      "endMs": "20840",
+      "startMs": "17640",
+      "startTimeText": "0:17",
+      "text": "until you see what hard looks like. But,"
+    },
+    {
+      "endMs": "22320",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "I see that as encouraging because it"
+    },
+    {
+      "endMs": "23560",
+      "startMs": "20840",
+      "startTimeText": "0:20",
+      "text": "means that so many people have so much"
+    },
+    {
+      "endMs": "26840",
+      "startMs": "22320",
+      "startTimeText": "0:22",
+      "text": "underutilized potential because they"
+    },
+    {
+      "endMs": "26840",
+      "startMs": "23560",
+      "startTimeText": "0:23",
+      "text": "just haven't even learned how to work."
+    }
+  ],
+  "transcript_only_text": " Mexican,  black,  white,  Asian,  gay, \n straight,  whatever.  You  will  always  get \n respect  for  work.  You  work  your  ass  off, \n people  will  respect  you  for  it.  Now,  the \n problem  comes  when  you  think  you're \n working  your  ass  off,  but  you're  really \n not  working  that  hard.  It's  kind  of  like \n the  10  hours  of  prep  for  a  presentation \n versus  30.  You  think  you're  working  hard \n until  you  see  what  hard  looks  like.  But, \n I  see  that  as  encouraging  because  it \n means  that  so  many  people  have  so  much \n underutilized  potential  because  they \n just  haven't  even  learned  how  to  work.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=QftfHGuijhs",
+  "videoId": "QftfHGuijhs"
+}

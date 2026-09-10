@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6160",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "You have to learn to suffer."
+    },
+    {
+      "endMs": "8080",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "And you have to learn to suffer for"
+    },
+    {
+      "endMs": "12320",
+      "startMs": "6160",
+      "startTimeText": "0:06",
+      "text": "something that you deem worth suffering"
+    },
+    {
+      "endMs": "15280",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "for. And I don't know of anything more"
+    },
+    {
+      "endMs": "17680",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "valuable to suffer for than the person"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "that you ultimately want to become, the"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "17680",
+      "startTimeText": "0:17",
+      "text": "man that you want to become, the woman"
+    },
+    {
+      "endMs": "23519",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "that you want to become. And when I"
+    },
+    {
+      "endMs": "25680",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "think about that man, I think about how"
+    },
+    {
+      "endMs": "27519",
+      "startMs": "23519",
+      "startTimeText": "0:23",
+      "text": "much suffering would that man have to go"
+    },
+    {
+      "endMs": "29760",
+      "startMs": "25680",
+      "startTimeText": "0:25",
+      "text": "through to become the person that I"
+    },
+    {
+      "endMs": "29760",
+      "startMs": "27519",
+      "startTimeText": "0:27",
+      "text": "envisioned."
+    }
+  ],
+  "transcript_only_text": " You  have  to  learn  to  suffer. \n And  you  have  to  learn  to  suffer  for \n something  that  you  deem  worth  suffering \n for.  And  I  don't  know  of  anything  more \n valuable  to  suffer  for  than  the  person \n that  you  ultimately  want  to  become,  the \n man  that  you  want  to  become,  the  woman \n that  you  want  to  become.  And  when  I \n think  about  that  man,  I  think  about  how \n much  suffering  would  that  man  have  to  go \n through  to  become  the  person  that  I \n envisioned.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wUflN15ulZA",
+  "videoId": "wUflN15ulZA"
+}

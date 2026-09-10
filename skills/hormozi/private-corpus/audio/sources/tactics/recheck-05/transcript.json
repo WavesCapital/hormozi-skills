@@ -1,0 +1,2377 @@
+{
+  "text": " number 62. Are you solving the wrong constraint? Many entrepreneurs try to fix demand when they actually have a supply problem. Figure out which constraint is real before you throw money at marketing. What are supply versus demand constraints? I see businesses waste countless dollars and time solving the wrong problem. They dump money into ads when they can't handle more customers or obsess over operations when no one's buying. Here's how to diagnose which constraint you actually have and what to do about it. Your business is either supply constrained or demand constraint, never both at the same time. So demand constrained means you have capacity, but not enough customers. Supply constrained means you have customers, but not enough capacity. So here's the test. If you doubled your marketing budget tomorrow, would you double your business or create a nightmare? If nightmare, you're supply constrained. If the business doubled, you're demand constrained. So here are real world examples. Restaurant without empty tables. That would be demand constrained. So fix your marketing. Restaurant with two hour wait time. Supply constraint. Fix your operations to move faster, add takeout, raise prices, or expand. Consultant, fully booked three months out. Supply constraint. Raise prices by at least 50%. Consultant with open calendar slots next week. Demands constraint. Get more leads. Bottom line, businesses that are supply constrained often think they need more customers. They don't. They need more margin, more capacity, or both. Fix with higher prices, more operating leverage. Think better client to provider ratio or tech to speed up delivery, or recruiting to expand capacity. Profit tactic number 63, rush is imaginary. The faster you chase success, the slower it seems to arrive.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.96,
+      "text": " number 62. Are you solving the wrong constraint? Many entrepreneurs try to fix demand when they",
+      "tokens": [
+        50365,
+        1230,
+        24536,
+        13,
+        2014,
+        291,
+        12606,
+        264,
+        2085,
+        25534,
+        30,
+        5126,
+        12639,
+        853,
+        281,
+        3191,
+        4733,
+        562,
+        436,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02558635048947092,
+      "compression_ratio": 1.8231511254019293,
+      "no_speech_prob": 9.96374098678754e-13,
+      "words": [
+        {
+          "word": " number",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.82763671875
+        },
+        {
+          "word": " 62.",
+          "start": 0.32,
+          "end": 0.66,
+          "probability": 0.97607421875
+        },
+        {
+          "word": " Are",
+          "start": 1.06,
+          "end": 1.56,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " you",
+          "start": 1.56,
+          "end": 1.72,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " solving",
+          "start": 1.72,
+          "end": 2.06,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 2.06,
+          "end": 2.42,
+          "probability": 1.0
+        },
+        {
+          "word": " wrong",
+          "start": 2.42,
+          "end": 2.58,
+          "probability": 1.0
+        },
+        {
+          "word": " constraint?",
+          "start": 2.58,
+          "end": 2.92,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Many",
+          "start": 3.58,
+          "end": 4.1,
+          "probability": 1.0
+        },
+        {
+          "word": " entrepreneurs",
+          "start": 4.1,
+          "end": 4.58,
+          "probability": 1.0
+        },
+        {
+          "word": " try",
+          "start": 4.58,
+          "end": 4.98,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 4.98,
+          "end": 5.08,
+          "probability": 1.0
+        },
+        {
+          "word": " fix",
+          "start": 5.08,
+          "end": 5.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " demand",
+          "start": 5.28,
+          "end": 5.6,
+          "probability": 1.0
+        },
+        {
+          "word": " when",
+          "start": 5.6,
+          "end": 5.86,
+          "probability": 1.0
+        },
+        {
+          "word": " they",
+          "start": 5.86,
+          "end": 5.96,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.96,
+      "end": 10.18,
+      "text": " actually have a supply problem. Figure out which constraint is real before you throw money at",
+      "tokens": [
+        50665,
+        767,
+        362,
+        257,
+        5847,
+        1154,
+        13,
+        43225,
+        484,
+        597,
+        25534,
+        307,
+        957,
+        949,
+        291,
+        3507,
+        1460,
+        412,
+        50876
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02558635048947092,
+      "compression_ratio": 1.8231511254019293,
+      "no_speech_prob": 9.96374098678754e-13,
+      "words": [
+        {
+          "word": " actually",
+          "start": 5.96,
+          "end": 6.32,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " have",
+          "start": 6.32,
+          "end": 6.5,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 6.5,
+          "end": 6.6,
+          "probability": 0.9921875
+        },
+        {
+          "word": " supply",
+          "start": 6.6,
+          "end": 6.86,
+          "probability": 0.97021484375
+        },
+        {
+          "word": " problem.",
+          "start": 6.86,
+          "end": 7.24,
+          "probability": 1.0
+        },
+        {
+          "word": " Figure",
+          "start": 7.48,
+          "end": 7.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " out",
+          "start": 7.92,
+          "end": 8.08,
+          "probability": 1.0
+        },
+        {
+          "word": " which",
+          "start": 8.08,
+          "end": 8.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " constraint",
+          "start": 8.26,
+          "end": 8.62,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " is",
+          "start": 8.62,
+          "end": 8.88,
+          "probability": 1.0
+        },
+        {
+          "word": " real",
+          "start": 8.88,
+          "end": 9.14,
+          "probability": 1.0
+        },
+        {
+          "word": " before",
+          "start": 9.14,
+          "end": 9.4,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 9.4,
+          "end": 9.54,
+          "probability": 1.0
+        },
+        {
+          "word": " throw",
+          "start": 9.54,
+          "end": 9.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " money",
+          "start": 9.68,
+          "end": 9.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " at",
+          "start": 9.92,
+          "end": 10.18,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.18,
+      "end": 14.58,
+      "text": " marketing. What are supply versus demand constraints? I see businesses waste countless",
+      "tokens": [
+        50876,
+        6370,
+        13,
+        708,
+        366,
+        5847,
+        5717,
+        4733,
+        18491,
+        30,
+        286,
+        536,
+        6011,
+        5964,
+        19223,
+        51094
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02558635048947092,
+      "compression_ratio": 1.8231511254019293,
+      "no_speech_prob": 9.96374098678754e-13,
+      "words": [
+        {
+          "word": " marketing.",
+          "start": 10.18,
+          "end": 10.56,
+          "probability": 1.0
+        },
+        {
+          "word": " What",
+          "start": 10.84,
+          "end": 11.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " are",
+          "start": 11.36,
+          "end": 11.46,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " supply",
+          "start": 11.46,
+          "end": 11.78,
+          "probability": 1.0
+        },
+        {
+          "word": " versus",
+          "start": 11.78,
+          "end": 12.06,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " demand",
+          "start": 12.06,
+          "end": 12.38,
+          "probability": 1.0
+        },
+        {
+          "word": " constraints?",
+          "start": 12.38,
+          "end": 12.72,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " I",
+          "start": 13.16,
+          "end": 13.48,
+          "probability": 1.0
+        },
+        {
+          "word": " see",
+          "start": 13.48,
+          "end": 13.62,
+          "probability": 1.0
+        },
+        {
+          "word": " businesses",
+          "start": 13.62,
+          "end": 14.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " waste",
+          "start": 14.04,
+          "end": 14.28,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " countless",
+          "start": 14.28,
+          "end": 14.58,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.58,
+      "end": 18.46,
+      "text": " dollars and time solving the wrong problem. They dump money into ads when they can't handle more",
+      "tokens": [
+        51094,
+        3808,
+        293,
+        565,
+        12606,
+        264,
+        2085,
+        1154,
+        13,
+        814,
+        11430,
+        1460,
+        666,
+        10342,
+        562,
+        436,
+        393,
+        380,
+        4813,
+        544,
+        51290
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02558635048947092,
+      "compression_ratio": 1.8231511254019293,
+      "no_speech_prob": 9.96374098678754e-13,
+      "words": [
+        {
+          "word": " dollars",
+          "start": 14.58,
+          "end": 14.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 14.9,
+          "end": 15.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " time",
+          "start": 15.28,
+          "end": 15.56,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " solving",
+          "start": 15.56,
+          "end": 15.86,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 15.86,
+          "end": 15.98,
+          "probability": 1.0
+        },
+        {
+          "word": " wrong",
+          "start": 15.98,
+          "end": 16.14,
+          "probability": 0.9697265625
+        },
+        {
+          "word": " problem.",
+          "start": 16.14,
+          "end": 16.48,
+          "probability": 1.0
+        },
+        {
+          "word": " They",
+          "start": 16.64,
+          "end": 16.74,
+          "probability": 1.0
+        },
+        {
+          "word": " dump",
+          "start": 16.74,
+          "end": 16.94,
+          "probability": 1.0
+        },
+        {
+          "word": " money",
+          "start": 16.94,
+          "end": 17.16,
+          "probability": 1.0
+        },
+        {
+          "word": " into",
+          "start": 17.16,
+          "end": 17.32,
+          "probability": 1.0
+        },
+        {
+          "word": " ads",
+          "start": 17.32,
+          "end": 17.64,
+          "probability": 1.0
+        },
+        {
+          "word": " when",
+          "start": 17.64,
+          "end": 17.8,
+          "probability": 1.0
+        },
+        {
+          "word": " they",
+          "start": 17.8,
+          "end": 17.9,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " can't",
+          "start": 17.9,
+          "end": 18.12,
+          "probability": 1.0
+        },
+        {
+          "word": " handle",
+          "start": 18.12,
+          "end": 18.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " more",
+          "start": 18.3,
+          "end": 18.46,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.46,
+      "end": 23.12,
+      "text": " customers or obsess over operations when no one's buying. Here's how to diagnose which constraint",
+      "tokens": [
+        51290,
+        4581,
+        420,
+        35803,
+        670,
+        7705,
+        562,
+        572,
+        472,
+        311,
+        6382,
+        13,
+        1692,
+        311,
+        577,
+        281,
+        36238,
+        597,
+        25534,
+        51521
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02558635048947092,
+      "compression_ratio": 1.8231511254019293,
+      "no_speech_prob": 9.96374098678754e-13,
+      "words": [
+        {
+          "word": " customers",
+          "start": 18.46,
+          "end": 18.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " or",
+          "start": 18.9,
+          "end": 19.26,
+          "probability": 0.95068359375
+        },
+        {
+          "word": " obsess",
+          "start": 19.26,
+          "end": 19.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " over",
+          "start": 19.54,
+          "end": 19.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " operations",
+          "start": 19.74,
+          "end": 20.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " when",
+          "start": 20.2,
+          "end": 20.44,
+          "probability": 1.0
+        },
+        {
+          "word": " no",
+          "start": 20.44,
+          "end": 20.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " one's",
+          "start": 20.58,
+          "end": 20.72,
+          "probability": 0.998046875
+        },
+        {
+          "word": " buying.",
+          "start": 20.72,
+          "end": 21.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Here's",
+          "start": 21.34,
+          "end": 21.86,
+          "probability": 1.0
+        },
+        {
+          "word": " how",
+          "start": 21.86,
+          "end": 21.94,
+          "probability": 0.99609375
+        },
+        {
+          "word": " to",
+          "start": 21.94,
+          "end": 22.04,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " diagnose",
+          "start": 22.04,
+          "end": 22.44,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " which",
+          "start": 22.44,
+          "end": 22.76,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " constraint",
+          "start": 22.76,
+          "end": 23.12,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.12,
+      "end": 27.24,
+      "text": " you actually have and what to do about it. Your business is either supply constrained or demand",
+      "tokens": [
+        51521,
+        291,
+        767,
+        362,
+        293,
+        437,
+        281,
+        360,
+        466,
+        309,
+        13,
+        2260,
+        1606,
+        307,
+        2139,
+        5847,
+        38901,
+        420,
+        4733,
+        51728
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02558635048947092,
+      "compression_ratio": 1.8231511254019293,
+      "no_speech_prob": 9.96374098678754e-13,
+      "words": [
+        {
+          "word": " you",
+          "start": 23.12,
+          "end": 23.28,
+          "probability": 1.0
+        },
+        {
+          "word": " actually",
+          "start": 23.28,
+          "end": 23.56,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " have",
+          "start": 23.56,
+          "end": 23.84,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 23.84,
+          "end": 24.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " what",
+          "start": 24.02,
+          "end": 24.12,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 24.12,
+          "end": 24.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " do",
+          "start": 24.22,
+          "end": 24.32,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " about",
+          "start": 24.32,
+          "end": 24.5,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " it.",
+          "start": 24.5,
+          "end": 24.64,
+          "probability": 1.0
+        },
+        {
+          "word": " Your",
+          "start": 24.78,
+          "end": 25.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " business",
+          "start": 25.3,
+          "end": 25.56,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 25.56,
+          "end": 25.76,
+          "probability": 1.0
+        },
+        {
+          "word": " either",
+          "start": 25.76,
+          "end": 25.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " supply",
+          "start": 25.94,
+          "end": 26.3,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " constrained",
+          "start": 26.3,
+          "end": 26.68,
+          "probability": 0.599609375
+        },
+        {
+          "word": " or",
+          "start": 26.68,
+          "end": 26.98,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " demand",
+          "start": 26.98,
+          "end": 27.24,
+          "probability": 0.99658203125
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2724,
+      "start": 27.24,
+      "end": 31.26,
+      "text": " constraint, never both at the same time. So demand constrained means you have capacity,",
+      "tokens": [
+        50365,
+        25534,
+        11,
+        1128,
+        1293,
+        412,
+        264,
+        912,
+        565,
+        13,
+        407,
+        4733,
+        38901,
+        1355,
+        291,
+        362,
+        6042,
+        11,
+        50566
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0931911080833373,
+      "compression_ratio": 2.1007462686567164,
+      "no_speech_prob": 9.581984728238013e-13,
+      "words": [
+        {
+          "word": " constraint,",
+          "start": 27.24,
+          "end": 27.62,
+          "probability": 0.78564453125
+        },
+        {
+          "word": " never",
+          "start": 27.84,
+          "end": 28.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " both",
+          "start": 28.04,
+          "end": 28.28,
+          "probability": 1.0
+        },
+        {
+          "word": " at",
+          "start": 28.28,
+          "end": 28.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " the",
+          "start": 28.42,
+          "end": 28.5,
+          "probability": 1.0
+        },
+        {
+          "word": " same",
+          "start": 28.5,
+          "end": 28.66,
+          "probability": 1.0
+        },
+        {
+          "word": " time.",
+          "start": 28.66,
+          "end": 28.94,
+          "probability": 1.0
+        },
+        {
+          "word": " So",
+          "start": 29.12,
+          "end": 29.56,
+          "probability": 0.98046875
+        },
+        {
+          "word": " demand",
+          "start": 29.56,
+          "end": 29.88,
+          "probability": 0.87841796875
+        },
+        {
+          "word": " constrained",
+          "start": 29.88,
+          "end": 30.2,
+          "probability": 0.363037109375
+        },
+        {
+          "word": " means",
+          "start": 30.2,
+          "end": 30.52,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 30.52,
+          "end": 30.7,
+          "probability": 1.0
+        },
+        {
+          "word": " have",
+          "start": 30.7,
+          "end": 30.78,
+          "probability": 1.0
+        },
+        {
+          "word": " capacity,",
+          "start": 30.78,
+          "end": 31.26,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2724,
+      "start": 31.4,
+      "end": 35.5,
+      "text": " but not enough customers. Supply constrained means you have customers, but not enough capacity.",
+      "tokens": [
+        50572,
+        457,
+        406,
+        1547,
+        4581,
+        13,
+        9391,
+        356,
+        38901,
+        1355,
+        291,
+        362,
+        4581,
+        11,
+        457,
+        406,
+        1547,
+        6042,
+        13,
+        50778
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0931911080833373,
+      "compression_ratio": 2.1007462686567164,
+      "no_speech_prob": 9.581984728238013e-13,
+      "words": [
+        {
+          "word": " but",
+          "start": 31.4,
+          "end": 31.44,
+          "probability": 1.0
+        },
+        {
+          "word": " not",
+          "start": 31.44,
+          "end": 31.6,
+          "probability": 1.0
+        },
+        {
+          "word": " enough",
+          "start": 31.6,
+          "end": 31.76,
+          "probability": 1.0
+        },
+        {
+          "word": " customers.",
+          "start": 31.76,
+          "end": 32.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Supply",
+          "start": 32.4,
+          "end": 32.84,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " constrained",
+          "start": 32.84,
+          "end": 33.2,
+          "probability": 0.9775390625
+        },
+        {
+          "word": " means",
+          "start": 33.2,
+          "end": 33.54,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 33.54,
+          "end": 33.68,
+          "probability": 1.0
+        },
+        {
+          "word": " have",
+          "start": 33.68,
+          "end": 33.94,
+          "probability": 1.0
+        },
+        {
+          "word": " customers,",
+          "start": 33.94,
+          "end": 34.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " but",
+          "start": 34.52,
+          "end": 34.7,
+          "probability": 1.0
+        },
+        {
+          "word": " not",
+          "start": 34.7,
+          "end": 34.84,
+          "probability": 1.0
+        },
+        {
+          "word": " enough",
+          "start": 34.84,
+          "end": 35.02,
+          "probability": 1.0
+        },
+        {
+          "word": " capacity.",
+          "start": 35.02,
+          "end": 35.5,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2724,
+      "start": 35.68,
+      "end": 39.86,
+      "text": " So here's the test. If you doubled your marketing budget tomorrow, would you double your business",
+      "tokens": [
+        50798,
+        407,
+        510,
+        311,
+        264,
+        1500,
+        13,
+        759,
+        291,
+        24405,
+        428,
+        6370,
+        4706,
+        4153,
+        11,
+        576,
+        291,
+        3834,
+        428,
+        1606,
+        50997
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0931911080833373,
+      "compression_ratio": 2.1007462686567164,
+      "no_speech_prob": 9.581984728238013e-13,
+      "words": [
+        {
+          "word": " So",
+          "start": 35.68,
+          "end": 36.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " here's",
+          "start": 36.04,
+          "end": 36.26,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 36.26,
+          "end": 36.36,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " test.",
+          "start": 36.36,
+          "end": 36.62,
+          "probability": 1.0
+        },
+        {
+          "word": " If",
+          "start": 36.8,
+          "end": 37.24,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 37.24,
+          "end": 37.34,
+          "probability": 1.0
+        },
+        {
+          "word": " doubled",
+          "start": 37.34,
+          "end": 37.58,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " your",
+          "start": 37.58,
+          "end": 37.74,
+          "probability": 1.0
+        },
+        {
+          "word": " marketing",
+          "start": 37.74,
+          "end": 38.0,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " budget",
+          "start": 38.0,
+          "end": 38.24,
+          "probability": 1.0
+        },
+        {
+          "word": " tomorrow,",
+          "start": 38.24,
+          "end": 38.6,
+          "probability": 1.0
+        },
+        {
+          "word": " would",
+          "start": 38.84,
+          "end": 39.06,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 39.06,
+          "end": 39.16,
+          "probability": 1.0
+        },
+        {
+          "word": " double",
+          "start": 39.16,
+          "end": 39.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " your",
+          "start": 39.4,
+          "end": 39.54,
+          "probability": 1.0
+        },
+        {
+          "word": " business",
+          "start": 39.54,
+          "end": 39.86,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2724,
+      "start": 39.86,
+      "end": 44.26,
+      "text": " or create a nightmare? If nightmare, you're supply constrained. If the business doubled,",
+      "tokens": [
+        50997,
+        420,
+        1884,
+        257,
+        18724,
+        30,
+        759,
+        18724,
+        11,
+        291,
+        434,
+        5847,
+        38901,
+        13,
+        759,
+        264,
+        1606,
+        24405,
+        11,
+        51217
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0931911080833373,
+      "compression_ratio": 2.1007462686567164,
+      "no_speech_prob": 9.581984728238013e-13,
+      "words": [
+        {
+          "word": " or",
+          "start": 39.86,
+          "end": 40.04,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " create",
+          "start": 40.04,
+          "end": 40.26,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 40.26,
+          "end": 40.34,
+          "probability": 1.0
+        },
+        {
+          "word": " nightmare?",
+          "start": 40.34,
+          "end": 40.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " If",
+          "start": 40.96,
+          "end": 41.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " nightmare,",
+          "start": 41.4,
+          "end": 41.72,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " you're",
+          "start": 42.02,
+          "end": 42.12,
+          "probability": 0.97509765625
+        },
+        {
+          "word": " supply",
+          "start": 42.12,
+          "end": 42.38,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " constrained.",
+          "start": 42.38,
+          "end": 42.74,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " If",
+          "start": 43.08,
+          "end": 43.52,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 43.52,
+          "end": 43.74,
+          "probability": 1.0
+        },
+        {
+          "word": " business",
+          "start": 43.74,
+          "end": 43.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " doubled,",
+          "start": 43.96,
+          "end": 44.26,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2724,
+      "start": 44.44,
+      "end": 49.4,
+      "text": " you're demand constrained. So here are real world examples. Restaurant without empty tables. That",
+      "tokens": [
+        51225,
+        291,
+        434,
+        4733,
+        38901,
+        13,
+        407,
+        510,
+        366,
+        957,
+        1002,
+        5110,
+        13,
+        38870,
+        1553,
+        6707,
+        8020,
+        13,
+        663,
+        51474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0931911080833373,
+      "compression_ratio": 2.1007462686567164,
+      "no_speech_prob": 9.581984728238013e-13,
+      "words": [
+        {
+          "word": " you're",
+          "start": 44.44,
+          "end": 44.56,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " demand",
+          "start": 44.56,
+          "end": 44.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " constrained.",
+          "start": 44.78,
+          "end": 45.12,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " So",
+          "start": 45.42,
+          "end": 45.8,
+          "probability": 1.0
+        },
+        {
+          "word": " here",
+          "start": 45.8,
+          "end": 46.02,
+          "probability": 1.0
+        },
+        {
+          "word": " are",
+          "start": 46.02,
+          "end": 46.14,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " real",
+          "start": 46.14,
+          "end": 46.36,
+          "probability": 1.0
+        },
+        {
+          "word": " world",
+          "start": 46.36,
+          "end": 46.56,
+          "probability": 0.83251953125
+        },
+        {
+          "word": " examples.",
+          "start": 46.56,
+          "end": 47.0,
+          "probability": 1.0
+        },
+        {
+          "word": " Restaurant",
+          "start": 47.58,
+          "end": 47.9,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " without",
+          "start": 47.9,
+          "end": 48.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " empty",
+          "start": 48.18,
+          "end": 48.46,
+          "probability": 1.0
+        },
+        {
+          "word": " tables.",
+          "start": 48.46,
+          "end": 48.86,
+          "probability": 1.0
+        },
+        {
+          "word": " That",
+          "start": 49.08,
+          "end": 49.4,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2724,
+      "start": 49.4,
+      "end": 53.34,
+      "text": " would be demand constrained. So fix your marketing. Restaurant with two hour wait time. Supply",
+      "tokens": [
+        51474,
+        576,
+        312,
+        4733,
+        38901,
+        13,
+        407,
+        3191,
+        428,
+        6370,
+        13,
+        38870,
+        365,
+        732,
+        1773,
+        1699,
+        565,
+        13,
+        9391,
+        356,
+        51671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0931911080833373,
+      "compression_ratio": 2.1007462686567164,
+      "no_speech_prob": 9.581984728238013e-13,
+      "words": [
+        {
+          "word": " would",
+          "start": 49.4,
+          "end": 49.52,
+          "probability": 1.0
+        },
+        {
+          "word": " be",
+          "start": 49.52,
+          "end": 49.64,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " demand",
+          "start": 49.64,
+          "end": 49.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " constrained.",
+          "start": 49.94,
+          "end": 50.3,
+          "probability": 0.6689453125
+        },
+        {
+          "word": " So",
+          "start": 50.52,
+          "end": 50.62,
+          "probability": 1.0
+        },
+        {
+          "word": " fix",
+          "start": 50.62,
+          "end": 50.82,
+          "probability": 0.998046875
+        },
+        {
+          "word": " your",
+          "start": 50.82,
+          "end": 50.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " marketing.",
+          "start": 50.94,
+          "end": 51.24,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " Restaurant",
+          "start": 51.64,
+          "end": 52.02,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " with",
+          "start": 52.02,
+          "end": 52.18,
+          "probability": 1.0
+        },
+        {
+          "word": " two",
+          "start": 52.18,
+          "end": 52.34,
+          "probability": 0.978515625
+        },
+        {
+          "word": " hour",
+          "start": 52.34,
+          "end": 52.46,
+          "probability": 0.73291015625
+        },
+        {
+          "word": " wait",
+          "start": 52.46,
+          "end": 52.62,
+          "probability": 0.998046875
+        },
+        {
+          "word": " time.",
+          "start": 52.62,
+          "end": 52.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Supply",
+          "start": 53.04,
+          "end": 53.34,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5334,
+      "start": 53.34,
+      "end": 58.26,
+      "text": " constraint. Fix your operations to move faster, add takeout, raise prices, or expand. Consultant,",
+      "tokens": [
+        50365,
+        25534,
+        13,
+        25538,
+        428,
+        7705,
+        281,
+        1286,
+        4663,
+        11,
+        909,
+        747,
+        346,
+        11,
+        5300,
+        7901,
+        11,
+        420,
+        5268,
+        13,
+        40057,
+        394,
+        11,
+        50612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1200433078112903,
+      "compression_ratio": 1.7056737588652482,
+      "no_speech_prob": 1.0900562136956227e-12,
+      "words": [
+        {
+          "word": " constraint.",
+          "start": 53.34,
+          "end": 53.6,
+          "probability": 0.0017986297607421875
+        },
+        {
+          "word": " Fix",
+          "start": 53.9,
+          "end": 54.1,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " your",
+          "start": 54.1,
+          "end": 54.24,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " operations",
+          "start": 54.24,
+          "end": 54.68,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 54.68,
+          "end": 54.84,
+          "probability": 1.0
+        },
+        {
+          "word": " move",
+          "start": 54.84,
+          "end": 54.96,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " faster,",
+          "start": 54.96,
+          "end": 55.3,
+          "probability": 1.0
+        },
+        {
+          "word": " add",
+          "start": 55.52,
+          "end": 55.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " takeout,",
+          "start": 55.72,
+          "end": 56.1,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " raise",
+          "start": 56.24,
+          "end": 56.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " prices,",
+          "start": 56.38,
+          "end": 56.76,
+          "probability": 1.0
+        },
+        {
+          "word": " or",
+          "start": 56.92,
+          "end": 57.0,
+          "probability": 1.0
+        },
+        {
+          "word": " expand.",
+          "start": 57.0,
+          "end": 57.36,
+          "probability": 1.0
+        },
+        {
+          "word": " Consultant,",
+          "start": 57.76,
+          "end": 58.26,
+          "probability": 0.875
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5334,
+      "start": 58.38,
+      "end": 63.22,
+      "text": " fully booked three months out. Supply constraint. Raise prices by at least 50%. Consultant with open",
+      "tokens": [
+        50627,
+        4498,
+        26735,
+        1045,
+        2493,
+        484,
+        13,
+        9391,
+        356,
+        25534,
+        13,
+        30062,
+        7901,
+        538,
+        412,
+        1935,
+        2625,
+        6856,
+        40057,
+        394,
+        365,
+        1269,
+        50860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1200433078112903,
+      "compression_ratio": 1.7056737588652482,
+      "no_speech_prob": 1.0900562136956227e-12,
+      "words": [
+        {
+          "word": " fully",
+          "start": 58.38,
+          "end": 58.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " booked",
+          "start": 58.86,
+          "end": 59.12,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " three",
+          "start": 59.12,
+          "end": 59.32,
+          "probability": 0.9306640625
+        },
+        {
+          "word": " months",
+          "start": 59.32,
+          "end": 59.5,
+          "probability": 1.0
+        },
+        {
+          "word": " out.",
+          "start": 59.5,
+          "end": 59.7,
+          "probability": 1.0
+        },
+        {
+          "word": " Supply",
+          "start": 59.88,
+          "end": 60.16,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " constraint.",
+          "start": 60.16,
+          "end": 60.48,
+          "probability": 0.962890625
+        },
+        {
+          "word": " Raise",
+          "start": 60.68,
+          "end": 60.8,
+          "probability": 0.939453125
+        },
+        {
+          "word": " prices",
+          "start": 60.8,
+          "end": 61.18,
+          "probability": 1.0
+        },
+        {
+          "word": " by",
+          "start": 61.18,
+          "end": 61.34,
+          "probability": 1.0
+        },
+        {
+          "word": " at",
+          "start": 61.34,
+          "end": 61.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " least",
+          "start": 61.44,
+          "end": 61.52,
+          "probability": 0.99609375
+        },
+        {
+          "word": " 50%.",
+          "start": 61.52,
+          "end": 61.98,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " Consultant",
+          "start": 61.98,
+          "end": 62.84,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " with",
+          "start": 62.84,
+          "end": 62.96,
+          "probability": 0.99609375
+        },
+        {
+          "word": " open",
+          "start": 62.96,
+          "end": 63.22,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5334,
+      "start": 63.22,
+      "end": 68.36,
+      "text": " calendar slots next week. Demands constraint. Get more leads. Bottom line, businesses that are",
+      "tokens": [
+        50860,
+        12183,
+        24266,
+        958,
+        1243,
+        13,
+        4686,
+        2967,
+        25534,
+        13,
+        3240,
+        544,
+        6689,
+        13,
+        38289,
+        1622,
+        11,
+        6011,
+        300,
+        366,
+        51118
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1200433078112903,
+      "compression_ratio": 1.7056737588652482,
+      "no_speech_prob": 1.0900562136956227e-12,
+      "words": [
+        {
+          "word": " calendar",
+          "start": 63.22,
+          "end": 63.52,
+          "probability": 0.998046875
+        },
+        {
+          "word": " slots",
+          "start": 63.52,
+          "end": 63.82,
+          "probability": 1.0
+        },
+        {
+          "word": " next",
+          "start": 63.82,
+          "end": 64.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " week.",
+          "start": 64.02,
+          "end": 64.28,
+          "probability": 1.0
+        },
+        {
+          "word": " Demands",
+          "start": 64.64,
+          "end": 64.98,
+          "probability": 0.88134765625
+        },
+        {
+          "word": " constraint.",
+          "start": 64.98,
+          "end": 65.26,
+          "probability": 0.779296875
+        },
+        {
+          "word": " Get",
+          "start": 65.66,
+          "end": 65.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " more",
+          "start": 65.78,
+          "end": 65.96,
+          "probability": 1.0
+        },
+        {
+          "word": " leads.",
+          "start": 65.96,
+          "end": 66.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Bottom",
+          "start": 66.74,
+          "end": 66.94,
+          "probability": 0.998046875
+        },
+        {
+          "word": " line,",
+          "start": 66.94,
+          "end": 67.22,
+          "probability": 1.0
+        },
+        {
+          "word": " businesses",
+          "start": 67.38,
+          "end": 68.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " that",
+          "start": 68.04,
+          "end": 68.28,
+          "probability": 1.0
+        },
+        {
+          "word": " are",
+          "start": 68.28,
+          "end": 68.36,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5334,
+      "start": 68.36,
+      "end": 72.3,
+      "text": " supply constrained often think they need more customers. They don't. They need more margin,",
+      "tokens": [
+        51118,
+        5847,
+        38901,
+        2049,
+        519,
+        436,
+        643,
+        544,
+        4581,
+        13,
+        814,
+        500,
+        380,
+        13,
+        814,
+        643,
+        544,
+        10270,
+        11,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1200433078112903,
+      "compression_ratio": 1.7056737588652482,
+      "no_speech_prob": 1.0900562136956227e-12,
+      "words": [
+        {
+          "word": " supply",
+          "start": 68.36,
+          "end": 68.64,
+          "probability": 0.998046875
+        },
+        {
+          "word": " constrained",
+          "start": 68.64,
+          "end": 68.92,
+          "probability": 0.462158203125
+        },
+        {
+          "word": " often",
+          "start": 68.92,
+          "end": 69.28,
+          "probability": 1.0
+        },
+        {
+          "word": " think",
+          "start": 69.28,
+          "end": 69.62,
+          "probability": 1.0
+        },
+        {
+          "word": " they",
+          "start": 69.62,
+          "end": 69.8,
+          "probability": 1.0
+        },
+        {
+          "word": " need",
+          "start": 69.8,
+          "end": 69.92,
+          "probability": 1.0
+        },
+        {
+          "word": " more",
+          "start": 69.92,
+          "end": 70.06,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " customers.",
+          "start": 70.06,
+          "end": 70.48,
+          "probability": 1.0
+        },
+        {
+          "word": " They",
+          "start": 70.68,
+          "end": 70.86,
+          "probability": 1.0
+        },
+        {
+          "word": " don't.",
+          "start": 70.86,
+          "end": 71.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " They",
+          "start": 71.36,
+          "end": 71.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " need",
+          "start": 71.68,
+          "end": 71.8,
+          "probability": 1.0
+        },
+        {
+          "word": " more",
+          "start": 71.8,
+          "end": 71.96,
+          "probability": 1.0
+        },
+        {
+          "word": " margin,",
+          "start": 71.96,
+          "end": 72.3,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5334,
+      "start": 72.44,
+      "end": 77.72,
+      "text": " more capacity, or both. Fix with higher prices, more operating leverage. Think better client to",
+      "tokens": [
+        51320,
+        544,
+        6042,
+        11,
+        420,
+        1293,
+        13,
+        25538,
+        365,
+        2946,
+        7901,
+        11,
+        544,
+        7447,
+        13982,
+        13,
+        6557,
+        1101,
+        6423,
+        281,
+        51585
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1200433078112903,
+      "compression_ratio": 1.7056737588652482,
+      "no_speech_prob": 1.0900562136956227e-12,
+      "words": [
+        {
+          "word": " more",
+          "start": 72.44,
+          "end": 72.52,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " capacity,",
+          "start": 72.52,
+          "end": 72.98,
+          "probability": 1.0
+        },
+        {
+          "word": " or",
+          "start": 73.0,
+          "end": 73.14,
+          "probability": 1.0
+        },
+        {
+          "word": " both.",
+          "start": 73.14,
+          "end": 73.44,
+          "probability": 1.0
+        },
+        {
+          "word": " Fix",
+          "start": 73.78,
+          "end": 74.22,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " with",
+          "start": 74.22,
+          "end": 74.36,
+          "probability": 0.96240234375
+        },
+        {
+          "word": " higher",
+          "start": 74.36,
+          "end": 74.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " prices,",
+          "start": 74.54,
+          "end": 74.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " more",
+          "start": 75.14,
+          "end": 75.24,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " operating",
+          "start": 75.24,
+          "end": 75.56,
+          "probability": 1.0
+        },
+        {
+          "word": " leverage.",
+          "start": 75.56,
+          "end": 75.94,
+          "probability": 1.0
+        },
+        {
+          "word": " Think",
+          "start": 76.36,
+          "end": 76.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " better",
+          "start": 76.52,
+          "end": 77.1,
+          "probability": 0.97705078125
+        },
+        {
+          "word": " client",
+          "start": 77.1,
+          "end": 77.54,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " to",
+          "start": 77.54,
+          "end": 77.72,
+          "probability": 0.9013671875
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 7772,
+      "start": 77.72,
+      "end": 83.44,
+      "text": " provider ratio or tech to speed up delivery, or recruiting to expand capacity. Profit tactic",
+      "tokens": [
+        50365,
+        12398,
+        8509,
+        420,
+        7553,
+        281,
+        3073,
+        493,
+        8982,
+        11,
+        420,
+        25987,
+        281,
+        5268,
+        6042,
+        13,
+        6039,
+        270,
+        31012,
+        50651
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06337643778601358,
+      "compression_ratio": 1.316546762589928,
+      "no_speech_prob": 4.65191470414017e-13,
+      "words": [
+        {
+          "word": " provider",
+          "start": 77.72,
+          "end": 78.04,
+          "probability": 0.92431640625
+        },
+        {
+          "word": " ratio",
+          "start": 78.04,
+          "end": 78.38,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " or",
+          "start": 78.38,
+          "end": 78.64,
+          "probability": 0.96923828125
+        },
+        {
+          "word": " tech",
+          "start": 78.64,
+          "end": 78.92,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " to",
+          "start": 78.92,
+          "end": 79.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " speed",
+          "start": 79.04,
+          "end": 79.18,
+          "probability": 1.0
+        },
+        {
+          "word": " up",
+          "start": 79.18,
+          "end": 79.3,
+          "probability": 0.99609375
+        },
+        {
+          "word": " delivery,",
+          "start": 79.3,
+          "end": 79.64,
+          "probability": 1.0
+        },
+        {
+          "word": " or",
+          "start": 79.82,
+          "end": 80.24,
+          "probability": 1.0
+        },
+        {
+          "word": " recruiting",
+          "start": 80.24,
+          "end": 80.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 80.78,
+          "end": 80.98,
+          "probability": 1.0
+        },
+        {
+          "word": " expand",
+          "start": 80.98,
+          "end": 81.26,
+          "probability": 1.0
+        },
+        {
+          "word": " capacity.",
+          "start": 81.26,
+          "end": 81.74,
+          "probability": 1.0
+        },
+        {
+          "word": " Profit",
+          "start": 82.64,
+          "end": 83.18,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " tactic",
+          "start": 83.18,
+          "end": 83.44,
+          "probability": 0.86083984375
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 7772,
+      "start": 83.44,
+      "end": 88.82,
+      "text": " number 63, rush is imaginary. The faster you chase success, the slower it seems to arrive.",
+      "tokens": [
+        50651,
+        1230,
+        25082,
+        11,
+        9300,
+        307,
+        26164,
+        13,
+        440,
+        4663,
+        291,
+        15359,
+        2245,
+        11,
+        264,
+        14009,
+        309,
+        2544,
+        281,
+        8881,
+        13,
+        50927
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06337643778601358,
+      "compression_ratio": 1.316546762589928,
+      "no_speech_prob": 4.65191470414017e-13,
+      "words": [
+        {
+          "word": " number",
+          "start": 83.44,
+          "end": 83.64,
+          "probability": 0.994140625
+        },
+        {
+          "word": " 63,",
+          "start": 83.64,
+          "end": 84.12,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " rush",
+          "start": 84.38,
+          "end": 84.84,
+          "probability": 0.9169921875
+        },
+        {
+          "word": " is",
+          "start": 84.84,
+          "end": 85.06,
+          "probability": 1.0
+        },
+        {
+          "word": " imaginary.",
+          "start": 85.06,
+          "end": 85.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " The",
+          "start": 85.74,
+          "end": 86.24,
+          "probability": 1.0
+        },
+        {
+          "word": " faster",
+          "start": 86.24,
+          "end": 86.6,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 86.6,
+          "end": 86.74,
+          "probability": 1.0
+        },
+        {
+          "word": " chase",
+          "start": 86.74,
+          "end": 86.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " success,",
+          "start": 86.94,
+          "end": 87.38,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 87.58,
+          "end": 87.84,
+          "probability": 1.0
+        },
+        {
+          "word": " slower",
+          "start": 87.84,
+          "end": 88.12,
+          "probability": 1.0
+        },
+        {
+          "word": " it",
+          "start": 88.12,
+          "end": 88.24,
+          "probability": 1.0
+        },
+        {
+          "word": " seems",
+          "start": 88.24,
+          "end": 88.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 88.42,
+          "end": 88.56,
+          "probability": 1.0
+        },
+        {
+          "word": " arrive.",
+          "start": 88.56,
+          "end": 88.82,
+          "probability": 0.99951171875
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

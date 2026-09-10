@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Let's say that you have more demand thanyou can handle. You've got a team that's"
+    },
+    {
+      "endMs": "8840",
+      "startMs": "2800",
+      "startTimeText": "0:02",
+      "text": "spread thin. You're thinking, \"Okay,well, I need to increase my team because"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "I have this demand, but I can't increasemy team because I don't have the money"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "9960",
+      "startTimeText": "0:09",
+      "text": "to do it.\" What's the problem? Step one,raise your price. If you've got more"
+    },
+    {
+      "endMs": "17720",
+      "startMs": "13320",
+      "startTimeText": "0:13",
+      "text": "than you can handle, then we candecrease how much is coming in by"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "15920",
+      "startTimeText": "0:15",
+      "text": "raising price. Now we have more cashflow. That cash flow does what? It"
+    },
+    {
+      "endMs": "25440",
+      "startMs": "19400",
+      "startTimeText": "0:19",
+      "text": "allows you to pay higher compensation soyou can attract the talent you need to"
+    },
+    {
+      "endMs": "29000",
+      "startMs": "23360",
+      "startTimeText": "0:23",
+      "text": "get people in so that you can no longerbe supply constrained. Each of those"
+    },
+    {
+      "endMs": "33880",
+      "startMs": "26840",
+      "startTimeText": "0:26",
+      "text": "have quote risk, but the alternative iswhat? You stay there? You stay stuck?"
+    }
+  ],
+  "transcript_only_text": " Let's say that you have more demand than\nyou can handle. You've got a team that's spread thin. You're thinking, \"Okay,\nwell, I need to increase my team because I have this demand, but I can't increase\nmy team because I don't have the money to do it.\" What's the problem? Step one,\nraise your price. If you've got more than you can handle, then we can\ndecrease how much is coming in by raising price. Now we have more cash\nflow. That cash flow does what? It allows you to pay higher compensation so\nyou can attract the talent you need to get people in so that you can no longer\nbe supply constrained. Each of those have quote risk, but the alternative is\nwhat? You stay there? You stay stuck?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=VjldxiSGLPY",
+  "videoId": "VjldxiSGLPY"
+}

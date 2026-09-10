@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I thought to [music] myself, if it's"
+    },
+    {
+      "endMs": "7800",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "this hard now, when I have no kids, I"
+    },
+    {
+      "endMs": "8600",
+      "startMs": "4480",
+      "startTimeText": "0:04",
+      "text": "have no wife, I have no stakes,"
+    },
+    {
+      "endMs": "10360",
+      "startMs": "7800",
+      "startTimeText": "0:07",
+      "text": "it's going to be nearly [music]"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "8600",
+      "startTimeText": "0:08",
+      "text": "impossible for me to do later."
+    },
+    {
+      "endMs": "13720",
+      "startMs": "10360",
+      "startTimeText": "0:10",
+      "text": "And so I was like, I have to do it now."
+    }
+  ],
+  "transcript_only_text": " I  thought  to  [music]  myself,  if  it's \n this  hard  now,  when  I  have  no  kids,  I \n have  no  wife,  I  have  no  stakes, \n it's  going  to  be  nearly  [music] \n impossible  for  me  to  do  later. \n And  so  I  was  like,  I  have  to  do  it  now.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=fnaYsTYIlak",
+  "videoId": "fnaYsTYIlak"
+}

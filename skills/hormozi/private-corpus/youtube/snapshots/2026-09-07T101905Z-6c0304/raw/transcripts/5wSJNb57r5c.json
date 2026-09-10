@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "What is the number one problem today?"
+    },
+    {
+      "endMs": "4640",
+      "startMs": "1720",
+      "startTimeText": "0:01",
+      "text": "That's all that matters."
+    },
+    {
+      "endMs": "6920",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "Everything that's not that that takes"
+    },
+    {
+      "endMs": "8760",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "your attention is a waste of time. If"
+    },
+    {
+      "endMs": "10760",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "this sounds like if frustrating in some"
+    },
+    {
+      "endMs": "12960",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "ways like I know what I have to do to"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "10760",
+      "startTimeText": "0:10",
+      "text": "grow acquisition.com and it's one thing."
+    },
+    {
+      "endMs": "15560",
+      "startMs": "12960",
+      "startTimeText": "0:12",
+      "text": "It's all I have to do. And everything"
+    },
+    {
+      "endMs": "17400",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "that's not that is a complete"
+    },
+    {
+      "endMs": "19640",
+      "startMs": "15560",
+      "startTimeText": "0:15",
+      "text": "distraction. It's just hard because I"
+    },
+    {
+      "endMs": "21200",
+      "startMs": "17400",
+      "startTimeText": "0:17",
+      "text": "can make a justifiable argument for why"
+    },
+    {
+      "endMs": "23080",
+      "startMs": "19640",
+      "startTimeText": "0:19",
+      "text": "I might or why I could or should do"
+    },
+    {
+      "endMs": "27480",
+      "startMs": "21200",
+      "startTimeText": "0:21",
+      "text": "something. But if it's not the"
+    },
+    {
+      "endMs": "27480",
+      "startMs": "23080",
+      "startTimeText": "0:23",
+      "text": "constraint, does it matter? Not really."
+    }
+  ],
+  "transcript_only_text": " What  is  the  number  one  problem  today? \n That's  all  that  matters. \n Everything  that's  not  that  that  takes \n your  attention  is  a  waste  of  time.  If \n this  sounds  like  if  frustrating  in  some \n ways  like  I  know  what  I  have  to  do  to \n grow  acquisition.com  and  it's  one  thing. \n It's  all  I  have  to  do.  And  everything \n that's  not  that  is  a  complete \n distraction.  It's  just  hard  because  I \n can  make  a  justifiable  argument  for  why \n I  might  or  why  I  could  or  should  do \n something.  But  if  it's  not  the \n constraint,  does  it  matter?  Not  really.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=5wSJNb57r5c",
+  "videoId": "5wSJNb57r5c"
+}

@@ -1,0 +1,1113 @@
+{
+  "text": " upsell plus lifetime discount. $50 off per month with a 12-month commitment. Newsletter, digital product, stage one attraction offer, free trial, $0, then $3.99 a month after 30 days. Stage two and three, upsell and continuity. Pay less now, pay more later, plus lifetime discount. Pay $2.97 now and keep that rate for life. Author note, I love this offer. It's nasty. It combines It's free trial, pay less now, pay more later, lifetime discount, and is an attraction offer, an upsell offer, and a continuity offer. A six-headed money-making monster. This is just a taste of how creative you can get by combining these. And finally, example four, dog food, physical product, stage one attraction offer. Buy X, get Y free.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.34,
+      "text": " upsell plus lifetime discount. $50 off per month with a 12-month commitment. Newsletter, digital",
+      "tokens": [
+        50365,
+        493,
+        14555,
+        1804,
+        11364,
+        11635,
+        13,
+        1848,
+        2803,
+        766,
+        680,
+        1618,
+        365,
+        257,
+        2272,
+        12,
+        23534,
+        8371,
+        13,
+        7987,
+        21248,
+        11,
+        4562,
+        50683
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09517479851132347,
+      "compression_ratio": 1.5384615384615385,
+      "no_speech_prob": 1.4104545439583283e-12,
+      "words": [
+        {
+          "word": " upsell",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.5009765625
+        },
+        {
+          "word": " plus",
+          "start": 0.32,
+          "end": 0.58,
+          "probability": 0.849609375
+        },
+        {
+          "word": " lifetime",
+          "start": 0.58,
+          "end": 1.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " discount.",
+          "start": 1.04,
+          "end": 1.44,
+          "probability": 1.0
+        },
+        {
+          "word": " $50",
+          "start": 1.68,
+          "end": 2.22,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " off",
+          "start": 2.22,
+          "end": 2.64,
+          "probability": 0.998046875
+        },
+        {
+          "word": " per",
+          "start": 2.64,
+          "end": 2.82,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " month",
+          "start": 2.82,
+          "end": 3.1,
+          "probability": 1.0
+        },
+        {
+          "word": " with",
+          "start": 3.1,
+          "end": 3.46,
+          "probability": 0.91162109375
+        },
+        {
+          "word": " a",
+          "start": 3.46,
+          "end": 3.5,
+          "probability": 1.0
+        },
+        {
+          "word": " 12",
+          "start": 3.5,
+          "end": 3.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "-month",
+          "start": 3.68,
+          "end": 3.92,
+          "probability": 0.93359375
+        },
+        {
+          "word": " commitment.",
+          "start": 3.92,
+          "end": 4.3,
+          "probability": 1.0
+        },
+        {
+          "word": " Newsletter,",
+          "start": 5.42,
+          "end": 5.86,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " digital",
+          "start": 6.02,
+          "end": 6.34,
+          "probability": 0.9931640625
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.34,
+      "end": 13.3,
+      "text": " product, stage one attraction offer, free trial, $0, then $3.99 a month after 30 days. Stage two",
+      "tokens": [
+        50683,
+        1674,
+        11,
+        3233,
+        472,
+        17672,
+        2626,
+        11,
+        1737,
+        7308,
+        11,
+        1848,
+        15,
+        11,
+        550,
+        1848,
+        18,
+        13,
+        8494,
+        257,
+        1618,
+        934,
+        2217,
+        1708,
+        13,
+        25907,
+        732,
+        51032
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09517479851132347,
+      "compression_ratio": 1.5384615384615385,
+      "no_speech_prob": 1.4104545439583283e-12,
+      "words": [
+        {
+          "word": " product,",
+          "start": 6.34,
+          "end": 6.74,
+          "probability": 1.0
+        },
+        {
+          "word": " stage",
+          "start": 7.2,
+          "end": 7.36,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " one",
+          "start": 7.36,
+          "end": 7.58,
+          "probability": 0.80517578125
+        },
+        {
+          "word": " attraction",
+          "start": 7.58,
+          "end": 7.9,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " offer,",
+          "start": 7.9,
+          "end": 8.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " free",
+          "start": 8.52,
+          "end": 8.68,
+          "probability": 1.0
+        },
+        {
+          "word": " trial,",
+          "start": 8.68,
+          "end": 9.04,
+          "probability": 1.0
+        },
+        {
+          "word": " $0,",
+          "start": 9.32,
+          "end": 9.8,
+          "probability": 0.947265625
+        },
+        {
+          "word": " then",
+          "start": 9.9,
+          "end": 10.26,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " $3",
+          "start": 10.26,
+          "end": 10.44,
+          "probability": 0.9951171875
+        },
+        {
+          "word": ".99",
+          "start": 10.44,
+          "end": 10.74,
+          "probability": 0.9736328125
+        },
+        {
+          "word": " a",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 1.0
+        },
+        {
+          "word": " month",
+          "start": 10.9,
+          "end": 11.06,
+          "probability": 1.0
+        },
+        {
+          "word": " after",
+          "start": 11.06,
+          "end": 11.3,
+          "probability": 1.0
+        },
+        {
+          "word": " 30",
+          "start": 11.3,
+          "end": 11.54,
+          "probability": 1.0
+        },
+        {
+          "word": " days.",
+          "start": 11.54,
+          "end": 11.84,
+          "probability": 1.0
+        },
+        {
+          "word": " Stage",
+          "start": 12.6,
+          "end": 13.0,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " two",
+          "start": 13.0,
+          "end": 13.3,
+          "probability": 0.9775390625
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.3,
+      "end": 17.86,
+      "text": " and three, upsell and continuity. Pay less now, pay more later, plus lifetime discount.",
+      "tokens": [
+        51032,
+        293,
+        1045,
+        11,
+        493,
+        14555,
+        293,
+        23807,
+        13,
+        11431,
+        1570,
+        586,
+        11,
+        1689,
+        544,
+        1780,
+        11,
+        1804,
+        11364,
+        11635,
+        13,
+        51260
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09517479851132347,
+      "compression_ratio": 1.5384615384615385,
+      "no_speech_prob": 1.4104545439583283e-12,
+      "words": [
+        {
+          "word": " and",
+          "start": 13.3,
+          "end": 13.6,
+          "probability": 0.998046875
+        },
+        {
+          "word": " three,",
+          "start": 13.6,
+          "end": 13.88,
+          "probability": 1.0
+        },
+        {
+          "word": " upsell",
+          "start": 14.04,
+          "end": 14.34,
+          "probability": 0.998046875
+        },
+        {
+          "word": " and",
+          "start": 14.34,
+          "end": 14.46,
+          "probability": 0.78466796875
+        },
+        {
+          "word": " continuity.",
+          "start": 14.46,
+          "end": 14.82,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Pay",
+          "start": 15.3,
+          "end": 15.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " less",
+          "start": 15.68,
+          "end": 15.92,
+          "probability": 1.0
+        },
+        {
+          "word": " now,",
+          "start": 15.92,
+          "end": 16.16,
+          "probability": 1.0
+        },
+        {
+          "word": " pay",
+          "start": 16.3,
+          "end": 16.4,
+          "probability": 1.0
+        },
+        {
+          "word": " more",
+          "start": 16.4,
+          "end": 16.58,
+          "probability": 1.0
+        },
+        {
+          "word": " later,",
+          "start": 16.58,
+          "end": 16.84,
+          "probability": 1.0
+        },
+        {
+          "word": " plus",
+          "start": 17.04,
+          "end": 17.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " lifetime",
+          "start": 17.18,
+          "end": 17.48,
+          "probability": 1.0
+        },
+        {
+          "word": " discount.",
+          "start": 17.48,
+          "end": 17.86,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.32,
+      "end": 25.16,
+      "text": " Pay $2.97 now and keep that rate for life. Author note, I love this offer. It's nasty. It combines",
+      "tokens": [
+        51295,
+        11431,
+        1848,
+        17,
+        13,
+        23247,
+        586,
+        293,
+        1066,
+        300,
+        3314,
+        337,
+        993,
+        13,
+        20216,
+        3637,
+        11,
+        286,
+        959,
+        341,
+        2626,
+        13,
+        467,
+        311,
+        17923,
+        13,
+        467,
+        29520,
+        51623
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09517479851132347,
+      "compression_ratio": 1.5384615384615385,
+      "no_speech_prob": 1.4104545439583283e-12,
+      "words": [
+        {
+          "word": " Pay",
+          "start": 18.32,
+          "end": 18.8,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " $2",
+          "start": 18.8,
+          "end": 19.0,
+          "probability": 0.97119140625
+        },
+        {
+          "word": ".97",
+          "start": 19.0,
+          "end": 19.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " now",
+          "start": 19.36,
+          "end": 19.8,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " and",
+          "start": 19.8,
+          "end": 20.08,
+          "probability": 0.92529296875
+        },
+        {
+          "word": " keep",
+          "start": 20.08,
+          "end": 20.24,
+          "probability": 1.0
+        },
+        {
+          "word": " that",
+          "start": 20.24,
+          "end": 20.42,
+          "probability": 1.0
+        },
+        {
+          "word": " rate",
+          "start": 20.42,
+          "end": 20.58,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " for",
+          "start": 20.58,
+          "end": 20.72,
+          "probability": 1.0
+        },
+        {
+          "word": " life.",
+          "start": 20.72,
+          "end": 21.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Author",
+          "start": 21.9,
+          "end": 22.16,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " note,",
+          "start": 22.16,
+          "end": 22.34,
+          "probability": 0.96923828125
+        },
+        {
+          "word": " I",
+          "start": 22.6,
+          "end": 22.94,
+          "probability": 1.0
+        },
+        {
+          "word": " love",
+          "start": 22.94,
+          "end": 23.24,
+          "probability": 1.0
+        },
+        {
+          "word": " this",
+          "start": 23.24,
+          "end": 23.44,
+          "probability": 1.0
+        },
+        {
+          "word": " offer.",
+          "start": 23.44,
+          "end": 23.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " It's",
+          "start": 23.86,
+          "end": 24.2,
+          "probability": 1.0
+        },
+        {
+          "word": " nasty.",
+          "start": 24.2,
+          "end": 24.6,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " It",
+          "start": 24.78,
+          "end": 24.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " combines",
+          "start": 24.86,
+          "end": 25.16,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2516,
+      "start": 25.16,
+      "end": 30.06,
+      "text": " It's free trial, pay less now, pay more later, lifetime discount, and is an attraction offer,",
+      "tokens": [
+        50365,
+        467,
+        311,
+        1737,
+        7308,
+        11,
+        1689,
+        1570,
+        586,
+        11,
+        1689,
+        544,
+        1780,
+        11,
+        11364,
+        11635,
+        11,
+        293,
+        307,
+        364,
+        17672,
+        2626,
+        11,
+        50610
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15579474869594778,
+      "compression_ratio": 1.5178571428571428,
+      "no_speech_prob": 6.767675612626145e-13,
+      "words": [
+        {
+          "word": " It's",
+          "start": 25.16,
+          "end": 25.32,
+          "probability": 0.8046875
+        },
+        {
+          "word": " free",
+          "start": 25.32,
+          "end": 25.5,
+          "probability": 0.95458984375
+        },
+        {
+          "word": " trial,",
+          "start": 25.5,
+          "end": 25.9,
+          "probability": 1.0
+        },
+        {
+          "word": " pay",
+          "start": 26.12,
+          "end": 26.46,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " less",
+          "start": 26.46,
+          "end": 26.76,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " now,",
+          "start": 26.76,
+          "end": 27.04,
+          "probability": 1.0
+        },
+        {
+          "word": " pay",
+          "start": 27.22,
+          "end": 27.34,
+          "probability": 1.0
+        },
+        {
+          "word": " more",
+          "start": 27.34,
+          "end": 27.54,
+          "probability": 1.0
+        },
+        {
+          "word": " later,",
+          "start": 27.54,
+          "end": 27.82,
+          "probability": 1.0
+        },
+        {
+          "word": " lifetime",
+          "start": 27.96,
+          "end": 28.16,
+          "probability": 1.0
+        },
+        {
+          "word": " discount,",
+          "start": 28.16,
+          "end": 28.58,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 28.76,
+          "end": 29.08,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " is",
+          "start": 29.08,
+          "end": 29.3,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " an",
+          "start": 29.3,
+          "end": 29.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " attraction",
+          "start": 29.4,
+          "end": 29.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " offer,",
+          "start": 29.74,
+          "end": 30.06,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2516,
+      "start": 30.2,
+      "end": 31.82,
+      "text": " an upsell offer, and a continuity offer.",
+      "tokens": [
+        50623,
+        364,
+        493,
+        14555,
+        2626,
+        11,
+        293,
+        257,
+        23807,
+        2626,
+        13,
+        50698
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15579474869594778,
+      "compression_ratio": 1.5178571428571428,
+      "no_speech_prob": 6.767675612626145e-13,
+      "words": [
+        {
+          "word": " an",
+          "start": 30.2,
+          "end": 30.42,
+          "probability": 0.97998046875
+        },
+        {
+          "word": " upsell",
+          "start": 30.42,
+          "end": 30.68,
+          "probability": 0.998046875
+        },
+        {
+          "word": " offer,",
+          "start": 30.68,
+          "end": 30.94,
+          "probability": 1.0
+        },
+        {
+          "word": " and",
+          "start": 31.1,
+          "end": 31.16,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " a",
+          "start": 31.16,
+          "end": 31.26,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " continuity",
+          "start": 31.26,
+          "end": 31.5,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " offer.",
+          "start": 31.5,
+          "end": 31.82,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2516,
+      "start": 32.08,
+      "end": 34.28,
+      "text": " A six-headed money-making monster.",
+      "tokens": [
+        50724,
+        316,
+        2309,
+        12,
+        28409,
+        1460,
+        12,
+        12402,
+        10090,
+        13,
+        50821
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15579474869594778,
+      "compression_ratio": 1.5178571428571428,
+      "no_speech_prob": 6.767675612626145e-13,
+      "words": [
+        {
+          "word": " A",
+          "start": 32.08,
+          "end": 32.56,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " six",
+          "start": 32.56,
+          "end": 32.84,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "-headed",
+          "start": 32.84,
+          "end": 33.08,
+          "probability": 0.943359375
+        },
+        {
+          "word": " money",
+          "start": 33.08,
+          "end": 33.36,
+          "probability": 0.990234375
+        },
+        {
+          "word": "-making",
+          "start": 33.36,
+          "end": 33.84,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " monster.",
+          "start": 33.84,
+          "end": 34.28,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2516,
+      "start": 34.58,
+      "end": 37.4,
+      "text": " This is just a taste of how creative you can get by combining these.",
+      "tokens": [
+        50850,
+        639,
+        307,
+        445,
+        257,
+        3939,
+        295,
+        577,
+        5880,
+        291,
+        393,
+        483,
+        538,
+        21928,
+        613,
+        13,
+        50977
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15579474869594778,
+      "compression_ratio": 1.5178571428571428,
+      "no_speech_prob": 6.767675612626145e-13,
+      "words": [
+        {
+          "word": " This",
+          "start": 34.58,
+          "end": 35.06,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 35.06,
+          "end": 35.18,
+          "probability": 1.0
+        },
+        {
+          "word": " just",
+          "start": 35.18,
+          "end": 35.32,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 35.32,
+          "end": 35.48,
+          "probability": 1.0
+        },
+        {
+          "word": " taste",
+          "start": 35.48,
+          "end": 35.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " of",
+          "start": 35.72,
+          "end": 35.9,
+          "probability": 1.0
+        },
+        {
+          "word": " how",
+          "start": 35.9,
+          "end": 36.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " creative",
+          "start": 36.0,
+          "end": 36.3,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 36.3,
+          "end": 36.44,
+          "probability": 1.0
+        },
+        {
+          "word": " can",
+          "start": 36.44,
+          "end": 36.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " get",
+          "start": 36.54,
+          "end": 36.64,
+          "probability": 1.0
+        },
+        {
+          "word": " by",
+          "start": 36.64,
+          "end": 36.78,
+          "probability": 1.0
+        },
+        {
+          "word": " combining",
+          "start": 36.78,
+          "end": 37.12,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " these.",
+          "start": 37.12,
+          "end": 37.4,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2516,
+      "start": 38.18,
+      "end": 43.38,
+      "text": " And finally, example four, dog food, physical product, stage one attraction offer.",
+      "tokens": [
+        51033,
+        400,
+        2721,
+        11,
+        1365,
+        1451,
+        11,
+        3000,
+        1755,
+        11,
+        4001,
+        1674,
+        11,
+        3233,
+        472,
+        17672,
+        2626,
+        13,
+        51277
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15579474869594778,
+      "compression_ratio": 1.5178571428571428,
+      "no_speech_prob": 6.767675612626145e-13,
+      "words": [
+        {
+          "word": " And",
+          "start": 38.18,
+          "end": 38.66,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " finally,",
+          "start": 38.66,
+          "end": 39.02,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " example",
+          "start": 39.44,
+          "end": 39.94,
+          "probability": 0.998046875
+        },
+        {
+          "word": " four,",
+          "start": 39.94,
+          "end": 40.28,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " dog",
+          "start": 40.96,
+          "end": 41.18,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " food,",
+          "start": 41.18,
+          "end": 41.44,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " physical",
+          "start": 41.62,
+          "end": 41.86,
+          "probability": 1.0
+        },
+        {
+          "word": " product,",
+          "start": 41.86,
+          "end": 42.18,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " stage",
+          "start": 42.4,
+          "end": 42.56,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " one",
+          "start": 42.56,
+          "end": 42.74,
+          "probability": 0.99609375
+        },
+        {
+          "word": " attraction",
+          "start": 42.74,
+          "end": 43.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " offer.",
+          "start": 43.06,
+          "end": 43.38,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2516,
+      "start": 43.58,
+      "end": 44.52,
+      "text": " Buy X, get Y free.",
+      "tokens": [
+        51277,
+        19146,
+        1783,
+        11,
+        483,
+        398,
+        1737,
+        13,
+        51336
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15579474869594778,
+      "compression_ratio": 1.5178571428571428,
+      "no_speech_prob": 6.767675612626145e-13,
+      "words": [
+        {
+          "word": " Buy",
+          "start": 43.58,
+          "end": 43.72,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " X,",
+          "start": 43.72,
+          "end": 43.9,
+          "probability": 0.95849609375
+        },
+        {
+          "word": " get",
+          "start": 43.98,
+          "end": 44.06,
+          "probability": 0.994140625
+        },
+        {
+          "word": " Y",
+          "start": 44.06,
+          "end": 44.26,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " free.",
+          "start": 44.26,
+          "end": 44.52,
+          "probability": 0.98974609375
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

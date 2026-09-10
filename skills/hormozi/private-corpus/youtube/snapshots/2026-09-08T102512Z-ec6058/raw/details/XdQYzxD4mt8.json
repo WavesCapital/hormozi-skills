@@ -1,0 +1,325 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=XdQYzxD4mt8&ei=wI-eaqzsI7zCkucPsKv1mQw&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801584&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=4F79A250ED55172DBF3261C94B536F538B0E754A.A506730048565B5DE59C992ABC9B3F12620E3606&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 8,
+  "commentCountText": "8",
+  "credits_charged": 1,
+  "credits_remaining": 14274,
+  "description": "Business is a simple process of expanding the difference between what it costs you to get a customer and how much profit that customer generates over a lifetime.\n\nThe bigger the difference the better.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "approxDurationMs": "28501",
+        "audioChannels": 2,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "audioSampleRate": "48000",
+        "averageBitrate": 595428,
+        "bitrate": 598367,
+        "cdnUrl": "https://rr4---sn-5aupjx0n5-i2ol.googlevideo.com/videoplayback?expire=1788797984&ei=wI-eaqzsI7zCkucPsKv1mQw&ip=69.116.161.230&id=o-AIwaCq0GcephTMWOZ32E0j6GVDRALsp0NoS9RT0EBWtV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1788776384%2C&mh=-1&mm=31%2C29&mn=sn-5aupjx0n5-i2ol%2Csn-ab5l6ny7&ms=au%2Crdu&mv=m&mvi=4&pl=22&rms=au%2Cau&initcwndbps=2983750&bui=AR3QkAmDn-V2EJJ5tigLan8HibpSbFSNUrvN3D_TcdyAJ8e3rJ13sfm-Km0a5B_H69Co4VOONQTdCnf_&spc=I-rgIZ-RTVXdca0oQ_SmPJa5_LT5OTq9CzaRooCNmkLCgL-19f0fLMjo8QwI5OwTaVsMSndPoJM&vprv=1&svpuc=1&mime=video%2Fmp4&ns=djZDrduNePM7cjvMG67QVmQY&rqh=1&gir=yes&clen=2121289&ratebypass=yes&dur=28.501&lmt=1788592059360175&mt=1788775732&fvip=4&fexp=51565116%2C52135441%2C52189887&c=WEB&sefc=1&txp=4400234&n=EyBxUUoWLW76FslwEy&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALk0nWfSL7d7yDmni_reV9I6RisKxX4ntPVfWfC1Ys8JAiEA5g4jp4WjC34DK7uWObahKooqhzburLs_Q8i8FiX0LjE%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANvtEp9owpkFso_hQX2zLQgiYKY0gAC00JM2FwMmk3xMAiEA--q5mklLd14yBRLbVtZzERejMxRP0eNHZlcjUr0PChk%3D",
+        "codecs": "avc1.42001E, mp4a.40.2",
+        "contentLength": "2121289",
+        "expiresAt": "2026-09-07T16:19:44.000Z",
+        "fps": 24,
+        "hasAudio": true,
+        "hasVideo": true,
+        "height": 640,
+        "itag": 18,
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "projectionType": "RECTANGULAR",
+        "quality": "medium",
+        "qualityLabel": "360p",
+        "requiresSignatureDecipher": false,
+        "signatureCipher": null,
+        "url": "https://rr4---sn-5aupjx0n5-i2ol.googlevideo.com/videoplayback?expire=1788797984&ei=wI-eaqzsI7zCkucPsKv1mQw&ip=69.116.161.230&id=o-AIwaCq0GcephTMWOZ32E0j6GVDRALsp0NoS9RT0EBWtV&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1788776384%2C&mh=-1&mm=31%2C29&mn=sn-5aupjx0n5-i2ol%2Csn-ab5l6ny7&ms=au%2Crdu&mv=m&mvi=4&pl=22&rms=au%2Cau&initcwndbps=2983750&bui=AR3QkAmDn-V2EJJ5tigLan8HibpSbFSNUrvN3D_TcdyAJ8e3rJ13sfm-Km0a5B_H69Co4VOONQTdCnf_&spc=I-rgIZ-RTVXdca0oQ_SmPJa5_LT5OTq9CzaRooCNmkLCgL-19f0fLMjo8QwI5OwTaVsMSndPoJM&vprv=1&svpuc=1&mime=video%2Fmp4&ns=djZDrduNePM7cjvMG67QVmQY&rqh=1&gir=yes&clen=2121289&ratebypass=yes&dur=28.501&lmt=1788592059360175&mt=1788775732&fvip=4&fexp=51565116%2C52135441%2C52189887&c=WEB&sefc=1&txp=4400234&n=EyBxUUoWLW76FslwEy&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhALk0nWfSL7d7yDmni_reV9I6RisKxX4ntPVfWfC1Ys8JAiEA5g4jp4WjC34DK7uWObahKooqhzburLs_Q8i8FiX0LjE%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhANvtEp9owpkFso_hQX2zLQgiYKY0gAC00JM2FwMmk3xMAiEA--q5mklLd14yBRLbVtZzERejMxRP0eNHZlcjUr0PChk%3D",
+        "width": 360
+      }
+    ],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:29",
+  "durationMs": 29000,
+  "genre": "Education",
+  "id": "XdQYzxD4mt8",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 310,
+  "likeCountText": "310",
+  "most_replayed": null,
+  "publishDate": "2026-09-04T22:00:57-07:00",
+  "publishDateText": "Sep 4, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/XdQYzxD4mt8/maxresdefault.jpg",
+  "title": "You're Spending $50 to Make $10 in Profit",
+  "type": "video",
+  "viewCountInt": 15210,
+  "viewCountText": "15,210",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "sL16tsGafcQ",
+      "lengthInSeconds": 1513,
+      "lengthText": "25:13",
+      "publishDate": "2026-06-07T10:19:45.618Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-06-07T10:19:45.618Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/sL16tsGafcQ/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBIB4ZP1NU9fzPwjmicjJxcuiLSbA",
+      "title": "If You Want To Create Wealth In 2026, Watch This (4 Paths)",
+      "videoUrl": "https://www.youtube.com/watch?v=sL16tsGafcQ",
+      "viewCountInt": 745000,
+      "viewCountText": "745K views"
+    },
+    {
+      "channel": {
+        "handle": "PhoenixResale",
+        "id": "UCYWd5Q-C8M-OeDzKo86CAeg",
+        "title": "Phoenix Resale",
+        "url": "https://www.youtube.com/@PhoenixResale"
+      },
+      "id": "JyN-ck0Fs1o",
+      "lengthInSeconds": 2943,
+      "lengthText": "49:03",
+      "publishDate": "2025-09-07T10:19:45.618Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-07T10:19:45.618Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/JyN-ck0Fs1o/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLA9p2saa2lwzCVs8RHBO_pXgZDsRA",
+      "title": "This Multi-Millionaire Got Rich Selling Used T-Shirts",
+      "videoUrl": "https://www.youtube.com/watch?v=JyN-ck0Fs1o",
+      "viewCountInt": 5500000,
+      "viewCountText": "5.5M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "FMzKk73iUhw",
+      "lengthInSeconds": 2503,
+      "lengthText": "41:43",
+      "publishDate": "2025-09-07T10:19:45.618Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-07T10:19:45.618Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/FMzKk73iUhw/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBNcJNX_Mj3Of_jGNUAd8FfdpgxrQ",
+      "title": "How To Get Customers So Fast It Feels ILLEGAL",
+      "videoUrl": "https://www.youtube.com/watch?v=FMzKk73iUhw",
+      "viewCountInt": 740000,
+      "viewCountText": "740K views"
+    },
+    {
+      "channel": {
+        "handle": "PsychToonsHQ",
+        "id": "UC7ogBsKt4AoJBu8bObb0QiA",
+        "title": "PsychToons",
+        "url": "https://www.youtube.com/@PsychToonsHQ"
+      },
+      "id": "uw61C_qbgNg",
+      "lengthInSeconds": 922,
+      "lengthText": "15:22",
+      "publishDate": "2026-09-02T10:19:45.618Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-09-02T10:19:45.618Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/uw61C_qbgNg/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLB6xZkbXNB-hBDdBi-cl4J4nILqVQ",
+      "title": "Psychology of Charisma: How To Actually Make People Like You",
+      "videoUrl": "https://www.youtube.com/watch?v=uw61C_qbgNg",
+      "viewCountInt": 305000,
+      "viewCountText": "305K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Leanne ten Brinke",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "AcK_zgJjnoo",
+      "lengthInSeconds": 6560,
+      "lengthText": "1:49:20",
+      "publishDate": "2026-09-07T07:19:45.618Z",
+      "publishDateText": "3 hours ago",
+      "publishedTime": "2026-09-07T07:19:45.618Z",
+      "publishedTimeText": "3 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/AcK_zgJjnoo/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLDpW0Avl482Yu9oqpXLhdbVUS1oMw",
+      "title": "Gaslighting Expert: Catch Psychopaths Hiding In Plain Sight By Asking This! | Dr Leanne Ten Brinke",
+      "videoUrl": "https://www.youtube.com/watch?v=AcK_zgJjnoo",
+      "viewCountInt": 132000,
+      "viewCountText": "132K views"
+    },
+    {
+      "channel": {
+        "handle": "youshaei",
+        "id": "UCj8DGOv5P7Ngsh-telMG-pw",
+        "title": "Jon Youshaei",
+        "url": "https://www.youtube.com/@youshaei"
+      },
+      "id": "tpQZLCel_kg",
+      "lengthInSeconds": 3683,
+      "lengthText": "1:01:23",
+      "publishDate": "2026-08-24T10:19:45.618Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-24T10:19:45.618Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/tpQZLCel_kg/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBgyoxQctMHWNSqyv_Vwg4HohyBvQ",
+      "title": "The Real Reason Veritasium Sold His Channel",
+      "videoUrl": "https://www.youtube.com/watch?v=tpQZLCel_kg",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "MrBeast",
+        "id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "title": "MrBeast",
+        "url": "https://www.youtube.com/@MrBeast"
+      },
+      "id": "gTKS8SAwUzE",
+      "lengthInSeconds": 1408,
+      "lengthText": "23:28",
+      "publishDate": "2026-09-06T10:19:45.618Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-06T10:19:45.618Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/gTKS8SAwUzE/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLCMcL2JYqhcaQEnhsQeCSvFcp1uCQ",
+      "title": "We Survived The Most Extreme Places On Earth",
+      "videoUrl": "https://www.youtube.com/watch?v=gTKS8SAwUzE",
+      "viewCountInt": 49000000,
+      "viewCountText": "49M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-24T10:19:45.618Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-24T10:19:45.618Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBuimB2ElgJrBx7WaIkuN9-2kStTA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 250000,
+      "viewCountText": "250K views"
+    },
+    {
+      "channel": {
+        "title": "Omar Eltakrori and Myron Golden",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "mLKwGV5ij0E",
+      "lengthInSeconds": 2232,
+      "lengthText": "37:12",
+      "publishDate": "2026-08-28T10:19:45.618Z",
+      "publishDateText": "10 days ago",
+      "publishedTime": "2026-08-28T10:19:45.618Z",
+      "publishedTimeText": "10 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mLKwGV5ij0E/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLC0_hF1p5N728v_s5RBUclUiZB1FQ",
+      "title": "How To Make Your First Million Dollars (Charge A Premium!) ft. Myron Golden",
+      "videoUrl": "https://www.youtube.com/watch?v=mLKwGV5ij0E",
+      "viewCountInt": 130000,
+      "viewCountText": "130K views"
+    },
+    {
+      "channel": {
+        "handle": "jubilee",
+        "id": "UCJjSDX-jUChzOEyok9XYRJQ",
+        "title": "Jubilee",
+        "url": "https://www.youtube.com/@jubilee"
+      },
+      "id": "KevTBc07wm8",
+      "lengthInSeconds": 5190,
+      "lengthText": "1:26:30",
+      "publishDate": "2026-08-07T10:19:45.618Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-07T10:19:45.618Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/KevTBc07wm8/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBToRYUNY1Hluq5r9N_oCqUEmhF4Q",
+      "title": "1 Anti-Manosphere vs 20 Manosphere (ft. Mark Manson) | Surrounded",
+      "videoUrl": "https://www.youtube.com/watch?v=KevTBc07wm8",
+      "viewCountInt": 3200000,
+      "viewCountText": "3.2M views"
+    },
+    {
+      "channel": {
+        "handle": "hamptonlawfirm",
+        "id": "UCyDxFedFQ6_Ll3yAXqcmXvw",
+        "title": "Hampton Law",
+        "url": "https://www.youtube.com/@hamptonlawfirm"
+      },
+      "id": "VxMWdoDn93E",
+      "lengthInSeconds": 516,
+      "lengthText": "8:36",
+      "publishDate": "2026-08-07T10:19:45.618Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-07T10:19:45.618Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/VxMWdoDn93E/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLB0QT4jVOscsoVZBb9vz71Wizax0A",
+      "title": "If Cops Ask \"Where You Headed?\" - Say THIS (Simple Phrase)",
+      "videoUrl": "https://www.youtube.com/watch?v=VxMWdoDn93E",
+      "viewCountInt": 1900000,
+      "viewCountText": "1.9M views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "nSlZZ7TxNM8",
+      "lengthInSeconds": 1483,
+      "lengthText": "24:43",
+      "publishDate": "2026-07-07T10:19:45.618Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-07T10:19:45.618Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/nSlZZ7TxNM8/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLDG6mNLgHJLRdxXVjZaU4NgGdKzng",
+      "title": "You Don't Need To Start A Business, Just Buy One Of These",
+      "videoUrl": "https://www.youtube.com/watch?v=nSlZZ7TxNM8",
+      "viewCountInt": 573000,
+      "viewCountText": "573K views"
+    }
+  ]
+}

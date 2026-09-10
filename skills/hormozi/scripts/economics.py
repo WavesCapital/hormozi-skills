@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Deterministic funnel and unit-economics calculations without hidden assumptions."""
+"""Simple funnel and gross-profit estimates with explicit assumptions."""
 
 from __future__ import annotations
 
@@ -60,12 +60,13 @@ def unit(args: argparse.Namespace) -> dict[str, object]:
     )
     return {
         "calculation": "unit_economics",
+        "schema_version": 2,
         "inputs": {
-            "monthly_collected_revenue": args.monthly_revenue,
+            "monthly_earned_revenue": args.monthly_revenue,
             "gross_margin": args.gross_margin,
             "customer_acquisition_cost": args.cac,
             "monthly_customer_churn": args.monthly_churn,
-            "upfront_collected_revenue": args.upfront_revenue,
+            "upfront_earned_revenue": args.upfront_revenue,
             "upfront_variable_cost": args.upfront_variable_cost,
         },
         "outputs": {
@@ -78,8 +79,14 @@ def unit(args: argparse.Namespace) -> dict[str, object]:
         },
         "assumptions": [
             "Revenue, margin, acquisition cost, and churn describe the same customer cohort.",
+            "Monthly revenue is earned per active customer for one service month, not cash collected that month.",
+            "Upfront revenue and cost cover a separate one-time purchase, never service already counted in monthly revenue or margin.",
+            "An annual prepayment for the monthly service is not extra upfront revenue. Model its receipt and future costs separately.",
+            "Gross margin includes the delivery costs for the same monthly work. The upfront cost covers the separate one-time work.",
             "The simple churn model assumes a constant monthly churn hazard and no expansion or discounting.",
             "A zero churn input means lifetime and lifetime value are unknown, not infinite.",
+            "Simple payback is when modeled gross profit covers acquisition cost, not a forecast of bank cash or billing dates.",
+            "Gross profit excludes overhead and tax. Use a dated cash-flow model for prepayments, refunds, delayed costs, or changing margins.",
         ],
     }
 
@@ -89,13 +96,22 @@ def main() -> int:
     commands = parser.add_subparsers(dest="command", required=True)
     funnel_parser = commands.add_parser("funnel")
     funnel_parser.add_argument("--stage", action="append", type=parse_stage, required=True)
-    unit_parser = commands.add_parser("unit")
-    unit_parser.add_argument("--monthly-revenue", type=float, required=True)
-    unit_parser.add_argument("--gross-margin", type=float, required=True)
-    unit_parser.add_argument("--cac", type=float, required=True)
-    unit_parser.add_argument("--monthly-churn", type=float, required=True)
-    unit_parser.add_argument("--upfront-revenue", type=float, default=0.0)
-    unit_parser.add_argument("--upfront-variable-cost", type=float, default=0.0)
+    unit_parser = commands.add_parser(
+        "unit", description="Estimate gross profit per customer, not cash flow. "
+        "JSON schema 2 uses earned-revenue input labels instead of collected-revenue labels."
+    )
+    unit_parser.add_argument("--monthly-revenue", type=float, required=True,
+                             help="Revenue earned per active customer for one service month; not prepaid cash")
+    unit_parser.add_argument("--gross-margin", type=float, required=True,
+                             help="Monthly gross profit / monthly earned revenue, from 0 to 1")
+    unit_parser.add_argument("--cac", type=float, required=True,
+                             help="Cost to get one customer in the same group")
+    unit_parser.add_argument("--monthly-churn", type=float, required=True,
+                             help="Share of active customers lost per month, from 0 to 1")
+    unit_parser.add_argument("--upfront-revenue", type=float, default=0.0,
+                             help="Earned revenue for a separate one-time purchase; exclude prepaid monthly service")
+    unit_parser.add_argument("--upfront-variable-cost", type=float, default=0.0,
+                             help="Delivery cost for that separate one-time purchase; do not count monthly costs twice")
     args = parser.parse_args()
     try:
         result = funnel(args.stage) if args.command == "funnel" else unit(args)

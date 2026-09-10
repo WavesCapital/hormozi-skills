@@ -1,0 +1,227 @@
+{
+  "committed_at": "2026-09-07T18:07:56.723Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-00-catalog.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/catalog.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/catalog.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-01-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/full/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/full/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-02-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/full/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/full/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-03-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-01/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-01/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-04-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-01/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-01/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-05-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-02/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-02/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-06-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-02/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-02/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-07-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-03/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-03/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-08-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-03/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-03/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-09-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-04/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-04/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-10-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-04/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-04/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-11-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-05/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-05/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-12-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-05/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-05/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-13-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-06/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-06/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-14-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-06/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-06/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-15-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-07/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-07/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-16-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-07/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-07/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-17-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-08/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-08/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-18-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/recheck-08/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/recheck-08/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-19-review.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/audiobook/review.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/audiobook/review.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-20-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/full/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/full/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-21-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/full/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/full/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-22-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-01/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-01/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-23-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-01/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-01/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-24-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-02/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-02/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-25-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-02/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-02/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-26-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-03/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-03/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-27-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-03/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-03/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-28-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-04/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-04/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-29-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-04/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-04/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-30-receipt.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-05/receipt.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-05/receipt.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-31-transcript.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/recheck-05/transcript.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/recheck-05/transcript.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-32-review.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/audio/sources/tactics/review.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/audio/sources/tactics/review.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-33-file-source-manifest.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/files/file-source-manifest.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/file-source-manifest.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-34-run-report.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/files/run-report.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/run-report.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z/backup-35-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/original-audio-promotion-01/promotion/active-window.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-09-07T18:07:56.631Z",
+  "replaced_count": 36,
+  "run_id": "hormozi-file-audio-20260907T180750Z",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-audio-20260907T180750Z"
+}

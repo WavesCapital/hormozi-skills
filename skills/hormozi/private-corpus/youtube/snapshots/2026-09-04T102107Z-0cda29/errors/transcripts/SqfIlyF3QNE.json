@@ -1,0 +1,8 @@
+{
+  "attempts": 1,
+  "code": "resource_not_found",
+  "endpoint": "/v1/youtube/video/transcript?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSqfIlyF3QNE",
+  "exit_code": 1,
+  "http_status": 404,
+  "message": "The requested ScrapeCreators resource or endpoint was not found."
+}

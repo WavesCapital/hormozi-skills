@@ -1,0 +1,473 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "We are at about 4 million a year in"
+    },
+    {
+      "endMs": "4120",
+      "startMs": "2600",
+      "startTimeText": "0:02",
+      "text": "revenue."
+    },
+    {
+      "endMs": "7440",
+      "startMs": "3600",
+      "startTimeText": "0:03",
+      "text": ">> Awesome."
+    },
+    {
+      "endMs": "9960",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": ">> And our biggest bottleneck as far as"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "I see it is"
+    },
+    {
+      "endMs": "14360",
+      "startMs": "9960",
+      "startTimeText": "0:09",
+      "text": "with our models, our primary customer"
+    },
+    {
+      "endMs": "14880",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "acquisition method is door-to-door. It's"
+    },
+    {
+      "endMs": "15120",
+      "startMs": "14360",
+      "startTimeText": "0:14",
+      "text": "a"
+    },
+    {
+      "endMs": "17360",
+      "startMs": "14880",
+      "startTimeText": "0:14",
+      "text": ">> Okay."
+    },
+    {
+      "endMs": "18120",
+      "startMs": "15120",
+      "startTimeText": "0:15",
+      "text": ">> two-part sales that are closer model."
+    },
+    {
+      "endMs": "20280",
+      "startMs": "17360",
+      "startTimeText": "0:17",
+      "text": ">> Yep."
+    },
+    {
+      "endMs": "21400",
+      "startMs": "18120",
+      "startTimeText": "0:18",
+      "text": ">> And it's a high churn role. Like we know"
+    },
+    {
+      "endMs": "23360",
+      "startMs": "20280",
+      "startTimeText": "0:20",
+      "text": "how to sell windows, we know how to do"
+    },
+    {
+      "endMs": "26320",
+      "startMs": "21400",
+      "startTimeText": "0:21",
+      "text": "it well. There's getting them to stick"
+    },
+    {
+      "endMs": "29240",
+      "startMs": "23360",
+      "startTimeText": "0:23",
+      "text": "past, you know, week one and then"
+    },
+    {
+      "endMs": "32759",
+      "startMs": "26320",
+      "startTimeText": "0:26",
+      "text": "actually producing. Our biggest falloff"
+    },
+    {
+      "endMs": "35160",
+      "startMs": "29240",
+      "startTimeText": "0:29",
+      "text": "right now is literally just from"
+    },
+    {
+      "endMs": "36800",
+      "startMs": "32759",
+      "startTimeText": "0:32",
+      "text": "showing up day one to making it to the"
+    },
+    {
+      "endMs": "39080",
+      "startMs": "35160",
+      "startTimeText": "0:35",
+      "text": "end of week one where they just get in"
+    },
+    {
+      "endMs": "39560",
+      "startMs": "36800",
+      "startTimeText": "0:36",
+      "text": "and realize, \"Oh gosh, I can't hack"
+    },
+    {
+      "endMs": "41600",
+      "startMs": "39080",
+      "startTimeText": "0:39",
+      "text": "this.\""
+    },
+    {
+      "endMs": "42760",
+      "startMs": "39560",
+      "startTimeText": "0:39",
+      "text": ">> Do you have like two makeshift doors"
+    },
+    {
+      "endMs": "43920",
+      "startMs": "41600",
+      "startTimeText": "0:41",
+      "text": "that you have at your facility where"
+    },
+    {
+      "endMs": "45240",
+      "startMs": "42760",
+      "startTimeText": "0:42",
+      "text": "they like knock on it and open it?"
+    },
+    {
+      "endMs": "47280",
+      "startMs": "43920",
+      "startTimeText": "0:43",
+      "text": "There's nothing on the other side of it?"
+    },
+    {
+      "endMs": "49720",
+      "startMs": "45240",
+      "startTimeText": "0:45",
+      "text": ">> Um we've got the office door and we will"
+    },
+    {
+      "endMs": "50160",
+      "startMs": "47280",
+      "startTimeText": "0:47",
+      "text": "either just not use a door or use that"
+    },
+    {
+      "endMs": "51960",
+      "startMs": "49720",
+      "startTimeText": "0:49",
+      "text": "door."
+    },
+    {
+      "endMs": "54240",
+      "startMs": "50160",
+      "startTimeText": "0:50",
+      "text": ">> So, I'm going to like this is this is"
+    },
+    {
+      "endMs": "56960",
+      "startMs": "51960",
+      "startTimeText": "0:51",
+      "text": "going to sound silly, but I am 100%"
+    },
+    {
+      "endMs": "59680",
+      "startMs": "54240",
+      "startTimeText": "0:54",
+      "text": "right. You want to approximate the"
+    },
+    {
+      "endMs": "62000",
+      "startMs": "56960",
+      "startTimeText": "0:56",
+      "text": "conditions of the sale as closely as"
+    },
+    {
+      "endMs": "63480",
+      "startMs": "59680",
+      "startTimeText": "0:59",
+      "text": "humanly possible in the training."
+    },
+    {
+      "endMs": "65000",
+      "startMs": "62000",
+      "startTimeText": "1:02",
+      "text": "Something as simple as them not actually"
+    },
+    {
+      "endMs": "66480",
+      "startMs": "63480",
+      "startTimeText": "1:03",
+      "text": "knocking on the door will have a very"
+    },
+    {
+      "endMs": "68120",
+      "startMs": "65000",
+      "startTimeText": "1:05",
+      "text": "meaningful difference in their ability"
+    },
+    {
+      "endMs": "69600",
+      "startMs": "66480",
+      "startTimeText": "1:06",
+      "text": "to retain the information and actually"
+    },
+    {
+      "endMs": "71320",
+      "startMs": "68120",
+      "startTimeText": "1:08",
+      "text": "deliver it in a comparable setting."
+    },
+    {
+      "endMs": "73800",
+      "startMs": "69600",
+      "startTimeText": "1:09",
+      "text": ">> And try to approximate the the training."
+    },
+    {
+      "endMs": "75880",
+      "startMs": "71320",
+      "startTimeText": "1:11",
+      "text": "So, what I would do is I'd set up two or"
+    },
+    {
+      "endMs": "78120",
+      "startMs": "73800",
+      "startTimeText": "1:13",
+      "text": "three free-standing doors inside of your"
+    },
+    {
+      "endMs": "79440",
+      "startMs": "75880",
+      "startTimeText": "1:15",
+      "text": "facility. So, I want them to practice"
+    },
+    {
+      "endMs": "80640",
+      "startMs": "78120",
+      "startTimeText": "1:18",
+      "text": "like they play. So, you're going to"
+    },
+    {
+      "endMs": "82600",
+      "startMs": "79440",
+      "startTimeText": "1:19",
+      "text": "knock on the door, you're going to do"
+    },
+    {
+      "endMs": "84680",
+      "startMs": "80640",
+      "startTimeText": "1:20",
+      "text": "it, we're going to hit the script, and"
+    },
+    {
+      "endMs": "86800",
+      "startMs": "82600",
+      "startTimeText": "1:22",
+      "text": "if they mess it up, we say, \"Stop, step"
+    },
+    {
+      "endMs": "87720",
+      "startMs": "84680",
+      "startTimeText": "1:24",
+      "text": "back, knock again, do it again.\" Because"
+    },
+    {
+      "endMs": "89720",
+      "startMs": "86800",
+      "startTimeText": "1:26",
+      "text": "the thing is it's going to get it's"
+    },
+    {
+      "endMs": "91080",
+      "startMs": "87720",
+      "startTimeText": "1:27",
+      "text": "going to be so muscle memory for them"
+    },
+    {
+      "endMs": "92080",
+      "startMs": "89720",
+      "startTimeText": "1:29",
+      "text": "like literally like their hands going to"
+    },
+    {
+      "endMs": "93320",
+      "startMs": "91080",
+      "startTimeText": "1:31",
+      "text": "they're going to knock the same number"
+    },
+    {
+      "endMs": "96480",
+      "startMs": "92080",
+      "startTimeText": "1:32",
+      "text": "of times, they're going to say the same"
+    },
+    {
+      "endMs": "98320",
+      "startMs": "93320",
+      "startTimeText": "1:33",
+      "text": "words at the same spot. Um and that will"
+    },
+    {
+      "endMs": "100480",
+      "startMs": "96480",
+      "startTimeText": "1:36",
+      "text": "approximate so much more closely what"
+    },
+    {
+      "endMs": "102920",
+      "startMs": "98320",
+      "startTimeText": "1:38",
+      "text": "they're going to experience uh there. I"
+    },
+    {
+      "endMs": "105320",
+      "startMs": "100480",
+      "startTimeText": "1:40",
+      "text": "would also encourage you to have uh"
+    },
+    {
+      "endMs": "108120",
+      "startMs": "102920",
+      "startTimeText": "1:42",
+      "text": "basically the the rowdy customer because"
+    },
+    {
+      "endMs": "109360",
+      "startMs": "105320",
+      "startTimeText": "1:45",
+      "text": "it going mediocre okay is not what"
+    },
+    {
+      "endMs": "110240",
+      "startMs": "108120",
+      "startTimeText": "1:48",
+      "text": "they're afraid of. That's not why"
+    },
+    {
+      "endMs": "111240",
+      "startMs": "109360",
+      "startTimeText": "1:49",
+      "text": "they're not That's not why they're"
+    },
+    {
+      "endMs": "112520",
+      "startMs": "110240",
+      "startTimeText": "1:50",
+      "text": "leaving. It's like we have to have"
+    },
+    {
+      "endMs": "114360",
+      "startMs": "111240",
+      "startTimeText": "1:51",
+      "text": "people slamming doors in their face. We"
+    },
+    {
+      "endMs": "116320",
+      "startMs": "112520",
+      "startTimeText": "1:52",
+      "text": "have to have people not liking them so"
+    },
+    {
+      "endMs": "118600",
+      "startMs": "114360",
+      "startTimeText": "1:54",
+      "text": "that they can get used to that. I want"
+    },
+    {
+      "endMs": "120080",
+      "startMs": "116320",
+      "startTimeText": "1:56",
+      "text": "them to be okay. I want to role play out"
+    },
+    {
+      "endMs": "122160",
+      "startMs": "118600",
+      "startTimeText": "1:58",
+      "text": "with someone losing their on them"
+    },
+    {
+      "endMs": "124000",
+      "startMs": "120080",
+      "startTimeText": "2:00",
+      "text": "is like so that they stop having this"
+    },
+    {
+      "endMs": "125680",
+      "startMs": "122160",
+      "startTimeText": "2:02",
+      "text": "big fear around it. It's like it's going"
+    },
+    {
+      "endMs": "127320",
+      "startMs": "124000",
+      "startTimeText": "2:04",
+      "text": "to be okay. You're going to survive. If"
+    },
+    {
+      "endMs": "128759",
+      "startMs": "125680",
+      "startTimeText": "2:05",
+      "text": "someone calls you a rodent, guess what?"
+    },
+    {
+      "endMs": "129960",
+      "startMs": "127320",
+      "startTimeText": "2:07",
+      "text": "You can knock on the next door, baby. I"
+    },
+    {
+      "endMs": "132680",
+      "startMs": "128759",
+      "startTimeText": "2:08",
+      "text": "want to award them for the the biggest"
+    },
+    {
+      "endMs": "133959",
+      "startMs": "129960",
+      "startTimeText": "2:09",
+      "text": "cuss out that they get. Right? I want to"
+    },
+    {
+      "endMs": "137000",
+      "startMs": "132680",
+      "startTimeText": "2:12",
+      "text": "make this fun. I want to I want to take"
+    },
+    {
+      "endMs": "137000",
+      "startMs": "133959",
+      "startTimeText": "2:13",
+      "text": "the pressure away."
+    }
+  ],
+  "transcript_only_text": " We  are  at  about  4  million  a  year  in \n revenue. \n >> Awesome. \n >> And  our  biggest  bottleneck  as  far  as \n I  see  it  is \n with  our  models,  our  primary  customer \n acquisition  method  is  door-to-door.  It's \n a \n >> Okay. \n >> two-part  sales  that  are  closer  model. \n >> Yep. \n >> And  it's  a  high  churn  role.  Like  we  know \n how  to  sell  windows,  we  know  how  to  do \n it  well.  There's  getting  them  to  stick \n past,  you  know,  week  one  and  then \n actually  producing.  Our  biggest  falloff \n right  now  is  literally  just  from \n showing  up  day  one  to  making  it  to  the \n end  of  week  one  where  they  just  get  in \n and  realize,  \"Oh  gosh,  I  can't  hack \n this.\" \n >> Do  you  have  like  two  makeshift  doors \n that  you  have  at  your  facility  where \n they  like  knock  on  it  and  open  it? \n There's  nothing  on  the  other  side  of  it? \n >> Um  we've  got  the  office  door  and  we  will \n either  just  not  use  a  door  or  use  that \n door. \n >> So,  I'm  going  to  like  this  is  this  is \n going  to  sound  silly,  but  I  am  100% \n right.  You  want  to  approximate  the \n conditions  of  the  sale  as  closely  as \n humanly  possible  in  the  training. \n Something  as  simple  as  them  not  actually \n knocking  on  the  door  will  have  a  very \n meaningful  difference  in  their  ability \n to  retain  the  information  and  actually \n deliver  it  in  a  comparable  setting. \n >> And  try  to  approximate  the  the  training. \n So,  what  I  would  do  is  I'd  set  up  two  or \n three  free-standing  doors  inside  of  your \n facility.  So,  I  want  them  to  practice \n like  they  play.  So,  you're  going  to \n knock  on  the  door,  you're  going  to  do \n it,  we're  going  to  hit  the  script,  and \n if  they  mess  it  up,  we  say,  \"Stop,  step \n back,  knock  again,  do  it  again.\"  Because \n the  thing  is  it's  going  to  get  it's \n going  to  be  so  muscle  memory  for  them \n like  literally  like  their  hands  going  to \n they're  going  to  knock  the  same  number \n of  times,  they're  going  to  say  the  same \n words  at  the  same  spot.  Um  and  that  will \n approximate  so  much  more  closely  what \n they're  going  to  experience  uh  there.  I \n would  also  encourage  you  to  have  uh \n basically  the  the  rowdy  customer  because \n it  going  mediocre  okay  is  not  what \n they're  afraid  of.  That's  not  why \n they're  not  That's  not  why  they're \n leaving.  It's  like  we  have  to  have \n people  slamming  doors  in  their  face.  We \n have  to  have  people  not  liking  them  so \n that  they  can  get  used  to  that.  I  want \n them  to  be  okay.  I  want  to  role  play  out \n with  someone  losing  their  on  them \n is  like  so  that  they  stop  having  this \n big  fear  around  it.  It's  like  it's  going \n to  be  okay.  You're  going  to  survive.  If \n someone  calls  you  a  rodent,  guess  what? \n You  can  knock  on  the  next  door,  baby.  I \n want  to  award  them  for  the  the  biggest \n cuss  out  that  they  get.  Right?  I  want  to \n make  this  fun.  I  want  to  I  want  to  take \n the  pressure  away.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mOEkXLyxQCc",
+  "videoId": "mOEkXLyxQCc"
+}

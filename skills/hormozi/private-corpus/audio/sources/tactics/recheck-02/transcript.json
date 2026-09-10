@@ -1,0 +1,676 @@
+{
+  "text": " how to leave reviews. Screenshot instructions. Number three, don't ask for five-star reviews. Ask for honest reviews. It's just less awkward. They'll still all be good. Most people aren't going to leave a one-star review and then ask for a t-shirt. Number four, have them show you the reviews to get the shirt. Number five, give the shirt immediately, no delays. Number six, bonus, ask them if they want you to take a look at the shirt.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.82,
+      "text": " how to leave reviews. Screenshot instructions. Number three, don't ask for five-star reviews.",
+      "tokens": [
+        50365,
+        577,
+        281,
+        1856,
+        10229,
+        13,
+        2747,
+        9098,
+        12194,
+        9415,
+        13,
+        5118,
+        1045,
+        11,
+        500,
+        380,
+        1029,
+        337,
+        1732,
+        12,
+        9710,
+        10229,
+        13,
+        50658
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.142250028149835,
+      "compression_ratio": 1.779591836734694,
+      "no_speech_prob": 1.748475387912396e-12,
+      "words": [
+        {
+          "word": " how",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.1219482421875
+        },
+        {
+          "word": " to",
+          "start": 0.48,
+          "end": 0.64,
+          "probability": 0.998046875
+        },
+        {
+          "word": " leave",
+          "start": 0.64,
+          "end": 0.84,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " reviews.",
+          "start": 0.84,
+          "end": 1.26,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " Screenshot",
+          "start": 1.66,
+          "end": 2.14,
+          "probability": 0.994140625
+        },
+        {
+          "word": " instructions.",
+          "start": 2.14,
+          "end": 2.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Number",
+          "start": 3.28,
+          "end": 3.68,
+          "probability": 0.9677734375
+        },
+        {
+          "word": " three,",
+          "start": 3.68,
+          "end": 3.98,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " don't",
+          "start": 4.22,
+          "end": 4.5,
+          "probability": 1.0
+        },
+        {
+          "word": " ask",
+          "start": 4.5,
+          "end": 4.78,
+          "probability": 1.0
+        },
+        {
+          "word": " for",
+          "start": 4.78,
+          "end": 4.94,
+          "probability": 1.0
+        },
+        {
+          "word": " five",
+          "start": 4.94,
+          "end": 5.26,
+          "probability": 0.9951171875
+        },
+        {
+          "word": "-star",
+          "start": 5.26,
+          "end": 5.44,
+          "probability": 0.9306640625
+        },
+        {
+          "word": " reviews.",
+          "start": 5.44,
+          "end": 5.82,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.08,
+      "end": 11.72,
+      "text": " Ask for honest reviews. It's just less awkward. They'll still all be good. Most people aren't",
+      "tokens": [
+        50669,
+        12320,
+        337,
+        3245,
+        10229,
+        13,
+        467,
+        311,
+        445,
+        1570,
+        11411,
+        13,
+        814,
+        603,
+        920,
+        439,
+        312,
+        665,
+        13,
+        4534,
+        561,
+        3212,
+        380,
+        50951
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.142250028149835,
+      "compression_ratio": 1.779591836734694,
+      "no_speech_prob": 1.748475387912396e-12,
+      "words": [
+        {
+          "word": " Ask",
+          "start": 6.08,
+          "end": 6.32,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " for",
+          "start": 6.32,
+          "end": 6.52,
+          "probability": 1.0
+        },
+        {
+          "word": " honest",
+          "start": 6.52,
+          "end": 6.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " reviews.",
+          "start": 6.86,
+          "end": 7.22,
+          "probability": 1.0
+        },
+        {
+          "word": " It's",
+          "start": 7.44,
+          "end": 7.88,
+          "probability": 1.0
+        },
+        {
+          "word": " just",
+          "start": 7.88,
+          "end": 8.06,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " less",
+          "start": 8.06,
+          "end": 8.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " awkward.",
+          "start": 8.7,
+          "end": 9.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " They'll",
+          "start": 9.86,
+          "end": 10.32,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " still",
+          "start": 10.32,
+          "end": 10.52,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " all",
+          "start": 10.52,
+          "end": 10.74,
+          "probability": 1.0
+        },
+        {
+          "word": " be",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 1.0
+        },
+        {
+          "word": " good.",
+          "start": 10.9,
+          "end": 11.12,
+          "probability": 1.0
+        },
+        {
+          "word": " Most",
+          "start": 11.26,
+          "end": 11.44,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " people",
+          "start": 11.44,
+          "end": 11.6,
+          "probability": 1.0
+        },
+        {
+          "word": " aren't",
+          "start": 11.6,
+          "end": 11.72,
+          "probability": 0.833984375
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.72,
+      "end": 16.32,
+      "text": " going to leave a one-star review and then ask for a t-shirt. Number four, have them show you",
+      "tokens": [
+        50951,
+        516,
+        281,
+        1856,
+        257,
+        472,
+        12,
+        9710,
+        3131,
+        293,
+        550,
+        1029,
+        337,
+        257,
+        256,
+        12,
+        15313,
+        13,
+        5118,
+        1451,
+        11,
+        362,
+        552,
+        855,
+        291,
+        51182
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.142250028149835,
+      "compression_ratio": 1.779591836734694,
+      "no_speech_prob": 1.748475387912396e-12,
+      "words": [
+        {
+          "word": " going",
+          "start": 11.72,
+          "end": 11.8,
+          "probability": 0.958984375
+        },
+        {
+          "word": " to",
+          "start": 11.8,
+          "end": 11.86,
+          "probability": 1.0
+        },
+        {
+          "word": " leave",
+          "start": 11.86,
+          "end": 12.06,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 12.06,
+          "end": 12.22,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " one",
+          "start": 12.22,
+          "end": 12.44,
+          "probability": 1.0
+        },
+        {
+          "word": "-star",
+          "start": 12.44,
+          "end": 12.58,
+          "probability": 1.0
+        },
+        {
+          "word": " review",
+          "start": 12.58,
+          "end": 12.82,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " and",
+          "start": 12.82,
+          "end": 12.94,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " then",
+          "start": 12.94,
+          "end": 13.02,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " ask",
+          "start": 13.02,
+          "end": 13.28,
+          "probability": 1.0
+        },
+        {
+          "word": " for",
+          "start": 13.28,
+          "end": 13.4,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 13.4,
+          "end": 13.52,
+          "probability": 1.0
+        },
+        {
+          "word": " t",
+          "start": 13.52,
+          "end": 13.6,
+          "probability": 0.98974609375
+        },
+        {
+          "word": "-shirt.",
+          "start": 13.6,
+          "end": 13.8,
+          "probability": 1.0
+        },
+        {
+          "word": " Number",
+          "start": 14.26,
+          "end": 14.72,
+          "probability": 1.0
+        },
+        {
+          "word": " four,",
+          "start": 14.72,
+          "end": 15.02,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " have",
+          "start": 15.54,
+          "end": 15.8,
+          "probability": 1.0
+        },
+        {
+          "word": " them",
+          "start": 15.8,
+          "end": 15.94,
+          "probability": 1.0
+        },
+        {
+          "word": " show",
+          "start": 15.94,
+          "end": 16.2,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 16.2,
+          "end": 16.32,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.32,
+      "end": 22.52,
+      "text": " the reviews to get the shirt. Number five, give the shirt immediately, no delays. Number six,",
+      "tokens": [
+        51182,
+        264,
+        10229,
+        281,
+        483,
+        264,
+        8336,
+        13,
+        5118,
+        1732,
+        11,
+        976,
+        264,
+        8336,
+        4258,
+        11,
+        572,
+        28610,
+        13,
+        5118,
+        2309,
+        11,
+        51493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.142250028149835,
+      "compression_ratio": 1.779591836734694,
+      "no_speech_prob": 1.748475387912396e-12,
+      "words": [
+        {
+          "word": " the",
+          "start": 16.32,
+          "end": 16.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " reviews",
+          "start": 16.42,
+          "end": 16.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " to",
+          "start": 16.74,
+          "end": 16.88,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 16.88,
+          "end": 17.02,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 17.02,
+          "end": 17.14,
+          "probability": 1.0
+        },
+        {
+          "word": " shirt.",
+          "start": 17.14,
+          "end": 17.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Number",
+          "start": 17.78,
+          "end": 18.2,
+          "probability": 1.0
+        },
+        {
+          "word": " five,",
+          "start": 18.2,
+          "end": 18.64,
+          "probability": 1.0
+        },
+        {
+          "word": " give",
+          "start": 19.12,
+          "end": 19.28,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 19.28,
+          "end": 19.42,
+          "probability": 1.0
+        },
+        {
+          "word": " shirt",
+          "start": 19.42,
+          "end": 19.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " immediately,",
+          "start": 19.58,
+          "end": 20.06,
+          "probability": 1.0
+        },
+        {
+          "word": " no",
+          "start": 20.06,
+          "end": 20.72,
+          "probability": 1.0
+        },
+        {
+          "word": " delays.",
+          "start": 20.72,
+          "end": 21.12,
+          "probability": 1.0
+        },
+        {
+          "word": " Number",
+          "start": 21.72,
+          "end": 22.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " six,",
+          "start": 22.1,
+          "end": 22.52,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 23.08,
+      "end": 24.98,
+      "text": " bonus, ask them if they want you to take a look at the shirt.",
+      "tokens": [
+        51520,
+        10882,
+        11,
+        1029,
+        552,
+        498,
+        436,
+        528,
+        291,
+        281,
+        747,
+        257,
+        574,
+        412,
+        264,
+        8336,
+        13,
+        51618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.142250028149835,
+      "compression_ratio": 1.779591836734694,
+      "no_speech_prob": 1.748475387912396e-12,
+      "words": [
+        {
+          "word": " bonus,",
+          "start": 23.08,
+          "end": 23.36,
+          "probability": 0.98681640625
+        },
+        {
+          "word": " ask",
+          "start": 23.82,
+          "end": 24.16,
+          "probability": 1.0
+        },
+        {
+          "word": " them",
+          "start": 24.16,
+          "end": 24.28,
+          "probability": 1.0
+        },
+        {
+          "word": " if",
+          "start": 24.28,
+          "end": 24.4,
+          "probability": 1.0
+        },
+        {
+          "word": " they",
+          "start": 24.4,
+          "end": 24.5,
+          "probability": 1.0
+        },
+        {
+          "word": " want",
+          "start": 24.5,
+          "end": 24.68,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 24.68,
+          "end": 24.8,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 24.8,
+          "end": 24.9,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " take",
+          "start": 24.9,
+          "end": 24.98,
+          "probability": 0.611328125
+        },
+        {
+          "word": " a",
+          "start": 24.98,
+          "end": 24.98,
+          "probability": 0.43603515625
+        },
+        {
+          "word": " look",
+          "start": 24.98,
+          "end": 24.98,
+          "probability": 0.139892578125
+        },
+        {
+          "word": " at",
+          "start": 24.98,
+          "end": 24.98,
+          "probability": 0.405029296875
+        },
+        {
+          "word": " the",
+          "start": 24.98,
+          "end": 24.98,
+          "probability": 0.259033203125
+        },
+        {
+          "word": " shirt.",
+          "start": 24.98,
+          "end": 24.98,
+          "probability": 0.83740234375
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

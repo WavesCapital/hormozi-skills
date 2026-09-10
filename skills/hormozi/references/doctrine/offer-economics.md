@@ -11,7 +11,44 @@ Improve the promise, value, packaging, price, risk reversal, monetization sequen
 3. Model price, margin, payment timing, expansion, and continuity together.
 4. Add honest enhancers only after the core value works.
 
+For offer design, bonuses, guarantees, names or offer fatigue, read [offers-review.md](offers-review.md). It links the full book's design choices and limits to exact source pages. Use it to build the fix, not just name the value equation.
+
+For a mature firm's next large product or growth bet, read [mature-growth.md](mature-growth.md). Protect the profitable core while comparing real needs, cash and risk.
+
+For prices, billing terms, fees or paid cover, read [pricing-review.md](pricing-review.md). Weigh the whole return and buyer value. Do not apply every pricing play by default.
+
+For a price-rise rollout or customer notice, read [price-change.md](price-change.md). Preserve existing terms and explain the change with real value.
+
+For bespoke quotes, a price lock or multi-job discount, read [service-business-review.md](service-business-review.md). Check the linked case's cost, scope and payment limits before applying its terms.
+
+For offer order, upsells, downsells, trials, prepay or recurring offers, read [money-models-review.md](money-models-review.md). Choose the next useful offer and check its cash needs; do not build every offer type at once.
+
 ## Material Rules
+
+For peak-time pricing, paid speed, annual fees, manual-work economics or the distinction between profit and sale value, use [the audio tactics map](profit-tactics-review.md#improve-price-and-cash). Apply the relevant idea with the firm's actual costs and buyer response.
+
+### HZ-OFE-010 — Match profit labels to the costs counted
+
+Classify costs by the work they pay for, not just their name. A cost called payroll can pay for delivery, sales or running the firm.
+
+Decision logic:
+
+- Count pay for serving buyers in delivery cost. Count pay for getting buyers in acquisition cost. Keep other business costs separate until calculating the firm's profit.
+- If the staff's work or another cost's role is unknown, do not assume it is all overhead. Give the remainder after the known costs and say which profit label is still conditional.
+- Carry the same cost scope into tables, quoted takeaways and the final advice. Do not charge the same cost twice.
+- Judge added buyers by the money they leave and the work/cash they need. Ad cost may rise and still make the next buyer worth getting; an unchanged cost per buyer is not a required growth rule.
+
+Limits:
+
+- Use complete figures when supplied. Do not invent missing costs or impose a full financial audit on simple arithmetic.
+- The source's growth estimate is not a formal accounting policy. State any needed allocation or timing assumption rather than invent it.
+
+Citations:
+
+- `file:100m-offers-alex-hormozi:9cd213f3194e:p0040` (primary)
+- `file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0047` (primary)
+- `file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0048` (primary)
+- `file:100m-leads-how-to-get-strangers:29823024eeb1:p0218` (primary)
 
 ### HZ-OFE-001 — Value equation
 
@@ -27,16 +64,15 @@ Decision logic:
 Citations:
 
 - `source:100m-offers-alex-hormozi:p0080` (primary)
-- `youtube:TLpLmhWqKEU:t002637040-t002699520` (dated_restatement) — https://www.youtube.com/watch?v=TLpLmhWqKEU&t=2637s
 
 ### HZ-OFE-002 — Perceived value must be communicated
 
-Operational improvements create commercial value only when the prospect can perceive their effect on success, delay, effort, or outcome.
+Make real value clear to the buyer. Improve delivery when it is weak; improve proof or clarity when sound delivery is hard to see.
 
 Decision logic:
 
-- Improve the actual mechanism first.
-- Make the improvement observable in proof, demonstration, packaging, or expectation setting.
+- Find whether the gap is in delivery, the buyer's view of it, or both.
+- Use real proof, a demo or clear progress to make value visible.
 - Do not substitute perception claims for delivery.
 
 Citations:
@@ -60,18 +96,24 @@ Citations:
 
 ### HZ-OFE-004 — Turn obstacles into solutions
 
-Build the offer by enumerating every obstacle between the customer and the dream outcome, then translating each obstacle into a solution component.
+Map what could stop the buyer from reaching the result. Turn those problems into feasible ways to help.
 
 Decision logic:
 
 - List the required customer steps.
-- Use the four value drivers to expose reasons each step may fail.
-- Reverse each obstacle into a solution statement.
+- Use the four value drivers to find problems without limiting the list to those buckets.
+- Turn problems into possible fixes, then choose how to deliver them. A proposed fix is not yet a promise.
+
+Limits:
+
+- Look broadly for buyer obstacles, but do not require a perfect solution to every possible problem before a sale. Keep the offer's scope and delivery feasible.
 
 Citations:
 
 - `source:100m-offers-alex-hormozi:p0107` (primary)
 - `source:100m-offers-alex-hormozi:p0111` (visual_example)
+- `file:100m-offers-alex-hormozi:9cd213f3194e:p0106` (primary)
+- `file:100m-offers-alex-hormozi:9cd213f3194e:p0120` (primary)
 
 ### HZ-OFE-005 — Choose delivery vehicles, then trim and stack
 
@@ -116,6 +158,8 @@ Decision logic:
 - Name the risk blocking purchase.
 - Choose a conditional, unconditional, anti-guarantee, or implied structure appropriate to delivery.
 - Specify customer responsibilities and the remedy without hiding material terms.
+- Count delivery, refunds and any extra work owed. More kept sales do not always mean more profit.
+- For pay tied to results, define the measured event, pay basis, floor and collection path.
 
 Limits:
 
@@ -124,39 +168,55 @@ Limits:
 Citations:
 
 - `source:100m-offers-alex-hormozi:p0169` (primary)
+- `file:100m-offers-alex-hormozi:9cd213f3194e:p0171` (primary)
+- `file:100m-offers-alex-hormozi:9cd213f3194e:p0178` (primary)
+- `file:100m-offers-alex-hormozi:9cd213f3194e:p0183` (primary)
 
 ### HZ-OFE-008 — Build a sequenced money model
 
-Combine attraction, upsell, downsell, and continuity offers so acquisition becomes profitable quickly and customer value grows over time.
+Build a reliable sequence of useful offers. Improve early cash and long-term value without adding more delivery work than the business can handle.
 
 Decision logic:
 
-- Use attraction to convert strangers.
+- Start with one offer that gets customers and covers its costs reliably.
 - Offer the next solution at the moment of greatest need.
-- Use payment or feature downsells instead of treating every no as final.
+- After a declined offer, change payment timing or scope when that helps the buyer. Respect a request to stop.
 - Add continuity only where ongoing value is real.
+- Use the offer families flexibly. A later offer may belong after thirty days; a partner product may fill a gap.
+- Count cash collected, costs and future work owed. A signed plan or prepaid term is not pure profit.
+
+Limits:
+
+- Do not require all four families before the first sale. Build one reliable step at a time.
+- The thirty-day target and historical take rates are not forecasts for every business.
 
 Citations:
 
-- `source:100m-money-models-how-to-make-money:p0023` (primary)
-- `source:100m-money-models-how-to-make-money:p0147` (primary)
-- `source:100m-money-models-how-to-make-money:p0153` (primary)
+- `file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0023` (primary)
+- `file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0150` (primary)
+- `file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0153` (primary)
+- `file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0154` (primary)
+- `file:100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538:p0155` (primary)
 
 ### HZ-OFE-009 — Optimize price for total gross profit
 
-Choose price from conversion, gross margin, retention, and lifetime gross profit together, not from close rate or churn alone.
+Compare lifetime gross profit from the same pool of leads. Weigh buy rate, price, service cost and how long buyers stay. Neither close rate nor the first bill alone decides the best price.
 
 Decision logic:
 
-- Model each candidate price across conversion, units sold, churn, delivery cost, and lifetime gross profit.
-- Test a bounded range.
-- Select the price that maximizes durable gross profit within delivery and claims constraints.
+- Model each price's gross profit per buyer and per lead over the same span.
+- Check cash timing, added costs and the work still owed. Do not confuse prepayment with profit.
+- Test the uncertain parts with like groups. Weigh tradeoffs; every measure need not rise together.
+- Choose durable return within real delivery, value and claims limits. Use the pricing guide for the relevant play and source math.
 
 Citations:
 
 - `source:100m-retention-playbook:p0011` (primary)
 - `source:100m-retention-playbook:p0012` (primary)
+- `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0020` (primary)
+- `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0021` (primary)
+- `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0061` (primary)
 
 ## Output Check
 
-Use the plain answer shape in `../answer-contract.md`. Tell the user the main problem, why it matters, what to do, what not to do yet, and the next step. Show the math and sources when they help. Keep unknown facts and safety limits clear. Do not use internal labels as headings. Run the strict writing check, fix the draft, and check it again.
+Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

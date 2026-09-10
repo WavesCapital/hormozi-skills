@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The majority of businesses in the US do"
+    },
+    {
+      "endMs": "5360",
+      "startMs": "2520",
+      "startTimeText": "0:02",
+      "text": "not make money."
+    },
+    {
+      "endMs": "6680",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "Over half either lose money or break"
+    },
+    {
+      "endMs": "8600",
+      "startMs": "5360",
+      "startTimeText": "0:05",
+      "text": "even every year. [music] Profit is"
+    },
+    {
+      "endMs": "10440",
+      "startMs": "6680",
+      "startTimeText": "0:06",
+      "text": "unnatural. It's not a normally occurring"
+    },
+    {
+      "endMs": "12240",
+      "startMs": "8600",
+      "startTimeText": "0:08",
+      "text": "thing. You have to force it and you have"
+    },
+    {
+      "endMs": "13800",
+      "startMs": "10440",
+      "startTimeText": "0:10",
+      "text": "to keep the line because people will"
+    },
+    {
+      "endMs": "14410",
+      "startMs": "12240",
+      "startTimeText": "0:12",
+      "text": "spend your money"
+    },
+    {
+      "endMs": "14560",
+      "startMs": "13800",
+      "startTimeText": "0:13",
+      "text": "happily."
+    },
+    {
+      "endMs": "15840",
+      "startMs": "14410",
+      "startTimeText": "0:14",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "17280",
+      "startMs": "14560",
+      "startTimeText": "0:14",
+      "text": ">> Having that kind of discipline is"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "15840",
+      "startTimeText": "0:15",
+      "text": "difficult. It's a discipline. Profit is"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "17280",
+      "startTimeText": "0:17",
+      "text": "a discipline."
+    }
+  ],
+  "transcript_only_text": " The  majority  of  businesses  in  the  US  do \n not  make  money. \n Over  half  either  lose  money  or  break \n even  every  year.  [music]  Profit  is \n unnatural.  It's  not  a  normally  occurring \n thing.  You  have  to  force  it  and  you  have \n to  keep  the  line  because  people  will \n spend  your  money \n happily. \n >> [music] \n >> Having  that  kind  of  discipline  is \n difficult.  It's  a  discipline.  Profit  is \n a  discipline.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=SguJ4QcGXOU",
+  "videoId": "SguJ4QcGXOU"
+}

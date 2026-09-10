@@ -1,0 +1,299 @@
+{
+  "committed_at": "2026-09-07T16:24:31.956Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-00-chunks.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/chunks.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/chunks.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-01-p0001.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0001.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0001.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-02-p0002.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0002.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0002.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-03-p0003.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0003.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0003.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-04-p0004.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0004.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0004.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-05-p0005.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0005.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0005.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-06-p0006.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0006.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0006.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-07-p0007.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0007.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0007.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-08-p0008.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0008.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0008.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-09-p0009.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0009.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0009.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-10-p0010.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0010.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0010.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-11-p0011.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0011.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0011.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-12-p0012.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0012.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0012.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-13-p0013.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0013.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0013.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-14-p0014.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0014.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0014.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-15-p0015.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0015.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0015.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-16-p0016.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0016.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0016.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-17-p0017.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0017.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0017.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-18-p0018.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0018.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0018.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-19-p0019.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0019.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0019.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-20-p0020.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0020.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0020.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-21-p0021.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0021.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0021.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-22-p0022.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0022.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0022.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-23-p0023.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0023.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0023.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-24-p0024.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0024.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0024.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-25-p0025.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0025.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0025.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-26-p0026.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0026.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0026.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-27-p0027.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0027.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0027.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-28-p0028.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0028.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0028.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-29-p0029.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0029.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0029.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-30-p0030.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0030.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0030.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-31-p0031.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0031.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0031.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-32-p0032.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0032.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0032.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-33-p0033.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0033.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0033.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-34-p0034.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0034.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0034.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-35-p0035.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0035.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0035.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-36-p0036.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0036.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0036.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-37-p0037.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0037.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0037.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-38-p0038.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0038.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0038.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-39-p0039.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0039.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0039.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-40-p0040.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0040.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/page-images/100m-marketing-roadmap-eb0287c4cd72/p0040.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-41-pages.jsonl",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/derived/records/100m-marketing-roadmap-eb0287c4cd72/pages.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/records/100m-marketing-roadmap-eb0287c4cd72/pages.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-42-file-source-manifest.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/file-source-manifest.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/file-source-manifest.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-43-100M-Marketing-Roadmap.pdf",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/originals/100M-Marketing-Roadmap.pdf",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/originals/100M-Marketing-Roadmap.pdf"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-44-run-report.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/run-report.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/run-report.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-45-visual-review.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/files/visual-review.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/visual-review.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-46-hormozi.sqlite",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/index/hormozi.sqlite",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/index/hormozi.sqlite"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z/backup-47-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/marketing-roadmap-promotion-01/promotion/active-window.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-09-07T16:24:31.801Z",
+  "replaced_count": 48,
+  "run_id": "hormozi-file-roadmap-20260907T162428Z",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-roadmap-20260907T162428Z"
+}

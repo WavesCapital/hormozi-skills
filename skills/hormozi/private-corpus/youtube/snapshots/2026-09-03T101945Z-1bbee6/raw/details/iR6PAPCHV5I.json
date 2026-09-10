@@ -1,0 +1,293 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 2,
+  "commentCountText": "2",
+  "credits_charged": 1,
+  "description": "Just spend the time it takes to make an actually amazing product. (Way longer than normal). \n\nThen - right when you’d feel the most convicted about charging for it…\n\n…give it away. \n\nAnd you get leads forever. \n\nWhich is probably worth more than what you’d make from the thing.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:54",
+  "durationMs": 114000,
+  "genre": "Education",
+  "id": "iR6PAPCHV5I",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 844,
+  "likeCountText": "844",
+  "most_replayed": null,
+  "publishDate": "2026-08-10T14:30:50-07:00",
+  "publishDateText": "Aug 10, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/iR6PAPCHV5I/maxresdefault.jpg",
+  "title": "Your Lead Magnet Name Is Costing You Leads",
+  "type": "video",
+  "viewCountInt": 19585,
+  "viewCountText": "19,585",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "MoreMozi",
+        "id": "UCrvchO1h6lWZAuGaa1LqX9Q",
+        "title": "MoreMozi",
+        "url": "https://www.youtube.com/@MoreMozi"
+      },
+      "id": "7qY7gBMWOB4",
+      "lengthInSeconds": 799,
+      "lengthText": "13:19",
+      "publishDate": "2026-03-02T10:46:02.739Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-03-02T10:46:02.739Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/7qY7gBMWOB4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBFKEAwDw==&rs=AOn4CLBFIjsaOeb0F7Do8Np35DYAwBHncA",
+      "title": "How to Make Better Offers and Lead Magnets",
+      "videoUrl": "https://www.youtube.com/watch?v=7qY7gBMWOB4",
+      "viewCountInt": 61000,
+      "viewCountText": "61K views"
+    },
+    {
+      "channel": {
+        "handle": "FoundMyFitnessClips",
+        "id": "UC5fdyC4LxyyYv8Am6nDrkmg",
+        "title": "FoundMyFitness Clips",
+        "url": "https://www.youtube.com/@FoundMyFitnessClips"
+      },
+      "id": "1vfWaOv03l0",
+      "lengthInSeconds": 351,
+      "lengthText": "5:51",
+      "publishDate": "2026-07-02T10:46:02.739Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-02T10:46:02.739Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/1vfWaOv03l0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDzRVAfv2wRPOoV23dHAaiihxFxBQ",
+      "title": "This Creatine Dose Makes You Feel Like You Slept 8 Hours",
+      "videoUrl": "https://www.youtube.com/watch?v=1vfWaOv03l0",
+      "viewCountInt": 234000,
+      "viewCountText": "234K views"
+    },
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-02T10:46:02.739Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:46:02.739Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "n1G3xqgzB2c",
+      "lengthInSeconds": 1248,
+      "lengthText": "20:48",
+      "publishDate": "2026-09-01T18:46:02.739Z",
+      "publishDateText": "16 hours ago",
+      "publishedTime": "2026-09-01T18:46:02.739Z",
+      "publishedTimeText": "16 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/n1G3xqgzB2c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBwpRBDXXLqLoK5wpGu1PQmM4tySg",
+      "title": "The REAL Reason Scientists Can Now Reverse Aging",
+      "videoUrl": "https://www.youtube.com/watch?v=n1G3xqgzB2c",
+      "viewCountInt": 240000,
+      "viewCountText": "240K views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "GXvaauscX-8",
+      "lengthInSeconds": 761,
+      "lengthText": "12:41",
+      "publishDate": "2026-08-05T10:46:02.739Z",
+      "publishDateText": "4 weeks ago",
+      "publishedTime": "2026-08-05T10:46:02.739Z",
+      "publishedTimeText": "4 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/GXvaauscX-8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBRoGB7O9HkKEmJlRdtQW8JVZ_Img",
+      "title": "Listen To This Before You Give Up! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=GXvaauscX-8",
+      "viewCountInt": 731,
+      "viewCountText": "731 views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "Mst4hreQYl0",
+      "lengthInSeconds": 1892,
+      "lengthText": "31:32",
+      "publishDate": "2025-12-02T10:46:02.739Z",
+      "publishDateText": "9 months ago",
+      "publishedTime": "2025-12-02T10:46:02.739Z",
+      "publishedTimeText": "9 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/Mst4hreQYl0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBgP4mVPS_c9OV5LL4LLOC6Viw_Xw",
+      "title": "Watch This To Generate 1000s of Leads (In Any Niche)",
+      "videoUrl": "https://www.youtube.com/watch?v=Mst4hreQYl0",
+      "viewCountInt": 686000,
+      "viewCountText": "686K views"
+    },
+    {
+      "channel": {
+        "handle": "VantaCentral",
+        "id": "UCEcd_xlG0zRmK7dCYPStWCA",
+        "title": "Vanta",
+        "url": "https://www.youtube.com/@VantaCentral"
+      },
+      "id": "eS1oKKtSYyU",
+      "lengthInSeconds": 544,
+      "lengthText": "9:04",
+      "publishDate": "2026-08-02T10:46:02.739Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-02T10:46:02.739Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/eS1oKKtSYyU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBZkoXIqgf3JqJ9LdYDl0UBKoZL5g",
+      "title": "Matt Damon Being Unintentionally Hilarious for 9 Minutes Straight",
+      "videoUrl": "https://www.youtube.com/watch?v=eS1oKKtSYyU",
+      "viewCountInt": 459000,
+      "viewCountText": "459K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "FRAZQKkhwrs",
+      "lengthInSeconds": 1289,
+      "lengthText": "21:29",
+      "publishDate": "2026-04-02T10:46:02.739Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-02T10:46:02.739Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/FRAZQKkhwrs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDG04QFfETbvQphRAN49aTcB61XjQ",
+      "title": "If You Think The Bible Is FAKE, You NEED To See This",
+      "videoUrl": "https://www.youtube.com/watch?v=FRAZQKkhwrs",
+      "viewCountInt": 4099999.9999999995,
+      "viewCountText": "4.1M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "ZTSI3DDP_4A",
+      "lengthInSeconds": 962,
+      "lengthText": "16:02",
+      "publishDate": "2026-08-19T10:46:02.739Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:46:02.739Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/ZTSI3DDP_4A/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAFqDsnGWRZ72oPcoTAfXgts8T0rQ",
+      "title": "My Actual Social Media Strategy For 2027 - The Algorithm",
+      "videoUrl": "https://www.youtube.com/watch?v=ZTSI3DDP_4A",
+      "viewCountInt": 129000,
+      "viewCountText": "129K views"
+    },
+    {
+      "channel": {
+        "handle": "GregIsenberg",
+        "id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+        "title": "Greg Isenberg",
+        "url": "https://www.youtube.com/@GregIsenberg"
+      },
+      "id": "S_oN3vlzpMw",
+      "lengthInSeconds": 2126,
+      "lengthText": "35:26",
+      "publishDate": "2026-05-02T10:46:02.739Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-05-02T10:46:02.739Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/S_oN3vlzpMw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCmuruxWgtTDQIKKEvhkKr4cgPfyg",
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "videoUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "viewCountInt": 745000,
+      "viewCountText": "745K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-02T10:46:02.739Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:46:02.739Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexGaTVPodcs",
+        "id": "UCI7xloaP0Sl1SB16P9nq7pQ",
+        "title": "AlexGa TV Podcs",
+        "url": "https://www.youtube.com/@AlexGaTVPodcs"
+      },
+      "id": "Yc4f0EPNU60",
+      "lengthInSeconds": 1952,
+      "lengthText": "32:32",
+      "publishDate": "2025-09-02T10:46:02.739Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:46:02.739Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/Yc4f0EPNU60/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC9FwKGM5uOGR9PR1PatVNNfqmQGA",
+      "title": "Ep.919 This Lead Magnet Strategy Will Increase Your Sales Conversions",
+      "videoUrl": "https://www.youtube.com/watch?v=Yc4f0EPNU60",
+      "viewCountInt": 2000,
+      "viewCountText": "2K views"
+    }
+  ]
+}

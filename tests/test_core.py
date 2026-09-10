@@ -3,6 +3,7 @@ from __future__ import annotations
 import importlib.util
 import json
 import os
+import re
 import shutil
 import sqlite3
 import subprocess
@@ -235,24 +236,26 @@ class RoutingTests(unittest.TestCase):
         self.assertEqual(highest_leverage["request_type"], "personalized_consulting")
         self.assertEqual(highest_leverage["primary_candidate"], "diagnose")
 
-    def test_mode_selection_contract_scans_broadly_and_executes_narrowly(self):
-        skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
-        workflow_text = (SKILL / "references" / "advisor-workflow.md").read_text(encoding="utf-8")
-        mode_index_text = (SKILL / "references" / "mode-index.md").read_text(encoding="utf-8")
-        combined = "\n".join((skill_text, workflow_text, mode_index_text))
-
-        self.assertNotIn("Add one support mode only", combined)
-        self.assertNotIn("Add at most one supporting mode", combined)
-        self.assertIn("Scan every mode", combined)
-        self.assertIn("two or three", combined)
-        self.assertIn("one main constraint", combined)
-        self.assertIn("Do not load every doctrine file", workflow_text)
+    def test_advisor_reference_routes_resolve_within_skill(self):
+        # Actual scope selection needs behavioral cases. Phrase matches cannot
+        # prove it and previously forced an unsupported two-or-three-mode cap.
+        for relative in ("SKILL.md", "references/advisor-workflow.md",
+                         "references/mode-index.md", "references/answer-contract.md"):
+            path = SKILL / relative
+            links = re.findall(r"\[[^\]]+\]\(([^)]+)\)", path.read_text(encoding="utf-8"))
+            local_links = [link.split("#", 1)[0] for link in links
+                           if not link.startswith(("https://", "http://", "#"))]
+            self.assertTrue(local_links, relative)
+            for link in local_links:
+                target = (path.parent / link).resolve()
+                self.assertTrue(target.is_relative_to(SKILL.resolve()), (relative, link))
+                self.assertTrue(target.is_file(), (relative, link))
 
     def test_short_skill_name_does_not_capture_removed_child_names(self):
         self.assertTrue(route_module.SKILL_INVOCATION_PATTERN.search("Use $hormozi to review this"))
         self.assertFalse(route_module.SKILL_INVOCATION_PATTERN.search("Use $hormozi-offers"))
 
-    def test_non_triggers_and_impersonation_are_explicit(self):
+    def test_non_triggers_and_private_roleplay_are_explicit(self):
         for query in (
             "Write a generic marketing plan",
             "Give me general email marketing ideas",
@@ -298,12 +301,14 @@ class RoutingTests(unittest.TestCase):
             route_module.route("Would anyone buy this offer?")["request_type"],
             "personalized_consulting",
         )
-        prohibited = route_module.route("Impersonate Alex Hormozi and write ads")
-        self.assertEqual(prohibited["request_type"], "prohibited_impersonation")
-        self.assertFalse(prohibited["mode_applicable"])
+        roleplay = route_module.route("Impersonate Alex Hormozi and write ads")
+        self.assertEqual(roleplay["request_type"], "general_doctrine")
+        self.assertTrue(roleplay["mode_applicable"])
         paraphrase = route_module.route("Ghostwrite this like Alex Hormozi")
-        self.assertEqual(paraphrase["request_type"], "prohibited_impersonation")
-        self.assertFalse(paraphrase["mode_applicable"])
+        self.assertEqual(paraphrase["request_type"], "personalized_consulting")
+        self.assertFalse(paraphrase["profile_required"])
+        self.assertTrue(paraphrase["business_context_required"])
+        self.assertTrue(paraphrase["mode_applicable"])
         for query in (
             "Draft this in Alex Hormozi's voice",
             "Rewrite this with Alex Hormozi's tone",
@@ -330,7 +335,22 @@ class RoutingTests(unittest.TestCase):
             "Imagine you are Alex Hormozi and advise Example Co",
         ):
             with self.subTest(query=query):
-                self.assertEqual(route_module.route(query)["request_type"], "prohibited_impersonation")
+                result = route_module.route(query)
+                self.assertIn(result["request_type"], ("general_doctrine", "personalized_consulting"))
+                self.assertTrue(result["mode_applicable"])
+
+        for query in (
+            "Pretend you are Alex Hormozi and review our offer",
+            "Role-play as Alex Hormozi and advise Example Co",
+        ):
+            with self.subTest(query=query):
+                result = route_module.route(query)
+                self.assertEqual(result["request_type"], "personalized_consulting")
+                self.assertFalse(result["profile_required"])
+                self.assertTrue(result["business_context_required"])
+        audit = route_module.route("Audit the skill's private role-play as Alex Hormozi")
+        self.assertEqual(audit["request_type"], "inspection")
+        self.assertFalse(audit["profile_required"])
 
         for query in (
             "Explain Alex Hormozi's style",
@@ -454,6 +474,12 @@ class CorpusTests(unittest.TestCase):
             result = corpus.query_index(index, "binding constraint", 3)
             self.assertEqual(result["schema"], "portable_licensed_sources_v1")
             self.assertEqual(result["results"][0]["source_key"], "owned-guide")
+            narrowed = corpus.query_index(index, "constraint", 3, source_key="owned-guide")
+            self.assertEqual([r['source_key'] for r in narrowed['results']], ['owned-guide'])
+            for missing in ['other-guide', "owned-guide' OR 1=1 --"]:
+                self.assertEqual(corpus.query_index(index, 'constraint', 3, source_key=missing)['results'], [])
+            with self.assertRaises(ValueError):
+                corpus.query_index(index, 'constraint', 3, source_key='')
             self.assertTrue(corpus.verify_index(index)["ok"])
             text.write_text("changed after indexing\n", encoding="utf-8")
             verified = corpus.verify_index(index)
@@ -530,6 +556,15 @@ class CorpusTests(unittest.TestCase):
             result = corpus.query_index(index, "binding constraint", 3, source_type="file")
             self.assertEqual([row["source_type"] for row in result["results"]], ["file"])
             self.assertEqual(result["filters"]["source_type"], "file")
+            narrowed = corpus.query_index(index, 'constraint', 3, source_key='book')
+            self.assertEqual([r['source_key'] for r in narrowed['results']], ['book'])
+            self.assertEqual(narrowed['filters']['source_key'], 'book')
+            self.assertEqual(corpus.query_index(index, 'constraint', 3,
+                source_type='youtube', source_key='book')['results'], [])
+            self.assertEqual(corpus.query_index(index, 'constraint', 3,
+                source_key="book' OR 1=1 --")['results'], [])
+            parsed = corpus.build_parser().parse_args(['query', '--query', 'constraint', '--source-key', 'book'])
+            self.assertEqual(parsed.source_key, 'book')
 
 
 class SourceAccessAndMigrationTests(unittest.TestCase):
@@ -803,14 +838,73 @@ class EconomicsAndDoctrineTests(unittest.TestCase):
         result = economics.unit(args)
         self.assertIsNone(result["outputs"]["simple_lifetime_gross_profit"])
 
+    def test_earned_revenue_contract_does_not_label_profit_as_cash(self):
+        args = type("Args", (), {
+            "monthly_revenue": 100.0, "gross_margin": 0.6, "cac": 180.0,
+            "monthly_churn": 0.1, "upfront_revenue": 0.0, "upfront_variable_cost": 0.0,
+        })()
+        # A $1,200 annual receipt is not an additional sale on top of $100/month.
+        result = economics.unit(args)
+        self.assertEqual(result["schema_version"], 2)
+        self.assertEqual(result["inputs"]["monthly_earned_revenue"], 100)
+        self.assertEqual(result["inputs"]["upfront_earned_revenue"], 0)
+        self.assertNotIn("monthly_collected_revenue", result["inputs"])
+        self.assertNotIn("upfront_collected_revenue", result["inputs"])
+        self.assertEqual(result["outputs"]["monthly_gross_profit"], 60)
+        self.assertEqual(result["outputs"]["upfront_gross_profit"], 0)
+        self.assertEqual(result["outputs"]["simple_lifetime_gross_profit"], 600)
+        self.assertEqual(result["outputs"]["simple_payback_months"], 3)
+
+    def test_separate_setup_loss_is_not_discarded(self):
+        args = type("Args", (), {
+            "monthly_revenue": 100.0, "gross_margin": 0.6, "cac": 180.0,
+            "monthly_churn": 0.1, "upfront_revenue": 50.0, "upfront_variable_cost": 110.0,
+        })()
+        result = economics.unit(args)
+        self.assertEqual(result["outputs"]["upfront_gross_profit"], -60)
+        self.assertEqual(result["outputs"]["simple_lifetime_gross_profit"], 540)
+        self.assertEqual(result["outputs"]["simple_payback_months"], 4)
+
+    def test_no_monthly_profit_cannot_pay_back_uncovered_acquisition_cost(self):
+        args = type("Args", (), {
+            "monthly_revenue": 100.0, "gross_margin": 0.0, "cac": 180.0,
+            "monthly_churn": 0.1, "upfront_revenue": 50.0, "upfront_variable_cost": 10.0,
+        })()
+        result = economics.unit(args)
+        self.assertEqual(result["outputs"]["simple_lifetime_gross_profit"], 40)
+        self.assertIsNone(result["outputs"]["simple_payback_months"])
+
     def test_doctrine_and_assets_validate(self):
         result = doctrine.validate(SKILL)
         self.assertTrue(result["ok"], result["errors"])
-        self.assertEqual(result["rules"], 49)
-        self.assertEqual(result["assets"], 17)
+        catalog = json.loads((SKILL / "references/doctrine/rule-index.json").read_text())
+        self.assertEqual(result["rules"], len(catalog["material_rules"]))
+        self.assertEqual(result["rules"], catalog["summary"]["material_rule_count"])
+        self.assertEqual(result["assets"], len(catalog["asset_rule_coverage"]))
 
 
 class PlainLanguageTests(unittest.TestCase):
+    def test_numeric_grouping_is_not_a_prose_comma(self):
+        for text in (
+            "Four sales at $2,000 gross profit each gives $8,000.",
+            "The price is $1,234,567.89.",
+            "We lost -2,000 units and gained +3,000 units.",
+            "At $2,000 per sale, four sales give $8,000.",
+        ):
+            with self.subTest(text=text):
+                result = plain_language.analyze(text)
+                self.assertNotIn("too_many_commas", result["issues"], result)
+                self.assertEqual(plain_language.visible_prose(text), text)
+
+    def test_numeric_grouping_does_not_hide_real_prose_commas(self):
+        for text in (
+            "At $2,000 per sale, four sales give $8,000, before costs.",
+            "Check buyers, costs, and cash.",
+            "Choose items 1,2,3 for the test.",
+        ):
+            with self.subTest(text=text):
+                self.assertIn("too_many_commas", plain_language.analyze(text)["issues"])
+
     def test_clear_answer_passes_third_grade_target(self):
         result = plain_language.analyze(
             "Waveforce helps shops offer financing. We help each shop get set up. "
@@ -876,14 +970,19 @@ class PlainLanguageTests(unittest.TestCase):
         payload = json.loads(result.stdout)
         self.assertFalse(payload["ok"])
 
-    def test_skill_requires_fix_and_recheck_for_every_reply(self):
+    def test_skill_requires_meaning_review_with_situational_measurement(self):
+        # Instruction wiring only; real saved advisor cases grade meaning and voice.
+        # See the audit's meaning-first-writing-2026-09-05 decision for why the
+        # old mandatory shell/checker ritual is no longer the intended contract.
         skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
         for required in (
-            "hard output gate",
-            "every final reply",
-            "--target-grade 3 --strict",
-            "Fix every avoidable issue and run the check again",
+            "quality requirement for every reply",
+            "--target-grade 3",
             "The feedback itself must model the writing",
+            "Keep amounts with their units, people, conditions and time spans",
+            "Read the final answer as the user will see it",
+            "not a required shell step for every reply",
+            "cannot prove meaning or voice",
         ):
             self.assertIn(required, skill_text)
 
@@ -891,8 +990,10 @@ class PlainLanguageTests(unittest.TestCase):
             encoding="utf-8"
         )
         for locator in (
-            "source:blackbook-100m-money-models-master-doc:p0224",
-            "source:blackbook-100m-money-models-master-doc:p0225",
+            # The full source review resolved these legacy aliases to exact
+            # named-file locators. Keep checking the same writing pages.
+            "file:100m-money-models-book-launch-blackbook-100m-money-models-master-doc:7a0c7a249ae8:p0224",
+            "file:100m-money-models-book-launch-blackbook-100m-money-models-master-doc:7a0c7a249ae8:p0225",
             "source:100m-leads-how-to-get-strangers:p0011",
         ):
             self.assertIn(locator, standard)
@@ -941,7 +1042,7 @@ class PlainLanguageTests(unittest.TestCase):
             "feedback": "This line is hard to read. Split it into two short lines.",
             "question": "What do you sell? Who buys it?",
             "onboarding": "I need a few facts first. Then I can give you a sound plan.",
-            "refusal": "I cannot claim to be Alex. I can use his public work to help you.",
+            "role-play": "I would fix the offer first. More leads will not fix a bad deal.",
             "blocked": "I cannot check that file yet. Please share a safe copy.",
             "error": "The check did not run. The file path is wrong.",
             "source note": "This rule comes from page 224. The page says to use short words.",
@@ -987,10 +1088,17 @@ class PackagingTests(unittest.TestCase):
             "skills/hormozi/scripts/plain_language.py",
             "skills/hormozi/references/communication-standard.md",
             "--source-type file",
-            "--source-type youtube",
+            "skills/hormozi/scripts/video_source.py list",
+            "skills/hormozi/scripts/video_source.py search",
+            "video_source.py read",
+            "--after START_ISO --before END_ISO",
+            "--video-id VIDEO_ID",
             "docs/youtube-sync.md",
         ):
             self.assertIn(required, text)
+        # Discovery must point to the metadata-gated path. Actual scope and
+        # no-body-access behavior are covered by test_video_source.py.
+        self.assertNotIn("--source-type youtube", text)
         self.assertNotIn("transcript body", text.lower().replace("no transcript body", ""))
 
     def test_files_outside_full_corpus_have_no_embedded_source_payload(self):

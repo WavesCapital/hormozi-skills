@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I think we're both pretty good at not"
+    },
+    {
+      "endMs": "5320",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "having ego in the relationship. Not"
+    },
+    {
+      "endMs": "7120",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "trying to be too cool for the other"
+    },
+    {
+      "endMs": "9640",
+      "startMs": "5320",
+      "startTimeText": "0:05",
+      "text": "person. There's plenty of times where"
+    },
+    {
+      "endMs": "11840",
+      "startMs": "7120",
+      "startTimeText": "0:07",
+      "text": "you both wronged the other person and"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "9640",
+      "startTimeText": "0:09",
+      "text": "you're right, and so what?"
+    },
+    {
+      "endMs": "15400",
+      "startMs": "11840",
+      "startTimeText": "0:11",
+      "text": "If you like want to stand on principle,"
+    },
+    {
+      "endMs": "16240",
+      "startMs": "13720",
+      "startTimeText": "0:13",
+      "text": "you can be wrong and you can be alone."
+    },
+    {
+      "endMs": "18680",
+      "startMs": "15400",
+      "startTimeText": "0:15",
+      "text": "Or you can be right and you can be"
+    },
+    {
+      "endMs": "18680",
+      "startMs": "16240",
+      "startTimeText": "0:16",
+      "text": "alone."
+    }
+  ],
+  "transcript_only_text": " I  think  we're  both  pretty  good  at  not \n having  ego  in  the  relationship.  Not \n trying  to  be  too  cool  for  the  other \n person.  There's  plenty  of  times  where \n you  both  wronged  the  other  person  and \n you're  right,  and  so  what? \n If  you  like  want  to  stand  on  principle, \n you  can  be  wrong  and  you  can  be  alone. \n Or  you  can  be  right  and  you  can  be \n alone.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=6OXze_ZgiSw",
+  "videoId": "6OXze_ZgiSw"
+}

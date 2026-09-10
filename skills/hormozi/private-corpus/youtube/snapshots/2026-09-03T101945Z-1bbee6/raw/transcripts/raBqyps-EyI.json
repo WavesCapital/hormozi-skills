@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Once you get good at some advertising"
+    },
+    {
+      "endMs": "3120",
+      "startMs": "1160",
+      "startTimeText": "0:01",
+      "text": "channel, if you're the one who's leading"
+    },
+    {
+      "endMs": "3960",
+      "startMs": "2440",
+      "startTimeText": "0:02",
+      "text": "it and you're like, \"Oh, I'm going to"
+    },
+    {
+      "endMs": "4880",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "try this livestream thing.\" All of a"
+    },
+    {
+      "endMs": "6520",
+      "startMs": "3960",
+      "startTimeText": "0:03",
+      "text": "sudden these"
+    },
+    {
+      "endMs": "8440",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "like bomb. In order to truly scale"
+    },
+    {
+      "endMs": "9960",
+      "startMs": "6520",
+      "startTimeText": "0:06",
+      "text": "advertising over a long period of time,"
+    },
+    {
+      "endMs": "13120",
+      "startMs": "8440",
+      "startTimeText": "0:08",
+      "text": "you have to literally lay this brick"
+    },
+    {
+      "endMs": "14480",
+      "startMs": "9960",
+      "startTimeText": "0:09",
+      "text": "foundation, and then it's working,"
+    },
+    {
+      "endMs": "15640",
+      "startMs": "13120",
+      "startTimeText": "0:13",
+      "text": "then you lay the next one. And most"
+    },
+    {
+      "endMs": "16760",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "people just they jump from brick to"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "15640",
+      "startTimeText": "0:15",
+      "text": "brick and they never actually get any"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "16760",
+      "startTimeText": "0:16",
+      "text": "foundation, so it never stacks."
+    }
+  ],
+  "transcript_only_text": " Once  you  get  good  at  some  advertising \n channel,  if  you're  the  one  who's  leading \n it  and  you're  like,  \"Oh,  I'm  going  to \n try  this  livestream  thing.\"  All  of  a \n sudden  these \n like  bomb.  In  order  to  truly  scale \n advertising  over  a  long  period  of  time, \n you  have  to  literally  lay  this  brick \n foundation,  and  then  it's  working, \n then  you  lay  the  next  one.  And  most \n people  just  they  jump  from  brick  to \n brick  and  they  never  actually  get  any \n foundation,  so  it  never  stacks.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=raBqyps-EyI",
+  "videoId": "raBqyps-EyI"
+}

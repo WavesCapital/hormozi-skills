@@ -3,11 +3,25 @@
 Doctrine lineage: `HZ-CV-005`, `HZ-OPS-004`, `HZ-OPS-006`.
 Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
 
-Check real talks with buyers. Give each one a score from 1 to 5. Link to proof.
+Check real talks with buyers. Link to proof. Keep what the team sees separate from what buyers report.
 
-| Talk | Heard the buyer | Was kind | Was right | Solved it | Did the next step | Work for buyer | Proof |
+## Buyer Scores
+
+Ask buyers to score each part from 1 to 5. Leave unknown scores blank; do not guess.
+
+| Talk | Showed care | Was kind | Solved the whole issue | Helped me learn | Responded in good time | Overall | Proof |
 |---|---:|---:|---:|---:|---:|---:|---|
 | | | | | | | | |
+
+Leila's survey has five service parts plus an overall score. The full form spans pages12–13.
+
+## Did The Fix Hold?
+
+| Talk | What the buyer can now do | Issue came back? | Other work still needed | Owner | Next update | Proof |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+A high score or closed ticket does not prove you fixed the whole issue.
 
 ## Handoff Check
 
@@ -22,3 +36,5 @@ Check real talks with buyers. Give each one a score from 1 to 5. Link to proof.
 - Owner and due date:
 - Number to check next and date:
 - Buyer result we must keep safe:
+
+Source: Leila Hormozi's 5 Scaling Framework SOPs,6–13. Read [the team review guide](../references/doctrine/team-review.md) for steps and limits.

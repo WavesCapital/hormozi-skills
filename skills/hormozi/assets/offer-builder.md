@@ -35,6 +35,8 @@ Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any har
 
 ## Offer
 
+Use the parts that help this buyer. Do not invent a bonus or deadline to fill a blank.
+
 - Promise and how it works:
 - What the buyer gets:
 - Price / payment timing:
@@ -43,3 +45,12 @@ Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any har
 - How we lower the buyer's main risk:
 - Name:
 - Service and claim limits:
+
+## Can We Keep The Promise?
+
+- Who does the work, and how much can they handle?
+- Cost to serve each buyer, including buyers who get a refund:
+- What we owe if the promised result does not happen:
+- Pay basis, minimum fee and due date:
+- What is real now versus a proposed change:
+- What we will test and how we will judge it:

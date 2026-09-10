@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4920",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "All the money is behind problems."
+    },
+    {
+      "endMs": "6920",
+      "startMs": "2840",
+      "startTimeText": "0:02",
+      "text": "Like if there is no problem,"
+    },
+    {
+      "endMs": "8400",
+      "startMs": "4920",
+      "startTimeText": "0:04",
+      "text": "then everyone's doing it. Like people"
+    },
+    {
+      "endMs": "9720",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "stop when there's a problem, which means"
+    },
+    {
+      "endMs": "11880",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "that the other side of the problem is"
+    },
+    {
+      "endMs": "13880",
+      "startMs": "9720",
+      "startTimeText": "0:09",
+      "text": "where the money is. So just like reframe"
+    },
+    {
+      "endMs": "15840",
+      "startMs": "11880",
+      "startTimeText": "0:11",
+      "text": "problem as profit on the other side of"
+    },
+    {
+      "endMs": "17200",
+      "startMs": "13880",
+      "startTimeText": "0:13",
+      "text": "the bridge. Like, \"Oh, good. Here's a"
+    },
+    {
+      "endMs": "20640",
+      "startMs": "15840",
+      "startTimeText": "0:15",
+      "text": "problem. Like I can cash this in for"
+    },
+    {
+      "endMs": "20640",
+      "startMs": "17200",
+      "startTimeText": "0:17",
+      "text": "money.\" Just got to solve it."
+    }
+  ],
+  "transcript_only_text": " All  the  money  is  behind  problems. \n Like  if  there  is  no  problem, \n then  everyone's  doing  it.  Like  people \n stop  when  there's  a  problem,  which  means \n that  the  other  side  of  the  problem  is \n where  the  money  is.  So  just  like  reframe \n problem  as  profit  on  the  other  side  of \n the  bridge.  Like,  \"Oh,  good.  Here's  a \n problem.  Like  I  can  cash  this  in  for \n money.\"  Just  got  to  solve  it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=XUngDJmAD8A",
+  "videoId": "XUngDJmAD8A"
+}

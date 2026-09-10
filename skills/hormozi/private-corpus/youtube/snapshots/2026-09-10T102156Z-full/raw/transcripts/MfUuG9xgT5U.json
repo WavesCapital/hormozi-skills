@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "People want an excuse to buy. You needto give it to them. So, think about"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "this. When you are perusing on a site,you want the thing. People like buying."
+    },
+    {
+      "endMs": "13920",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "The only reason that they don't buy isbecause they have a history of being"
+    },
+    {
+      "endMs": "19240",
+      "startMs": "12280",
+      "startTimeText": "0:12",
+      "text": "punished for buying in the past, butthey want to buy. And so, our job as"
+    },
+    {
+      "endMs": "24560",
+      "startMs": "16800",
+      "startTimeText": "0:16",
+      "text": "sales professionals or entrepreneurs isto help them justify making the"
+    },
+    {
+      "endMs": "24560",
+      "startMs": "22000",
+      "startTimeText": "0:22",
+      "text": "decision."
+    }
+  ],
+  "transcript_only_text": " People want an excuse to buy. You need\nto give it to them. So, think about this. When you are perusing on a site,\nyou want the thing. People like buying. The only reason that they don't buy is\nbecause they have a history of being punished for buying in the past, but\nthey want to buy. And so, our job as sales professionals or entrepreneurs is\nto help them justify making the decision.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=MfUuG9xgT5U",
+  "videoId": "MfUuG9xgT5U"
+}

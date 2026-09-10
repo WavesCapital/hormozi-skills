@@ -1,0 +1,251 @@
+{
+  "committed_at": "2026-09-07T13:28:46.598Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-00-chunks.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/chunks.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/chunks.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-01-07b1dcd767a74ab86fd69cd941fc7b8421bde5f46ed4c32ab86a383e0aee2734.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/07b1dcd767a74ab86fd69cd941fc7b8421bde5f46ed4c32ab86a383e0aee2734.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/07b1dcd767a74ab86fd69cd941fc7b8421bde5f46ed4c32ab86a383e0aee2734.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-02-0b8cd0bc54840aa434489e3125417f5d6ff45b81f5b6ed77be6dc5223e2c038b.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/0b8cd0bc54840aa434489e3125417f5d6ff45b81f5b6ed77be6dc5223e2c038b.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/0b8cd0bc54840aa434489e3125417f5d6ff45b81f5b6ed77be6dc5223e2c038b.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-03-18d840af2c50eff9a5241d4b50833a596e6b71af0cee87cf2b3435345f2f7aba.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/18d840af2c50eff9a5241d4b50833a596e6b71af0cee87cf2b3435345f2f7aba.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/18d840af2c50eff9a5241d4b50833a596e6b71af0cee87cf2b3435345f2f7aba.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-04-1bf81bfcbffd69bc9320e8e4aa8de4ccbd7ec6ced417b9e4fb7899d55560fafa.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/1bf81bfcbffd69bc9320e8e4aa8de4ccbd7ec6ced417b9e4fb7899d55560fafa.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/1bf81bfcbffd69bc9320e8e4aa8de4ccbd7ec6ced417b9e4fb7899d55560fafa.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-05-220d65971f040d93f667dd26b94cc62dbe45fcdc839a86d633aa74821142c95f.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/220d65971f040d93f667dd26b94cc62dbe45fcdc839a86d633aa74821142c95f.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/220d65971f040d93f667dd26b94cc62dbe45fcdc839a86d633aa74821142c95f.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-06-222b80c7bb7e2d3e9656db42c64ac2c2ed5b0aecc5a8c74724b5c85033057ea3.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/222b80c7bb7e2d3e9656db42c64ac2c2ed5b0aecc5a8c74724b5c85033057ea3.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/222b80c7bb7e2d3e9656db42c64ac2c2ed5b0aecc5a8c74724b5c85033057ea3.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-07-25dc23e34fbb2d1080670ff0e00c35519c55dd18b56a33859a2898028e2b5dde.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/25dc23e34fbb2d1080670ff0e00c35519c55dd18b56a33859a2898028e2b5dde.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/25dc23e34fbb2d1080670ff0e00c35519c55dd18b56a33859a2898028e2b5dde.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-08-2e6d639de899d6862dab0dd68bd2e16094dba8cec9cac1a29a989c7f70347ebc.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/2e6d639de899d6862dab0dd68bd2e16094dba8cec9cac1a29a989c7f70347ebc.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/2e6d639de899d6862dab0dd68bd2e16094dba8cec9cac1a29a989c7f70347ebc.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-09-3039425f3caaa895a41c4064a62b4bb07781b013f24ffdac52456b4ba007756a.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/3039425f3caaa895a41c4064a62b4bb07781b013f24ffdac52456b4ba007756a.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/3039425f3caaa895a41c4064a62b4bb07781b013f24ffdac52456b4ba007756a.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-10-3876dab957ad8395bb7b1e7098d6ff735e1e6a3a033d8f023721d2d30ac75b0c.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/3876dab957ad8395bb7b1e7098d6ff735e1e6a3a033d8f023721d2d30ac75b0c.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/3876dab957ad8395bb7b1e7098d6ff735e1e6a3a033d8f023721d2d30ac75b0c.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-11-485e38fe786d96656b414954dc9f58fb72af993ab1a6fe5baeb7407d88b93612.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/485e38fe786d96656b414954dc9f58fb72af993ab1a6fe5baeb7407d88b93612.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/485e38fe786d96656b414954dc9f58fb72af993ab1a6fe5baeb7407d88b93612.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-12-4bd1c0c10e55c3e2606a941efaf335dfdd7c31831bc28053612b82406bd968c3.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/4bd1c0c10e55c3e2606a941efaf335dfdd7c31831bc28053612b82406bd968c3.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/4bd1c0c10e55c3e2606a941efaf335dfdd7c31831bc28053612b82406bd968c3.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-13-542d319ae0c933ea5aca6a4b6d73d598f51360aa6cb8cd8d6951991a2ede4696.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/542d319ae0c933ea5aca6a4b6d73d598f51360aa6cb8cd8d6951991a2ede4696.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/542d319ae0c933ea5aca6a4b6d73d598f51360aa6cb8cd8d6951991a2ede4696.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-14-5542e18b6d7e2d9147ac813d126a7bd7aaac7a72753640c8faf7f7668e215788.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/5542e18b6d7e2d9147ac813d126a7bd7aaac7a72753640c8faf7f7668e215788.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/5542e18b6d7e2d9147ac813d126a7bd7aaac7a72753640c8faf7f7668e215788.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-15-55ffd7301c55956a1a8292e2175ab540a95918d1b2fc636849357eb147d7a6e1.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/55ffd7301c55956a1a8292e2175ab540a95918d1b2fc636849357eb147d7a6e1.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/55ffd7301c55956a1a8292e2175ab540a95918d1b2fc636849357eb147d7a6e1.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-16-701e8a094e67fa71a4345204686d1945f9795e5bd20a145b04aaec6104d08978.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/701e8a094e67fa71a4345204686d1945f9795e5bd20a145b04aaec6104d08978.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/701e8a094e67fa71a4345204686d1945f9795e5bd20a145b04aaec6104d08978.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-17-714c1641feaac3ba4f83f3324f6cf67162e0b96742a8b6f9fc531540bbeedbb6.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/714c1641feaac3ba4f83f3324f6cf67162e0b96742a8b6f9fc531540bbeedbb6.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/714c1641feaac3ba4f83f3324f6cf67162e0b96742a8b6f9fc531540bbeedbb6.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-18-7ea382f9823621fa92671e5578ba0836b516c2727110875f61fcf8cb5980d18b.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/7ea382f9823621fa92671e5578ba0836b516c2727110875f61fcf8cb5980d18b.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/7ea382f9823621fa92671e5578ba0836b516c2727110875f61fcf8cb5980d18b.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-19-814b7eebdb5e3e92a0a5526a52025d4ae01fb5d6edbf80ed7854ebaa54b7dc14.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/814b7eebdb5e3e92a0a5526a52025d4ae01fb5d6edbf80ed7854ebaa54b7dc14.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/814b7eebdb5e3e92a0a5526a52025d4ae01fb5d6edbf80ed7854ebaa54b7dc14.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-20-8226b83905a557d7c4ac90816869b65f9fe6df9df389e1b87e44b44bf7f58219.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/8226b83905a557d7c4ac90816869b65f9fe6df9df389e1b87e44b44bf7f58219.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/8226b83905a557d7c4ac90816869b65f9fe6df9df389e1b87e44b44bf7f58219.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-21-88fe80817f1cf6e185dd86d936a8871c41e9c46ead3acc8f2521960dad32e1f4.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/88fe80817f1cf6e185dd86d936a8871c41e9c46ead3acc8f2521960dad32e1f4.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/88fe80817f1cf6e185dd86d936a8871c41e9c46ead3acc8f2521960dad32e1f4.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-22-8b9825b46ce413c556b6346a47b868790f8be4b43c85e457aeb7bd187a2945ea.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/8b9825b46ce413c556b6346a47b868790f8be4b43c85e457aeb7bd187a2945ea.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/8b9825b46ce413c556b6346a47b868790f8be4b43c85e457aeb7bd187a2945ea.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-23-90f37c230fa3e6ed00623c22db19589d8b6876ddf1311b0914d4297a5216582b.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/90f37c230fa3e6ed00623c22db19589d8b6876ddf1311b0914d4297a5216582b.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/90f37c230fa3e6ed00623c22db19589d8b6876ddf1311b0914d4297a5216582b.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-24-913c67031c77904095cafb163fc0ae1d0c364c2c4ca3e1456b7b97938716fbd7.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/913c67031c77904095cafb163fc0ae1d0c364c2c4ca3e1456b7b97938716fbd7.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/913c67031c77904095cafb163fc0ae1d0c364c2c4ca3e1456b7b97938716fbd7.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-25-bb2ed31cc0816575c2fa3926fc4bd6bf92acd6520199ea6f0eb3c7e4f6d0499c.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/bb2ed31cc0816575c2fa3926fc4bd6bf92acd6520199ea6f0eb3c7e4f6d0499c.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/bb2ed31cc0816575c2fa3926fc4bd6bf92acd6520199ea6f0eb3c7e4f6d0499c.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-26-c929371430937276d33366b90e8c6b944c675b7651ffcdd82d7c1eb88c6a0f4a.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/c929371430937276d33366b90e8c6b944c675b7651ffcdd82d7c1eb88c6a0f4a.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/c929371430937276d33366b90e8c6b944c675b7651ffcdd82d7c1eb88c6a0f4a.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-27-cb408cb6ea888eab784c2d7c1756878ab7084a46d574d3d57ea707e2b932d0ab.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/cb408cb6ea888eab784c2d7c1756878ab7084a46d574d3d57ea707e2b932d0ab.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/cb408cb6ea888eab784c2d7c1756878ab7084a46d574d3d57ea707e2b932d0ab.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-28-cf69a196ee7778a1bc93cee318b16196512e9e06509888652b776cefa0906707.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/cf69a196ee7778a1bc93cee318b16196512e9e06509888652b776cefa0906707.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/cf69a196ee7778a1bc93cee318b16196512e9e06509888652b776cefa0906707.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-29-e41bf8065c450b12fe29918b7fe9caa85d3abcc4d8e2648de224df339d113db7.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/e41bf8065c450b12fe29918b7fe9caa85d3abcc4d8e2648de224df339d113db7.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/e41bf8065c450b12fe29918b7fe9caa85d3abcc4d8e2648de224df339d113db7.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-30-e6db3eabef48da68a153092f354020d5d8d145158ccde6ac0d0f1224e823c3ec.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/e6db3eabef48da68a153092f354020d5d8d145158ccde6ac0d0f1224e823c3ec.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/e6db3eabef48da68a153092f354020d5d8d145158ccde6ac0d0f1224e823c3ec.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-31-ed8ba3a00bd683e2a646bf59cc65114c12302d4453adaeb3ce000911e12d0837.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/ed8ba3a00bd683e2a646bf59cc65114c12302d4453adaeb3ce000911e12d0837.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/ed8ba3a00bd683e2a646bf59cc65114c12302d4453adaeb3ce000911e12d0837.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-32-f4730b4b437bd290bcf7bc04adcb0b6a2a2d9dfca0812ab5caeda5acecc37ca9.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/f4730b4b437bd290bcf7bc04adcb0b6a2a2d9dfca0812ab5caeda5acecc37ca9.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/f4730b4b437bd290bcf7bc04adcb0b6a2a2d9dfca0812ab5caeda5acecc37ca9.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-33-fd2f010b706265d675c744083b90af76ed7736e6b09df0e17f26b69cb35dd797.png",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/fd2f010b706265d675c744083b90af76ed7736e6b09df0e17f26b69cb35dd797.png",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/fd2f010b706265d675c744083b90af76ed7736e6b09df0e17f26b69cb35dd797.png"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-34-manifest.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/manifest.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/docx-assets/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/manifest.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-35-pages.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/derived/records/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/pages.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/records/100m-money-models-book-launch-blackbook-100m-money-models-master-doc-7a0c7a249ae8/pages.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-36-file-source-manifest.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/file-source-manifest.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/file-source-manifest.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-37-run-report.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/files/run-report.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/run-report.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-38-hormozi.sqlite",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/index/hormozi.sqlite",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/index/hormozi.sqlite"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z/backup-39-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/docx-promotion-01/promotion/active-window.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-09-07T13:28:46.516Z",
+  "replaced_count": 40,
+  "run_id": "hormozi-file-docx-20260907T132844Z",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-docx-20260907T132844Z"
+}

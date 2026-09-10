@@ -1,0 +1,293 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 7,
+  "commentCountText": "7",
+  "credits_charged": 1,
+  "description": "It’s wild how many people I see giving advice on getting to “8 figures” who aren’t doing 8 figures. \n\nSame people ask what they need to do differently with their content. \n\nTell the truth.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:00:51",
+  "durationMs": 51000,
+  "genre": "Education",
+  "id": "5_8RIYrvDf4",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 593,
+  "likeCountText": "593",
+  "most_replayed": null,
+  "publishDate": "2026-07-05T08:03:20-07:00",
+  "publishDateText": "Jul 5, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/5_8RIYrvDf4/maxresdefault.jpg",
+  "title": "If the Truth Isn't Compelling, Fix That",
+  "type": "video",
+  "viewCountInt": 19761,
+  "viewCountText": "19,761",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-02T10:37:17.904Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:37:17.904Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBWmKUQLNzAZl2juG7DLuQNopA75g",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "JayShettyPodcast.",
+        "id": "UCbk_QsfaFZG6PdQeCvaYXJQ",
+        "title": "Jay Shetty Podcast",
+        "url": "https://www.youtube.com/@JayShettyPodcast."
+      },
+      "id": "xWMDGW2Mpjc",
+      "lengthInSeconds": 2673,
+      "lengthText": "44:33",
+      "publishDate": "2025-09-02T10:37:17.904Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:37:17.904Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/xWMDGW2Mpjc/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLA4zPIR5hMoxdbJ_w8yJid5VHrs4Q",
+      "title": "#1 BRAIN EXPERT: “If I Had ADHD, This is EXACTLY What I’d Do!” #1 Trick to Focus NOW (pt.1)",
+      "videoUrl": "https://www.youtube.com/watch?v=xWMDGW2Mpjc",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "nypost",
+        "id": "UCrvhNP_lWuPIP6QZzJmM-bw",
+        "title": "New York Post",
+        "url": "https://www.youtube.com/@nypost"
+      },
+      "id": "4V4nLFzGovY",
+      "lengthInSeconds": 169,
+      "lengthText": "2:49",
+      "publishDate": "2026-08-19T10:37:17.904Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:37:17.904Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/4V4nLFzGovY/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLAjV5r7GKkSirpZe7ntG-kttt2Ovw",
+      "title": "Texas Teacher Breaks Down After Seniors Struggle to Read and Write",
+      "videoUrl": "https://www.youtube.com/watch?v=4V4nLFzGovY",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "s6tkRztZwYc",
+      "lengthInSeconds": 1256,
+      "lengthText": "20:56",
+      "publishDate": "2025-09-02T10:37:17.904Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-02T10:37:17.904Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/s6tkRztZwYc/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBDQrNqpIHpXUlRLu3-DO-Nyf893A",
+      "title": "How to Articulate Your Thoughts More Clearly Than 99% of People",
+      "videoUrl": "https://www.youtube.com/watch?v=s6tkRztZwYc",
+      "viewCountInt": 537000,
+      "viewCountText": "537K views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "JY8cRsUvldo",
+      "lengthInSeconds": 719,
+      "lengthText": "11:59",
+      "publishDate": "2026-08-12T10:37:17.904Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-12T10:37:17.904Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/JY8cRsUvldo/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLDETXu97QG2k53z4_ABFVx71BePRw",
+      "title": "How to Build Your First Business When You Have Nothing! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=JY8cRsUvldo",
+      "viewCountInt": 597,
+      "viewCountText": "597 views"
+    },
+    {
+      "channel": {
+        "handle": "leilahormozi",
+        "id": "UCxCcu9pet4dljrBLf8R5nwA",
+        "title": "Leila Hormozi",
+        "url": "https://www.youtube.com/@leilahormozi"
+      },
+      "id": "0iDZ8UDvlWU",
+      "lengthInSeconds": 804,
+      "lengthText": "13:24",
+      "publishDate": "2025-12-02T10:37:17.904Z",
+      "publishDateText": "9 months ago",
+      "publishedTime": "2025-12-02T10:37:17.904Z",
+      "publishedTimeText": "9 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/0iDZ8UDvlWU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLCaBFWEDQfCseJt1M5tHk5tr3gSYg",
+      "title": "Brutally Honest Relationship Advice",
+      "videoUrl": "https://www.youtube.com/watch?v=0iDZ8UDvlWU",
+      "viewCountInt": 310000,
+      "viewCountText": "310K views"
+    },
+    {
+      "channel": {
+        "handle": "TheFilmScene",
+        "id": "UCtjz8kIKDJ0_pCwclti3JKQ",
+        "title": "The Film Scene",
+        "url": "https://www.youtube.com/@TheFilmScene"
+      },
+      "id": "JA620JIh9FU",
+      "lengthInSeconds": 381,
+      "lengthText": "6:21",
+      "publishDate": "2026-05-02T10:37:17.904Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-05-02T10:37:17.904Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/JA620JIh9FU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLAS8_mlGPHsu2hGMJ4vGdgGjgS_iA",
+      "title": "The Transformers Scene Everyone Remembers | Megan Fox, Shia LaBeouf (2007)",
+      "videoUrl": "https://www.youtube.com/watch?v=JA620JIh9FU",
+      "viewCountInt": 1000000,
+      "viewCountText": "1M views"
+    },
+    {
+      "channel": {
+        "handle": "braziliantvhd2768",
+        "id": "UCVm6L-3zpJeGovCa8APc9Aw",
+        "title": "BrazilianTVHD",
+        "url": "https://www.youtube.com/@braziliantvhd2768"
+      },
+      "id": "gd_bdQxaf7k",
+      "lengthInSeconds": 153,
+      "lengthText": "2:33",
+      "publishDate": "2026-08-12T10:37:17.904Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-12T10:37:17.904Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/gd_bdQxaf7k/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBxMN9zUWG_qmsbjbJ-zlDdRP6dJg",
+      "title": "Sofia Tsarsitalidou | Women's Long Jump | 2026 Greece indoor Championships",
+      "videoUrl": "https://www.youtube.com/watch?v=gd_bdQxaf7k",
+      "viewCountInt": 4700000,
+      "viewCountText": "4.7M views"
+    },
+    {
+      "channel": {
+        "handle": "redfilechannel",
+        "id": "UCNpjH9MosivtBOa45Hbu39g",
+        "title": "Red File",
+        "url": "https://www.youtube.com/@redfilechannel"
+      },
+      "id": "rJYy0pHZDxA",
+      "lengthInSeconds": 2500,
+      "lengthText": "41:40",
+      "publishDate": "2026-08-19T10:37:17.904Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-19T10:37:17.904Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/rJYy0pHZDxA/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLAV86XD3qPHvSXQVv-QppAqGR1CZw",
+      "title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+      "videoUrl": "https://www.youtube.com/watch?v=rJYy0pHZDxA",
+      "viewCountInt": 8700000,
+      "viewCountText": "8.7M views"
+    },
+    {
+      "channel": {
+        "handle": "TuckerCarlson",
+        "id": "UCGttrUON87gWfU6dMWm1fcA",
+        "title": "Tucker Carlson",
+        "url": "https://www.youtube.com/@TuckerCarlson"
+      },
+      "id": "Y0-nwlJFNl8",
+      "lengthInSeconds": 3421,
+      "lengthText": "57:01",
+      "publishDate": "2026-09-01T10:37:17.904Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-01T10:37:17.904Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/Y0-nwlJFNl8/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLB0-_i4yV4OilwRhhjkoqDTfLfkdQ",
+      "title": "Trump Ushers in 300,000 Tons of Foreign Mystery Meat and Sends American Farmers Into Bankruptcy",
+      "videoUrl": "https://www.youtube.com/watch?v=Y0-nwlJFNl8",
+      "viewCountInt": 701000,
+      "viewCountText": "701K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:37:17.904Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-22T10:37:17.904Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLBuimB2ElgJrBx7WaIkuN9-2kStTA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 230000,
+      "viewCountText": "230K views"
+    },
+    {
+      "channel": {
+        "handle": "FoundMyFitnessClips",
+        "id": "UC5fdyC4LxyyYv8Am6nDrkmg",
+        "title": "FoundMyFitness Clips",
+        "url": "https://www.youtube.com/@FoundMyFitnessClips"
+      },
+      "id": "1vfWaOv03l0",
+      "lengthInSeconds": 351,
+      "lengthText": "5:51",
+      "publishDate": "2026-07-02T10:37:17.904Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-02T10:37:17.904Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/1vfWaOv03l0/hqdefault.jpg?sqp=-oaymwEqCKgBEF5IWvKriqkDHQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAG4AvMY&rs=AOn4CLCR1I6oFDUqDkylVj5XrtJRyBC2FQ",
+      "title": "This Creatine Dose Makes You Feel Like You Slept 8 Hours",
+      "videoUrl": "https://www.youtube.com/watch?v=1vfWaOv03l0",
+      "viewCountInt": 234000,
+      "viewCountText": "234K views"
+    }
+  ]
+}

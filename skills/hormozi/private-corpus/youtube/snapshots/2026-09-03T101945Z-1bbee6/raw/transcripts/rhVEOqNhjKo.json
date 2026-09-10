@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "People want an excuse to buy. You need"
+    },
+    {
+      "endMs": "6040",
+      "startMs": "2400",
+      "startTimeText": "0:02",
+      "text": "to give it to them. So, think about"
+    },
+    {
+      "endMs": "8520",
+      "startMs": "3400",
+      "startTimeText": "0:03",
+      "text": "this. When you are perusing on a site,"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "6040",
+      "startTimeText": "0:06",
+      "text": "you want the thing. People like buying."
+    },
+    {
+      "endMs": "12320",
+      "startMs": "8520",
+      "startTimeText": "0:08",
+      "text": "The only reason that they don't buy is"
+    },
+    {
+      "endMs": "13960",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "because they have a history of being"
+    },
+    {
+      "endMs": "16880",
+      "startMs": "12320",
+      "startTimeText": "0:12",
+      "text": "punished for buying in the past, but"
+    },
+    {
+      "endMs": "19280",
+      "startMs": "13960",
+      "startTimeText": "0:13",
+      "text": "they want to buy. And so, our job as"
+    },
+    {
+      "endMs": "22040",
+      "startMs": "16880",
+      "startTimeText": "0:16",
+      "text": "sales professionals or entrepreneurs is"
+    },
+    {
+      "endMs": "24600",
+      "startMs": "19280",
+      "startTimeText": "0:19",
+      "text": "to help them justify making the"
+    },
+    {
+      "endMs": "24600",
+      "startMs": "22040",
+      "startTimeText": "0:22",
+      "text": "decision."
+    }
+  ],
+  "transcript_only_text": " People  want  an  excuse  to  buy.  You  need \n to  give  it  to  them.  So,  think  about \n this.  When  you  are  perusing  on  a  site, \n you  want  the  thing.  People  like  buying. \n The  only  reason  that  they  don't  buy  is \n because  they  have  a  history  of  being \n punished  for  buying  in  the  past,  but \n they  want  to  buy.  And  so,  our  job  as \n sales  professionals  or  entrepreneurs  is \n to  help  them  justify  making  the \n decision.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=rhVEOqNhjKo",
+  "videoId": "rhVEOqNhjKo"
+}

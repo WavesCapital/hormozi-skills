@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If all your books, videos, tweets, got"
+    },
+    {
+      "endMs": "5800",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "deleted forever, and all you had were"
+    },
+    {
+      "endMs": "7640",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "the next 60 seconds, what's the most"
+    },
+    {
+      "endMs": "9640",
+      "startMs": "5800",
+      "startTimeText": "0:05",
+      "text": "useful advice you could leave? Figure"
+    },
+    {
+      "endMs": "11080",
+      "startMs": "7640",
+      "startTimeText": "0:07",
+      "text": "out what you want, not what you think"
+    },
+    {
+      "endMs": "12920",
+      "startMs": "9640",
+      "startTimeText": "0:09",
+      "text": "you should want, or what other people"
+    },
+    {
+      "endMs": "15320",
+      "startMs": "11080",
+      "startTimeText": "0:11",
+      "text": "tell you to want. Do significantly more"
+    },
+    {
+      "endMs": "17000",
+      "startMs": "12920",
+      "startTimeText": "0:12",
+      "text": "volume than you expect for a longer time"
+    },
+    {
+      "endMs": "18280",
+      "startMs": "15320",
+      "startTimeText": "0:15",
+      "text": "period than you're comfortable with."
+    },
+    {
+      "endMs": "21040",
+      "startMs": "17000",
+      "startTimeText": "0:17",
+      "text": "Learn from your mistakes. Don't make the"
+    },
+    {
+      "endMs": "21040",
+      "startMs": "18280",
+      "startTimeText": "0:18",
+      "text": "same one twice."
+    }
+  ],
+  "transcript_only_text": " If  all  your  books,  videos,  tweets,  got \n deleted  forever,  and  all  you  had  were \n the  next  60  seconds,  what's  the  most \n useful  advice  you  could  leave?  Figure \n out  what  you  want,  not  what  you  think \n you  should  want,  or  what  other  people \n tell  you  to  want.  Do  significantly  more \n volume  than  you  expect  for  a  longer  time \n period  than  you're  comfortable  with. \n Learn  from  your  mistakes.  Don't  make  the \n same  one  twice.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=bMKeKM7e8fs",
+  "videoId": "bMKeKM7e8fs"
+}

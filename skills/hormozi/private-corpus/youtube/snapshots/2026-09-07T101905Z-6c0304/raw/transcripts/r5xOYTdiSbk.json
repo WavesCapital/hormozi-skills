@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3120",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You will be rewarded far more in life"
+    },
+    {
+      "endMs": "5000",
+      "startMs": "2040",
+      "startTimeText": "0:02",
+      "text": "for your determination than your"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "intelligence. And the problem is is that"
+    },
+    {
+      "endMs": "8480",
+      "startMs": "5000",
+      "startTimeText": "0:05",
+      "text": "determination just looks like a long"
+    },
+    {
+      "endMs": "10640",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "string of [music] failures until it"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "works. You are rewarded for being able"
+    },
+    {
+      "endMs": "15560",
+      "startMs": "10640",
+      "startTimeText": "0:10",
+      "text": "to endure the long string of failures"
+    },
+    {
+      "endMs": "17240",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "more than you're rewarded for your"
+    },
+    {
+      "endMs": "18840",
+      "startMs": "15560",
+      "startTimeText": "0:15",
+      "text": "intellect at avoiding them. That"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "17240",
+      "startTimeText": "0:17",
+      "text": "suffering is [music] guaranteed. You"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "18840",
+      "startTimeText": "0:18",
+      "text": "sticking it out is not."
+    }
+  ],
+  "transcript_only_text": " You  will  be  rewarded  far  more  in  life \n for  your  determination  than  your \n intelligence.  And  the  problem  is  is  that \n determination  just  looks  like  a  long \n string  of  [music]  failures  until  it \n works.  You  are  rewarded  for  being  able \n to  endure  the  long  string  of  failures \n more  than  you're  rewarded  for  your \n intellect  at  avoiding  them.  That \n suffering  is  [music]  guaranteed.  You \n sticking  it  out  is  not.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=r5xOYTdiSbk",
+  "videoId": "r5xOYTdiSbk"
+}

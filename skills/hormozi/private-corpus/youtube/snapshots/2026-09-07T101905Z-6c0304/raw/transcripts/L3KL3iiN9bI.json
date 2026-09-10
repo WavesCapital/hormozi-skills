@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "The fastest way to become confident is"
+    },
+    {
+      "endMs": "5000",
+      "startMs": "1920",
+      "startTimeText": "0:01",
+      "text": "to build evidence. Build yourself a"
+    },
+    {
+      "endMs": "6880",
+      "startMs": "3440",
+      "startTimeText": "0:03",
+      "text": "stack of undeniable proof that you are"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "5000",
+      "startTimeText": "0:05",
+      "text": "who you say you are. Do so much volume"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "6880",
+      "startTimeText": "0:06",
+      "text": "that you don't have to doubt whether you"
+    },
+    {
+      "endMs": "11320",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "can do it or not. Do the work tired, do"
+    },
+    {
+      "endMs": "12840",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "the work nervous, do the work"
+    },
+    {
+      "endMs": "14720",
+      "startMs": "11320",
+      "startTimeText": "0:11",
+      "text": "imperfectly, do the work even when you"
+    },
+    {
+      "endMs": "16560",
+      "startMs": "12840",
+      "startTimeText": "0:12",
+      "text": "don't feel like it because no matter how"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "14720",
+      "startTimeText": "0:14",
+      "text": "bad you feel when you start, you know"
+    },
+    {
+      "endMs": "20240",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "exactly how you feel when you finish."
+    }
+  ],
+  "transcript_only_text": " The  fastest  way  to  become  confident  is \n to  build  evidence.  Build  yourself  a \n stack  of  undeniable  proof  that  you  are \n who  you  say  you  are.  Do  so  much  volume \n that  you  don't  have  to  doubt  whether  you \n can  do  it  or  not.  Do  the  work  tired,  do \n the  work  nervous,  do  the  work \n imperfectly,  do  the  work  even  when  you \n don't  feel  like  it  because  no  matter  how \n bad  you  feel  when  you  start,  you  know \n exactly  how  you  feel  when  you  finish.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=L3KL3iiN9bI",
+  "videoId": "L3KL3iiN9bI"
+}

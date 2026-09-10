@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Check user-facing Markdown for clear, simple writing."""
+"""Flag possible prose problems; a reading score does not assess meaning or voice."""
 
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -47,6 +48,7 @@ INLINE_CODE_RE = re.compile(r"`[^`]+`")
 LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]+\)")
 FENCE_RE = re.compile(r"```.*?```", re.DOTALL)
 CITATION_LINE_RE = re.compile(r"^\s*\[(?:HZ-|Business\b|Source\b)", re.IGNORECASE)
+GROUPED_NUMBER_RE = re.compile(r"(?<![\w,])[-+]?\d{1,3}(?:,\d{3})+(?:\.\d+)?(?!\w|,\d)")
 
 
 def visible_prose(markdown: str, ignored_terms: list[str] | None = None) -> str:
@@ -59,15 +61,23 @@ def visible_prose(markdown: str, ignored_terms: list[str] | None = None) -> str:
     kept: list[str] = []
     for line in text.splitlines():
         stripped = line.strip()
-        if not stripped or CITATION_LINE_RE.match(stripped):
+        if not stripped:
+            kept.append("")
+            continue
+        if CITATION_LINE_RE.match(stripped):
             continue
         if stripped.startswith("Doctrine lineage:"):
             continue
         if re.fullmatch(r"\|?(?:\s*:?-+:?\s*\|)+", stripped):
             continue
+        separate_block = bool(re.match(r"^\s{0,3}(?:#{1,6}\s|[-*+]\s+|\d+[.)]\s+|\|)", line))
         line = re.sub(r"^\s{0,3}(?:#{1,6}|[-*+]\s+|\d+[.)]\s+)", "", line)
         line = line.replace("|", ". ")
+        if separate_block:
+            kept.append("")
         kept.append(line)
+        if separate_block:
+            kept.append("")
     text = "\n".join(kept)
     for term in ignored_terms or []:
         text = re.sub(re.escape(term), "item", text, flags=re.IGNORECASE)
@@ -79,8 +89,10 @@ def words_in(text: str) -> list[str]:
 
 
 def sentence_list(text: str) -> list[str]:
-    parts = re.split(r"(?<=[.!?])\s+|\n+", text)
-    return [part.strip(" -\t") for part in parts if words_in(part)]
+    # Markdown soft wraps are not new sentences. Keep paragraphs and list items
+    # distinct, but do not let line wrapping make identical prose score easier.
+    parts = re.split(r"(?<=[.!?])\s+|\n\s*\n", text)
+    return [" ".join(part.strip(" -\t").split()) for part in parts if words_in(part)]
 
 
 def syllables(word: str) -> int:
@@ -121,7 +133,12 @@ def analyze(
         for sentence in sentences
         if len(words_in(sentence)) > max_sentence_words
     ]
-    multi_comma_sentences = [sentence[:240] for sentence in sentences if sentence.count(",") > 1]
+    # Thousands separators are part of exact numbers, not extra sentence clauses.
+    # Use a counting copy only; keep the original prose in all output and checks.
+    multi_comma_sentences = [
+        sentence[:240] for sentence in sentences
+        if GROUPED_NUMBER_RE.sub(lambda match: match[0].replace(",", ""), sentence).count(",") > 1
+    ]
     passive_voice = [sentence[:240] for sentence in sentences if PASSIVE_RE.search(sentence)]
     lower = prose.lower()
     jargon = [
@@ -132,6 +149,8 @@ def analyze(
     filler = sorted({word.lower() for word in words if word.lower() in FILLER_WORDS})
 
     issues: list[str] = []
+    if not word_count:
+        issues.append("no_prose")
     if grade > target_grade:
         issues.append("reading_grade")
     if long_sentences:
@@ -146,7 +165,12 @@ def analyze(
         issues.append("filler_words")
 
     return {
+        # Bind this result to the complete input before exclusions or cleanup.
+        # Readability counts alone cannot prove which final draft was checked.
+        "checked_text_sha256": hashlib.sha256(markdown.encode("utf-8")).hexdigest(),
         "ok": not issues,
+        "quality_status": "not_assessed",
+        "metric_scope": "Heuristic flags only; not a grade of source fidelity, meaning, natural voice or usefulness.",
         "target_grade": target_grade,
         "reading_grade_estimate": grade,
         "words": word_count,
@@ -158,7 +182,7 @@ def analyze(
         "passive_voice": passive_voice,
         "jargon": jargon,
         "filler_words": filler,
-        "note": "Fix each avoidable issue and run the check again. Keep exact facts, terms, math, citations, and safety rules.",
+        "note": "Review each flag. Fix unclear prose, not a number at the cost of meaning. Sentence length, commas and passive-voice matches can be false positives. Read the exact final aloud and check its facts and sources after edits.",
     }
 
 

@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5680",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you don't have the life you want, youcan change one of six things. Stick to"
+    },
+    {
+      "endMs": "10320",
+      "startMs": "3240",
+      "startTimeText": "0:03",
+      "text": "anything daily for an entire year. Movecities. Upgrade romantic partners."
+    },
+    {
+      "endMs": "13440",
+      "startMs": "7800",
+      "startTimeText": "0:07",
+      "text": "Eliminate drinking and say no to shinyobjects, anything that's not what you're"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "currently working on. And you can go tobed every day at 9:00 p.m. If you don't"
+    },
+    {
+      "endMs": "19960",
+      "startMs": "16080",
+      "startTimeText": "0:16",
+      "text": "like where you're at, just try one."
+    }
+  ],
+  "transcript_only_text": " If you don't have the life you want, you\ncan change one of six things. Stick to anything daily for an entire year. Move\ncities. Upgrade romantic partners. Eliminate drinking and say no to shiny\nobjects, anything that's not what you're currently working on. And you can go to\nbed every day at 9:00 p.m. If you don't like where you're at, just try one.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=o9h1kqT9MEA",
+  "videoId": "o9h1kqT9MEA"
+}

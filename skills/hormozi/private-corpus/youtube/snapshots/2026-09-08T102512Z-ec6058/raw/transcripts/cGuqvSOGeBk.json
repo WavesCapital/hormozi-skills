@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4560",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people without being"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "2320",
+      "startTimeText": "0:02",
+      "text": "smarter or luckier, but by being willing"
+    },
+    {
+      "endMs": "8559",
+      "startMs": "4560",
+      "startTimeText": "0:04",
+      "text": "to endure pain and uncertainty for"
+    },
+    {
+      "endMs": "10639",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "longer. And so, if it's hard for you,"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "8559",
+      "startTimeText": "0:08",
+      "text": "it's hard for everyone else. And most"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "10639",
+      "startTimeText": "0:10",
+      "text": "people avoid hard things, which is why"
+    },
+    {
+      "endMs": "17920",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "you can beat most people by just trying"
+    },
+    {
+      "endMs": "22640",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "and continuing to try. I think most"
+    },
+    {
+      "endMs": "22640",
+      "startMs": "17920",
+      "startTimeText": "0:17",
+      "text": "people don't even know what trying feels"
+    }
+  ],
+  "transcript_only_text": " You  can  beat  99%  of  people  without  being \n smarter  or  luckier,  but  by  being  willing \n to  endure  pain  and  uncertainty  for \n longer.  And  so,  if  it's  hard  for  you, \n it's  hard  for  everyone  else.  And  most \n people  avoid  hard  things,  which  is  why \n you  can  beat  most  people  by  just  trying \n and  continuing  to  try.  I  think  most \n people  don't  even  know  what  trying  feels",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=cGuqvSOGeBk",
+  "videoId": "cGuqvSOGeBk"
+}

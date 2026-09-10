@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "This is my actual productivity routine"
+    },
+    {
+      "endMs": "6720",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "that's cheaper than Starbucks. Number"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "one, I sleep until I wake up. Number"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "6720",
+      "startTimeText": "0:06",
+      "text": "two, I put in earplugs. Number three, I"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "put in headphones to really make sure I"
+    },
+    {
+      "endMs": "15519",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "can't hear anything. Number four, I put"
+    },
+    {
+      "endMs": "17600",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "in nicotine. Number five, I caffeinate."
+    },
+    {
+      "endMs": "19439",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "Number six, I shut out all of the"
+    },
+    {
+      "endMs": "21680",
+      "startMs": "17600",
+      "startTimeText": "0:17",
+      "text": "windows so that it's pitch black in the"
+    },
+    {
+      "endMs": "23920",
+      "startMs": "19439",
+      "startTimeText": "0:19",
+      "text": "room besides my screen. And I turn off"
+    },
+    {
+      "endMs": "25760",
+      "startMs": "21680",
+      "startTimeText": "0:21",
+      "text": "all outside notifications on my phone."
+    },
+    {
+      "endMs": "29199",
+      "startMs": "23920",
+      "startTimeText": "0:23",
+      "text": "Once I've done that, I've made it as"
+    },
+    {
+      "endMs": "29199",
+      "startMs": "25760",
+      "startTimeText": "0:25",
+      "text": "easy as possible to work as hard as I"
+    }
+  ],
+  "transcript_only_text": " This  is  my  actual  productivity  routine \n that's  cheaper  than  Starbucks.  Number \n one,  I  sleep  until  I  wake  up.  Number \n two,  I  put  in  earplugs.  Number  three,  I \n put  in  headphones  to  really  make  sure  I \n can't  hear  anything.  Number  four,  I  put \n in  nicotine.  Number  five,  I  caffeinate. \n Number  six,  I  shut  out  all  of  the \n windows  so  that  it's  pitch  black  in  the \n room  besides  my  screen.  And  I  turn  off \n all  outside  notifications  on  my  phone. \n Once  I've  done  that,  I've  made  it  as \n easy  as  possible  to  work  as  hard  as  I",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=hMoH4nqSjtM",
+  "videoId": "hMoH4nqSjtM"
+}

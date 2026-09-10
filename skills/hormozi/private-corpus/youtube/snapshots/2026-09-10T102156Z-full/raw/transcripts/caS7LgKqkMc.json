@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4960",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "The majority of businesses in the US do"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "2639",
+      "startTimeText": "0:02",
+      "text": "not make money. Over half either lose"
+    },
+    {
+      "endMs": "8320",
+      "startMs": "4960",
+      "startTimeText": "0:04",
+      "text": "money or break even every year. Profit"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "is unnatural. It's not a normally"
+    },
+    {
+      "endMs": "11679",
+      "startMs": "8320",
+      "startTimeText": "0:08",
+      "text": "occurring thing. You have to force it"
+    },
+    {
+      "endMs": "14639",
+      "startMs": "10080",
+      "startTimeText": "0:10",
+      "text": "and you have to keep the line because"
+    },
+    {
+      "endMs": "15920",
+      "startMs": "11679",
+      "startTimeText": "0:11",
+      "text": "people will spend your money happily."
+    },
+    {
+      "endMs": "17359",
+      "startMs": "14639",
+      "startTimeText": "0:14",
+      "text": "Having that kind of discipline is"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "15920",
+      "startTimeText": "0:15",
+      "text": "difficult. It's a discipline. Profit is"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "17359",
+      "startTimeText": "0:17",
+      "text": "a discipline."
+    }
+  ],
+  "transcript_only_text": " The  majority  of  businesses  in  the  US  do \n not  make  money.  Over  half  either  lose \n money  or  break  even  every  year.  Profit \n is  unnatural.  It's  not  a  normally \n occurring  thing.  You  have  to  force  it \n and  you  have  to  keep  the  line  because \n people  will  spend  your  money  happily. \n Having  that  kind  of  discipline  is \n difficult.  It's  a  discipline.  Profit  is \n a  discipline.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=caS7LgKqkMc",
+  "videoId": "caS7LgKqkMc"
+}

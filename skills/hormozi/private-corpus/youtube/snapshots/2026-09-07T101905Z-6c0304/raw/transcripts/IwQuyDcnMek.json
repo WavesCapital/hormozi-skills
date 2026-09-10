@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3439",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "Entrepreneurship is one of the greatest"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "2080",
+      "startTimeText": "0:02",
+      "text": "vehicles of personal development because"
+    },
+    {
+      "endMs": "8160",
+      "startMs": "3439",
+      "startTimeText": "0:03",
+      "text": "it forces you to confront every weakness"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "that you've been [music] avoiding. The"
+    },
+    {
+      "endMs": "12000",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "market, your customers, your competitors"
+    },
+    {
+      "endMs": "14559",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "won't let you hide from [music]"
+    },
+    {
+      "endMs": "16880",
+      "startMs": "12000",
+      "startTimeText": "0:12",
+      "text": "yourself. And 10 out of 10 times, the"
+    },
+    {
+      "endMs": "20960",
+      "startMs": "14559",
+      "startTimeText": "0:14",
+      "text": "person limiting the business, limiting"
+    },
+    {
+      "endMs": "21520",
+      "startMs": "16880",
+      "startTimeText": "0:16",
+      "text": "your growth is you."
+    },
+    {
+      "endMs": "24520",
+      "startMs": "20960",
+      "startTimeText": "0:20",
+      "text": "[music]"
+    },
+    {
+      "endMs": "24520",
+      "startMs": "21520",
+      "startTimeText": "0:21",
+      "text": "Real"
+    }
+  ],
+  "transcript_only_text": " Entrepreneurship  is  one  of  the  greatest \n vehicles  of  personal  development  because \n it  forces  you  to  confront  every  weakness \n that  you've  been  [music]  avoiding.  The \n market,  your  customers,  your  competitors \n won't  let  you  hide  from  [music] \n yourself.  And  10  out  of  10  times,  the \n person  limiting  the  business,  limiting \n your  growth  is  you. \n [music] \n Real",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=IwQuyDcnMek",
+  "videoId": "IwQuyDcnMek"
+}

@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3320",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Let me give you the biggest productivity"
+    },
+    {
+      "endMs": "6320",
+      "startMs": "1800",
+      "startTimeText": "0:01",
+      "text": "hack in the world."
+    },
+    {
+      "endMs": "8840",
+      "startMs": "3320",
+      "startTimeText": "0:03",
+      "text": "Do nothing besides the task that you set"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "6320",
+      "startTimeText": "0:06",
+      "text": "to accomplish. If it's not you doing the"
+    },
+    {
+      "endMs": "13720",
+      "startMs": "8840",
+      "startTimeText": "0:08",
+      "text": "task, then you're not doing the task."
+    }
+  ],
+  "transcript_only_text": " Let  me  give  you  the  biggest  productivity \n hack  in  the  world. \n Do  nothing  besides  the  task  that  you  set \n to  accomplish.  If  it's  not  you  doing  the \n task,  then  you're  not  doing  the  task.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=0g_PSflrd0A",
+  "videoId": "0g_PSflrd0A"
+}

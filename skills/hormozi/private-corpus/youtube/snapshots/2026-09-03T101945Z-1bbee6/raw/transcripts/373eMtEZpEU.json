@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3120",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "I would ask yourself the question, if I"
+    },
+    {
+      "endMs": "4319",
+      "startMs": "1839",
+      "startTimeText": "0:01",
+      "text": "knew beyond a shadow of a doubt that if"
+    },
+    {
+      "endMs": "5440",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "I could do a hundred times more than I'm"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "4319",
+      "startTimeText": "0:04",
+      "text": "currently doing, I would hit the goals"
+    },
+    {
+      "endMs": "9519",
+      "startMs": "5440",
+      "startTimeText": "0:05",
+      "text": "that I have. Then I would then ask the"
+    },
+    {
+      "endMs": "12880",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "question, great, what resources are"
+    },
+    {
+      "endMs": "15040",
+      "startMs": "9519",
+      "startTimeText": "0:09",
+      "text": "required? And then following up to that,"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "12880",
+      "startTimeText": "0:12",
+      "text": "is it worth it? And if the answer is"
+    },
+    {
+      "endMs": "18560",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "yes, what's stopping"
+    }
+  ],
+  "transcript_only_text": " I  would  ask  yourself  the  question,  if  I \n knew  beyond  a  shadow  of a  doubt  that  if \n I  could  do  a  hundred  times  more  than  I'm \n currently  doing,  I  would  hit  the  goals \n that  I  have.  Then  I  would  then  ask  the \n question,  great,  what  resources  are \n required?  And  then  following  up  to  that, \n is  it  worth  it?  And  if  the  answer  is \n yes,  what's  stopping",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=373eMtEZpEU",
+  "videoId": "373eMtEZpEU"
+}

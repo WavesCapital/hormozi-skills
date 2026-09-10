@@ -1,0 +1,137 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5400",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can determine how skilled anyone is"
+    },
+    {
+      "endMs": "6960",
+      "startMs": "2560",
+      "startTimeText": "0:02",
+      "text": "at using AI by the number of steps"
+    },
+    {
+      "endMs": "9320",
+      "startMs": "5400",
+      "startTimeText": "0:05",
+      "text": "involved in the tasks that they're"
+    },
+    {
+      "endMs": "11000",
+      "startMs": "6960",
+      "startTimeText": "0:06",
+      "text": "asking AI to do. So, for example, if"
+    },
+    {
+      "endMs": "13240",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "you're a beginner, you're asking it to"
+    },
+    {
+      "endMs": "14240",
+      "startMs": "11000",
+      "startTimeText": "0:11",
+      "text": "make some sort of word asset for you."
+    },
+    {
+      "endMs": "15880",
+      "startMs": "13240",
+      "startTimeText": "0:13",
+      "text": "Meaning like, \"Hey, can you write this"
+    },
+    {
+      "endMs": "17520",
+      "startMs": "14240",
+      "startTimeText": "0:14",
+      "text": "email?\" Sends back an email. So, it's"
+    },
+    {
+      "endMs": "18920",
+      "startMs": "15880",
+      "startTimeText": "0:15",
+      "text": "one in, one out. The more advanced you"
+    },
+    {
+      "endMs": "20640",
+      "startMs": "17520",
+      "startTimeText": "0:17",
+      "text": "become, all of a sudden, \"I need you to"
+    },
+    {
+      "endMs": "22960",
+      "startMs": "18920",
+      "startTimeText": "0:18",
+      "text": "do this entire task, which might have"
+    },
+    {
+      "endMs": "25040",
+      "startMs": "20640",
+      "startTimeText": "0:20",
+      "text": "six or 10 or 25 steps in it.\" And the"
+    },
+    {
+      "endMs": "26720",
+      "startMs": "22960",
+      "startTimeText": "0:22",
+      "text": "amount of steps that are in that task is"
+    },
+    {
+      "endMs": "28880",
+      "startMs": "25040",
+      "startTimeText": "0:25",
+      "text": "proportional to how good you are at"
+    },
+    {
+      "endMs": "30440",
+      "startMs": "26720",
+      "startTimeText": "0:26",
+      "text": "using it. And more importantly, the ROI"
+    },
+    {
+      "endMs": "31880",
+      "startMs": "28880",
+      "startTimeText": "0:28",
+      "text": "that you're getting from it. you're not"
+    },
+    {
+      "endMs": "33800",
+      "startMs": "30440",
+      "startTimeText": "0:30",
+      "text": "sure where you are, just think about how"
+    },
+    {
+      "endMs": "36920",
+      "startMs": "31880",
+      "startTimeText": "0:31",
+      "text": "much stuff it's doing rather than just"
+    },
+    {
+      "endMs": "36920",
+      "startMs": "33800",
+      "startTimeText": "0:33",
+      "text": "spitting out back at you."
+    }
+  ],
+  "transcript_only_text": " You  can  determine  how  skilled  anyone  is \n at  using  AI  by  the  number  of  steps \n involved  in  the  tasks  that  they're \n asking  AI  to  do.  So,  for  example,  if \n you're  a  beginner,  you're  asking  it  to \n make  some  sort  of  word  asset  for  you. \n Meaning  like,  \"Hey,  can  you  write  this \n email?\"  Sends  back  an  email.  So,  it's \n one  in,  one  out.  The  more  advanced  you \n become,  all  of  a  sudden,  \"I  need  you  to \n do  this  entire  task,  which  might  have \n six  or  10  or  25  steps  in  it.\"  And  the \n amount  of  steps  that  are  in  that  task  is \n proportional  to  how  good  you  are  at \n using  it.  And  more  importantly,  the  ROI \n that  you're  getting  from  it.  you're  not \n sure  where  you  are,  just  think  about  how \n much  stuff  it's  doing  rather  than  just \n spitting  out  back  at  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=GiTSayT1KCY",
+  "videoId": "GiTSayT1KCY"
+}

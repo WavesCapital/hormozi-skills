@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "A fool never learns from their mistakes."
+    },
+    {
+      "endMs": "6160",
+      "startMs": "2320",
+      "startTimeText": "0:02",
+      "text": "A dumb person learns from their mistakes"
+    },
+    {
+      "endMs": "8480",
+      "startMs": "3960",
+      "startTimeText": "0:03",
+      "text": "eventually. A smart person learns one"
+    },
+    {
+      "endMs": "9960",
+      "startMs": "6160",
+      "startTimeText": "0:06",
+      "text": "lesson from a mistake. A very smart"
+    },
+    {
+      "endMs": "11600",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "person learns multiple lessons from a"
+    },
+    {
+      "endMs": "13100",
+      "startMs": "9960",
+      "startTimeText": "0:09",
+      "text": "mistake. A wise man learns from the"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "11600",
+      "startTimeText": "0:11",
+      "text": "mistake of others. The wisest man"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "13100",
+      "startTimeText": "0:13",
+      "text": "[music] learns from the successes, too."
+    }
+  ],
+  "transcript_only_text": " A  fool  never  learns  from  their  mistakes. \n A  dumb  person  learns  from  their  mistakes \n eventually.  A  smart  person  learns  one \n lesson  from  a  mistake.  A  very  smart \n person  learns  multiple  lessons  from  a \n mistake.  A  wise  man  learns  from  the \n mistake  of  others.  The  wisest  man \n [music]  learns  from  the  successes,  too.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=zwtQRoFOcxs",
+  "videoId": "zwtQRoFOcxs"
+}

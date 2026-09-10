@@ -1,0 +1,294 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=nStxEbIDdtM&ei=04-eap2DJoeDkucP0ciBwQs&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801603&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=63AE709527922B954468D4CE94EE160289D53624.28F199AF74E3086413972ED3887340221D1F48EC&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 3,
+  "commentCountText": "3",
+  "credits_charged": 1,
+  "credits_remaining": 14266,
+  "description": "The best to place learn marketing for a specific platform from are agency owners.\n\nThey walk the walk. Rather than pay for outdated trainings, pay them more than their normal fee to teach you while they execute.\n\nYou get the speed of agency and long term benefits of coaching.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:01:24",
+  "durationMs": 84000,
+  "genre": "Education",
+  "id": "nStxEbIDdtM",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 736,
+  "likeCountText": "736",
+  "most_replayed": null,
+  "publishDate": "2026-09-04T17:01:37-07:00",
+  "publishDateText": "Sep 4, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/nStxEbIDdtM/maxresdefault.jpg",
+  "title": "Pay the Expert to Teach You, Not to Do the Work",
+  "type": "video",
+  "viewCountInt": 15352,
+  "viewCountText": "15,352",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "bheventspace",
+        "id": "UC3WZOq8nt2LJ-vh3Q7cNM5w",
+        "title": "B&H Event Space",
+        "url": "https://www.youtube.com/@bheventspace"
+      },
+      "id": "AqrVdYhZVIA",
+      "lengthInSeconds": 6370,
+      "lengthText": "1:46:10",
+      "publishDate": "2026-06-07T10:20:04.468Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-06-07T10:20:04.468Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/AqrVdYhZVIA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAt3EvpJe-aBEj7OQ7_GYbeXEzs8g",
+      "title": "Intro to Grip Equipment | Hosted by Impact",
+      "videoUrl": "https://www.youtube.com/watch?v=AqrVdYhZVIA",
+      "viewCountInt": 2000,
+      "viewCountText": "2K views"
+    },
+    {
+      "channel": {
+        "handle": "TheMoodyGardens",
+        "id": "UCKDM9GYy91kKpNOGZVS0ZFg",
+        "title": "Moody Gardens",
+        "url": "https://www.youtube.com/@TheMoodyGardens"
+      },
+      "id": "HHp4rjhJsWI",
+      "publishDate": "2026-04-07T10:20:04.468Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-07T10:20:04.468Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/HHp4rjhJsWI/hqdefault.jpg?v=ba5a&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCneGW3l1-Yo8mguQJgS9YNn94u9Q",
+      "title": "Moody Gardens Penguin Cam LIVE | Penguin Habitat Stream at the Aquarium in Galveston, Texas",
+      "videoUrl": "https://www.youtube.com/watch?v=HHp4rjhJsWI",
+      "viewCountInt": null
+    },
+    {
+      "channel": {
+        "handle": "TheShopifyAppShow",
+        "id": "UCCe2XZh8BAdUndjegZjMOUw",
+        "title": "The Shopify App Show",
+        "url": "https://www.youtube.com/@TheShopifyAppShow"
+      },
+      "id": "HsQ88wKkz_o",
+      "lengthInSeconds": 2021,
+      "lengthText": "33:41",
+      "publishDate": "2026-09-01T10:20:04.468Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-09-01T10:20:04.468Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/HsQ88wKkz_o/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDLOJZfIPhfftlph4T0KhjXzCXrfQ",
+      "title": "Shopify B2B: Why It's Time To Get On Board, with Josiah Hubbard",
+      "videoUrl": "https://www.youtube.com/watch?v=HsQ88wKkz_o",
+      "viewCountInt": 64,
+      "viewCountText": "64 views"
+    },
+    {
+      "channel": {
+        "handle": "NBCSports",
+        "id": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "NBC Sports",
+        "url": "https://www.youtube.com/@NBCSports"
+      },
+      "id": "-1DBK9zzXRs",
+      "lengthInSeconds": 581,
+      "lengthText": "9:41",
+      "publishDate": "2026-09-07T04:20:04.468Z",
+      "publishDateText": "6 hours ago",
+      "publishedTime": "2026-09-07T04:20:04.468Z",
+      "publishedTimeText": "6 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/-1DBK9zzXRs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCysHNcAjHIw5ahrVmJQYzPFiBrDw",
+      "title": "Wisconsin vs. Notre Dame | COLLEGE FOOTBALL HIGHLIGHTS | 9/6/2026 | NBC Sports",
+      "videoUrl": "https://www.youtube.com/watch?v=-1DBK9zzXRs",
+      "viewCountInt": 99000,
+      "viewCountText": "99K views"
+    },
+    {
+      "channel": {
+        "handle": "nateherk",
+        "id": "UC2ojq-nuP8ceeHqiroeKhBA",
+        "title": "Nate Herk | AI Automation",
+        "url": "https://www.youtube.com/@nateherk"
+      },
+      "id": "WfJPBVXPt8k",
+      "lengthInSeconds": 2316,
+      "lengthText": "38:36",
+      "publishDate": "2026-09-06T18:20:04.468Z",
+      "publishDateText": "16 hours ago",
+      "publishedTime": "2026-09-06T18:20:04.468Z",
+      "publishedTimeText": "16 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/WfJPBVXPt8k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCZdp9MHAjpAaMekN-ENHik50pkDA",
+      "title": "I Tested GPT-6 Astra vs Fable 5.1 on 15 Real Use Cases",
+      "videoUrl": "https://www.youtube.com/watch?v=WfJPBVXPt8k",
+      "viewCountInt": 143000,
+      "viewCountText": "143K views"
+    },
+    {
+      "channel": {
+        "handle": "AFCMassachusetts",
+        "id": "UC36PiPooThmG8kXMTiHTBlA",
+        "title": "Apostolic Faith Church, East Bridgewater, MA",
+        "url": "https://www.youtube.com/@AFCMassachusetts"
+      },
+      "id": "tlmxdvtY238",
+      "lengthInSeconds": 5638,
+      "lengthText": "1:33:58",
+      "publishDate": "2026-09-06T17:20:04.468Z",
+      "publishDateText": "Streamed 17 hours ago",
+      "publishedTime": "2026-09-06T17:20:04.468Z",
+      "publishedTimeText": "Streamed 17 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/tlmxdvtY238/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAoaP8czt1yPn9N6tkSiRkwam--fw",
+      "title": "East Bridgewater Youth Weekend - Sunday Morning Service - 9/6/2026",
+      "videoUrl": "https://www.youtube.com/watch?v=tlmxdvtY238",
+      "viewCountInt": 158,
+      "viewCountText": "158 views"
+    },
+    {
+      "channel": {
+        "handle": "channel/UCJhjE7wbdYAae1G25m0tHAA",
+        "id": "UCJhjE7wbdYAae1G25m0tHAA",
+        "title": "Cafe Music BGM channel",
+        "url": "https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA"
+      },
+      "id": "neV3EPgvZ3g",
+      "lengthInSeconds": 12789,
+      "lengthText": "3:33:09",
+      "publishDate": "2017-09-07T10:20:04.468Z",
+      "publishDateText": "9 years ago",
+      "publishedTime": "2017-09-07T10:20:04.468Z",
+      "publishedTimeText": "9 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/neV3EPgvZ3g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBzb8m4cSKCLv296bzau28k1hQLoQ",
+      "title": "Relaxing Jazz Music - Background Chill Out  Music - Music For Relax,Study,Work",
+      "videoUrl": "https://www.youtube.com/watch?v=neV3EPgvZ3g",
+      "viewCountInt": 120000000,
+      "viewCountText": "120M views"
+    },
+    {
+      "channel": {
+        "handle": "MeidasTouch",
+        "id": "UC9r9HYFxEQOBXSopFS61ZWg",
+        "title": "MeidasTouch",
+        "url": "https://www.youtube.com/@MeidasTouch"
+      },
+      "id": "9ttaChYHHg8",
+      "lengthInSeconds": 3306,
+      "lengthText": "55:06",
+      "publishDate": "2026-09-07T01:20:04.468Z",
+      "publishDateText": "Streamed 9 hours ago",
+      "publishedTime": "2026-09-07T01:20:04.468Z",
+      "publishedTimeText": "Streamed 9 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/9ttaChYHHg8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBgZUjzM0XFPdFC-6SjhHR1tF7fAA",
+      "title": "LIVE: Top Psychiatrist Issues NUCLEAR WARNING About Trump... | The Weekend Show",
+      "videoUrl": "https://www.youtube.com/watch?v=9ttaChYHHg8",
+      "viewCountInt": 470000,
+      "viewCountText": "470K views"
+    },
+    {
+      "channel": {
+        "handle": "framedscreensavers",
+        "id": "UCRYYPjBnvSdOcoufYlwYXcw",
+        "title": "Framed Screensavers",
+        "url": "https://www.youtube.com/@framedscreensavers"
+      },
+      "id": "pH0ZyhVkJqQ",
+      "lengthInSeconds": 3912,
+      "lengthText": "1:05:12",
+      "publishDate": "2021-09-07T10:20:04.468Z",
+      "publishDateText": "5 years ago",
+      "publishedTime": "2021-09-07T10:20:04.468Z",
+      "publishedTimeText": "5 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/pH0ZyhVkJqQ/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AdQGgALgA4oCDAgAEAEYfyBGKDAwDw==&rs=AOn4CLBSp4QbSg7qihRJ_z98kGvDI_K5sQ",
+      "title": "FRAMED ART FOR YOUR TV | FRAMED SCREENSAVER",
+      "videoUrl": "https://www.youtube.com/watch?v=pH0ZyhVkJqQ",
+      "viewCountInt": 198000,
+      "viewCountText": "198K views"
+    },
+    {
+      "channel": {
+        "handle": "ShaneHummus",
+        "id": "UCLKZ20yD2tNMBOkSDZo4FeQ",
+        "title": "Shane Hummus",
+        "url": "https://www.youtube.com/@ShaneHummus"
+      },
+      "id": "3paB6NJBE-I",
+      "lengthInSeconds": 9801,
+      "lengthText": "2:43:21",
+      "publishDate": "2026-09-04T10:20:04.468Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-09-04T10:20:04.468Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/3paB6NJBE-I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAgOcCZhZul6x2VYxvn1lFfr2wnHg",
+      "title": "How To Start a 1-Person Business With Claude AI (FULL COURSE)",
+      "videoUrl": "https://www.youtube.com/watch?v=3paB6NJBE-I",
+      "viewCountInt": 35000,
+      "viewCountText": "35K views"
+    },
+    {
+      "channel": {
+        "handle": "Clear_Mind_Lab",
+        "id": "UCcGGd14OQuUZwFna4tWsuQA",
+        "title": "Clear Mind Lab",
+        "url": "https://www.youtube.com/@Clear_Mind_Lab"
+      },
+      "id": "_3Ww0n1RsuM",
+      "publishDate": "2026-07-07T10:20:04.468Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-07T10:20:04.468Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3Ww0n1RsuM/hqdefault.jpg?v=6a351978&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCt69_ytbRGkjtBo2Gaq8R18f9Yjg",
+      "title": "🔴 24/7 𝐂𝐄𝐎 𝐌𝐎𝐃𝐄 Live — Deep Focus Music for Work, Study & Coding",
+      "videoUrl": "https://www.youtube.com/watch?v=_3Ww0n1RsuM",
+      "viewCountInt": null
+    },
+    {
+      "channel": {
+        "handle": "HealingEnergyFrequency",
+        "id": "UCJPzAR6oJNq61rnSurYhh-A",
+        "title": "Healing Energy Frequency",
+        "url": "https://www.youtube.com/@HealingEnergyFrequency"
+      },
+      "id": "kBwDGZg71os",
+      "publishDate": "2026-05-07T10:20:04.468Z",
+      "publishDateText": "4 months ago",
+      "publishedTime": "2026-05-07T10:20:04.468Z",
+      "publishedTimeText": "4 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/kBwDGZg71os/hqdefault.jpg?v=69f020cd&sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBAkwx-uyUGAgwy4_bxzxYASOcVOA",
+      "title": "Cleans the Aura and Space | Power, Healing & Energy Alignment | TREE OF LIFE + Solar Plexus Chakra",
+      "videoUrl": "https://www.youtube.com/watch?v=kBwDGZg71os",
+      "viewCountInt": null
+    }
+  ]
+}

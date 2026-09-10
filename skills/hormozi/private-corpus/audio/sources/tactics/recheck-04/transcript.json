@@ -1,0 +1,967 @@
+{
+  "text": " make it 100. That means your cost per sale is half. Let me show you why this matters. Example, two businesses both making $1 million. One at 80% margins and spends $200 on costs, the other at 90% gross margins and spends $100,000 on costs. Same revenue, but the 90% business has an extra $100,000 to reinvest in growth, or better yet, profit. This compounds over time. To put this in perspective, to take a business from 80% to 90% gross margins, through price increases alone, you'd have to double your prices to get the same efficiency. That's a big deal. I obsess over this. So if you don't...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.34,
+      "text": " make it 100. That means your cost per sale is half. Let me show you why this matters.",
+      "tokens": [
+        50365,
+        652,
+        309,
+        2319,
+        13,
+        663,
+        1355,
+        428,
+        2063,
+        680,
+        8680,
+        307,
+        1922,
+        13,
+        961,
+        385,
+        855,
+        291,
+        983,
+        341,
+        7001,
+        13,
+        50585
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07508062347163999,
+      "compression_ratio": 1.664179104477612,
+      "no_speech_prob": 1.1202780239930044e-12,
+      "words": [
+        {
+          "word": " make",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.7490234375
+        },
+        {
+          "word": " it",
+          "start": 0.12,
+          "end": 0.18,
+          "probability": 0.96630859375
+        },
+        {
+          "word": " 100.",
+          "start": 0.18,
+          "end": 0.34,
+          "probability": 0.375244140625
+        },
+        {
+          "word": " That",
+          "start": 0.7,
+          "end": 1.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " means",
+          "start": 1.14,
+          "end": 1.3,
+          "probability": 1.0
+        },
+        {
+          "word": " your",
+          "start": 1.3,
+          "end": 1.44,
+          "probability": 1.0
+        },
+        {
+          "word": " cost",
+          "start": 1.44,
+          "end": 1.72,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " per",
+          "start": 1.72,
+          "end": 1.88,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " sale",
+          "start": 1.88,
+          "end": 2.14,
+          "probability": 1.0
+        },
+        {
+          "word": " is",
+          "start": 2.14,
+          "end": 2.32,
+          "probability": 1.0
+        },
+        {
+          "word": " half.",
+          "start": 2.32,
+          "end": 2.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Let",
+          "start": 2.92,
+          "end": 3.14,
+          "probability": 1.0
+        },
+        {
+          "word": " me",
+          "start": 3.14,
+          "end": 3.24,
+          "probability": 1.0
+        },
+        {
+          "word": " show",
+          "start": 3.24,
+          "end": 3.46,
+          "probability": 1.0
+        },
+        {
+          "word": " you",
+          "start": 3.46,
+          "end": 3.6,
+          "probability": 1.0
+        },
+        {
+          "word": " why",
+          "start": 3.6,
+          "end": 3.78,
+          "probability": 1.0
+        },
+        {
+          "word": " this",
+          "start": 3.78,
+          "end": 3.96,
+          "probability": 1.0
+        },
+        {
+          "word": " matters.",
+          "start": 3.96,
+          "end": 4.34,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.14,
+      "end": 11.14,
+      "text": " Example, two businesses both making $1 million. One at 80% margins and spends $200 on costs,",
+      "tokens": [
+        50622,
+        24755,
+        781,
+        11,
+        732,
+        6011,
+        1293,
+        1455,
+        1848,
+        16,
+        2459,
+        13,
+        1485,
+        412,
+        4688,
+        4,
+        30317,
+        293,
+        25620,
+        1848,
+        7629,
+        322,
+        5497,
+        11,
+        50922
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07508062347163999,
+      "compression_ratio": 1.664179104477612,
+      "no_speech_prob": 1.1202780239930044e-12,
+      "words": [
+        {
+          "word": " Example,",
+          "start": 5.14,
+          "end": 5.58,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " two",
+          "start": 5.74,
+          "end": 5.9,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " businesses",
+          "start": 5.9,
+          "end": 6.36,
+          "probability": 1.0
+        },
+        {
+          "word": " both",
+          "start": 6.36,
+          "end": 6.74,
+          "probability": 0.93017578125
+        },
+        {
+          "word": " making",
+          "start": 6.74,
+          "end": 7.12,
+          "probability": 1.0
+        },
+        {
+          "word": " $1",
+          "start": 7.12,
+          "end": 7.38,
+          "probability": 0.9560546875
+        },
+        {
+          "word": " million.",
+          "start": 7.38,
+          "end": 7.6,
+          "probability": 0.91357421875
+        },
+        {
+          "word": " One",
+          "start": 8.1,
+          "end": 8.26,
+          "probability": 1.0
+        },
+        {
+          "word": " at",
+          "start": 8.26,
+          "end": 8.42,
+          "probability": 0.998046875
+        },
+        {
+          "word": " 80",
+          "start": 8.42,
+          "end": 8.7,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "%",
+          "start": 8.7,
+          "end": 8.94,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " margins",
+          "start": 8.94,
+          "end": 9.36,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " and",
+          "start": 9.36,
+          "end": 9.92,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " spends",
+          "start": 9.92,
+          "end": 10.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $200",
+          "start": 10.18,
+          "end": 10.54,
+          "probability": 1.0
+        },
+        {
+          "word": " on",
+          "start": 10.54,
+          "end": 10.8,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " costs,",
+          "start": 10.8,
+          "end": 11.14,
+          "probability": 0.9697265625
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.38,
+      "end": 17.1,
+      "text": " the other at 90% gross margins and spends $100,000 on costs. Same revenue, but the 90%",
+      "tokens": [
+        50940,
+        264,
+        661,
+        412,
+        4289,
+        4,
+        11367,
+        30317,
+        293,
+        25620,
+        1848,
+        6879,
+        11,
+        1360,
+        322,
+        5497,
+        13,
+        10635,
+        9324,
+        11,
+        457,
+        264,
+        4289,
+        4,
+        51221
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07508062347163999,
+      "compression_ratio": 1.664179104477612,
+      "no_speech_prob": 1.1202780239930044e-12,
+      "words": [
+        {
+          "word": " the",
+          "start": 11.38,
+          "end": 11.58,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " other",
+          "start": 11.58,
+          "end": 11.68,
+          "probability": 1.0
+        },
+        {
+          "word": " at",
+          "start": 11.68,
+          "end": 11.86,
+          "probability": 0.97265625
+        },
+        {
+          "word": " 90",
+          "start": 11.86,
+          "end": 12.04,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "%",
+          "start": 12.04,
+          "end": 12.28,
+          "probability": 1.0
+        },
+        {
+          "word": " gross",
+          "start": 12.28,
+          "end": 12.48,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " margins",
+          "start": 12.48,
+          "end": 12.88,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " and",
+          "start": 12.88,
+          "end": 13.08,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " spends",
+          "start": 13.08,
+          "end": 13.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $100",
+          "start": 13.28,
+          "end": 14.02,
+          "probability": 1.0
+        },
+        {
+          "word": ",000",
+          "start": 14.02,
+          "end": 14.34,
+          "probability": 1.0
+        },
+        {
+          "word": " on",
+          "start": 14.34,
+          "end": 14.64,
+          "probability": 1.0
+        },
+        {
+          "word": " costs.",
+          "start": 14.64,
+          "end": 14.96,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " Same",
+          "start": 15.48,
+          "end": 15.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " revenue,",
+          "start": 15.92,
+          "end": 16.28,
+          "probability": 1.0
+        },
+        {
+          "word": " but",
+          "start": 16.48,
+          "end": 16.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " the",
+          "start": 16.52,
+          "end": 16.64,
+          "probability": 1.0
+        },
+        {
+          "word": " 90",
+          "start": 16.64,
+          "end": 16.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "%",
+          "start": 16.88,
+          "end": 17.1,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.1,
+      "end": 21.58,
+      "text": " business has an extra $100,000 to reinvest in growth, or better yet, profit. This compounds",
+      "tokens": [
+        51221,
+        1606,
+        575,
+        364,
+        2857,
+        1848,
+        6879,
+        11,
+        1360,
+        281,
+        6561,
+        5571,
+        294,
+        4599,
+        11,
+        420,
+        1101,
+        1939,
+        11,
+        7475,
+        13,
+        639,
+        21810,
+        51444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07508062347163999,
+      "compression_ratio": 1.664179104477612,
+      "no_speech_prob": 1.1202780239930044e-12,
+      "words": [
+        {
+          "word": " business",
+          "start": 17.1,
+          "end": 17.38,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " has",
+          "start": 17.38,
+          "end": 17.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " an",
+          "start": 17.6,
+          "end": 17.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " extra",
+          "start": 17.68,
+          "end": 17.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " $100",
+          "start": 17.86,
+          "end": 18.04,
+          "probability": 1.0
+        },
+        {
+          "word": ",000",
+          "start": 18.04,
+          "end": 18.36,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 18.36,
+          "end": 18.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " reinvest",
+          "start": 18.62,
+          "end": 18.88,
+          "probability": 0.998046875
+        },
+        {
+          "word": " in",
+          "start": 18.88,
+          "end": 18.98,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " growth,",
+          "start": 18.98,
+          "end": 19.26,
+          "probability": 0.998046875
+        },
+        {
+          "word": " or",
+          "start": 19.4,
+          "end": 19.68,
+          "probability": 1.0
+        },
+        {
+          "word": " better",
+          "start": 19.68,
+          "end": 19.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " yet,",
+          "start": 19.9,
+          "end": 20.14,
+          "probability": 1.0
+        },
+        {
+          "word": " profit.",
+          "start": 20.3,
+          "end": 20.52,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " This",
+          "start": 20.78,
+          "end": 21.16,
+          "probability": 1.0
+        },
+        {
+          "word": " compounds",
+          "start": 21.16,
+          "end": 21.58,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.58,
+      "end": 26.24,
+      "text": " over time. To put this in perspective, to take a business from 80% to 90% gross margins,",
+      "tokens": [
+        51444,
+        670,
+        565,
+        13,
+        1407,
+        829,
+        341,
+        294,
+        4585,
+        11,
+        281,
+        747,
+        257,
+        1606,
+        490,
+        4688,
+        4,
+        281,
+        4289,
+        4,
+        11367,
+        30317,
+        11,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07508062347163999,
+      "compression_ratio": 1.664179104477612,
+      "no_speech_prob": 1.1202780239930044e-12,
+      "words": [
+        {
+          "word": " over",
+          "start": 21.58,
+          "end": 21.76,
+          "probability": 0.998046875
+        },
+        {
+          "word": " time.",
+          "start": 21.76,
+          "end": 22.04,
+          "probability": 1.0
+        },
+        {
+          "word": " To",
+          "start": 22.4,
+          "end": 22.74,
+          "probability": 1.0
+        },
+        {
+          "word": " put",
+          "start": 22.74,
+          "end": 22.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " this",
+          "start": 22.86,
+          "end": 23.02,
+          "probability": 1.0
+        },
+        {
+          "word": " in",
+          "start": 23.02,
+          "end": 23.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " perspective,",
+          "start": 23.14,
+          "end": 23.54,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 23.84,
+          "end": 24.08,
+          "probability": 1.0
+        },
+        {
+          "word": " take",
+          "start": 24.08,
+          "end": 24.24,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 24.24,
+          "end": 24.34,
+          "probability": 1.0
+        },
+        {
+          "word": " business",
+          "start": 24.34,
+          "end": 24.54,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " from",
+          "start": 24.54,
+          "end": 24.74,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 80",
+          "start": 24.74,
+          "end": 24.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "%",
+          "start": 24.96,
+          "end": 25.08,
+          "probability": 0.5244140625
+        },
+        {
+          "word": " to",
+          "start": 25.08,
+          "end": 25.12,
+          "probability": 0.99609375
+        },
+        {
+          "word": " 90",
+          "start": 25.12,
+          "end": 25.32,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "%",
+          "start": 25.32,
+          "end": 25.54,
+          "probability": 1.0
+        },
+        {
+          "word": " gross",
+          "start": 25.54,
+          "end": 25.76,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " margins,",
+          "start": 25.76,
+          "end": 26.24,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2624,
+      "start": 26.24,
+      "end": 30.76,
+      "text": " through price increases alone, you'd have to double your prices to get the same efficiency.",
+      "tokens": [
+        50365,
+        807,
+        3218,
+        8637,
+        3312,
+        11,
+        291,
+        1116,
+        362,
+        281,
+        3834,
+        428,
+        7901,
+        281,
+        483,
+        264,
+        912,
+        10493,
+        13,
+        50590
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16413843631744385,
+      "compression_ratio": 1.2627118644067796,
+      "no_speech_prob": 4.3018187753304793e-13,
+      "words": [
+        {
+          "word": " through",
+          "start": 26.24,
+          "end": 26.7,
+          "probability": 0.81982421875
+        },
+        {
+          "word": " price",
+          "start": 26.7,
+          "end": 27.04,
+          "probability": 1.0
+        },
+        {
+          "word": " increases",
+          "start": 27.04,
+          "end": 27.46,
+          "probability": 1.0
+        },
+        {
+          "word": " alone,",
+          "start": 27.46,
+          "end": 27.86,
+          "probability": 1.0
+        },
+        {
+          "word": " you'd",
+          "start": 27.86,
+          "end": 28.4,
+          "probability": 1.0
+        },
+        {
+          "word": " have",
+          "start": 28.4,
+          "end": 28.54,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 28.54,
+          "end": 28.72,
+          "probability": 1.0
+        },
+        {
+          "word": " double",
+          "start": 28.72,
+          "end": 29.12,
+          "probability": 1.0
+        },
+        {
+          "word": " your",
+          "start": 29.12,
+          "end": 29.38,
+          "probability": 1.0
+        },
+        {
+          "word": " prices",
+          "start": 29.38,
+          "end": 29.74,
+          "probability": 1.0
+        },
+        {
+          "word": " to",
+          "start": 29.74,
+          "end": 29.92,
+          "probability": 1.0
+        },
+        {
+          "word": " get",
+          "start": 29.92,
+          "end": 30.04,
+          "probability": 1.0
+        },
+        {
+          "word": " the",
+          "start": 30.04,
+          "end": 30.16,
+          "probability": 1.0
+        },
+        {
+          "word": " same",
+          "start": 30.16,
+          "end": 30.32,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " efficiency.",
+          "start": 30.32,
+          "end": 30.76,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2624,
+      "start": 31.18,
+      "end": 34.98,
+      "text": " That's a big deal. I obsess over this. So if you don't...",
+      "tokens": [
+        50618,
+        663,
+        311,
+        257,
+        955,
+        2028,
+        13,
+        286,
+        35803,
+        670,
+        341,
+        13,
+        407,
+        498,
+        291,
+        500,
+        380,
+        485,
+        50803
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16413843631744385,
+      "compression_ratio": 1.2627118644067796,
+      "no_speech_prob": 4.3018187753304793e-13,
+      "words": [
+        {
+          "word": " That's",
+          "start": 31.18,
+          "end": 31.7,
+          "probability": 1.0
+        },
+        {
+          "word": " a",
+          "start": 31.7,
+          "end": 31.78,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " big",
+          "start": 31.78,
+          "end": 31.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " deal.",
+          "start": 31.94,
+          "end": 32.2,
+          "probability": 1.0
+        },
+        {
+          "word": " I",
+          "start": 32.36,
+          "end": 32.82,
+          "probability": 1.0
+        },
+        {
+          "word": " obsess",
+          "start": 32.82,
+          "end": 33.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " over",
+          "start": 33.22,
+          "end": 33.54,
+          "probability": 1.0
+        },
+        {
+          "word": " this.",
+          "start": 33.54,
+          "end": 33.84,
+          "probability": 1.0
+        },
+        {
+          "word": " So",
+          "start": 34.06,
+          "end": 34.58,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " if",
+          "start": 34.58,
+          "end": 34.74,
+          "probability": 0.97900390625
+        },
+        {
+          "word": " you",
+          "start": 34.74,
+          "end": 34.86,
+          "probability": 1.0
+        },
+        {
+          "word": " don't...",
+          "start": 34.86,
+          "end": 34.98,
+          "probability": 0.8701171875
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

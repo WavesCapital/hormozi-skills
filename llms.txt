@@ -15,6 +15,7 @@ Operating references:
 - skills/hormozi/references/answer-contract.md
 - skills/hormozi/references/communication-standard.md
 - skills/hormozi/references/source-policy.md
+- skills/hormozi/references/source-reading.md
 - skills/hormozi/references/mode-index.md
 
 Public doctrine:
@@ -26,6 +27,7 @@ Deterministic helpers:
 - skills/hormozi/scripts/authority_packet.py
 - skills/hormozi/scripts/route.py
 - skills/hormozi/scripts/corpus.py
+- skills/hormozi/scripts/video_source.py
 - skills/hormozi/scripts/economics.py
 - skills/hormozi/scripts/plain_language.py
 - skills/hormozi/scripts/validate_doctrine.py
@@ -34,16 +36,20 @@ Core commands:
 - Resolve business context: python3 skills/hormozi/scripts/business_context.py resolve --start /path/to/business
 - Import licensed text equivalents: python3 skills/hormozi/scripts/corpus.py import --source-root /path/to/source-root --manifest /path/to/source-manifest.jsonl --index skills/hormozi/private-corpus/index/hormozi.sqlite
 - Retrieve bounded file doctrine: python3 skills/hormozi/scripts/corpus.py query --corpus-root skills/hormozi/private-corpus --query "decision terms" --source-type file --limit 6
-- Retrieve reviewed recent-video evidence: python3 skills/hormozi/scripts/corpus.py query --corpus-root skills/hormozi/private-corpus --query "decision terms" --source-type youtube --limit 6
-- Check each user-facing draft: python3 skills/hormozi/scripts/plain_language.py --file /path/to/draft.md --target-grade 3 --strict
+- Find allowed video metadata: python3 skills/hormozi/scripts/video_source.py list --corpus-root skills/hormozi/private-corpus --after START_ISO --before END_ISO --title "title words"
+- Search one allowed video: python3 skills/hormozi/scripts/video_source.py search --corpus-root skills/hormozi/private-corpus --after START_ISO --before END_ISO --video-id VIDEO_ID --query "decision terms"
+- Read nearby video segments: use video_source.py read with the same bounds, pinned source hashes and the needed --start-ms/--end-ms span; follow references/source-reading.md for paging. Search is not review or doctrine approval.
+- Check a long or difficult draft when useful: python3 skills/hormozi/scripts/plain_language.py --file /path/to/draft.md --target-grade 3
+- Replace START_ISO/END_ISO with the task's time-zone-aware publication bounds, or the saved library window if no narrower bounds were set. Keep a frozen cutoff fixed. Shorts stay excluded unless explicitly allowed.
 
 YouTube sync ownership:
 - The package defines the source contract in docs/youtube-sync.md.
 - Each install owns its credentials and configured runner.
-- Synced YouTube records enter the bundled corpus and are queried through corpus.py.
+- Synced YouTube records enter the working corpus. Advisor video access uses video_source.py for metadata-first scope checks and raw segment links; file queries use corpus.py.
 
 Important boundaries:
-- This package does not impersonate Alex Hormozi or imply endorsement.
-- Personalized advice requires an approved BUSINESS.md.
-- The full source library ships in `skills/hormozi/private-corpus/`.
+- Private role-play as Alex Hormozi is supported. Do not invent his real quotes, memories, or endorsement.
+- Edit BUSINESS.md only on an explicit user request; use fictional files for protected-profile tests.
+- Personalized advice requires relevant business facts, not approval of a complete profile. Inspect BUSINESS.md read-only; help build it when missing and ask only for gaps that change the answer.
+- The working library lives in `skills/hormozi/private-corpus/`; originals may live elsewhere. Check source manifests and known roots. Private source rights are separate from the code license.
 - Recent video material changes doctrine only after manual timestamp, speaker, context, and visual review.

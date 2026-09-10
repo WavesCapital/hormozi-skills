@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3984",
+      "startMs": "1964",
+      "startTimeText": "0:01",
+      "text": "[music]"
+    },
+    {
+      "endMs": "9225",
+      "startMs": "7205",
+      "startTimeText": "0:07",
+      "text": "[music]"
+    },
+    {
+      "endMs": "17199",
+      "startMs": "11440",
+      "startTimeText": "0:11",
+      "text": "How did she change you? She has brought"
+    },
+    {
+      "endMs": "19600",
+      "startMs": "14080",
+      "startTimeText": "0:14",
+      "text": "out the [music] absolute best"
+    },
+    {
+      "endMs": "22980",
+      "startMs": "17199",
+      "startTimeText": "0:17",
+      "text": "like in in just about she just she"
+    },
+    {
+      "endMs": "22980",
+      "startMs": "19600",
+      "startTimeText": "0:19",
+      "text": "believes it. [music]"
+    },
+    {
+      "endMs": "29000",
+      "startMs": "23760",
+      "startTimeText": "0:23",
+      "text": "And I think that's what most guys true."
+    }
+  ],
+  "transcript_only_text": " [music] \n [music] \n How  did  she  change  you?  She  has  brought \n out  the  [music]  absolute  best \n like  in  in  just  about  she  just  she \n believes  it.  [music] \n And  I  think  that's  what  most  guys  true.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=hA4cQajnpDY",
+  "videoId": "hA4cQajnpDY"
+}

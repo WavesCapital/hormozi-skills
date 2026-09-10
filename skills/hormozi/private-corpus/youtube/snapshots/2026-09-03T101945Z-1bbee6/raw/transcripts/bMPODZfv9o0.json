@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2880",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You can read a hundred books on sales,"
+    },
+    {
+      "endMs": "4120",
+      "startMs": "1400",
+      "startTimeText": "0:01",
+      "text": "but the first thousand cold calls you"
+    },
+    {
+      "endMs": "5160",
+      "startMs": "2880",
+      "startTimeText": "0:02",
+      "text": "do, you'll learn more than all the books"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "4120",
+      "startTimeText": "0:04",
+      "text": "that you read up to that point. You"
+    },
+    {
+      "endMs": "8080",
+      "startMs": "5160",
+      "startTimeText": "0:05",
+      "text": "know, it takes 20 hours of of"
+    },
+    {
+      "endMs": "9320",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "concentrated work to become proficient"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "8080",
+      "startTimeText": "0:08",
+      "text": "at most skills, playing the guitar,"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "9320",
+      "startTimeText": "0:09",
+      "text": "playing the piano. But, people will wait"
+    },
+    {
+      "endMs": "13600",
+      "startMs": "10880",
+      "startTimeText": "0:10",
+      "text": "a decade to do those first 20 hours cuz"
+    },
+    {
+      "endMs": "15000",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "they're afraid. They don't want the"
+    },
+    {
+      "endMs": "16200",
+      "startMs": "13600",
+      "startTimeText": "0:13",
+      "text": "judgement that they think is coming"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "15000",
+      "startTimeText": "0:15",
+      "text": "along from people who aren't actually"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "16200",
+      "startTimeText": "0:16",
+      "text": "paying attention to them to begin with."
+    }
+  ],
+  "transcript_only_text": " You  can  read  a  hundred  books  on  sales, \n but  the  first  thousand  cold  calls  you \n do,  you'll  learn  more  than  all  the  books \n that  you  read  up  to  that  point.  You \n know,  it  takes  20  hours  of  of \n concentrated  work  to  become  proficient \n at  most  skills,  playing  the  guitar, \n playing  the  piano.  But,  people  will  wait \n a  decade  to  do  those  first  20  hours  cuz \n they're  afraid.  They  don't  want  the \n judgement  that  they  think  is  coming \n along  from  people  who  aren't  actually \n paying  attention  to  them  to  begin  with.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=bMPODZfv9o0",
+  "videoId": "bMPODZfv9o0"
+}

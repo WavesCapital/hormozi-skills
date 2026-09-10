@@ -1,0 +1,329 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=KL35R8yern4&ei=sI-eat76M8-1kucPj_7LyQI&caps=asr&opi=112496729&exp=xpe&xoaf=4&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788801568&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=5F7A2E3EE49B7ABFC13237C7F83D33769ABFCEA3.C5BC9EFF6D8E54CE877CBFB8BB9204DD7F70FD5F&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 21,
+  "commentCountText": "21",
+  "credits_charged": 1,
+  "credits_remaining": 14282,
+  "description": "When people copy - they copy the wrong stuff because they don’t know why it worked to begin with.\n\nAnd when it breaks - they don’t know how to fix it because they didn’t build it.\n\nSo don’t sweat it. \n\nCopy cats will always be behind.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "approxDurationMs": "130048",
+        "audioChannels": 2,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "audioSampleRate": "48000",
+        "averageBitrate": 591586,
+        "bitrate": 591805,
+        "cdnUrl": "https://rr11---sn-jvhj5nu-2iad.googlevideo.com/videoplayback?expire=1788797968&ei=sI-eat76M8-1kucPj_7LyQI&ip=73.248.244.117&id=o-APbzUmV3QEJ_vj1HxLCHETpVtQhn-6d0r5gEIPHunxjJ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1788776368%2C&mh=oR&mm=18%2C29&mn=sn-jvhj5nu-2iad%2Csn-ab5l6nrz&ms=aub%2Crdu&mv=m&mvi=11&pl=23&rms=aub%2Caub&initcwndbps=3618750&bui=AR3QkAkB0BgiaH089FZXiAHXy0uK6YlgTUASKFGO6V_F9gjoeQ2bIbda8UgNvcCS1AOHam6-pcXmoEaH&spc=I-rgIXlulULSLUiWsqPkVQb85SAfzQjo9A6pOIec2ionpfMAPq_g6Aq96AO_WKht9uwiiGwwlnQ&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-Wr8tKzaBnQqiu6izR0wn70Y&rqh=1&gir=yes&clen=9616835&ratebypass=yes&dur=130.048&lmt=1788673669974156&mt=1788775963&fvip=4&fexp=51565116%2C52135441%2C52189887&c=WEB&sefc=1&txp=4400234&n=yDPlIRyUmljBChejmQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAP3pmrbAqctbEr1FRBatRaNMNDIMKQq98MMKSc9jUi6xAiEA9F8TR6qWDSzunybpedNa8HCXLePXrRATeTwELDJaaYY%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJ4sY6ZQK_kGb2kbxPVXzpIkfdKzoqdVgyZhOMGxauHnAiEAjNusZo_bxsQQRyi0OQCgQjvEpQxq3gAm7YjB1r0Ie4k%3D",
+        "codecs": "avc1.42001E, mp4a.40.2",
+        "contentLength": "9616835",
+        "expiresAt": "2026-09-07T16:19:28.000Z",
+        "fps": 30,
+        "hasAudio": true,
+        "hasVideo": true,
+        "height": 640,
+        "itag": 18,
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "projectionType": "RECTANGULAR",
+        "quality": "medium",
+        "qualityLabel": "360p",
+        "requiresSignatureDecipher": false,
+        "signatureCipher": null,
+        "url": "https://rr11---sn-jvhj5nu-2iad.googlevideo.com/videoplayback?expire=1788797968&ei=sI-eat76M8-1kucPj_7LyQI&ip=73.248.244.117&id=o-APbzUmV3QEJ_vj1HxLCHETpVtQhn-6d0r5gEIPHunxjJ&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1788776368%2C&mh=oR&mm=18%2C29&mn=sn-jvhj5nu-2iad%2Csn-ab5l6nrz&ms=aub%2Crdu&mv=m&mvi=11&pl=23&rms=aub%2Caub&initcwndbps=3618750&bui=AR3QkAkB0BgiaH089FZXiAHXy0uK6YlgTUASKFGO6V_F9gjoeQ2bIbda8UgNvcCS1AOHam6-pcXmoEaH&spc=I-rgIXlulULSLUiWsqPkVQb85SAfzQjo9A6pOIec2ionpfMAPq_g6Aq96AO_WKht9uwiiGwwlnQ&vprv=1&svpuc=1&mime=video%2Fmp4&ns=-Wr8tKzaBnQqiu6izR0wn70Y&rqh=1&gir=yes&clen=9616835&ratebypass=yes&dur=130.048&lmt=1788673669974156&mt=1788775963&fvip=4&fexp=51565116%2C52135441%2C52189887&c=WEB&sefc=1&txp=4400234&n=yDPlIRyUmljBChejmQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRgIhAP3pmrbAqctbEr1FRBatRaNMNDIMKQq98MMKSc9jUi6xAiEA9F8TR6qWDSzunybpedNa8HCXLePXrRATeTwELDJaaYY%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRgIhAJ4sY6ZQK_kGb2kbxPVXzpIkfdKzoqdVgyZhOMGxauHnAiEAjNusZo_bxsQQRyi0OQCgQjvEpQxq3gAm7YjB1r0Ie4k%3D",
+        "width": 360
+      }
+    ],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:02:11",
+  "durationMs": 131000,
+  "genre": "Autos & Vehicles",
+  "id": "KL35R8yern4",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 1497,
+  "likeCountText": "1497",
+  "most_replayed": null,
+  "publishDate": "2026-09-05T12:13:56-07:00",
+  "publishDateText": "Sep 5, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/KL35R8yern4/maxresdefault.jpg",
+  "title": "Why Copying Makes You A Coward",
+  "type": "video",
+  "viewCountInt": 26773,
+  "viewCountText": "26,773",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "jfW6gL6hKhk",
+      "lengthInSeconds": 945,
+      "lengthText": "15:45",
+      "publishDate": "2026-03-07T10:19:29.577Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-03-07T10:19:29.577Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jfW6gL6hKhk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0G9_a7JX0L7DKWNPguRCmRo0OoA",
+      "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
+      "videoUrl": "https://www.youtube.com/watch?v=jfW6gL6hKhk",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "ChrisWillx",
+        "id": "UCIaH-gZIVC432YRjNVvnyCA",
+        "title": "Chris Williamson",
+        "url": "https://www.youtube.com/@ChrisWillx"
+      },
+      "id": "pO5ynxYzZPU",
+      "lengthInSeconds": 753,
+      "lengthText": "12:33",
+      "publishDate": "2024-09-07T10:19:29.577Z",
+      "publishDateText": "2 years ago",
+      "publishedTime": "2024-09-07T10:19:29.577Z",
+      "publishedTimeText": "2 years ago",
+      "thumbnail": "https://i.ytimg.com/vi/pO5ynxYzZPU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBLv1J9qjjVL7YsHE4FOGxLlq6img",
+      "title": "1000’s of Women Taught Me 1 Clear Rule - Dan Bilzerian",
+      "videoUrl": "https://www.youtube.com/watch?v=pO5ynxYzZPU",
+      "viewCountInt": 1900000,
+      "viewCountText": "1.9M views"
+    },
+    {
+      "channel": {
+        "handle": "Fameoid",
+        "id": "UCOdvOte3v0md0anfMgyrahw",
+        "title": "Fameoid",
+        "url": "https://www.youtube.com/@Fameoid"
+      },
+      "id": "-IOntaERI3I",
+      "lengthInSeconds": 602,
+      "lengthText": "10:02",
+      "publishDate": "2026-09-04T10:19:29.577Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-09-04T10:19:29.577Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/-IOntaERI3I/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBA8-NUjwQE6HOoFWjXMu7phxRKGw",
+      "title": "These might be Dolly Parton’s most hilarious moments ever caught on Camera”",
+      "videoUrl": "https://www.youtube.com/watch?v=-IOntaERI3I",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "ChrisCappy",
+        "id": "UCwrpo8z3IgJln2ZidqBUiMA",
+        "title": "Cappy Army",
+        "url": "https://www.youtube.com/@ChrisCappy"
+      },
+      "id": "dXJf_Kk6Alk",
+      "lengthInSeconds": 1837,
+      "lengthText": "30:37",
+      "publishDate": "2026-09-06T13:19:29.577Z",
+      "publishDateText": "21 hours ago",
+      "publishedTime": "2026-09-06T13:19:29.577Z",
+      "publishedTimeText": "21 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/dXJf_Kk6Alk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCJn_9w26VIRaUDQlb1d_Zm5f-7LQ",
+      "title": "China Just Got Its Answer..",
+      "videoUrl": "https://www.youtube.com/watch?v=dXJf_Kk6Alk",
+      "viewCountInt": 487000,
+      "viewCountText": "487K views"
+    },
+    {
+      "channel": {
+        "handle": "GeoLogic-z5g",
+        "id": "UCbrxfEBQCr4fVo396h0eiyA",
+        "title": "GeoLogic",
+        "url": "https://www.youtube.com/@GeoLogic-z5g"
+      },
+      "id": "tcWQydaJZeY",
+      "lengthInSeconds": 1258,
+      "lengthText": "20:58",
+      "publishDate": "2026-06-07T10:19:29.577Z",
+      "publishDateText": "3 months ago",
+      "publishedTime": "2026-06-07T10:19:29.577Z",
+      "publishedTimeText": "3 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/tcWQydaJZeY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCDCyHQAo-4qHmM-G3ZjzGwwxEn5w",
+      "title": "Why Kansas City Makes No Sense as a U.S. City",
+      "videoUrl": "https://www.youtube.com/watch?v=tcWQydaJZeY",
+      "viewCountInt": 84000,
+      "viewCountText": "84K views"
+    },
+    {
+      "channel": {
+        "handle": "ScreenPuff",
+        "id": "UC6qAABOkwaI1ImYY6oDbi-A",
+        "title": "ScreenPuff",
+        "url": "https://www.youtube.com/@ScreenPuff"
+      },
+      "id": "crH2pS_CZto",
+      "lengthInSeconds": 1162,
+      "lengthText": "19:22",
+      "publishDate": "2026-08-24T10:19:29.577Z",
+      "publishDateText": "2 weeks ago",
+      "publishedTime": "2026-08-24T10:19:29.577Z",
+      "publishedTimeText": "2 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/crH2pS_CZto/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJV5LBYsoZwRgGTU6Zv41K-dxK_w",
+      "title": "When you audition without giving a f**k",
+      "videoUrl": "https://www.youtube.com/watch?v=crH2pS_CZto",
+      "viewCountInt": 8000000,
+      "viewCountText": "8M views"
+    },
+    {
+      "channel": {
+        "handle": "caseysimpsonchannel",
+        "id": "UCxkHxDw01hUk48UV_zlbaow",
+        "title": "Casey Simpson",
+        "url": "https://www.youtube.com/@caseysimpsonchannel"
+      },
+      "id": "hPfMhw3wSEo",
+      "lengthInSeconds": 2228,
+      "lengthText": "37:08",
+      "publishDate": "2026-09-06T20:19:29.577Z",
+      "publishDateText": "14 hours ago",
+      "publishedTime": "2026-09-06T20:19:29.577Z",
+      "publishedTimeText": "14 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/hPfMhw3wSEo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLABEHFvhDcdVGgS9l5F9ueKjN-yaA",
+      "title": "Yesterday We Reached AGI. Now What?",
+      "videoUrl": "https://www.youtube.com/watch?v=hPfMhw3wSEo",
+      "viewCountInt": 453000,
+      "viewCountText": "453K views"
+    },
+    {
+      "channel": {
+        "handle": "tradgedyandhope",
+        "id": "UCFyAgi9phA7ErVY_bPC1Cjg",
+        "title": "T&H - Inspiration & Motivation",
+        "url": "https://www.youtube.com/@tradgedyandhope"
+      },
+      "id": "EiKxUKYNPmY",
+      "lengthInSeconds": 622,
+      "lengthText": "10:22",
+      "publishDate": "2026-08-07T10:19:29.577Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-07T10:19:29.577Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/EiKxUKYNPmY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAKwCZyu9nzvKUX13Mbddb4lCa-zA",
+      "title": "I wasted 33 years trapped in my own head before George Carlin explained this in 10 minutes…",
+      "videoUrl": "https://www.youtube.com/watch?v=EiKxUKYNPmY",
+      "viewCountInt": 976000,
+      "viewCountText": "976K views"
+    },
+    {
+      "channel": {
+        "handle": "ShaneHummus",
+        "id": "UCLKZ20yD2tNMBOkSDZo4FeQ",
+        "title": "Shane Hummus",
+        "url": "https://www.youtube.com/@ShaneHummus"
+      },
+      "id": "OT3Ndk7bEws",
+      "lengthInSeconds": 1088,
+      "lengthText": "18:08",
+      "publishDate": "2026-08-07T10:19:29.577Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-07T10:19:29.577Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/OT3Ndk7bEws/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBkNNhEfkyCygJ59A8bAmCAa7dhYQ",
+      "title": "5 Jobs So Desperate For Workers They'll Hire You On the Spot",
+      "videoUrl": "https://www.youtube.com/watch?v=OT3Ndk7bEws",
+      "viewCountInt": 2600000,
+      "viewCountText": "2.6M views"
+    },
+    {
+      "channel": {
+        "handle": "GlobalStatusHQ",
+        "id": "UClPGBEJIjkrDomMsUAJrX7w",
+        "title": "Global Status",
+        "url": "https://www.youtube.com/@GlobalStatusHQ"
+      },
+      "id": "9bZTmN2EIZ4",
+      "lengthInSeconds": 1257,
+      "lengthText": "20:57",
+      "publishDate": "2026-09-06T10:19:29.577Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-06T10:19:29.577Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/9bZTmN2EIZ4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDxVYrvWMV_gyoLf4Fevjtnsp-44w",
+      "title": "These Are The RICHEST Families That OWN OKLAHOMA...One Family Built LOVE'S",
+      "videoUrl": "https://www.youtube.com/watch?v=9bZTmN2EIZ4",
+      "viewCountInt": 88000,
+      "viewCountText": "88K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "XGm2ERU9qtA",
+      "lengthInSeconds": 1685,
+      "lengthText": "28:05",
+      "publishDate": "2025-12-07T10:19:29.577Z",
+      "publishDateText": "9 months ago",
+      "publishedTime": "2025-12-07T10:19:29.577Z",
+      "publishedTimeText": "9 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/XGm2ERU9qtA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCQNpjxMJT0GEkhXYGO8qip_RhHcw",
+      "title": "15 Brutal Truths I Know at 36 That I Wish I Knew at 20",
+      "videoUrl": "https://www.youtube.com/watch?v=XGm2ERU9qtA",
+      "viewCountInt": 720000,
+      "viewCountText": "720K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "SE9_1PYsaP0",
+      "lengthInSeconds": 1365,
+      "lengthText": "22:45",
+      "publishDate": "2025-12-07T10:19:29.577Z",
+      "publishDateText": "9 months ago",
+      "publishedTime": "2025-12-07T10:19:29.577Z",
+      "publishedTimeText": "9 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/SE9_1PYsaP0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD1jyBchZP0--XcPrF3CQd-i3ETMQ",
+      "title": "Build a Mind So Strong It Scares People",
+      "videoUrl": "https://www.youtube.com/watch?v=SE9_1PYsaP0",
+      "viewCountInt": 713000,
+      "viewCountText": "713K views"
+    }
+  ]
+}

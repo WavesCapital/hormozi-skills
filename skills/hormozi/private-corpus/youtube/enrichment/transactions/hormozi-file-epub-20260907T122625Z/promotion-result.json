@@ -1,0 +1,473 @@
+{
+  "committed_at": "2026-09-07T12:26:26.853Z",
+  "entries": [
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-00-chunks.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/chunks.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/chunks.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-01-0310e76b3d75d91f0e9fbfb6457ef49b9d0029f4582c30ae9cb868e34cf3697f.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0310e76b3d75d91f0e9fbfb6457ef49b9d0029f4582c30ae9cb868e34cf3697f.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0310e76b3d75d91f0e9fbfb6457ef49b9d0029f4582c30ae9cb868e34cf3697f.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-02-05565ee9b0a60c06515bcd1e82f074463b870499c8d0ba9dbaefff91fe961034.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/05565ee9b0a60c06515bcd1e82f074463b870499c8d0ba9dbaefff91fe961034.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/05565ee9b0a60c06515bcd1e82f074463b870499c8d0ba9dbaefff91fe961034.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-03-072b44293734cc9e85f0c7185a73ecc28d09d52eef7bebb70c88c57877ef8f06.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/072b44293734cc9e85f0c7185a73ecc28d09d52eef7bebb70c88c57877ef8f06.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/072b44293734cc9e85f0c7185a73ecc28d09d52eef7bebb70c88c57877ef8f06.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-04-0a6add1cb4e3e8ae7637cdd312f043a04f67c922ef0542d87ebf2a41aefae3e6.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0a6add1cb4e3e8ae7637cdd312f043a04f67c922ef0542d87ebf2a41aefae3e6.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0a6add1cb4e3e8ae7637cdd312f043a04f67c922ef0542d87ebf2a41aefae3e6.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-05-0d13e669d3a7794b0512335d7a584dcdb0fbff9d7b8129e26a7e6552e0f23001.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0d13e669d3a7794b0512335d7a584dcdb0fbff9d7b8129e26a7e6552e0f23001.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0d13e669d3a7794b0512335d7a584dcdb0fbff9d7b8129e26a7e6552e0f23001.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-06-0db46e01078beb5fc6dec89cef28f39cde45c39f5ae7ddd8339c75698cc65fdb.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0db46e01078beb5fc6dec89cef28f39cde45c39f5ae7ddd8339c75698cc65fdb.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0db46e01078beb5fc6dec89cef28f39cde45c39f5ae7ddd8339c75698cc65fdb.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-07-0dbf77db33de5622a97226aa1a7583578dfc54a613707e17a19ee3db6856c297.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0dbf77db33de5622a97226aa1a7583578dfc54a613707e17a19ee3db6856c297.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0dbf77db33de5622a97226aa1a7583578dfc54a613707e17a19ee3db6856c297.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-08-0f0540cef66068011c1be7a687610fa03433de0934959baf787e1c500c7c33d5.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0f0540cef66068011c1be7a687610fa03433de0934959baf787e1c500c7c33d5.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0f0540cef66068011c1be7a687610fa03433de0934959baf787e1c500c7c33d5.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-09-0fd80eff2e8d0c24204cd248f162a05bd79c2e9b50ff73c385945c1d14b21bd2.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0fd80eff2e8d0c24204cd248f162a05bd79c2e9b50ff73c385945c1d14b21bd2.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/0fd80eff2e8d0c24204cd248f162a05bd79c2e9b50ff73c385945c1d14b21bd2.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-10-161c936d62eddcb05b2e0060723583ed1a30d323fb9a5a3e9b48b3f8f49a4cd0.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/161c936d62eddcb05b2e0060723583ed1a30d323fb9a5a3e9b48b3f8f49a4cd0.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/161c936d62eddcb05b2e0060723583ed1a30d323fb9a5a3e9b48b3f8f49a4cd0.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-11-16d56a71bd6a41f38c4a7290ece76f8d9dc48e9df3997236b24c069a9d63e1cf.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/16d56a71bd6a41f38c4a7290ece76f8d9dc48e9df3997236b24c069a9d63e1cf.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/16d56a71bd6a41f38c4a7290ece76f8d9dc48e9df3997236b24c069a9d63e1cf.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-12-24b2fa009f4b36fa2bcefb0c6b6a45aba34767ab4921475936b984636dc232e7.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/24b2fa009f4b36fa2bcefb0c6b6a45aba34767ab4921475936b984636dc232e7.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/24b2fa009f4b36fa2bcefb0c6b6a45aba34767ab4921475936b984636dc232e7.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-13-2b49abba7fd97970b2f2ea30a0ba42700fc19704e2c252a35584bda15c790ed0.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2b49abba7fd97970b2f2ea30a0ba42700fc19704e2c252a35584bda15c790ed0.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2b49abba7fd97970b2f2ea30a0ba42700fc19704e2c252a35584bda15c790ed0.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-14-2dd19a6ced4346add5e11c868479c29aaa7b3a3d5fc98f34e00a32150d6605cd.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2dd19a6ced4346add5e11c868479c29aaa7b3a3d5fc98f34e00a32150d6605cd.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2dd19a6ced4346add5e11c868479c29aaa7b3a3d5fc98f34e00a32150d6605cd.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-15-2ee4d8081c21673f3816ab6e54658b8fd7d618bc25412b65c065a183af728de8.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2ee4d8081c21673f3816ab6e54658b8fd7d618bc25412b65c065a183af728de8.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2ee4d8081c21673f3816ab6e54658b8fd7d618bc25412b65c065a183af728de8.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-16-2ef6b7e71670507928cb58d4d01d5e8cd4262f2eda0c695339e4f69ff299c8c7.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2ef6b7e71670507928cb58d4d01d5e8cd4262f2eda0c695339e4f69ff299c8c7.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/2ef6b7e71670507928cb58d4d01d5e8cd4262f2eda0c695339e4f69ff299c8c7.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-17-3e0004da800143d96eeea385c0ac5b9d8e8a18b5c3ecefce6ff1f61b8543b296.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/3e0004da800143d96eeea385c0ac5b9d8e8a18b5c3ecefce6ff1f61b8543b296.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/3e0004da800143d96eeea385c0ac5b9d8e8a18b5c3ecefce6ff1f61b8543b296.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-18-40b85aa167d1fe9415744aa55274f4aa4217eeb1b0b589809725624b68199806.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/40b85aa167d1fe9415744aa55274f4aa4217eeb1b0b589809725624b68199806.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/40b85aa167d1fe9415744aa55274f4aa4217eeb1b0b589809725624b68199806.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-19-454677c579f0920b79d5f1edb95f00058079f5d8e9d3ac9296812f96b22e0c23.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/454677c579f0920b79d5f1edb95f00058079f5d8e9d3ac9296812f96b22e0c23.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/454677c579f0920b79d5f1edb95f00058079f5d8e9d3ac9296812f96b22e0c23.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-20-48b1e206f682501b7029a80c79da6395235671beca0e069b92955d31473ebb18.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/48b1e206f682501b7029a80c79da6395235671beca0e069b92955d31473ebb18.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/48b1e206f682501b7029a80c79da6395235671beca0e069b92955d31473ebb18.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-21-51421c4b7eebb613f233bc5ffef8b4a60f29067848ce5a4cde7ba0fe6fd509aa.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/51421c4b7eebb613f233bc5ffef8b4a60f29067848ce5a4cde7ba0fe6fd509aa.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/51421c4b7eebb613f233bc5ffef8b4a60f29067848ce5a4cde7ba0fe6fd509aa.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-22-51a6bf841e06e9ec2b799d8d7ac0ae1b5ee0c399923e59da23bb880b51e4e4cd.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/51a6bf841e06e9ec2b799d8d7ac0ae1b5ee0c399923e59da23bb880b51e4e4cd.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/51a6bf841e06e9ec2b799d8d7ac0ae1b5ee0c399923e59da23bb880b51e4e4cd.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-23-520f601e2964ee2fba009888a274bb1cde9747b1fff0881a42fa44db08e771b3.jpeg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/520f601e2964ee2fba009888a274bb1cde9747b1fff0881a42fa44db08e771b3.jpeg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/520f601e2964ee2fba009888a274bb1cde9747b1fff0881a42fa44db08e771b3.jpeg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-24-5480627b1d3d733d7778f485cd4bcd3bf66919e87c48bd7305f09e0c41d8c337.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/5480627b1d3d733d7778f485cd4bcd3bf66919e87c48bd7305f09e0c41d8c337.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/5480627b1d3d733d7778f485cd4bcd3bf66919e87c48bd7305f09e0c41d8c337.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-25-5615ef89bfe0233d1733f5931dab11cc1df696a663f763717082e7928c88633d.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/5615ef89bfe0233d1733f5931dab11cc1df696a663f763717082e7928c88633d.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/5615ef89bfe0233d1733f5931dab11cc1df696a663f763717082e7928c88633d.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-26-57a65c72af54374d9a7a9d0ec748551a55103e1f07fa5e62ec0c335712897728.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/57a65c72af54374d9a7a9d0ec748551a55103e1f07fa5e62ec0c335712897728.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/57a65c72af54374d9a7a9d0ec748551a55103e1f07fa5e62ec0c335712897728.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-27-59d62f86c916e744db36659f90faba28c8ea00807b6998a78840cbab85897b53.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/59d62f86c916e744db36659f90faba28c8ea00807b6998a78840cbab85897b53.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/59d62f86c916e744db36659f90faba28c8ea00807b6998a78840cbab85897b53.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-28-64eea55b3e1da4912cec74aedd79c3be2b6de51d4991c353421676207a9e8a66.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/64eea55b3e1da4912cec74aedd79c3be2b6de51d4991c353421676207a9e8a66.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/64eea55b3e1da4912cec74aedd79c3be2b6de51d4991c353421676207a9e8a66.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-29-6a85ca196f5fe26e6ed4007bb4fb6bb282934580d667c26821d3546a11f99011.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/6a85ca196f5fe26e6ed4007bb4fb6bb282934580d667c26821d3546a11f99011.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/6a85ca196f5fe26e6ed4007bb4fb6bb282934580d667c26821d3546a11f99011.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-30-6aadcc0cf8289db30da91ba14e6807fbee765fca574fa90015a847a9654c92a8.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/6aadcc0cf8289db30da91ba14e6807fbee765fca574fa90015a847a9654c92a8.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/6aadcc0cf8289db30da91ba14e6807fbee765fca574fa90015a847a9654c92a8.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-31-7911299b34e2d27ec5c46cb5b741ad94ec5653e3ff35eede0b70c760622c6d63.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7911299b34e2d27ec5c46cb5b741ad94ec5653e3ff35eede0b70c760622c6d63.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7911299b34e2d27ec5c46cb5b741ad94ec5653e3ff35eede0b70c760622c6d63.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-32-7c1f44d6b568a13b62fa252625bc0b90e38bc78b9f179532589174c1bb317256.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7c1f44d6b568a13b62fa252625bc0b90e38bc78b9f179532589174c1bb317256.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7c1f44d6b568a13b62fa252625bc0b90e38bc78b9f179532589174c1bb317256.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-33-7d832a224138cffbf4b4020e553630da7af823ee8f8b3fae22598da7619dc3e9.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7d832a224138cffbf4b4020e553630da7af823ee8f8b3fae22598da7619dc3e9.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7d832a224138cffbf4b4020e553630da7af823ee8f8b3fae22598da7619dc3e9.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-34-7e37ef4c81a77b3263e79da37057d1e3e804cb487505ca5227e549da5a660be2.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7e37ef4c81a77b3263e79da37057d1e3e804cb487505ca5227e549da5a660be2.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7e37ef4c81a77b3263e79da37057d1e3e804cb487505ca5227e549da5a660be2.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-35-7fccba7e19a3487890c219dc2a89950120baf6daee3c8290475a541266e2e1b8.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7fccba7e19a3487890c219dc2a89950120baf6daee3c8290475a541266e2e1b8.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/7fccba7e19a3487890c219dc2a89950120baf6daee3c8290475a541266e2e1b8.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-36-8533357a2a3c4182eedb3a5e5b8face5e5cad9470d432655412eda3bd663c06d.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/8533357a2a3c4182eedb3a5e5b8face5e5cad9470d432655412eda3bd663c06d.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/8533357a2a3c4182eedb3a5e5b8face5e5cad9470d432655412eda3bd663c06d.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-37-89b5324b5431b919921fbf66a219409804a333e1ea3436a777d053b8ba07dfb2.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/89b5324b5431b919921fbf66a219409804a333e1ea3436a777d053b8ba07dfb2.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/89b5324b5431b919921fbf66a219409804a333e1ea3436a777d053b8ba07dfb2.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-38-93c300847b130fd62b183a2cc581830861be1b9c50458d1faa010f257d7f58e6.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/93c300847b130fd62b183a2cc581830861be1b9c50458d1faa010f257d7f58e6.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/93c300847b130fd62b183a2cc581830861be1b9c50458d1faa010f257d7f58e6.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-39-95fb415800706bd8a4bf33e69d2caf3838e3117040c641c2324489928f7d5b3e.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/95fb415800706bd8a4bf33e69d2caf3838e3117040c641c2324489928f7d5b3e.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/95fb415800706bd8a4bf33e69d2caf3838e3117040c641c2324489928f7d5b3e.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-40-96054297575f101380a2ed8e96e9bb0893f32158bfecc4ae31a176351b3e040a.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/96054297575f101380a2ed8e96e9bb0893f32158bfecc4ae31a176351b3e040a.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/96054297575f101380a2ed8e96e9bb0893f32158bfecc4ae31a176351b3e040a.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-41-9625e466026e15d3d26d42e778cf7c16fdf84c20f72d400094b2790ff0022a6d.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/9625e466026e15d3d26d42e778cf7c16fdf84c20f72d400094b2790ff0022a6d.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/9625e466026e15d3d26d42e778cf7c16fdf84c20f72d400094b2790ff0022a6d.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-42-967e8300c7f103dedb4432097929218fc4b2b41b6d8e72a8cbc8f776206fa143.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/967e8300c7f103dedb4432097929218fc4b2b41b6d8e72a8cbc8f776206fa143.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/967e8300c7f103dedb4432097929218fc4b2b41b6d8e72a8cbc8f776206fa143.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-43-9c3dc81b8d6b7392f6941b63e471d7533d2a41091af2cbc509ded5c4e314f071.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/9c3dc81b8d6b7392f6941b63e471d7533d2a41091af2cbc509ded5c4e314f071.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/9c3dc81b8d6b7392f6941b63e471d7533d2a41091af2cbc509ded5c4e314f071.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-44-a605b9fb13c1830cd2b73587cf55a7eb97d00f67a2c237307df0e94240e754eb.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/a605b9fb13c1830cd2b73587cf55a7eb97d00f67a2c237307df0e94240e754eb.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/a605b9fb13c1830cd2b73587cf55a7eb97d00f67a2c237307df0e94240e754eb.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-45-af107519b23b8a8eda708c152aa2142aee11818450b53c4961a050a082cc3186.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/af107519b23b8a8eda708c152aa2142aee11818450b53c4961a050a082cc3186.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/af107519b23b8a8eda708c152aa2142aee11818450b53c4961a050a082cc3186.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-46-b4d6dc8453b371ddaa8e8832ec340241478b3d3229d7ec1dc4e389128afb47b8.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/b4d6dc8453b371ddaa8e8832ec340241478b3d3229d7ec1dc4e389128afb47b8.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/b4d6dc8453b371ddaa8e8832ec340241478b3d3229d7ec1dc4e389128afb47b8.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-47-b7d1e0ef6d707449b561ab85d077d59caa44d791e3cda1b9ffa2aee2746f294d.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/b7d1e0ef6d707449b561ab85d077d59caa44d791e3cda1b9ffa2aee2746f294d.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/b7d1e0ef6d707449b561ab85d077d59caa44d791e3cda1b9ffa2aee2746f294d.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-48-b99188faee40f08bfa96556b8f8c6cb6c3c9dd048d92670e531d5c4912d3a641.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/b99188faee40f08bfa96556b8f8c6cb6c3c9dd048d92670e531d5c4912d3a641.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/b99188faee40f08bfa96556b8f8c6cb6c3c9dd048d92670e531d5c4912d3a641.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-49-baad1f3e4820be96e3f1c47537c866825f3a7894e20475ab6f838a3d12e0ee3f.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/baad1f3e4820be96e3f1c47537c866825f3a7894e20475ab6f838a3d12e0ee3f.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/baad1f3e4820be96e3f1c47537c866825f3a7894e20475ab6f838a3d12e0ee3f.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-50-bf326e9c5c8a0133194963b65ec1e67868bb83291d774d75782b82b945a41f61.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/bf326e9c5c8a0133194963b65ec1e67868bb83291d774d75782b82b945a41f61.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/bf326e9c5c8a0133194963b65ec1e67868bb83291d774d75782b82b945a41f61.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-51-c055712f748abc9cef4d3cae04bf39c2ef8088e389644c99fbecf5e4b2638340.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c055712f748abc9cef4d3cae04bf39c2ef8088e389644c99fbecf5e4b2638340.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c055712f748abc9cef4d3cae04bf39c2ef8088e389644c99fbecf5e4b2638340.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-52-c078e2f7550e8e9098d01fbf7680080aa26c64c03a660f0f13b4425af39dca5a.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c078e2f7550e8e9098d01fbf7680080aa26c64c03a660f0f13b4425af39dca5a.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c078e2f7550e8e9098d01fbf7680080aa26c64c03a660f0f13b4425af39dca5a.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-53-c146e8a3bfc2e3e297c5025c6069f47330650a9cc2edc5b73f834ab6d2e06d5c.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c146e8a3bfc2e3e297c5025c6069f47330650a9cc2edc5b73f834ab6d2e06d5c.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c146e8a3bfc2e3e297c5025c6069f47330650a9cc2edc5b73f834ab6d2e06d5c.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-54-c239c3cd9f1507e7a50b7f7b7c74aae61c84fee98dbc3c5a976b5c2bb6934a18.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c239c3cd9f1507e7a50b7f7b7c74aae61c84fee98dbc3c5a976b5c2bb6934a18.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/c239c3cd9f1507e7a50b7f7b7c74aae61c84fee98dbc3c5a976b5c2bb6934a18.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-55-cacb146067bb4f560810a6525f7a54cec4d9eb44200741a13e01fed0c2e84da5.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/cacb146067bb4f560810a6525f7a54cec4d9eb44200741a13e01fed0c2e84da5.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/cacb146067bb4f560810a6525f7a54cec4d9eb44200741a13e01fed0c2e84da5.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-56-cec8eedd5566dc5a067cb438b833203a267319d08566578138efe4ef81143b99.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/cec8eedd5566dc5a067cb438b833203a267319d08566578138efe4ef81143b99.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/cec8eedd5566dc5a067cb438b833203a267319d08566578138efe4ef81143b99.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-57-d08737fc0a448b00db39b4d65b91005c4331ab42704dcc3b28ba0764f65f635e.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/d08737fc0a448b00db39b4d65b91005c4331ab42704dcc3b28ba0764f65f635e.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/d08737fc0a448b00db39b4d65b91005c4331ab42704dcc3b28ba0764f65f635e.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-58-d6183587cfdbf7d39ee0c0725a4a299cdcfcd75815d604b1cbdf5a0e52dfbf6d.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/d6183587cfdbf7d39ee0c0725a4a299cdcfcd75815d604b1cbdf5a0e52dfbf6d.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/d6183587cfdbf7d39ee0c0725a4a299cdcfcd75815d604b1cbdf5a0e52dfbf6d.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-59-daa5ffd036af9e56bc2920d221bfa9de19188679793ea07e92b5a9e28995a05f.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/daa5ffd036af9e56bc2920d221bfa9de19188679793ea07e92b5a9e28995a05f.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/daa5ffd036af9e56bc2920d221bfa9de19188679793ea07e92b5a9e28995a05f.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-60-e0e7d5966065e78bf36117c0440a432cb62bf909c03dfa16fe656a43308a23a7.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e0e7d5966065e78bf36117c0440a432cb62bf909c03dfa16fe656a43308a23a7.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e0e7d5966065e78bf36117c0440a432cb62bf909c03dfa16fe656a43308a23a7.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-61-e23351cb7a367f4106d20d15259bdeb0d28086ca1d02c63853e7f854aeb81136.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e23351cb7a367f4106d20d15259bdeb0d28086ca1d02c63853e7f854aeb81136.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e23351cb7a367f4106d20d15259bdeb0d28086ca1d02c63853e7f854aeb81136.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-62-e290b6a5e8b3520a91ee2bfa5649c1c225bec60c9b613ce92b3e9d9c1958480c.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e290b6a5e8b3520a91ee2bfa5649c1c225bec60c9b613ce92b3e9d9c1958480c.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e290b6a5e8b3520a91ee2bfa5649c1c225bec60c9b613ce92b3e9d9c1958480c.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-63-e3adfdad95a90533fe438dd58bf8b440c0f95caa88f9ff1c2dc9ef2ce5402532.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e3adfdad95a90533fe438dd58bf8b440c0f95caa88f9ff1c2dc9ef2ce5402532.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e3adfdad95a90533fe438dd58bf8b440c0f95caa88f9ff1c2dc9ef2ce5402532.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-64-e69fe1333e75ea14367de7c19cf61b21665a483bc62352e83aa066f2ac7f9056.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e69fe1333e75ea14367de7c19cf61b21665a483bc62352e83aa066f2ac7f9056.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e69fe1333e75ea14367de7c19cf61b21665a483bc62352e83aa066f2ac7f9056.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-65-e8cba54a7864bbae8f15b9065f097ea2a95f7fd5db29cab375d485935356ad45.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e8cba54a7864bbae8f15b9065f097ea2a95f7fd5db29cab375d485935356ad45.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/e8cba54a7864bbae8f15b9065f097ea2a95f7fd5db29cab375d485935356ad45.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-66-f232556bc5ad88927fcddfb64e92a20c686155caf57421b0763ee53cd542a001.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/f232556bc5ad88927fcddfb64e92a20c686155caf57421b0763ee53cd542a001.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/f232556bc5ad88927fcddfb64e92a20c686155caf57421b0763ee53cd542a001.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-67-f4e591d13b2b8ad54601a3de98c7a7b3385d44667024b852415ebd1b796e0a9b.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/f4e591d13b2b8ad54601a3de98c7a7b3385d44667024b852415ebd1b796e0a9b.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/f4e591d13b2b8ad54601a3de98c7a7b3385d44667024b852415ebd1b796e0a9b.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-68-f742279e00d6d092b8a93b8ded75414653c8d4ace15a5505e9d128f5fa9b4983.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/f742279e00d6d092b8a93b8ded75414653c8d4ace15a5505e9d128f5fa9b4983.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/f742279e00d6d092b8a93b8ded75414653c8d4ace15a5505e9d128f5fa9b4983.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-69-fa3f0d6483b97ec1228266362ec37a0f5522ae5d1464ff8182546ad40b16ca1e.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/fa3f0d6483b97ec1228266362ec37a0f5522ae5d1464ff8182546ad40b16ca1e.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/fa3f0d6483b97ec1228266362ec37a0f5522ae5d1464ff8182546ad40b16ca1e.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-70-fedf820ed2aea9a443a8d9a675f1abfa6f01c05f75490ec9e138b932f11238e8.jpg",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/fedf820ed2aea9a443a8d9a675f1abfa6f01c05f75490ec9e138b932f11238e8.jpg",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/fedf820ed2aea9a443a8d9a675f1abfa6f01c05f75490ec9e138b932f11238e8.jpg"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-71-manifest.json",
+      "existed_before": false,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/manifest.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/epub-assets/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/manifest.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-72-pages.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/derived/records/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/pages.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/derived/records/100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money-by-alex-h-4fadcd17ef13/pages.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-73-file-source-manifest.jsonl",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/file-source-manifest.jsonl",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/file-source-manifest.jsonl"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-74-run-report.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/files/run-report.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/files/run-report.json"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-75-hormozi.sqlite",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/index/hormozi.sqlite",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/index/hormozi.sqlite"
+    },
+    {
+      "backup": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z/backup-76-active-window.json",
+      "existed_before": true,
+      "staged": "/Users/kylesteinmeyer7/SkySuperAgentv3/02_Areas/Waveforce/Reports/2026-09-04-hormozi-source-audit/checks/epub-promotion-01/promotion/active-window.json",
+      "target": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/active-window.json"
+    }
+  ],
+  "prepared_at": "2026-09-07T12:26:26.703Z",
+  "replaced_count": 77,
+  "run_id": "hormozi-file-epub-20260907T122625Z",
+  "schema_version": "1.0.0",
+  "status": "committed",
+  "transaction_dir": "/Users/kylesteinmeyer7/Projects/hormozi-skills/skills/hormozi/private-corpus/youtube/enrichment/transactions/hormozi-file-epub-20260907T122625Z"
+}

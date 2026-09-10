@@ -1,0 +1,59 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7120",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "The best salespeople, they're very goodat letting silence sit. And so if you"
+    },
+    {
+      "endMs": "10080",
+      "startMs": "5600",
+      "startTimeText": "0:05",
+      "text": "tend to be more talkative in terms oftalk time, I would encourage you to try"
+    },
+    {
+      "endMs": "15440",
+      "startMs": "8480",
+      "startTimeText": "0:08",
+      "text": "this. If someone says something, insteadof immediately jabbing back, sometimes"
+    },
+    {
+      "endMs": "20080",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "just let them talk more. Just give themmore time to talk because the more they"
+    },
+    {
+      "endMs": "22480",
+      "startMs": "17840",
+      "startTimeText": "0:17",
+      "text": "talk, the more rapport you have becausepeople like talking about themselves. So"
+    },
+    {
+      "endMs": "25359",
+      "startMs": "21439",
+      "startTimeText": "0:21",
+      "text": "they'll think that you're amazingwithout you ever saying"
+    }
+  ],
+  "transcript_only_text": " The best salespeople, they're very good\nat letting silence sit. And so if you tend to be more talkative in terms of\ntalk time, I would encourage you to try this. If someone says something, instead\nof immediately jabbing back, sometimes just let them talk more. Just give them\nmore time to talk because the more they talk, the more rapport you have because\npeople like talking about themselves. So they'll think that you're amazing\nwithout you ever saying",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=98Ugt3tkrzA",
+  "videoId": "98Ugt3tkrzA"
+}

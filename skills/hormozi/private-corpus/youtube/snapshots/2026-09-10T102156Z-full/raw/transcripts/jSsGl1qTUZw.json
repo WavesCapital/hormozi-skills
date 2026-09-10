@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I like prefacing things with it's really"
+    },
+    {
+      "endMs": "4440",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "expensive, literally the moment before"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": "we say the price. I like doing that"
+    },
+    {
+      "endMs": "7920",
+      "startMs": "4440",
+      "startTimeText": "0:04",
+      "text": "because no matter how rich someone is,"
+    },
+    {
+      "endMs": "9720",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "expensive always means expensive. So"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "7920",
+      "startTimeText": "0:07",
+      "text": "like, so it's expensive, and it's like"
+    },
+    {
+      "endMs": "13040",
+      "startMs": "9720",
+      "startTimeText": "0:09",
+      "text": "they brace themselves, and then you say"
+    },
+    {
+      "endMs": "14600",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "it. If they imagine a number higher,"
+    },
+    {
+      "endMs": "16000",
+      "startMs": "13040",
+      "startTimeText": "0:13",
+      "text": "then they're like, oh, sigh of relief,"
+    },
+    {
+      "endMs": "17560",
+      "startMs": "14600",
+      "startTimeText": "0:14",
+      "text": "yeah, I'm in. If they imagine a number"
+    },
+    {
+      "endMs": "19000",
+      "startMs": "16000",
+      "startTimeText": "0:16",
+      "text": "that's high, but we're still higher,"
+    },
+    {
+      "endMs": "22600",
+      "startMs": "17560",
+      "startTimeText": "0:17",
+      "text": "they were braced for it, and so then you"
+    },
+    {
+      "endMs": "22600",
+      "startMs": "19000",
+      "startTimeText": "0:19",
+      "text": "don't have these big reactions."
+    }
+  ],
+  "transcript_only_text": " I  like  prefacing  things  with  it's  really \n expensive,  literally  the  moment  before \n we  say  the  price.  I  like  doing  that \n because  no  matter  how  rich  someone  is, \n expensive  always  means  expensive.  So \n like,  so  it's  expensive,  and  it's  like \n they  brace  themselves,  and  then  you  say \n it.  If  they  imagine  a  number  higher, \n then  they're  like,  oh,  sigh  of  relief, \n yeah,  I'm  in.  If  they  imagine  a  number \n that's  high,  but  we're  still  higher, \n they  were  braced  for  it,  and  so  then  you \n don't  have  these  big  reactions.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=jSsGl1qTUZw",
+  "videoId": "jSsGl1qTUZw"
+}

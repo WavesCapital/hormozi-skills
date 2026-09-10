@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Many of you guys have good ideas. Are"
+    },
+    {
+      "endMs": "5560",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "there better ideas? Maybe, but like a"
+    },
+    {
+      "endMs": "7560",
+      "startMs": "3640",
+      "startTimeText": "0:03",
+      "text": "good idea done exceptionally well still"
+    },
+    {
+      "endMs": "8840",
+      "startMs": "5560",
+      "startTimeText": "0:05",
+      "text": "crushes. And so it's the balance between"
+    },
+    {
+      "endMs": "9920",
+      "startMs": "7560",
+      "startTimeText": "0:07",
+      "text": "both. You can grow the business either"
+    },
+    {
+      "endMs": "11520",
+      "startMs": "8840",
+      "startTimeText": "0:08",
+      "text": "way. You can have brilliant ideas or you"
+    },
+    {
+      "endMs": "15400",
+      "startMs": "9920",
+      "startTimeText": "0:09",
+      "text": "can like execute brilliantly. If you do"
+    },
+    {
+      "endMs": "15400",
+      "startMs": "11520",
+      "startTimeText": "0:11",
+      "text": "both, you break record, right?"
+    }
+  ],
+  "transcript_only_text": " Many  of  you  guys  have  good  ideas.  Are \n there  better  ideas?  Maybe,  but  like  a \n good  idea  done  exceptionally  well  still \n crushes.  And  so  it's  the  balance  between \n both.  You  can  grow  the  business  either \n way.  You  can  have  brilliant  ideas  or  you \n can  like  execute  brilliantly.  If  you  do \n both,  you  break  record,  right?",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=5AzmqwAYksc",
+  "videoId": "5AzmqwAYksc"
+}

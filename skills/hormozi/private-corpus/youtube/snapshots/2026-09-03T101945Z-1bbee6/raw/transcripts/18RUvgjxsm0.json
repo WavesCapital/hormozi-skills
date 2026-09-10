@@ -1,0 +1,137 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4160",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "What's the biggest reason I'm not"
+    },
+    {
+      "endMs": "4880",
+      "startMs": "1760",
+      "startTimeText": "0:01",
+      "text": "closing more sales? Price objection or"
+    },
+    {
+      "endMs": "6240",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "urgency?"
+    },
+    {
+      "endMs": "9599",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": ">> Urgency."
+    },
+    {
+      "endMs": "11200",
+      "startMs": "6240",
+      "startTimeText": "0:06",
+      "text": ">> Urgency or talking too much?"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "9599",
+      "startTimeText": "0:09",
+      "text": ">> Uh, urgency."
+    },
+    {
+      "endMs": "14400",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": ">> Urgency or bad followup?"
+    },
+    {
+      "endMs": "16320",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": ">> Urgency."
+    },
+    {
+      "endMs": "18640",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": ">> Urgency or lead quality?"
+    },
+    {
+      "endMs": "19840",
+      "startMs": "16320",
+      "startTimeText": "0:16",
+      "text": ">> Ooh."
+    },
+    {
+      "endMs": "24279",
+      "startMs": "18640",
+      "startTimeText": "0:18",
+      "text": ">> Lead quality."
+    },
+    {
+      "endMs": "24279",
+      "startMs": "19840",
+      "startTimeText": "0:19",
+      "text": ">> Lead quality or unclear offer?"
+    },
+    {
+      "endMs": "29080",
+      "startMs": "26080",
+      "startTimeText": "0:26",
+      "text": "[ __ ]"
+    },
+    {
+      "endMs": "40800",
+      "startMs": "35600",
+      "startTimeText": "0:35",
+      "text": "Unclear offer."
+    },
+    {
+      "endMs": "42000",
+      "startMs": "37920",
+      "startTimeText": "0:37",
+      "text": ">> Unclear offer or trust issue."
+    },
+    {
+      "endMs": "44079",
+      "startMs": "40800",
+      "startTimeText": "0:40",
+      "text": ">> Unclear offer."
+    },
+    {
+      "endMs": "46320",
+      "startMs": "42000",
+      "startTimeText": "0:42",
+      "text": ">> Unclear offer or not asking for the"
+    },
+    {
+      "endMs": "50280",
+      "startMs": "44079",
+      "startTimeText": "0:44",
+      "text": "sale?"
+    },
+    {
+      "endMs": "50280",
+      "startMs": "46320",
+      "startTimeText": "0:46",
+      "text": ">> Not asking for the sale."
+    }
+  ],
+  "transcript_only_text": " What's  the  biggest  reason  I'm  not \n closing  more  sales?  Price  objection  or \n urgency? \n >> Urgency. \n >> Urgency  or  talking  too  much? \n >> Uh,  urgency. \n >> Urgency  or  bad  followup? \n >> Urgency. \n >> Urgency  or  lead  quality? \n >> Ooh. \n >> Lead  quality. \n >> Lead  quality  or  unclear  offer? \n [ __ ] \n Unclear  offer. \n >> Unclear  offer  or  trust  issue. \n >> Unclear  offer. \n >> Unclear  offer  or  not  asking  for  the \n sale? \n >> Not  asking  for  the  sale.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=18RUvgjxsm0",
+  "videoId": "18RUvgjxsm0"
+}

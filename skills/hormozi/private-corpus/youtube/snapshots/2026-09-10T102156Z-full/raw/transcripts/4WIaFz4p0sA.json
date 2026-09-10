@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3760",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Poor people stay poor because they want"
+    },
+    {
+      "endMs": "5240",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "a fast way to get rich."
+    },
+    {
+      "endMs": "6800",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "You'd be surprised how far you can get"
+    },
+    {
+      "endMs": "8000",
+      "startMs": "5240",
+      "startTimeText": "0:05",
+      "text": "by only knowing what you want and not"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "6800",
+      "startTimeText": "0:06",
+      "text": "accepting anything [music] else until"
+    },
+    {
+      "endMs": "12040",
+      "startMs": "8000",
+      "startTimeText": "0:08",
+      "text": "you get it. It's very hard to have a"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "vision when you have bills to pay."
+    },
+    {
+      "endMs": "15280",
+      "startMs": "12040",
+      "startTimeText": "0:12",
+      "text": "Focusing on many things is a great way"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "13840",
+      "startTimeText": "0:13",
+      "text": "to fill up your calendar and empty your"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "15280",
+      "startTimeText": "0:15",
+      "text": "bank account."
+    }
+  ],
+  "transcript_only_text": " Poor  people  stay  poor  because  they  want \n a  fast  way  to  get  rich. \n You'd  be  surprised  how  far  you  can  get \n by  only  knowing  what  you  want  and  not \n accepting  anything  [music]  else  until \n you  get  it.  It's  very  hard  to  have  a \n vision  when  you  have  bills  to  pay. \n Focusing  on  many  things  is  a  great  way \n to  fill  up  your  calendar  and  empty  your \n bank  account.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=4WIaFz4p0sA",
+  "videoId": "4WIaFz4p0sA"
+}

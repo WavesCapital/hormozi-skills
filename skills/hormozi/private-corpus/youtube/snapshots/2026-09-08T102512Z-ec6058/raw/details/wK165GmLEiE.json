@@ -1,0 +1,298 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=wK165GmLEiE&ei=4kmZat_NLp3ly_sPvPfYcA&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788456018&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=7775289C3265D50FF59D9CB0292AA5E8C3DB1F62.7F180805D7945938BA1C5D94C8A7BE07F657B3AB&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 6,
+  "commentCountText": "6",
+  "credits_charged": 1,
+  "credits_remaining": 14492,
+  "description": "In an age of AI, the most valuable business insights won’t come from predicting what will change, but what will stay the same.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:29",
+  "durationMs": 29000,
+  "genre": "Education",
+  "id": "wK165GmLEiE",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 306,
+  "likeCountText": "306",
+  "most_replayed": null,
+  "publishDate": "2026-09-02T12:01:24-07:00",
+  "publishDateText": "Sep 2, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/wK165GmLEiE/maxresdefault.jpg",
+  "title": "“WILL AI KILL MY BUSINESS?”",
+  "type": "video",
+  "viewCountInt": 9587,
+  "viewCountText": "9,587",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Alex Hormozi",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "HwmwyBgzj8c",
+      "lengthInSeconds": 8558,
+      "lengthText": "2:22:38",
+      "publishDate": "2026-08-03T10:20:19.668Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:19.668Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/HwmwyBgzj8c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChLnGf79sTsn9sq8TA5-fVrvA0fQ",
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "videoUrl": "https://www.youtube.com/watch?v=HwmwyBgzj8c",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:20:19.668Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-29T10:20:19.668Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a $10M Service Business (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 761000,
+      "viewCountText": "761K views"
+    },
+    {
+      "channel": {
+        "handle": "Versus_Net",
+        "id": "UCH_EHQMN6h-SrVfevnt39CQ",
+        "title": "VS+",
+        "url": "https://www.youtube.com/@Versus_Net"
+      },
+      "id": "o3cvPBLFTow",
+      "lengthInSeconds": 659,
+      "lengthText": "10:59",
+      "publishDate": "2026-08-03T10:20:19.668Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:19.668Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/o3cvPBLFTow/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCvhDcLzK3tGYl5slIlj3jDmRED3A",
+      "title": "Damn... Tyson was Terrifying in His 5th Fight",
+      "videoUrl": "https://www.youtube.com/watch?v=o3cvPBLFTow",
+      "viewCountInt": 1200000,
+      "viewCountText": "1.2M views"
+    },
+    {
+      "channel": {
+        "handle": "SiliconValleyGirl",
+        "id": "UCiq1FIgtEK7LRAOB1JXTPig",
+        "title": "Silicon Valley Girl",
+        "url": "https://www.youtube.com/@SiliconValleyGirl"
+      },
+      "id": "o-wv_szZ0V0",
+      "lengthInSeconds": 2271,
+      "lengthText": "37:51",
+      "publishDate": "2026-08-29T10:20:19.668Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-29T10:20:19.668Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o-wv_szZ0V0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB8q3Ssu0Nc9PYX3c_9nnIj7SZZxA",
+      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
+      "videoUrl": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+      "viewCountInt": 797000,
+      "viewCountText": "797K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:20:19.668Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-22T10:20:19.668Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 237000,
+      "viewCountText": "237K views"
+    },
+    {
+      "channel": {
+        "handle": "t3dotgg",
+        "id": "UCbRP3c757lWg9M-U7TyEkXA",
+        "title": "Theo - t3․gg",
+        "url": "https://www.youtube.com/@t3dotgg"
+      },
+      "id": "SU7T8FztjKQ",
+      "lengthInSeconds": 2063,
+      "lengthText": "34:23",
+      "publishDate": "2026-09-01T10:20:19.668Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-01T10:20:19.668Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/SU7T8FztjKQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC97U21IrKVR5Vky1GLF9LTofouMg",
+      "title": "Anthropic Made An Evil Claude",
+      "videoUrl": "https://www.youtube.com/watch?v=SU7T8FztjKQ",
+      "viewCountInt": 186000,
+      "viewCountText": "186K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEO",
+        "id": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "title": "The Diary Of A CEO",
+        "url": "https://www.youtube.com/@TheDiaryOfACEO"
+      },
+      "id": "_g4l7YkDQwA",
+      "lengthInSeconds": 7250,
+      "lengthText": "2:00:50",
+      "publishDate": "2026-08-03T10:20:19.668Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:19.668Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/_g4l7YkDQwA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLALeSusjXIkwb-d1Clx46OhXiLUWQ",
+      "title": "ChatGPT Offered Me $2m To Keep Quiet: No One Is Ready For What's Coming!",
+      "videoUrl": "https://www.youtube.com/watch?v=_g4l7YkDQwA",
+      "viewCountInt": 14000000,
+      "viewCountText": "14M views"
+    },
+    {
+      "channel": {
+        "handle": "WorldBuild668",
+        "id": "UCQYetX_9k4Sl-r-HOLVvKnA",
+        "title": "World Build",
+        "url": "https://www.youtube.com/@WorldBuild668"
+      },
+      "id": "7-NCOGnZjKE",
+      "lengthInSeconds": 2617,
+      "lengthText": "43:37",
+      "publishDate": "2026-07-03T10:20:19.668Z",
+      "publishDateText": "2 months ago",
+      "publishedTime": "2026-07-03T10:20:19.668Z",
+      "publishedTimeText": "2 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/7-NCOGnZjKE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAFytbRNWGJFtjqj28ubtMFWM3jnw",
+      "title": "Man Spent Two Years Building HUGE Wooden House for his Family | Start to Finish by @bjornbrenton",
+      "videoUrl": "https://www.youtube.com/watch?v=7-NCOGnZjKE",
+      "viewCountInt": 5500000,
+      "viewCountText": "5.5M views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEO",
+        "id": "UCGq-a57w-aPwyi3pW7XLiHw",
+        "title": "The Diary Of A CEO",
+        "url": "https://www.youtube.com/@TheDiaryOfACEO"
+      },
+      "id": "MGxcosNuC8k",
+      "lengthInSeconds": 8208,
+      "lengthText": "2:16:48",
+      "publishDate": "2026-09-03T07:20:19.668Z",
+      "publishDateText": "3 hours ago",
+      "publishedTime": "2026-09-03T07:20:19.668Z",
+      "publishedTimeText": "3 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/MGxcosNuC8k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpfMqZqxPRBFdEChYGgxhs3hs1QQ",
+      "title": "Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted",
+      "videoUrl": "https://www.youtube.com/watch?v=MGxcosNuC8k",
+      "viewCountInt": 135000,
+      "viewCountText": "135K views"
+    },
+    {
+      "channel": {
+        "handle": "TopTalentTV",
+        "id": "UCD2GdZBCsUa0TIssLai6Skw",
+        "title": "Top Talent",
+        "url": "https://www.youtube.com/@TopTalentTV"
+      },
+      "id": "PMPyfKrbsW8",
+      "lengthInSeconds": 316,
+      "lengthText": "5:16",
+      "publishDate": "2026-08-03T10:20:19.668Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:19.668Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/PMPyfKrbsW8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFHvW5NI8GMwAYps9akEcvefbweQ",
+      "title": "ONE Rope. ONE Girl. You CANNOT Look Away!",
+      "videoUrl": "https://www.youtube.com/watch?v=PMPyfKrbsW8",
+      "viewCountInt": 3600000,
+      "viewCountText": "3.6M views"
+    },
+    {
+      "channel": {
+        "title": "Sources Podcast and Alex Heath",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "VeizK1M7V7E",
+      "lengthInSeconds": 4120,
+      "lengthText": "1:08:40",
+      "publishDate": "2026-09-02T10:20:19.668Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-02T10:20:19.668Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/VeizK1M7V7E/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBcL3MowT5BOtaoU4iHf27lUshgmA",
+      "title": "Sam Altman on OpenAI’s next model and the AI backlash",
+      "videoUrl": "https://www.youtube.com/watch?v=VeizK1M7V7E",
+      "viewCountInt": 124000,
+      "viewCountText": "124K views"
+    },
+    {
+      "channel": {
+        "handle": "SandeepSwadia",
+        "id": "UC4ZVkG3RQPzvZk7alIVjcCg",
+        "title": "Sandeep Swadia",
+        "url": "https://www.youtube.com/@SandeepSwadia"
+      },
+      "id": "jPSirKTGTfo",
+      "lengthInSeconds": 1130,
+      "lengthText": "18:50",
+      "publishDate": "2026-08-28T10:20:19.668Z",
+      "publishDateText": "6 days ago",
+      "publishedTime": "2026-08-28T10:20:19.668Z",
+      "publishedTimeText": "6 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/jPSirKTGTfo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA7uz2s7ThcCEEa6M7uWfCDIPQoyg",
+      "title": "If You Don't Understand First Principles, You Can't Think Clearly",
+      "videoUrl": "https://www.youtube.com/watch?v=jPSirKTGTfo",
+      "viewCountInt": 404000,
+      "viewCountText": "404K views"
+    }
+  ]
+}

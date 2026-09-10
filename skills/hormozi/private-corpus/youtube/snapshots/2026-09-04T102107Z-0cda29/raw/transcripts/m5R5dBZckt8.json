@@ -1,0 +1,95 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3600",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I had a young guy who got on my team and"
+    },
+    {
+      "endMs": "6080",
+      "startMs": "2000",
+      "startTimeText": "0:02",
+      "text": "he said, you know, I have some demons"
+    },
+    {
+      "endMs": "7919",
+      "startMs": "3600",
+      "startTimeText": "0:03",
+      "text": "that I need to like, you know, slay. And"
+    },
+    {
+      "endMs": "9360",
+      "startMs": "6080",
+      "startTimeText": "0:06",
+      "text": "I was like, what does that even mean?"
+    },
+    {
+      "endMs": "11599",
+      "startMs": "7919",
+      "startTimeText": "0:07",
+      "text": "He's like, you know, I just I tend to I"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "tend to like self-sabotage sometimes."
+    },
+    {
+      "endMs": "15519",
+      "startMs": "11599",
+      "startTimeText": "0:11",
+      "text": ">> And I just said, you don't know how to"
+    },
+    {
+      "endMs": "17760",
+      "startMs": "13440",
+      "startTimeText": "0:13",
+      "text": "behave in certain conditions. You don't"
+    },
+    {
+      "endMs": "19039",
+      "startMs": "15519",
+      "startTimeText": "0:15",
+      "text": "know how to act. Great. So, we'll expose"
+    },
+    {
+      "endMs": "21039",
+      "startMs": "17760",
+      "startTimeText": "0:17",
+      "text": "you to those conditions and we'll teach"
+    },
+    {
+      "endMs": "24080",
+      "startMs": "19039",
+      "startTimeText": "0:19",
+      "text": "you how to act the right way. That's it."
+    },
+    {
+      "endMs": "24080",
+      "startMs": "21039",
+      "startTimeText": "0:21",
+      "text": "That's all it is."
+    }
+  ],
+  "transcript_only_text": " I  had  a  young  guy  who  got  on  my  team  and \n he  said,  you  know,  I  have  some  demons \n that  I  need  to  like,  you  know,  slay.  And \n I  was  like,  what  does  that  even  mean? \n He's  like,  you  know,  I  just  I  tend  to  I \n tend  to  like  self-sabotage  sometimes. \n >> And  I  just  said,  you  don't  know  how  to \n behave  in  certain  conditions.  You  don't \n know  how  to  act.  Great.  So,  we'll  expose \n you  to  those  conditions  and  we'll  teach \n you  how  to  act  the  right  way.  That's  it. \n That's  all  it  is.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=m5R5dBZckt8",
+  "videoId": "m5R5dBZckt8"
+}

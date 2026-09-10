@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "This is an absolute promise to you.Throughout all of human history,"
+    },
+    {
+      "endMs": "13840",
+      "startMs": "4160",
+      "startTimeText": "0:04",
+      "text": "humans plus superior technology beathumans with inferior technology. As long"
+    },
+    {
+      "endMs": "18320",
+      "startMs": "9920",
+      "startTimeText": "0:09",
+      "text": "as it is humans plus tools againsthumans with other tools, then you are"
+    },
+    {
+      "endMs": "22040",
+      "startMs": "16600",
+      "startTimeText": "0:16",
+      "text": "still competing against humans.And as long as that game still goes, you"
+    },
+    {
+      "endMs": "25280",
+      "startMs": "19960",
+      "startTimeText": "0:19",
+      "text": "should feel endlessly confident. The daythat you try to beat the machine, you"
+    },
+    {
+      "endMs": "28440",
+      "startMs": "23640",
+      "startTimeText": "0:23",
+      "text": "will lose.And every time we've tried to say we"
+    },
+    {
+      "endMs": "33800",
+      "startMs": "26800",
+      "startTimeText": "0:26",
+      "text": "like machines will never beat us atchess, machines will never beat us at"
+    },
+    {
+      "endMs": "33800",
+      "startMs": "29960",
+      "startTimeText": "0:29",
+      "text": "insert X, they always do."
+    }
+  ],
+  "transcript_only_text": " This is an absolute promise to you.\nThroughout all of human history, humans plus superior technology beat\nhumans with inferior technology. As long as it is humans plus tools against\nhumans with other tools, then you are still competing against humans.\nAnd as long as that game still goes, you should feel endlessly confident. The day\nthat you try to beat the machine, you will lose.\nAnd every time we've tried to say we like machines will never beat us at\nchess, machines will never beat us at insert X, they always do.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=L5HQ_jx0HX8",
+  "videoId": "L5HQ_jx0HX8"
+}

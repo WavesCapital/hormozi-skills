@@ -42,7 +42,7 @@ IGNORED_SCHEMES = ("http://", "https://", "mailto:", "plugin://", "app://", "#")
 
 
 class ProfileError(Exception):
-    """A profile cannot be safely used."""
+    """A requested profile operation cannot be completed."""
 
 
 def sha256_file(path: Path) -> str:
@@ -172,11 +172,30 @@ def authority_records(profile: Path, text: str) -> list[dict[str, Any]]:
             "status": "available" if resolved.is_file() else "missing",
         }
         if resolved.is_file():
-            record.update({key: value for key, value in file_record(resolved).items() if key != "path"})
-            record["access"] = "direct"
+            try:
+                record.update({key: value for key, value in file_record(resolved).items() if key != "path"})
+                record["access"] = "direct"
+            except OSError:
+                record["status"] = "unreadable"
         records.append(record)
         by_resolved_path[resolved_key] = record
     return records
+
+
+def inspect_profile(path: Path) -> dict[str, Any]:
+    """Report context and gaps without approval promotion or sidecar writes."""
+    validation, text, _ = validate_profile(path)
+    return {
+        "schema_version": 1,
+        "found": True,
+        "read_only": True,
+        "sidecar_path": None,
+        "profile": file_record(path),
+        "validation": validation,
+        "context_status": "approved_complete" if validation["valid"] else "needs_review",
+        "authorities": authority_records(path, text),
+        "facts_verified": False,
+    }
 
 
 def resolve_profile(path: Path, sidecar: Path | None = None, write_sidecar: bool = True) -> dict[str, Any]:
@@ -194,6 +213,8 @@ def resolve_profile(path: Path, sidecar: Path | None = None, write_sidecar: bool
             "total": len(authorities),
             "available": sum(item["status"] == "available" for item in authorities),
             "missing": sum(item["status"] == "missing" for item in authorities),
+            **({"unreadable": sum(item["status"] == "unreadable" for item in authorities)}
+               if any(item["status"] == "unreadable" for item in authorities) else {}),
         },
         "authority_access": "direct",
     }
@@ -228,7 +249,7 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
     find = subparsers.add_parser("find", help="find the nearest BUSINESS.md")
     find.add_argument("--start", default=".")
-    for name in ("validate", "resolve"):
+    for name in ("inspect", "validate", "resolve"):
         command = subparsers.add_parser(name)
         command.add_argument("--profile")
         command.add_argument("--start", default=".")
@@ -246,6 +267,17 @@ def main() -> int:
             if path is None:
                 raise ProfileError("no BUSINESS.md found from start path or its parents")
             result: dict[str, Any] = {"found": True, "profile_path": str(path)}
+        elif args.command == "inspect":
+            path = (Path(args.profile).expanduser().resolve() if args.profile
+                    else find_profile(Path(args.start)))
+            result = inspect_profile(path) if path is not None else {
+                "schema_version": 1,
+                "found": False,
+                "context_status": "missing",
+                "read_only": True,
+                "sidecar_path": None,
+                "facts_verified": False,
+            }
         elif args.command == "validate":
             path = profile_from_args(args)
             validation, _, _ = validate_profile(path)

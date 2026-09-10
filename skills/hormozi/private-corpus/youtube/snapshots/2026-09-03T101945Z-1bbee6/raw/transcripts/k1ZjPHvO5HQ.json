@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4640",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I think people don't do very much, and Ithink the vast majority of people just"
+    },
+    {
+      "endMs": "7360",
+      "startMs": "3160",
+      "startTimeText": "0:03",
+      "text": "wildly underestimate the volume that'srequired. They're like, \"Hey, I've been"
+    },
+    {
+      "endMs": "9480",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "selling for 90 days.\" I'm like, \"Okay,so how many calls a day do you take?\""
+    },
+    {
+      "endMs": "13160",
+      "startMs": "8400",
+      "startTimeText": "0:08",
+      "text": "And they're like, \"Five or six livecalls.\" I'm like, \"Okay, you need to"
+    },
+    {
+      "endMs": "17360",
+      "startMs": "10520",
+      "startTimeText": "0:10",
+      "text": "take like 400 live calls.\" This is John.He's closed 4,000 deals. Not calls"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "15520",
+      "startTimeText": "0:15",
+      "text": "taken, deals. That's why he's betterthan you. It just comes down to number"
+    },
+    {
+      "endMs": "22400",
+      "startMs": "18920",
+      "startTimeText": "0:18",
+      "text": "of actions taken per unit of time."
+    }
+  ],
+  "transcript_only_text": " I think people don't do very much, and I\nthink the vast majority of people just wildly underestimate the volume that's\nrequired. They're like, \"Hey, I've been selling for 90 days.\" I'm like, \"Okay,\nso how many calls a day do you take?\" And they're like, \"Five or six live\ncalls.\" I'm like, \"Okay, you need to take like 400 live calls.\" This is John.\nHe's closed 4,000 deals. Not calls taken, deals. That's why he's better\nthan you. It just comes down to number of actions taken per unit of time.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=k1ZjPHvO5HQ",
+  "videoId": "k1ZjPHvO5HQ"
+}

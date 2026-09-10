@@ -1,0 +1,288 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 39,
+  "commentCountText": "39",
+  "credits_charged": 1,
+  "description": "Business is surprisingly simple but deceptively hard. On a long enough time horizon, the only thing that matters is making a product everyone loves. If you did only that, you'd beat just about everyone.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:02:00",
+  "durationMs": 120000,
+  "genre": "Education",
+  "id": "w82ztl5kBjg",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 4699,
+  "likeCountText": "4699",
+  "most_replayed": null,
+  "publishDate": "2026-08-19T17:01:11-07:00",
+  "publishDateText": "Aug 19, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/w82ztl5kBjg/maxresdefault.jpg",
+  "title": "Your Promotion and Delivery Are the Same Thing",
+  "type": "video",
+  "viewCountInt": 126608,
+  "viewCountText": "126,608",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "title": "The Futur and Chris Do",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "FFPaVFBEIhI",
+      "lengthInSeconds": 2715,
+      "lengthText": "45:15",
+      "publishDate": "2026-08-30T10:50:18.429Z",
+      "publishDateText": "11 days ago",
+      "publishedTime": "2026-08-30T10:50:18.429Z",
+      "publishedTimeText": "11 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/FFPaVFBEIhI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB65DQyocqaZf8sXWpZlHTYRtV35Q",
+      "title": "Stop Promoting Your Business. Start Telling Better Stories",
+      "videoUrl": "https://www.youtube.com/watch?v=FFPaVFBEIhI",
+      "viewCountInt": 87000,
+      "viewCountText": "87K views"
+    },
+    {
+      "channel": {
+        "handle": "fern-tv",
+        "id": "UCODHrzPMGbNv67e84WDZhQQ",
+        "title": "fern",
+        "url": "https://www.youtube.com/@fern-tv"
+      },
+      "id": "hK8kzWOBi-U",
+      "lengthInSeconds": 3056,
+      "lengthText": "50:56",
+      "publishDate": "2026-09-09T14:50:18.429Z",
+      "publishDateText": "20 hours ago",
+      "publishedTime": "2026-09-09T14:50:18.429Z",
+      "publishedTimeText": "20 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/hK8kzWOBi-U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD3Vn6x8tp7SoLKlKIBCfZXoD3fuw",
+      "title": "The FBI Agent Who Infiltrated the Mafia",
+      "videoUrl": "https://www.youtube.com/watch?v=hK8kzWOBi-U",
+      "viewCountInt": 2000000,
+      "viewCountText": "2M views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Alex Hormozi",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "HwmwyBgzj8c",
+      "lengthInSeconds": 8558,
+      "lengthText": "2:22:38",
+      "publishDate": "2026-08-10T10:50:18.429Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-10T10:50:18.429Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/HwmwyBgzj8c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChLnGf79sTsn9sq8TA5-fVrvA0fQ",
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "videoUrl": "https://www.youtube.com/watch?v=HwmwyBgzj8c",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "danmartell",
+        "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "title": "Dan Martell",
+        "url": "https://www.youtube.com/@danmartell"
+      },
+      "id": "DlQyXhjH2jE",
+      "lengthInSeconds": 1031,
+      "lengthText": "17:11",
+      "publishDate": "2026-09-03T10:50:18.429Z",
+      "publishDateText": "7 days ago",
+      "publishedTime": "2026-09-03T10:50:18.429Z",
+      "publishedTimeText": "7 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/DlQyXhjH2jE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuwKssfN7Gx7eNG5vslCvqTWTGzw",
+      "title": "Once You Make Money, Upgrade These 7 Things ASAP",
+      "videoUrl": "https://www.youtube.com/watch?v=DlQyXhjH2jE",
+      "viewCountInt": 1000000,
+      "viewCountText": "1M views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "hVlAOIUA71Y",
+      "lengthInSeconds": 8491,
+      "lengthText": "2:21:31",
+      "publishDate": "2025-09-10T10:50:18.429Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-10T10:50:18.429Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/hVlAOIUA71Y/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA3JBCdwXgBGeKaNHHhyjl6qWbG2Q",
+      "title": "The SIMPLE (& Proven) Way To Earn $100,000 From Nothing! | The Money Making Experts",
+      "videoUrl": "https://www.youtube.com/watch?v=hVlAOIUA71Y",
+      "viewCountInt": 2400000,
+      "viewCountText": "2.4M views"
+    },
+    {
+      "channel": {
+        "handle": "CodieSanchezCT",
+        "id": "UC5fI3kxC-ewZ6ZXEYgznM7g",
+        "title": "Codie Sanchez",
+        "url": "https://www.youtube.com/@CodieSanchezCT"
+      },
+      "id": "ZvAwqGH_79Q",
+      "lengthInSeconds": 1544,
+      "lengthText": "25:44",
+      "publishDate": "2026-08-10T10:50:18.429Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-10T10:50:18.429Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/ZvAwqGH_79Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDdSevDCwVyhp5_MgenbDasfXjexQ",
+      "title": "Don't Become A Content Creator, Build A Content Business.",
+      "videoUrl": "https://www.youtube.com/watch?v=ZvAwqGH_79Q",
+      "viewCountInt": 411000,
+      "viewCountText": "411K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-10T10:50:18.429Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-10T10:50:18.429Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "InvisibleGameCo",
+        "id": "UC-XhHNXDoB6gIMYsi9p8cLg",
+        "title": "The Invisible Game",
+        "url": "https://www.youtube.com/@InvisibleGameCo"
+      },
+      "id": "QecDVkcGPxY",
+      "lengthInSeconds": 779,
+      "lengthText": "12:59",
+      "publishDate": "2026-09-08T10:50:18.429Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-08T10:50:18.429Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/QecDVkcGPxY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCpkLRjbWHxmnkbdleNXMhFz_g5Bg",
+      "title": "Why Bullsh*t Jobs are (Finally) Dying",
+      "videoUrl": "https://www.youtube.com/watch?v=QecDVkcGPxY",
+      "viewCountInt": 627000,
+      "viewCountText": "627K views"
+    },
+    {
+      "channel": {
+        "handle": "GrahamStephan",
+        "id": "UCV6KDgJskWaEckne5aPA0aQ",
+        "title": "Graham Stephan",
+        "url": "https://www.youtube.com/@GrahamStephan"
+      },
+      "id": "9TwzN5wak8A",
+      "lengthInSeconds": 963,
+      "lengthText": "16:03",
+      "publishDate": "2026-09-09T20:50:18.429Z",
+      "publishDateText": "14 hours ago",
+      "publishedTime": "2026-09-09T20:50:18.429Z",
+      "publishedTimeText": "14 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/9TwzN5wak8A/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDJUkYef2VTTjhuFxnpndtuT6Tu9g",
+      "title": "I Paid Off My 2.875% Mortgage…Dave Ramsey Was Right",
+      "videoUrl": "https://www.youtube.com/watch?v=9TwzN5wak8A",
+      "viewCountInt": 406000,
+      "viewCountText": "406K views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "t260757b_vU",
+      "lengthInSeconds": 1557,
+      "lengthText": "25:57",
+      "publishDate": "2026-01-10T10:50:18.429Z",
+      "publishDateText": "8 months ago",
+      "publishedTime": "2026-01-10T10:50:18.429Z",
+      "publishedTimeText": "8 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/t260757b_vU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB_e8ed2ER_fNywLf4iQ_HJogacAQ",
+      "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
+      "videoUrl": "https://www.youtube.com/watch?v=t260757b_vU",
+      "viewCountInt": 4300000,
+      "viewCountText": "4.3M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "MzAIP_WJ-jE",
+      "lengthInSeconds": 2180,
+      "lengthText": "36:20",
+      "publishDate": "2025-09-10T10:50:18.429Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-10T10:50:18.429Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/MzAIP_WJ-jE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBGK-t3iCaPU2t4qVpx76gtEyOLvA",
+      "title": "Brutally Honest Truths That Give You an Unfair Advantage in Life",
+      "videoUrl": "https://www.youtube.com/watch?v=MzAIP_WJ-jE",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "PodcastBigDeal",
+        "id": "UCdMrj5kezVrTiqZoFRqGxAg",
+        "title": "BigDeal by Codie Sanchez ",
+        "url": "https://www.youtube.com/@PodcastBigDeal"
+      },
+      "id": "-rtAa050atA",
+      "lengthInSeconds": 4186,
+      "lengthText": "1:09:46",
+      "publishDate": "2026-08-10T10:50:18.429Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-10T10:50:18.429Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/-rtAa050atA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC64Ofgu12sj74qL_Ds7vecRjZFtQ",
+      "title": "The #1 Money Habit That Separates Winners from Losers | Caleb Hammer",
+      "videoUrl": "https://www.youtube.com/watch?v=-rtAa050atA",
+      "viewCountInt": 375000,
+      "viewCountText": "375K views"
+    }
+  ]
+}

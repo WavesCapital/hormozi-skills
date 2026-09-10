@@ -1,0 +1,113 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3840",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "It takes about 20 hours to become"
+    },
+    {
+      "endMs": "6360",
+      "startMs": "1640",
+      "startTimeText": "0:01",
+      "text": "proficient at any new skill, but people"
+    },
+    {
+      "endMs": "8120",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "delay the first hour decades. If you"
+    },
+    {
+      "endMs": "8840",
+      "startMs": "6360",
+      "startTimeText": "0:06",
+      "text": "take a weekend and say Saturday, Sunday,"
+    },
+    {
+      "endMs": "9800",
+      "startMs": "8120",
+      "startTimeText": "0:08",
+      "text": "I'm going to sit in front of this"
+    },
+    {
+      "endMs": "11280",
+      "startMs": "8840",
+      "startTimeText": "0:08",
+      "text": "computer, I'm going to figure out how to"
+    },
+    {
+      "endMs": "12480",
+      "startMs": "9800",
+      "startTimeText": "0:09",
+      "text": "get an agent to do something for me. If"
+    },
+    {
+      "endMs": "13600",
+      "startMs": "11280",
+      "startTimeText": "0:11",
+      "text": "by the end of the weekend you haven't"
+    },
+    {
+      "endMs": "15000",
+      "startMs": "12480",
+      "startTimeText": "0:12",
+      "text": "completely built something, but you"
+    },
+    {
+      "endMs": "16560",
+      "startMs": "13600",
+      "startTimeText": "0:13",
+      "text": "actually tore the wrapper off, you"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "15000",
+      "startTimeText": "0:15",
+      "text": "actually got your hands in it, your"
+    },
+    {
+      "endMs": "20160",
+      "startMs": "16560",
+      "startTimeText": "0:16",
+      "text": "understanding of it will will increase"
+    },
+    {
+      "endMs": "22080",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "more than any amount of articles that"
+    },
+    {
+      "endMs": "24920",
+      "startMs": "20160",
+      "startTimeText": "0:20",
+      "text": "you can read that are fear-mongering and"
+    },
+    {
+      "endMs": "24920",
+      "startMs": "22080",
+      "startTimeText": "0:22",
+      "text": "baiting you in."
+    }
+  ],
+  "transcript_only_text": " It  takes  about  20  hours  to  become \n proficient  at  any  new  skill,  but  people \n delay  the  first  hour  decades.  If  you \n take  a  weekend  and  say  Saturday,  Sunday, \n I'm  going  to  sit  in  front  of  this \n computer,  I'm  going  to  figure  out  how  to \n get  an  agent  to  do  something  for  me.  If \n by  the  end  of  the  weekend  you  haven't \n completely  built  something,  but  you \n actually  tore  the  wrapper  off,  you \n actually  got  your  hands  in  it,  your \n understanding  of  it  will  will  increase \n more  than  any  amount  of  articles  that \n you  can  read  that  are  fear-mongering  and \n baiting  you  in.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=1D0vQ-X_7WI",
+  "videoId": "1D0vQ-X_7WI"
+}

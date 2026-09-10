@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4480",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "The thing they don't tell you is the"
+    },
+    {
+      "endMs": "6319",
+      "startMs": "2240",
+      "startTimeText": "0:02",
+      "text": "long way is the shortcut because the"
+    },
+    {
+      "endMs": "9200",
+      "startMs": "4480",
+      "startTimeText": "0:04",
+      "text": "shortcut never gets you there. And so"
+    },
+    {
+      "endMs": "13040",
+      "startMs": "6319",
+      "startTimeText": "0:06",
+      "text": "people quit when things get hard because"
+    },
+    {
+      "endMs": "15599",
+      "startMs": "9200",
+      "startTimeText": "0:09",
+      "text": "the thought of things being hard forever"
+    },
+    {
+      "endMs": "17440",
+      "startMs": "13040",
+      "startTimeText": "0:13",
+      "text": "feels unbearable. But that's a lie"
+    },
+    {
+      "endMs": "19840",
+      "startMs": "15599",
+      "startTimeText": "0:15",
+      "text": "because nothing's hard forever. You"
+    },
+    {
+      "endMs": "22000",
+      "startMs": "17440",
+      "startTimeText": "0:17",
+      "text": "either quit, it gets easier, or you get"
+    },
+    {
+      "endMs": "24560",
+      "startMs": "19840",
+      "startTimeText": "0:19",
+      "text": "harder. But no matter what, the hard"
+    },
+    {
+      "endMs": "27279",
+      "startMs": "22000",
+      "startTimeText": "0:22",
+      "text": "always ends. And the only way you lose"
+    },
+    {
+      "endMs": "29279",
+      "startMs": "24560",
+      "startTimeText": "0:24",
+      "text": "is if you quit before seeing it through."
+    },
+    {
+      "endMs": "31119",
+      "startMs": "27279",
+      "startTimeText": "0:27",
+      "text": "And so what I try to tell myself when"
+    },
+    {
+      "endMs": "35680",
+      "startMs": "29279",
+      "startTimeText": "0:29",
+      "text": "I'm in those like kind of harder times"
+    },
+    {
+      "endMs": "35680",
+      "startMs": "31119",
+      "startTimeText": "0:31",
+      "text": "is this is for now, not forever."
+    }
+  ],
+  "transcript_only_text": " The  thing  they  don't  tell  you  is  the \n long  way  is  the  shortcut  because  the \n shortcut  never  gets  you  there.  And  so \n people  quit  when  things  get  hard  because \n the  thought  of  things  being  hard  forever \n feels  unbearable.  But  that's  a  lie \n because  nothing's  hard  forever.  You \n either  quit,  it  gets  easier,  or  you  get \n harder.  But  no  matter  what,  the  hard \n always  ends.  And  the  only  way  you  lose \n is  if  you  quit  before  seeing  it  through. \n And  so  what  I  try  to  tell  myself  when \n I'm  in  those  like  kind  of  harder  times \n is  this  is  for  now,  not  forever.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ZebniJx0GXU",
+  "videoId": "ZebniJx0GXU"
+}

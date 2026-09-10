@@ -1,0 +1,77 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5440",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Everyone thinks they need to dosomething really like novel. Like, no"
+    },
+    {
+      "endMs": "8280",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "one's ever made a vacuum that hooks upto a cell phone. You know what I mean?"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "Or whatever. I like taking like reallysure bets. It's like, well, people need"
+    },
+    {
+      "endMs": "17000",
+      "startMs": "10560",
+      "startTimeText": "0:10",
+      "text": "stuff cleaned. And that's not going togo anywhere. And so, all I got to do is"
+    },
+    {
+      "endMs": "20560",
+      "startMs": "15480",
+      "startTimeText": "0:15",
+      "text": "beat these other guys who probablyshouldn't be in business anyways cuz"
+    },
+    {
+      "endMs": "24320",
+      "startMs": "18320",
+      "startTimeText": "0:18",
+      "text": "they're so bad, and just do it a littlebetter than them. And if I do that, I'll"
+    },
+    {
+      "endMs": "26680",
+      "startMs": "22880",
+      "startTimeText": "0:22",
+      "text": "probably make some money. And if I do itfor a very long time, I'll have"
+    },
+    {
+      "endMs": "30480",
+      "startMs": "25480",
+      "startTimeText": "0:25",
+      "text": "something that I could potentially sellto somebody who wants to give me even"
+    },
+    {
+      "endMs": "30480",
+      "startMs": "27640",
+      "startTimeText": "0:27",
+      "text": "more money for it."
+    }
+  ],
+  "transcript_only_text": " Everyone thinks they need to do\nsomething really like novel. Like, no one's ever made a vacuum that hooks up\nto a cell phone. You know what I mean? Or whatever. I like taking like really\nsure bets. It's like, well, people need stuff cleaned. And that's not going to\ngo anywhere. And so, all I got to do is beat these other guys who probably\nshouldn't be in business anyways cuz they're so bad, and just do it a little\nbetter than them. And if I do that, I'll probably make some money. And if I do it\nfor a very long time, I'll have something that I could potentially sell\nto somebody who wants to give me even more money for it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=m5mH2q7bReA",
+  "videoId": "m5mH2q7bReA"
+}

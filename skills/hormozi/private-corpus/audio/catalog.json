@@ -1,0 +1,224 @@
+{
+  "schema": "hormozi-original-audio/v1",
+  "sources": [
+    {
+      "source_id": "100m-money-models-ebook-audiobooks-100m-money-models-audiobook:8064dbd3a82b",
+      "title": "$100M Money Models \u2014 original audiobook",
+      "source_sha256": "8064dbd3a82b7eb812e33fb21da6c9cd996b4db75b4e6bd008699ae8fe23623a",
+      "relative_path": "$100m Money Models eBook + Audiobooks/$100M Money Models Audiobook.mp4",
+      "review": {
+        "path": "audio/sources/audiobook/review.json",
+        "sha256": "4d1ba2fca71b0c1880ddbb03e074b8ac35d3977651e070e963c0c4c169f05692"
+      },
+      "versions": [
+        {
+          "id": "full",
+          "kind": "full",
+          "audit_receipt": "audio-review/audiobook-full-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/full/receipt.json",
+            "sha256": "b976b385d4d996091ecf9d8949d2979ff1e61dda2c89fc8c97d84e8b217585c0"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/full/transcript.json",
+            "sha256": "d6954183b964255b3c46957ae983097bb1214ed6deec99afa826008ca944cc33"
+          }
+        },
+        {
+          "id": "recheck-01",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-burger-math-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-01/receipt.json",
+            "sha256": "355769da35936467e9ed016da29d15c4adc4cec6090ee9d6c69fbe4173acdf69"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-01/transcript.json",
+            "sha256": "a5951a6d538350d77f49d257d4c3f263eb6054d19eb52eccd2e04388828a5aaf"
+          }
+        },
+        {
+          "id": "recheck-02",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-negation-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-02/receipt.json",
+            "sha256": "030cb8aa5616544cde25a3ba4afad6d641f4da9cd333b2e949815ecabd1edb2c"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-02/transcript.json",
+            "sha256": "40613edab66102a6b3e30941a65b9f7182072dd90e6612e35fd77cb23f84828e"
+          }
+        },
+        {
+          "id": "recheck-03",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-decoy-price-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-03/receipt.json",
+            "sha256": "a3f32944bd94781d41af84e1abd7e4ef1d283ea97e80375df0891a07d12d2573"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-03/transcript.json",
+            "sha256": "1459d93b45885df118f595b92e08851ba73b7eb19b670898c0014fd62ccf567d"
+          }
+        },
+        {
+          "id": "recheck-04",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-bundle-term-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-04/receipt.json",
+            "sha256": "019a24c8a45e03be9090ca7860fac7ad97cd936abe67e8d1f02819fb612144e8"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-04/transcript.json",
+            "sha256": "8cd75fb11e0bc4245590c588882be5f0cc46fed41994cbadf820c73270d6a4fa"
+          }
+        },
+        {
+          "id": "recheck-05",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-anchor-newsletter-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-05/receipt.json",
+            "sha256": "e507ff522b3bbcbaaaf6b4f4694e0fb2ef62fde3cd2826cf5247b32fa7ed0d1c"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-05/transcript.json",
+            "sha256": "cc645ee668d25ba7349749001fc522b58e85a42004d2882c1f054524d6dc056f"
+          }
+        },
+        {
+          "id": "recheck-06",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-continuity-table-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-06/receipt.json",
+            "sha256": "5d1042373a065d3c741c4fce861833f78037eacc3d020304b54c93ee61262a75"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-06/transcript.json",
+            "sha256": "52bf40bef39c1839703daa01db3d7233f18d2585e3fc38f654bc73bdf41f7b12"
+          }
+        },
+        {
+          "id": "recheck-07",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-model-menu-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-07/receipt.json",
+            "sha256": "08c973cf342619428d1a738772263cbb9a49958b86491a3e8df240bcaa2be291"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-07/transcript.json",
+            "sha256": "fa87f39cd8e9c39144db1f8fd0d7547dcc7c190f84590a80e17ba4ceecc8cdaa"
+          }
+        },
+        {
+          "id": "recheck-08",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/audiobook-model-newsletter-01/run.json",
+          "receipt": {
+            "path": "audio/sources/audiobook/recheck-08/receipt.json",
+            "sha256": "72e5da3ef1d73045b5ddfb494474b31c7e638521cdc85131da7e58c625a596d3"
+          },
+          "transcript": {
+            "path": "audio/sources/audiobook/recheck-08/transcript.json",
+            "sha256": "8d4cc85390aa565cec6ca8c8025c89432473e20764adcf2d60e6169a45338cd3"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "100m-money-models-ebook-audiobooks-100m-money-models-affiliate-70-1-minute-busin:d3ba4174e7aa",
+      "title": "70 Profit Tactics \u2014 original audio",
+      "source_sha256": "d3ba4174e7aad757884844368cd33b14fbd328c7f48e37512c16c4375a3f0494",
+      "relative_path": "$100m Money Models eBook + Audiobooks/$100M Money Models - Affiliate 70 - 1 Minute Business Tactics.wav",
+      "review": {
+        "path": "audio/sources/tactics/review.json",
+        "sha256": "5cc8072f1c2865a7226a6d9f6c62a48ffe8ae10868526f1e9b20d3c235605325"
+      },
+      "versions": [
+        {
+          "id": "full",
+          "kind": "full",
+          "audit_receipt": "audio-review/tactics-full-01/run.json",
+          "receipt": {
+            "path": "audio/sources/tactics/full/receipt.json",
+            "sha256": "944c8fb8b82371d6764cc33a8f438b81523c020f73ac7c59d34623bed852d652"
+          },
+          "transcript": {
+            "path": "audio/sources/tactics/full/transcript.json",
+            "sha256": "d32a2b82877e71b8a28d7d8dd694309c07479a09e785c8839ecc014f090a0592"
+          }
+        },
+        {
+          "id": "recheck-01",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/tactics-writing-clause-01/run.json",
+          "receipt": {
+            "path": "audio/sources/tactics/recheck-01/receipt.json",
+            "sha256": "658ced186027eea78a8e4e1da088ceb5768b741915d5d2068422ebb80299e456"
+          },
+          "transcript": {
+            "path": "audio/sources/tactics/recheck-01/transcript.json",
+            "sha256": "5392890f06ba22b2bbb58b70b55e572f7da0d09fb2439263e72c638b585b1a32"
+          }
+        },
+        {
+          "id": "recheck-02",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/tactics-review-negation-01/run.json",
+          "receipt": {
+            "path": "audio/sources/tactics/recheck-02/receipt.json",
+            "sha256": "28160669357c88cd2ae2945595a6b95a46ebe7d6313161002c14bffd38770944"
+          },
+          "transcript": {
+            "path": "audio/sources/tactics/recheck-02/transcript.json",
+            "sha256": "fedc562609beebeef6b80dd648c5c318a04639fe76787e47230e108561973e80"
+          }
+        },
+        {
+          "id": "recheck-03",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/tactics-price-math-01/run.json",
+          "receipt": {
+            "path": "audio/sources/tactics/recheck-03/receipt.json",
+            "sha256": "5b0ff6018893140ddb6aafd66c73fb16d964bd4476a7ec0ce0e22e23d4f9f984"
+          },
+          "transcript": {
+            "path": "audio/sources/tactics/recheck-03/transcript.json",
+            "sha256": "fbb1d060eebe4e995027d07a1182ad0fb95a8750d4a27f35651a572ce85fb48f"
+          }
+        },
+        {
+          "id": "recheck-04",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/tactics-margin-unit-01/run.json",
+          "receipt": {
+            "path": "audio/sources/tactics/recheck-04/receipt.json",
+            "sha256": "5b349fc62c142db3bce12008d06a2993fd5055813aad3dd7a5357b04dc8ace42"
+          },
+          "transcript": {
+            "path": "audio/sources/tactics/recheck-04/transcript.json",
+            "sha256": "16737c864271f0285487072fa2639fb52b12f12cd18830f85d34fb245e30d695"
+          }
+        },
+        {
+          "id": "recheck-05",
+          "kind": "recheck",
+          "audit_receipt": "audio-review/tactics-capacity-negation-01/run.json",
+          "receipt": {
+            "path": "audio/sources/tactics/recheck-05/receipt.json",
+            "sha256": "5b1566a86775489b6fcf5b46235733920dfa33bd77501aac80b03cb3d8f5112a"
+          },
+          "transcript": {
+            "path": "audio/sources/tactics/recheck-05/transcript.json",
+            "sha256": "a3836b992ed55ce69d3349295bb2df4325ee668090aedcc7844f171ffe9133c0"
+          }
+        }
+      ]
+    }
+  ]
+}

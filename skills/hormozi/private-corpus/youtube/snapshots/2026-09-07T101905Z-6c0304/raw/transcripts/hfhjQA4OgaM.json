@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4640",
+      "startMs": "719",
+      "startTimeText": "0:00",
+      "text": "Break the pattern today or the loop will"
+    },
+    {
+      "endMs": "6640",
+      "startMs": "2720",
+      "startTimeText": "0:02",
+      "text": "repeat tomorrow."
+    },
+    {
+      "endMs": "8720",
+      "startMs": "4640",
+      "startTimeText": "0:04",
+      "text": "Break the pattern today or the loop will"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "6640",
+      "startTimeText": "0:06",
+      "text": "repeat tomorrow. You must break the"
+    },
+    {
+      "endMs": "13080",
+      "startMs": "8720",
+      "startTimeText": "0:08",
+      "text": "pattern today or the loop will"
+    }
+  ],
+  "transcript_only_text": " Break  the  pattern  today  or  the  loop  will \n repeat  tomorrow. \n Break  the  pattern  today  or  the  loop  will \n repeat  tomorrow.  You  must  break  the \n pattern  today  or  the  loop  will",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=hfhjQA4OgaM",
+  "videoId": "hfhjQA4OgaM"
+}

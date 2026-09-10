@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5279",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "The biggest and best investment that youcan make is in your own skill set"
+    },
+    {
+      "endMs": "8240",
+      "startMs": "3760",
+      "startTimeText": "0:03",
+      "text": "because skills are the ultimate hedgeagainst inflation. They're the hedge"
+    },
+    {
+      "endMs": "11120",
+      "startMs": "6799",
+      "startTimeText": "0:06",
+      "text": "against currency changes. People like,\"What's going to happen to the dollar?\""
+    },
+    {
+      "endMs": "16240",
+      "startMs": "9360",
+      "startTimeText": "0:09",
+      "text": "Doctors are going to get paid inseashells or Bitcoin or US dollars. It"
+    },
+    {
+      "endMs": "20080",
+      "startMs": "14480",
+      "startTimeText": "0:14",
+      "text": "doesn't matter. If you have value toexchange, the world will exchange for"
+    }
+  ],
+  "transcript_only_text": " The biggest and best investment that you\ncan make is in your own skill set because skills are the ultimate hedge\nagainst inflation. They're the hedge against currency changes. People like,\n\"What's going to happen to the dollar?\" Doctors are going to get paid in\nseashells or Bitcoin or US dollars. It doesn't matter. If you have value to\nexchange, the world will exchange for",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=WDp8R2dNXvI",
+  "videoId": "WDp8R2dNXvI"
+}

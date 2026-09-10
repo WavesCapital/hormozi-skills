@@ -1,0 +1,233 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "2960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "I had an accounting team in one of our"
+    },
+    {
+      "endMs": "4600",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "companies who said, \"Hey, can we have"
+    },
+    {
+      "endMs": "6120",
+      "startMs": "2960",
+      "startTimeText": "0:02",
+      "text": "some software developers write some code"
+    },
+    {
+      "endMs": "8520",
+      "startMs": "4600",
+      "startTimeText": "0:04",
+      "text": "to automate this task that we do? It"
+    },
+    {
+      "endMs": "9600",
+      "startMs": "6120",
+      "startTimeText": "0:06",
+      "text": "takes us like 4 hours of manual input"
+    },
+    {
+      "endMs": "10920",
+      "startMs": "8520",
+      "startTimeText": "0:08",
+      "text": "every week.\" And I was like, \"Wow,"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "9600",
+      "startTimeText": "0:09",
+      "text": "that's tough.\" And so, I went to"
+    },
+    {
+      "endMs": "13160",
+      "startMs": "10920",
+      "startTimeText": "0:10",
+      "text": "software developers and I said, \"Hey,"
+    },
+    {
+      "endMs": "14520",
+      "startMs": "12080",
+      "startTimeText": "0:12",
+      "text": "what would it take to do this?\" They're"
+    },
+    {
+      "endMs": "16720",
+      "startMs": "13160",
+      "startTimeText": "0:13",
+      "text": "like, \"Oh, we can do it in 14 days. It's"
+    },
+    {
+      "endMs": "17680",
+      "startMs": "14520",
+      "startTimeText": "0:14",
+      "text": "5,000 a day, FYI.\" And so, the"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "16720",
+      "startTimeText": "0:16",
+      "text": "accounting team was like, \"Great, can"
+    },
+    {
+      "endMs": "21280",
+      "startMs": "17680",
+      "startTimeText": "0:17",
+      "text": "you sign off on this?\" I was like,"
+    },
+    {
+      "endMs": "24120",
+      "startMs": "18720",
+      "startTimeText": "0:18",
+      "text": "\"Okay, hold up. 14 days times 5,000 is"
+    },
+    {
+      "endMs": "26680",
+      "startMs": "21280",
+      "startTimeText": "0:21",
+      "text": "70 grand. You work for 4 hours a week on"
+    },
+    {
+      "endMs": "28480",
+      "startMs": "24120",
+      "startTimeText": "0:24",
+      "text": "this thing. You make $70,000 a year. So,"
+    },
+    {
+      "endMs": "30640",
+      "startMs": "26680",
+      "startTimeText": "0:26",
+      "text": "10% of your paycheck gets allocated"
+    },
+    {
+      "endMs": "32200",
+      "startMs": "28480",
+      "startTimeText": "0:28",
+      "text": "towards this task. So, $7,000.\" So, in"
+    },
+    {
+      "endMs": "33960",
+      "startMs": "30640",
+      "startTimeText": "0:30",
+      "text": "order for me to get a return on this"
+    },
+    {
+      "endMs": "35680",
+      "startMs": "32200",
+      "startTimeText": "0:32",
+      "text": "14-day quick automation system, it would"
+    },
+    {
+      "endMs": "37160",
+      "startMs": "33960",
+      "startTimeText": "0:33",
+      "text": "take me 10 years. And that's a pretty"
+    },
+    {
+      "endMs": "39400",
+      "startMs": "35680",
+      "startTimeText": "0:35",
+      "text": "shitty return. And that assumes that"
+    },
+    {
+      "endMs": "40760",
+      "startMs": "37160",
+      "startTimeText": "0:37",
+      "text": "nothing changes over the next 10 years"
+    },
+    {
+      "endMs": "42280",
+      "startMs": "39400",
+      "startTimeText": "0:39",
+      "text": "in our business that would cause us to"
+    },
+    {
+      "endMs": "43640",
+      "startMs": "40760",
+      "startTimeText": "0:40",
+      "text": "have to update this thing, break fix"
+    },
+    {
+      "endMs": "44680",
+      "startMs": "42280",
+      "startTimeText": "0:42",
+      "text": "because we switched systems. And I think"
+    },
+    {
+      "endMs": "45960",
+      "startMs": "43640",
+      "startTimeText": "0:43",
+      "text": "you can get where I'm going with this."
+    },
+    {
+      "endMs": "47800",
+      "startMs": "44680",
+      "startTimeText": "0:44",
+      "text": "Of course, it made no sense. But, these"
+    },
+    {
+      "endMs": "49560",
+      "startMs": "45960",
+      "startTimeText": "0:45",
+      "text": "quote systems people will systematize"
+    },
+    {
+      "endMs": "51200",
+      "startMs": "47800",
+      "startTimeText": "0:47",
+      "text": "without considering the long-term"
+    },
+    {
+      "endMs": "52680",
+      "startMs": "49560",
+      "startTimeText": "0:49",
+      "text": "consequences of why they're even doing"
+    },
+    {
+      "endMs": "54040",
+      "startMs": "51200",
+      "startTimeText": "0:51",
+      "text": "it to begin with. They just get OCD"
+    },
+    {
+      "endMs": "55480",
+      "startMs": "52680",
+      "startTimeText": "0:52",
+      "text": "about and they just want to system"
+    },
+    {
+      "endMs": "58080",
+      "startMs": "54040",
+      "startTimeText": "0:54",
+      "text": "everything, but all they do is slow"
+    },
+    {
+      "endMs": "58080",
+      "startMs": "55480",
+      "startTimeText": "0:55",
+      "text": "people down."
+    }
+  ],
+  "transcript_only_text": " I  had  an  accounting  team  in  one  of  our \n companies  who  said,  \"Hey,  can  we  have \n some  software  developers  write  some  code \n to  automate  this  task  that  we  do?  It \n takes  us  like  4  hours  of  manual  input \n every  week.\"  And  I  was  like,  \"Wow, \n that's  tough.\"  And  so,  I  went  to \n software  developers  and  I  said,  \"Hey, \n what  would  it  take  to  do  this?\"  They're \n like,  \"Oh,  we  can  do  it  in  14  days.  It's \n 5,000  a  day,  FYI.\"  And  so,  the \n accounting  team  was  like,  \"Great,  can \n you  sign  off  on  this?\"  I  was  like, \n \"Okay,  hold  up.  14  days  times  5,000  is \n 70  grand.  You  work  for  4  hours  a  week  on \n this  thing.  You  make  $70,000  a  year.  So, \n 10%  of  your  paycheck  gets  allocated \n towards  this  task.  So,  $7,000.\"  So,  in \n order  for  me  to  get  a  return  on  this \n 14-day  quick  automation  system,  it  would \n take  me  10  years.  And  that's  a  pretty \n shitty  return.  And  that  assumes  that \n nothing  changes  over  the  next  10  years \n in  our  business  that  would  cause  us  to \n have  to  update  this  thing,  break  fix \n because  we  switched  systems.  And  I  think \n you  can  get  where  I'm  going  with  this. \n Of  course,  it  made  no  sense.  But,  these \n quote  systems  people  will  systematize \n without  considering  the  long-term \n consequences  of  why  they're  even  doing \n it  to  begin  with.  They  just  get  OCD \n about  and  they  just  want  to  system \n everything,  but  all  they  do  is  slow \n people  down.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=_sB57-lwH9o",
+  "videoId": "_sB57-lwH9o"
+}

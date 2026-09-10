@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "No one's going to remember who you are."
+    },
+    {
+      "endMs": "5840",
+      "startMs": "1960",
+      "startTimeText": "0:01",
+      "text": "I don't spend all my time reading"
+    },
+    {
+      "endMs": "6920",
+      "startMs": "3560",
+      "startTimeText": "0:03",
+      "text": "[ __ ] hacks on negotiating and cover"
+    },
+    {
+      "endMs": "9840",
+      "startMs": "5840",
+      "startTimeText": "0:05",
+      "text": "letters."
+    },
+    {
+      "endMs": "11920",
+      "startMs": "6920",
+      "startTimeText": "0:06",
+      "text": "I make the one amazing thing that I want"
+    },
+    {
+      "endMs": "13800",
+      "startMs": "9840",
+      "startTimeText": "0:09",
+      "text": "to be true true in the real world and"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "11920",
+      "startTimeText": "0:11",
+      "text": "then I just tell people. If you can't"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "13800",
+      "startTimeText": "0:13",
+      "text": "summarize who you are in one line that"
+    },
+    {
+      "endMs": "21200",
+      "startMs": "16520",
+      "startTimeText": "0:16",
+      "text": "would make them want you, then fix the"
+    },
+    {
+      "endMs": "25720",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "truth so that that one line when stated"
+    },
+    {
+      "endMs": "25720",
+      "startMs": "21200",
+      "startTimeText": "0:21",
+      "text": "as fact makes them need you."
+    }
+  ],
+  "transcript_only_text": " No  one's  going  to  remember  who  you  are. \n I  don't  spend  all  my  time  reading \n [ __ ]  hacks  on  negotiating  and  cover \n letters. \n I  make  the  one  amazing  thing  that  I  want \n to  be  true  true  in  the  real  world  and \n then  I  just  tell  people.  If  you  can't \n summarize  who  you  are  in  one  line  that \n would  make  them  want  you,  then  fix  the \n truth  so  that  that  one  line  when  stated \n as  fact  makes  them  need  you.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=weL_HeXrpfA",
+  "videoId": "weL_HeXrpfA"
+}

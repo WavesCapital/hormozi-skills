@@ -1,0 +1,297 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=PURtGKUA0ms&ei=0kmZapXwNrOzzN0PsO7oyQo&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788456002&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=94CA226D47794F09B8D3D32E39E2EA31F05020B1.BEB4E881DD84A51431B2BC1EF58659783EE4B2EF&key=yt8&kind=asr&lang=en",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": null,
+  "credits_charged": 1,
+  "credits_remaining": 14500,
+  "description": "A big reason many don’t make big money later is they spend too much money now.\n\nSo when big opportunities come, they can’t take a big swing, because their house, car, and lifestyle costs too much.\n\nIf you want to go offensive with money later, you gotta be defensive with it now.",
+  "descriptionLinks": [],
+  "downloadOptions": {
+    "dashManifestUrl": null,
+    "expiresInSeconds": "21540",
+    "formats": [],
+    "hlsManifestUrl": null,
+    "note": "These are YouTube's muxed audio+video formats when exposed. Links can expire, and some videos may only expose signature-ciphered URLs."
+  },
+  "durationFormatted": "00:00:38",
+  "durationMs": 38000,
+  "genre": "Education",
+  "id": "PURtGKUA0ms",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 21,
+  "likeCountText": "21",
+  "most_replayed": null,
+  "publishDate": "2026-09-03T03:02:21-07:00",
+  "publishDateText": "Sep 3, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/PURtGKUA0ms/maxresdefault.jpg",
+  "title": "Spend 100% of Your Check and You'll Miss Every Big Opportunity",
+  "type": "video",
+  "viewCountInt": 168,
+  "viewCountText": "168",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "SaturdayNightLive",
+        "id": "UCqFzWxSCi39LnW1JKFR3efg",
+        "title": "Saturday Night Live",
+        "url": "https://www.youtube.com/@SaturdayNightLive"
+      },
+      "id": "_3QMSVD_PoY",
+      "lengthInSeconds": 162,
+      "lengthText": "2:42",
+      "publishDate": "2026-04-03T10:20:03.772Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-03T10:20:03.772Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/_3QMSVD_PoY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2Pl0Gt8M4BkBYYnGmi7jZVXQjmw",
+      "title": "Otezla - SNL",
+      "videoUrl": "https://www.youtube.com/watch?v=_3QMSVD_PoY",
+      "viewCountInt": 2300000,
+      "viewCountText": "2.3M views"
+    },
+    {
+      "channel": {
+        "handle": "HomeRenoVisionDIY",
+        "id": "UCnorhjQR4zJkT7AVNhu395Q",
+        "title": "Home RenoVision DIY",
+        "url": "https://www.youtube.com/@HomeRenoVisionDIY"
+      },
+      "id": "-cdrVNfngo0",
+      "lengthInSeconds": 1229,
+      "lengthText": "20:29",
+      "publishDate": "2026-04-03T10:20:03.772Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-03T10:20:03.772Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/-cdrVNfngo0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA07JaF1eO69AFn-7_9CKkMdx2XBA",
+      "title": "Don’t Waste Your Money on Decking (Composite vs Wood)",
+      "videoUrl": "https://www.youtube.com/watch?v=-cdrVNfngo0",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "o64cI6tebnU",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-08-29T10:20:03.772Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-08-29T10:20:03.772Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/o64cI6tebnU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDBIKYKiRT1msihJbEnf7D96Q6FcA",
+      "title": "How I Would Build a Service Business in 2026 (If I Had to Start Over)",
+      "videoUrl": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "viewCountInt": 761000,
+      "viewCountText": "761K views"
+    },
+    {
+      "channel": {
+        "handle": "SenatorSanders",
+        "id": "UCD_DaKNac0Ta-2PeHuoQ1uA",
+        "title": "Senator Bernie Sanders",
+        "url": "https://www.youtube.com/@SenatorSanders"
+      },
+      "id": "h3AtWdeu_G0",
+      "lengthInSeconds": 558,
+      "lengthText": "9:18",
+      "publishDate": "2026-04-03T10:20:03.772Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-03T10:20:03.772Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/h3AtWdeu_G0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCQ0hwreH9lQklsLnolthp5lY0Anw",
+      "title": "Bernie vs. Claude",
+      "videoUrl": "https://www.youtube.com/watch?v=h3AtWdeu_G0",
+      "viewCountInt": 5000000,
+      "viewCountText": "5M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "IFElGv5ZmRM",
+      "lengthInSeconds": 2587,
+      "lengthText": "43:07",
+      "publishDate": "2025-09-03T10:20:03.772Z",
+      "publishDateText": "1 year ago",
+      "publishedTime": "2025-09-03T10:20:03.772Z",
+      "publishedTimeText": "1 year ago",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAOl1_s4mlGdEQve7AUjIGTw6mswg",
+      "title": "You'll Find This Video When You Need it Most",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "viewCountInt": 1100000,
+      "viewCountText": "1.1M views"
+    },
+    {
+      "channel": {
+        "handle": "garyvee",
+        "id": "UCctXZhXmG-kf3tlIXgVZUlw",
+        "title": "GaryVee",
+        "url": "https://www.youtube.com/@garyvee"
+      },
+      "id": "RqZe-GMU_cE",
+      "lengthInSeconds": 598,
+      "lengthText": "9:58",
+      "publishDate": "2026-09-01T10:20:03.772Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-01T10:20:03.772Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/RqZe-GMU_cE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA1YFAEaBpxHBksbEPHhw217AymMw",
+      "title": "The New Era of Social Media Has Just Begun",
+      "videoUrl": "https://www.youtube.com/watch?v=RqZe-GMU_cE",
+      "viewCountInt": 336000,
+      "viewCountText": "336K views"
+    },
+    {
+      "channel": {
+        "handle": "danmartell",
+        "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+        "title": "Dan Martell",
+        "url": "https://www.youtube.com/@danmartell"
+      },
+      "id": "DlQyXhjH2jE",
+      "lengthInSeconds": 1031,
+      "lengthText": "17:11",
+      "publishDate": "2026-09-02T13:20:03.772Z",
+      "publishDateText": "21 hours ago",
+      "publishedTime": "2026-09-02T13:20:03.772Z",
+      "publishedTimeText": "21 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/DlQyXhjH2jE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuwKssfN7Gx7eNG5vslCvqTWTGzw",
+      "title": "Once You Make Money, Upgrade These 7 Things ASAP",
+      "videoUrl": "https://www.youtube.com/watch?v=DlQyXhjH2jE",
+      "viewCountInt": 153000,
+      "viewCountText": "153K views"
+    },
+    {
+      "channel": {
+        "title": "The Table With AO and Investing Uncomplicated",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "EtULg8kl-b8",
+      "lengthInSeconds": 2374,
+      "lengthText": "39:34",
+      "publishDate": "2026-09-02T11:20:03.772Z",
+      "publishDateText": "23 hours ago",
+      "publishedTime": "2026-09-02T11:20:03.772Z",
+      "publishedTimeText": "23 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/EtULg8kl-b8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAD7vtyXOOj5yW9RWr_zxwFNRDU7g",
+      "title": "How to Build an ETF Portfolio Starting With Just $100 | Courtney Hale",
+      "videoUrl": "https://www.youtube.com/watch?v=EtULg8kl-b8",
+      "viewCountInt": 49000,
+      "viewCountText": "49K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "mRlSb0O5QNU",
+      "lengthInSeconds": 2340,
+      "lengthText": "39:00",
+      "publishDate": "2026-08-22T10:20:03.772Z",
+      "publishDateText": "12 days ago",
+      "publishedTime": "2026-08-22T10:20:03.772Z",
+      "publishedTimeText": "12 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/mRlSb0O5QNU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCojHKsw7d4uSJeVpZs5R7cIN2FNA",
+      "title": "How to Get Rich for Service-Based Businesses (Thank Me Later)",
+      "videoUrl": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "viewCountInt": 237000,
+      "viewCountText": "237K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and David Sinclair",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "DnvWAP99r3Y",
+      "lengthInSeconds": 8947,
+      "lengthText": "2:29:07",
+      "publishDate": "2026-04-03T10:20:03.772Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-03T10:20:03.772Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/DnvWAP99r3Y/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3hoDImzOdvJ6KH6f-0AGsLmZUOQ",
+      "title": "Dr David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests!",
+      "videoUrl": "https://www.youtube.com/watch?v=DnvWAP99r3Y",
+      "viewCountInt": 5800000,
+      "viewCountText": "5.8M views"
+    },
+    {
+      "channel": {
+        "handle": "DemocracyNow",
+        "id": "UCzuqE7-t13O4NIDYJfakrhw",
+        "title": "Democracy Now!",
+        "url": "https://www.youtube.com/@DemocracyNow"
+      },
+      "id": "DzzNk-XzWCw",
+      "lengthInSeconds": 965,
+      "lengthText": "16:05",
+      "publishDate": "2026-09-02T14:20:03.772Z",
+      "publishDateText": "20 hours ago",
+      "publishedTime": "2026-09-02T14:20:03.772Z",
+      "publishedTimeText": "20 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/DzzNk-XzWCw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSml6Ep66N1ZrjD413P1wH3ad9Cw",
+      "title": "U.S. Empire in Decline: Richard Wolff on Iran War, Rising Inequality, $40T National Debt & More",
+      "videoUrl": "https://www.youtube.com/watch?v=DzzNk-XzWCw",
+      "viewCountInt": 277000,
+      "viewCountText": "277K views"
+    },
+    {
+      "channel": {
+        "handle": "garyvee",
+        "id": "UCctXZhXmG-kf3tlIXgVZUlw",
+        "title": "GaryVee",
+        "url": "https://www.youtube.com/@garyvee"
+      },
+      "id": "rE9XFvr83Lo",
+      "lengthInSeconds": 349,
+      "lengthText": "5:49",
+      "publishDate": "2026-08-03T10:20:03.772Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-03T10:20:03.772Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/rE9XFvr83Lo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCEcrVCWHzbXNJi6OhMvy4QKjb9Ig",
+      "title": "Unfortunately, Growing on Social Media Just Changed Forever",
+      "videoUrl": "https://www.youtube.com/watch?v=rE9XFvr83Lo",
+      "viewCountInt": 125000,
+      "viewCountText": "125K views"
+    }
+  ]
+}

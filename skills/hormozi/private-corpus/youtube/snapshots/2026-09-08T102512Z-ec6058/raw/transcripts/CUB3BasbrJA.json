@@ -1,0 +1,79 @@
+{
+  "captionTracks": [
+    {
+      "baseUrl": "https://www.youtube.com/api/timedtext?v=CUB3BasbrJA&ei=spuaauzYHei1kucPpOStoAw&caps=asr&opi=112496729&exp=xpo,xpe&xoaf=5&xowf=1&xowatf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1788542498&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=9A474257388FD91ED982BCABAE6B415443EA098D.0484AB0B3A56EE5FEEBEB44A9F557835208B29C3&key=yt8&kind=asr&lang=en&variant=gemini",
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "credits_remaining": 14430,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7480",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "You get so much return on demonstratingthat you prepared. Take the 5 minutes."
+    },
+    {
+      "endMs": "11280",
+      "startMs": "5680",
+      "startTimeText": "0:05",
+      "text": "Literally actually take the 5 minutesbefore the meeting to say, \"Okay, this"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "9560",
+      "startTimeText": "0:09",
+      "text": "is John. Let me look at his profile realquick. He's out of Milwaukee. Okay, the"
+    },
+    {
+      "endMs": "16800",
+      "startMs": "12960",
+      "startTimeText": "0:12",
+      "text": "Bucks are doing well. Let me see if heif he follows the Bucks. Okay, he tagged"
+    },
+    {
+      "endMs": "19560",
+      "startMs": "15680",
+      "startTimeText": "0:15",
+      "text": "something there. And his wife's name isJoyce. Okay, got it.\" So, you get on the"
+    },
+    {
+      "endMs": "22440",
+      "startMs": "18240",
+      "startTimeText": "0:18",
+      "text": "meeting you're like, \"Dude, John, how'sit going, man? Do the Bucks are killing"
+    },
+    {
+      "endMs": "25960",
+      "startMs": "21040",
+      "startTimeText": "0:21",
+      "text": "it. Oh, that's fantastic. How's Joycedoing?\" She's good. \"Great. Really cool"
+    },
+    {
+      "endMs": "29360",
+      "startMs": "24600",
+      "startTimeText": "0:24",
+      "text": "stuff that you guys are doing at XYZCorp.\" As soon as I say that, they're"
+    },
+    {
+      "endMs": "32920",
+      "startMs": "27320",
+      "startTimeText": "0:27",
+      "text": "like immediately in 60 seconds they'relike, \"This guy prepared.\""
+    }
+  ],
+  "transcript_only_text": " You get so much return on demonstrating\nthat you prepared. Take the 5 minutes. Literally actually take the 5 minutes\nbefore the meeting to say, \"Okay, this is John. Let me look at his profile real\nquick. He's out of Milwaukee. Okay, the Bucks are doing well. Let me see if he\nif he follows the Bucks. Okay, he tagged something there. And his wife's name is\nJoyce. Okay, got it.\" So, you get on the meeting you're like, \"Dude, John, how's\nit going, man? Do the Bucks are killing it. Oh, that's fantastic. How's Joyce\ndoing?\" She's good. \"Great. Really cool stuff that you guys are doing at XYZ\nCorp.\" As soon as I say that, they're like immediately in 60 seconds they're\nlike, \"This guy prepared.\"",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=CUB3BasbrJA",
+  "videoId": "CUB3BasbrJA"
+}

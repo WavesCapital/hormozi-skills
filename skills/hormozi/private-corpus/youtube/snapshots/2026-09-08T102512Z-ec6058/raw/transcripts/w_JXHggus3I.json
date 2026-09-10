@@ -1,0 +1,47 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5359",
+      "startMs": "80",
+      "startTimeText": "0:00",
+      "text": "If you don't have confidence, build[music] evidence. If you don't have"
+    },
+    {
+      "endMs": "9440",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "evidence, build skill. If you don't haveskill, build discipline. If you don't"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "7440",
+      "startTimeText": "0:07",
+      "text": "have discipline, build accountability.And if you don't have accountability,"
+    },
+    {
+      "endMs": "13920",
+      "startMs": "11200",
+      "startTimeText": "0:11",
+      "text": "change your environment."
+    }
+  ],
+  "transcript_only_text": " If you don't have confidence, build\n[music] evidence. If you don't have evidence, build skill. If you don't have\nskill, build discipline. If you don't have discipline, build accountability.\nAnd if you don't have accountability, change your environment.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=w_JXHggus3I",
+  "videoId": "w_JXHggus3I"
+}

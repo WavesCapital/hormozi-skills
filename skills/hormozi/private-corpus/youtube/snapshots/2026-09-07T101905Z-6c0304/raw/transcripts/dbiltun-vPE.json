@@ -1,0 +1,107 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3240",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "When the bad thing happens, typically"
+    },
+    {
+      "endMs": "4760",
+      "startMs": "1840",
+      "startTimeText": "0:01",
+      "text": "you don't expect them and you have to"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "3240",
+      "startTimeText": "0:03",
+      "text": "deal with the cards you're dealt, right?"
+    },
+    {
+      "endMs": "7520",
+      "startMs": "4760",
+      "startTimeText": "0:04",
+      "text": "We have to we have to take it within the"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "fact that maybe we didn't sleep that"
+    },
+    {
+      "endMs": "10960",
+      "startMs": "7520",
+      "startTimeText": "0:07",
+      "text": "much the night before or or we haven't"
+    },
+    {
+      "endMs": "12400",
+      "startMs": "8880",
+      "startTimeText": "0:08",
+      "text": "eaten in 6 hours, right? Or we just came"
+    },
+    {
+      "endMs": "14320",
+      "startMs": "10960",
+      "startTimeText": "0:10",
+      "text": "off of nine bad meetings in a row."
+    },
+    {
+      "endMs": "16920",
+      "startMs": "12400",
+      "startTimeText": "0:12",
+      "text": "Whatever it is, right? We still have"
+    },
+    {
+      "endMs": "18800",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "that that moment between stimulus and"
+    },
+    {
+      "endMs": "21360",
+      "startMs": "16920",
+      "startTimeText": "0:16",
+      "text": "reaction where we have a choice. We get"
+    },
+    {
+      "endMs": "23200",
+      "startMs": "18800",
+      "startTimeText": "0:18",
+      "text": "to act how we want to behave. And I"
+    },
+    {
+      "endMs": "26280",
+      "startMs": "21360",
+      "startTimeText": "0:21",
+      "text": "think that that is where we get to live"
+    },
+    {
+      "endMs": "26280",
+      "startMs": "23200",
+      "startTimeText": "0:23",
+      "text": "out our ideals."
+    }
+  ],
+  "transcript_only_text": " When  the  bad  thing  happens,  typically \n you  don't  expect  them  and  you  have  to \n deal  with  the  cards  you're  dealt,  right? \n We  have  to  we  have  to  take  it  within  the \n fact  that  maybe  we  didn't  sleep  that \n much  the  night  before  or  or  we  haven't \n eaten  in  6  hours,  right?  Or  we  just  came \n off  of  nine  bad  meetings  in  a  row. \n Whatever  it  is,  right?  We  still  have \n that  that  moment  between  stimulus  and \n reaction  where  we  have  a  choice.  We  get \n to  act  how  we  want  to  behave.  And  I \n think  that  that  is  where  we  get  to  live \n out  our  ideals.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=dbiltun-vPE",
+  "videoId": "dbiltun-vPE"
+}

@@ -1,0 +1,53 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "8400",
+      "startMs": "400",
+      "startTimeText": "0:00",
+      "text": "You can beat 99% of people if you canmaster the shame of rejection, the"
+    },
+    {
+      "endMs": "11600",
+      "startMs": "5960",
+      "startTimeText": "0:05",
+      "text": "boredom of repetition, and the pain offeedback."
+    },
+    {
+      "endMs": "16000",
+      "startMs": "9680",
+      "startTimeText": "0:09",
+      "text": "You could be almost anyone at anythingif you're willing to fail 20 times in a"
+    },
+    {
+      "endMs": "22520",
+      "startMs": "13640",
+      "startTimeText": "0:13",
+      "text": "row, look stupid in front of people thatyou care about, and keep going long"
+    },
+    {
+      "endMs": "22520",
+      "startMs": "18520",
+      "startTimeText": "0:18",
+      "text": "after it stopped being convenient."
+    }
+  ],
+  "transcript_only_text": " You can beat 99% of people if you can\nmaster the shame of rejection, the boredom of repetition, and the pain of\nfeedback. You could be almost anyone at anything\nif you're willing to fail 20 times in a row, look stupid in front of people that\nyou care about, and keep going long after it stopped being convenient.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=sjy8P89VC90",
+  "videoId": "sjy8P89VC90"
+}

@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3560",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "What is one phrase that you can say that"
+    },
+    {
+      "endMs": "5160",
+      "startMs": "1600",
+      "startTimeText": "0:01",
+      "text": "can haunt the souls of everyone"
+    },
+    {
+      "endMs": "7205",
+      "startMs": "3560",
+      "startTimeText": "0:03",
+      "text": "listening forever"
+    },
+    {
+      "endMs": "9225",
+      "startMs": "5160",
+      "startTimeText": "0:05",
+      "text": "if they don't [ __ ] take action now?"
+    },
+    {
+      "endMs": "9225",
+      "startMs": "7205",
+      "startTimeText": "0:07",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "14400",
+      "startMs": "11790",
+      "startTimeText": "0:11",
+      "text": "[music]"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "12800",
+      "startTimeText": "0:12",
+      "text": ">> You will die always wondering what you"
+    },
+    {
+      "endMs": "16960",
+      "startMs": "14400",
+      "startTimeText": "0:14",
+      "text": "could have done."
+    },
+    {
+      "endMs": "21360",
+      "startMs": "18340",
+      "startTimeText": "0:18",
+      "text": ">> [music]"
+    },
+    {
+      "endMs": "21360",
+      "startMs": "18480",
+      "startTimeText": "0:18",
+      "text": ">> I think that would suck."
+    }
+  ],
+  "transcript_only_text": " What  is  one  phrase  that  you  can  say  that \n can  haunt  the  souls  of  everyone \n listening  forever \n if  they  don't  [ __ ]  take  action  now? \n >> [music] \n [music] \n >> You  will  die  always  wondering  what  you \n could  have  done. \n >> [music] \n >> I  think  that  would  suck.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=wh1O5iEUXBc",
+  "videoId": "wh1O5iEUXBc"
+}

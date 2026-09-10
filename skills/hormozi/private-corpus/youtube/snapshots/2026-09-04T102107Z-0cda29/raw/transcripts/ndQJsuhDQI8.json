@@ -1,0 +1,71 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5160",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Education alone is not a recurringproduct. Community is a recurring"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "3840",
+      "startTimeText": "0:03",
+      "text": "product. Services are recurringproducts. We have to break apart our"
+    },
+    {
+      "endMs": "12080",
+      "startMs": "7080",
+      "startTimeText": "0:07",
+      "text": "product offering into what are thingsthat are consumable and what are things"
+    },
+    {
+      "endMs": "15160",
+      "startMs": "10480",
+      "startTimeText": "0:10",
+      "text": "that are one-time. And so, I wouldsuggest probably raising the price or"
+    },
+    {
+      "endMs": "18880",
+      "startMs": "13800",
+      "startTimeText": "0:13",
+      "text": "doing some sort of annual thing so thatyou can appropriately value the"
+    },
+    {
+      "endMs": "23440",
+      "startMs": "16440",
+      "startTimeText": "0:16",
+      "text": "information or the education, and thenhave a much smaller uh back end for the"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "21680",
+      "startTimeText": "0:21",
+      "text": "access to the community and, you know,maybe other services or calls or"
+    },
+    {
+      "endMs": "28160",
+      "startMs": "25080",
+      "startTimeText": "0:25",
+      "text": "whatever else that you do."
+    }
+  ],
+  "transcript_only_text": " Education alone is not a recurring\nproduct. Community is a recurring product. Services are recurring\nproducts. We have to break apart our product offering into what are things\nthat are consumable and what are things that are one-time. And so, I would\nsuggest probably raising the price or doing some sort of annual thing so that\nyou can appropriately value the information or the education, and then\nhave a much smaller uh back end for the access to the community and, you know,\nmaybe other services or calls or whatever else that you do.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=ndQJsuhDQI8",
+  "videoId": "ndQJsuhDQI8"
+}

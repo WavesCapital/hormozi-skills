@@ -1,0 +1,101 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "6160",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "If you find [music] somebody who who"
+    },
+    {
+      "endMs": "8960",
+      "startMs": "3280",
+      "startTimeText": "0:03",
+      "text": "speaks well of you behind your back and"
+    },
+    {
+      "endMs": "10160",
+      "startMs": "6160",
+      "startTimeText": "0:06",
+      "text": "talks [music] to you to your face,"
+    },
+    {
+      "endMs": "10639",
+      "startMs": "8960",
+      "startTimeText": "0:08",
+      "text": "those are the friends that are worth"
+    },
+    {
+      "endMs": "11360",
+      "startMs": "10160",
+      "startTimeText": "0:10",
+      "text": "keeping."
+    },
+    {
+      "endMs": "13280",
+      "startMs": "10639",
+      "startTimeText": "0:10",
+      "text": ">> Amen."
+    },
+    {
+      "endMs": "14799",
+      "startMs": "11360",
+      "startTimeText": "0:11",
+      "text": ">> And if you can find somebody who can do"
+    },
+    {
+      "endMs": "16480",
+      "startMs": "13280",
+      "startTimeText": "0:13",
+      "text": "both of those without flipping [music]"
+    },
+    {
+      "endMs": "18400",
+      "startMs": "14799",
+      "startTimeText": "0:14",
+      "text": "every conversation and making it about"
+    },
+    {
+      "endMs": "19920",
+      "startMs": "16480",
+      "startTimeText": "0:16",
+      "text": "themselves, I think you have somebody"
+    },
+    {
+      "endMs": "21039",
+      "startMs": "18400",
+      "startTimeText": "0:18",
+      "text": "who's worth keeping. But most people"
+    },
+    {
+      "endMs": "24400",
+      "startMs": "19920",
+      "startTimeText": "0:19",
+      "text": "don't even meet one of those [music]"
+    },
+    {
+      "endMs": "24400",
+      "startMs": "21039",
+      "startTimeText": "0:21",
+      "text": "criteria, let alone all"
+    }
+  ],
+  "transcript_only_text": " If  you  find  [music]  somebody  who  who \n speaks  well  of  you  behind  your  back  and \n talks  [music]  to  you  to  your  face, \n those  are  the  friends  that  are  worth \n keeping. \n >> Amen. \n >> And  if  you  can  find  somebody  who  can  do \n both  of  those  without  flipping  [music] \n every  conversation  and  making  it  about \n themselves,  I  think  you  have  somebody \n who's  worth  keeping.  But  most  people \n don't  even  meet  one  of  those  [music] \n criteria,  let alone  all",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=069tVnXb84Y",
+  "videoId": "069tVnXb84Y"
+}

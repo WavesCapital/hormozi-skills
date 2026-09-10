@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "7040",
+      "startMs": "240",
+      "startTimeText": "0:00",
+      "text": "You get so much return on demonstratingthat you prepared. Take the five"
+    },
+    {
+      "endMs": "10880",
+      "startMs": "5359",
+      "startTimeText": "0:05",
+      "text": "minutes, literally actually take thefive minutes before the meeting to say,"
+    },
+    {
+      "endMs": "13599",
+      "startMs": "9040",
+      "startTimeText": "0:09",
+      "text": "\"Okay, this is John. Let me look at hisprofile real quick. He's out of"
+    },
+    {
+      "endMs": "16160",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "Milwaukee. Okay, the Bucks are doingwell. Let me see if he if he follows the"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "15040",
+      "startTimeText": "0:15",
+      "text": "Bucks. Okay, he tags something there.\"And his wife's name is Joyce. Okay, got"
+    },
+    {
+      "endMs": "21439",
+      "startMs": "17600",
+      "startTimeText": "0:17",
+      "text": "it. So, you get on the meeting. You'relike, \"Dude, John, how's it going, my"
+    },
+    {
+      "endMs": "24800",
+      "startMs": "20080",
+      "startTimeText": "0:20",
+      "text": "dude? The Bucks are killing it.\" Oh,that's fantastic. How's Joyce doing?"
+    },
+    {
+      "endMs": "27680",
+      "startMs": "23039",
+      "startTimeText": "0:23",
+      "text": "She's good. Great. Really cool stuffthat you guys are doing at XYZ Corp. As"
+    },
+    {
+      "endMs": "32560",
+      "startMs": "26560",
+      "startTimeText": "0:26",
+      "text": "soon as I say that, they're likeimmediately in 60 seconds, they're like,"
+    },
+    {
+      "endMs": "32560",
+      "startMs": "29760",
+      "startTimeText": "0:29",
+      "text": "\"This guy prepared."
+    }
+  ],
+  "transcript_only_text": " You get so much return on demonstrating\nthat you prepared. Take the five minutes, literally actually take the\nfive minutes before the meeting to say, \"Okay, this is John. Let me look at his\nprofile real quick. He's out of Milwaukee. Okay, the Bucks are doing\nwell. Let me see if he if he follows the Bucks. Okay, he tags something there.\"\nAnd his wife's name is Joyce. Okay, got it. So, you get on the meeting. You're\nlike, \"Dude, John, how's it going, my dude? The Bucks are killing it.\" Oh,\nthat's fantastic. How's Joyce doing? She's good. Great. Really cool stuff\nthat you guys are doing at XYZ Corp. As soon as I say that, they're like\nimmediately in 60 seconds, they're like, \"This guy prepared.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=mozt_uirl48",
+  "videoId": "mozt_uirl48"
+}

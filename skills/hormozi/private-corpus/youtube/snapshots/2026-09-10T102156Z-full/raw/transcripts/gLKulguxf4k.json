@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5279",
+      "startMs": "160",
+      "startTimeText": "0:00",
+      "text": "There's absolutely someone who is lessfor sure. But the question is it not"
+    },
+    {
+      "endMs": "8880",
+      "startMs": "3929",
+      "startTimeText": "0:03",
+      "text": "[music] that it's more or less, butwhat's the risk adjusted return which is"
+    },
+    {
+      "endMs": "12800",
+      "startMs": "7279",
+      "startTimeText": "0:07",
+      "text": "that they cost less, but they're alsoless likely to help you hit your goal."
+    },
+    {
+      "endMs": "15759",
+      "startMs": "10559",
+      "startTimeText": "0:10",
+      "text": "And so it's actually a riskier move. Soif you were buy a penny stock, it's"
+    },
+    {
+      "endMs": "19439",
+      "startMs": "14559",
+      "startTimeText": "0:14",
+      "text": "cheaper than buying, you know, [music]some stock in Apple, but the"
+    },
+    {
+      "endMs": "22960",
+      "startMs": "17279",
+      "startTimeText": "0:17",
+      "text": "riskadjusted return is way higher in yougetting a 10% return on Apple than you"
+    },
+    {
+      "endMs": "26240",
+      "startMs": "21199",
+      "startTimeText": "0:21",
+      "text": "getting a 100x return on this [music]penny stock. That's how I'd frame it."
+    }
+  ],
+  "transcript_only_text": " There's absolutely someone who is less\nfor sure. But the question is it not [music]  that it's more or less, but\nwhat's the risk adjusted return which is that they cost less, but they're also\nless likely to help you hit your goal. And so it's actually a riskier move. So\nif you were buy a penny stock, it's cheaper than buying, you know, [music]\nsome stock in Apple, but the riskadjusted return is way higher in you\ngetting a 10% return on Apple than you getting a 100x return on this [music]\npenny stock. That's how I'd frame it.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=gLKulguxf4k",
+  "videoId": "gLKulguxf4k"
+}

@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3960",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "No one will remember that you asked for"
+    },
+    {
+      "endMs": "5640",
+      "startMs": "2480",
+      "startTimeText": "0:02",
+      "text": "help. At the end [music] of the day,"
+    },
+    {
+      "endMs": "7720",
+      "startMs": "3960",
+      "startTimeText": "0:03",
+      "text": "they will only remember if you win."
+    },
+    {
+      "endMs": "9170",
+      "startMs": "5640",
+      "startTimeText": "0:05",
+      "text": "Progress is greater than pride. There's"
+    },
+    {
+      "endMs": "10440",
+      "startMs": "7720",
+      "startTimeText": "0:07",
+      "text": "only one person's pride that I want,"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "9170",
+      "startTimeText": "0:09",
+      "text": "[music] which is my own, is that I'm"
+    },
+    {
+      "endMs": "13440",
+      "startMs": "10440",
+      "startTimeText": "0:10",
+      "text": "proud of myself."
+    }
+  ],
+  "transcript_only_text": " No  one  will  remember  that  you  asked  for \n help.  At  the  end  [music]  of  the  day, \n they  will  only  remember  if  you  win. \n Progress  is  greater  than  pride.  There's \n only  one  person's  pride  that  I  want, \n [music]  which  is  my  own,  is  that  I'm \n proud  of  myself.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=s3VDJPjKrC0",
+  "videoId": "s3VDJPjKrC0"
+}

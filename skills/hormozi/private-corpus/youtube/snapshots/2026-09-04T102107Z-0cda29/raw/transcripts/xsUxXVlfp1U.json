@@ -1,0 +1,89 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "4880",
+      "startMs": "320",
+      "startTimeText": "0:00",
+      "text": "No one knows you exist. And so the"
+    },
+    {
+      "endMs": "6480",
+      "startMs": "3120",
+      "startTimeText": "0:03",
+      "text": "answer is you have to advertise more."
+    },
+    {
+      "endMs": "8160",
+      "startMs": "4880",
+      "startTimeText": "0:04",
+      "text": "You either do a 100 reachouts a day,"
+    },
+    {
+      "endMs": "10000",
+      "startMs": "6480",
+      "startTimeText": "0:06",
+      "text": "cold or warm. You do a 100 minutes of"
+    },
+    {
+      "endMs": "12160",
+      "startMs": "8160",
+      "startTimeText": "0:08",
+      "text": "making content and post something. And"
+    },
+    {
+      "endMs": "13519",
+      "startMs": "10000",
+      "startTimeText": "0:10",
+      "text": "then paid ads is 100 minutes a day of"
+    },
+    {
+      "endMs": "14719",
+      "startMs": "12160",
+      "startTimeText": "0:12",
+      "text": "making paid ads. So that's doing the"
+    },
+    {
+      "endMs": "17039",
+      "startMs": "13519",
+      "startTimeText": "0:13",
+      "text": "research, looking at other hooks,"
+    },
+    {
+      "endMs": "18720",
+      "startMs": "14719",
+      "startTimeText": "0:14",
+      "text": "recording, editing, cutting it, and"
+    },
+    {
+      "endMs": "22720",
+      "startMs": "17039",
+      "startTimeText": "0:17",
+      "text": "spending money. You reach out to people,"
+    },
+    {
+      "endMs": "22720",
+      "startMs": "18720",
+      "startTimeText": "0:18",
+      "text": "you make content, you run ads. Pick one."
+    }
+  ],
+  "transcript_only_text": " No  one  knows  you  exist.  And  so  the \n answer  is  you  have  to  advertise  more. \n You  either  do  a  100  reachouts  a  day, \n cold  or  warm.  You  do  a  100  minutes  of \n making  content  and  post  something.  And \n then  paid  ads  is  100  minutes  a  day  of \n making  paid  ads.  So  that's  doing  the \n research,  looking  at  other  hooks, \n recording,  editing,  cutting  it,  and \n spending  money.  You  reach  out  to  people, \n you  make  content,  you  run  ads.  Pick  one.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=xsUxXVlfp1U",
+  "videoId": "xsUxXVlfp1U"
+}

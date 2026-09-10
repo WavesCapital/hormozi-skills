@@ -1,0 +1,803 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "channel": {
+    "handle": "AlexHormozi",
+    "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+    "thumbnail": "https://yt3.ggpht.com/4To_zqG1x2hAszdNGNtYaNGxDOPoPA77fDlQTnLZ7ehDBCH0piv5XetKK_DAe7Uk3PY8odSCI98=s48-c-k-c0x00ffffff-no-rj",
+    "title": "Alex Hormozi",
+    "url": "https://www.youtube.com/@AlexHormozi"
+  },
+  "chapters": [],
+  "collaborators": [],
+  "commentCountInt": 147,
+  "commentCountText": "147",
+  "credits_charged": 1,
+  "description": "You don't need a reason to raise your prices.\n\nWanting to is reason enough.",
+  "descriptionLinks": [],
+  "durationFormatted": "00:01:57",
+  "durationMs": 117000,
+  "genre": "Education",
+  "id": "53NQjSuynRk",
+  "isPaidPromotion": false,
+  "keywords": [
+    "video",
+    "sharing",
+    "camera phone",
+    "video phone",
+    "free",
+    "upload"
+  ],
+  "likeCountInt": 15736,
+  "likeCountText": "15736",
+  "most_replayed": {
+    "markers": [
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 1,
+        "startMillis": 0
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.6263486722734031,
+        "startMillis": 1170
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.4323276899949201,
+        "startMillis": 2340
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.33406038815097605,
+        "startMillis": 3510
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.2969845191081646,
+        "startMillis": 4680
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.2938280478582821,
+        "startMillis": 5850
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.2818058396213992,
+        "startMillis": 7020
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.26554732946891074,
+        "startMillis": 8190
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.24714799658923098,
+        "startMillis": 9360
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.22352920168305868,
+        "startMillis": 10530
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.2079822578679571,
+        "startMillis": 11700
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.18811108306875535,
+        "startMillis": 12870
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.17071571223270043,
+        "startMillis": 14040
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.1570369689611323,
+        "startMillis": 15210
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.14196669325418565,
+        "startMillis": 16380
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.12989624323171722,
+        "startMillis": 17550
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.12222794963576283,
+        "startMillis": 18720
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.11053165392708002,
+        "startMillis": 19890
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.10077017169260839,
+        "startMillis": 21060
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.09270070464326718,
+        "startMillis": 22230
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.08454461741108682,
+        "startMillis": 23400
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0770592873313939,
+        "startMillis": 24570
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.07556252983850267,
+        "startMillis": 25740
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0690248797192515,
+        "startMillis": 26910
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.062470962021140095,
+        "startMillis": 28080
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.058828613717598476,
+        "startMillis": 29250
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.05379959455396987,
+        "startMillis": 30420
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04888505613927441,
+        "startMillis": 31590
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04756663431693441,
+        "startMillis": 32760
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.042757507943416685,
+        "startMillis": 33930
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04081689797558863,
+        "startMillis": 35100
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.03956737963382335,
+        "startMillis": 36270
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.041812305516537,
+        "startMillis": 37440
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.039866460006087255,
+        "startMillis": 38610
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.03635761803939867,
+        "startMillis": 39780
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.03214015472804792,
+        "startMillis": 40950
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.029338578474449827,
+        "startMillis": 42120
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.030036354766538507,
+        "startMillis": 43290
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.029644577242320967,
+        "startMillis": 44460
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.02774281313090918,
+        "startMillis": 45630
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.026781109395587924,
+        "startMillis": 46800
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.02612404879656612,
+        "startMillis": 47970
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.026550839012066195,
+        "startMillis": 49140
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.025699502385046768,
+        "startMillis": 50310
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.013109097535961983,
+        "startMillis": 51480
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.012301842307980515,
+        "startMillis": 52650
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.010140451377632536,
+        "startMillis": 53820
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.01104180613505559,
+        "startMillis": 54990
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.007118140907430791,
+        "startMillis": 56160
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0035776519554307604,
+        "startMillis": 57330
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.00040173440438199957,
+        "startMillis": 58500
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0005635687664916671,
+        "startMillis": 59670
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0019546337427075785,
+        "startMillis": 60840
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.002716592177828197,
+        "startMillis": 62010
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0017215118582936816,
+        "startMillis": 63180
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0,
+        "startMillis": 64350
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0032248137794620227,
+        "startMillis": 65520
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.005316553294575047,
+        "startMillis": 66690
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.008423941332379219,
+        "startMillis": 67860
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0131915105863373,
+        "startMillis": 69030
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.017145747643199455,
+        "startMillis": 70200
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.019690735562418585,
+        "startMillis": 71370
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.021581374145759284,
+        "startMillis": 72540
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027692701508673027,
+        "startMillis": 73710
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027900206630973666,
+        "startMillis": 74880
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.02643294581124569,
+        "startMillis": 76050
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.02630462827109808,
+        "startMillis": 77220
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.026405552704314363,
+        "startMillis": 78390
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.026066551319560087,
+        "startMillis": 79560
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027697095624801944,
+        "startMillis": 80730
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027364451684659716,
+        "startMillis": 81900
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.02648380536814209,
+        "startMillis": 83070
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.028734761474053936,
+        "startMillis": 84240
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.028550208596639447,
+        "startMillis": 85410
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027856499199265826,
+        "startMillis": 86580
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027971400661445368,
+        "startMillis": 87750
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.027396612875050082,
+        "startMillis": 88920
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.030191551208538534,
+        "startMillis": 90090
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.03175669797692556,
+        "startMillis": 91260
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.032562644319251606,
+        "startMillis": 92430
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.03542251273043224,
+        "startMillis": 93600
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.03823292396220443,
+        "startMillis": 94770
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04191645541797557,
+        "startMillis": 95940
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04698310504419756,
+        "startMillis": 97110
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.05380137089878794,
+        "startMillis": 98280
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.05779987633835311,
+        "startMillis": 99450
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.06294328275908234,
+        "startMillis": 100620
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.07228825887963221,
+        "startMillis": 101790
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.07398952975618311,
+        "startMillis": 102960
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0737794536084879,
+        "startMillis": 104130
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.07142897544684772,
+        "startMillis": 105300
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.0702700974367204,
+        "startMillis": 106470
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.06777653002539286,
+        "startMillis": 107640
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.06255131825119975,
+        "startMillis": 108810
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.05907230017908828,
+        "startMillis": 109980
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.05233303492298587,
+        "startMillis": 111150
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.046587774830343875,
+        "startMillis": 112320
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04256229699709376,
+        "startMillis": 113490
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04109583085794229,
+        "startMillis": 114660
+      },
+      {
+        "durationMillis": 1170,
+        "intensityScoreNormalized": 0.04739157086052173,
+        "startMillis": 115830
+      }
+    ],
+    "ranges": [
+      {
+        "decorationTimeMillis": 1170,
+        "label": "Most replayed",
+        "visibleTimeRangeEndMillis": 2340,
+        "visibleTimeRangeStartMillis": 0
+      }
+    ]
+  },
+  "publishDate": "2026-06-20T12:01:37-07:00",
+  "publishDateText": "Jun 20, 2026",
+  "success": true,
+  "thumbnail": "https://img.youtube.com/vi/53NQjSuynRk/maxresdefault.jpg",
+  "title": "How to Raise Your Prices Without Losing Clients",
+  "type": "video",
+  "viewCountInt": 314141,
+  "viewCountText": "314,141",
+  "watchNextVideos": [
+    {
+      "channel": {
+        "handle": "MinorityMindset",
+        "id": "UCT3EznhW_CNFcfOlyDNTLLw",
+        "title": "Minority Mindset",
+        "url": "https://www.youtube.com/@MinorityMindset"
+      },
+      "id": "ONpPFG_V8m0",
+      "lengthInSeconds": 1606,
+      "lengthText": "26:46",
+      "publishDate": "2026-09-08T10:37:37.247Z",
+      "publishDateText": "2 days ago",
+      "publishedTime": "2026-09-08T10:37:37.247Z",
+      "publishedTimeText": "2 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/ONpPFG_V8m0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAjwc0cDjE5IV_T0vp8RnXnumJJFg",
+      "title": "This Is The Weirdest Housing Market In History",
+      "videoUrl": "https://www.youtube.com/watch?v=ONpPFG_V8m0",
+      "viewCountInt": 448000,
+      "viewCountText": "448K views"
+    },
+    {
+      "channel": {
+        "handle": "TheDiaryOfACEOClips",
+        "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+        "title": "The Diary Of A CEO Clips",
+        "url": "https://www.youtube.com/@TheDiaryOfACEOClips"
+      },
+      "id": "ybY3_oLhzwM",
+      "lengthInSeconds": 743,
+      "lengthText": "12:23",
+      "publishDate": "2026-09-09T18:37:37.247Z",
+      "publishDateText": "16 hours ago",
+      "publishedTime": "2026-09-09T18:37:37.247Z",
+      "publishedTimeText": "16 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/ybY3_oLhzwM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBd8PEf1Ps3_wSX-RJ9sHrJQhbP3g",
+      "title": "The SHOCKING Truth About Supplements No One Tells You",
+      "videoUrl": "https://www.youtube.com/watch?v=ybY3_oLhzwM",
+      "viewCountInt": 229000,
+      "viewCountText": "229K views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "jfW6gL6hKhk",
+      "lengthInSeconds": 945,
+      "lengthText": "15:45",
+      "publishDate": "2026-03-10T10:37:37.247Z",
+      "publishDateText": "6 months ago",
+      "publishedTime": "2026-03-10T10:37:37.247Z",
+      "publishedTimeText": "6 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/jfW6gL6hKhk/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB0G9_a7JX0L7DKWNPguRCmRo0OoA",
+      "title": "If I Wanted to Make My First $100K in 2026, I’d Do This",
+      "videoUrl": "https://www.youtube.com/watch?v=jfW6gL6hKhk",
+      "viewCountInt": 1500000,
+      "viewCountText": "1.5M views"
+    },
+    {
+      "channel": {
+        "handle": "CNN",
+        "id": "UCupvZG-5ko_eiXAupbDfxWw",
+        "title": "CNN",
+        "url": "https://www.youtube.com/@CNN"
+      },
+      "id": "i30jVPqQeOM",
+      "lengthInSeconds": 567,
+      "lengthText": "9:27",
+      "publishDate": "2026-09-10T02:37:37.247Z",
+      "publishDateText": "8 hours ago",
+      "publishedTime": "2026-09-10T02:37:37.247Z",
+      "publishedTimeText": "8 hours ago",
+      "thumbnail": "https://i.ytimg.com/vi/i30jVPqQeOM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCUm9pi3oy2ddKYOeH9oecp01a27g",
+      "title": "Ex-Anthropic insider tells CNN how AI could kill all humans by 2030",
+      "videoUrl": "https://www.youtube.com/watch?v=i30jVPqQeOM",
+      "viewCountInt": 704000,
+      "viewCountText": "704K views"
+    },
+    {
+      "channel": {
+        "handle": "wealthenginealexhormozifanpage",
+        "id": "UCJjVAVf2TE6xkbu30ute_3g",
+        "title": "Wealth Engine",
+        "url": "https://www.youtube.com/@wealthenginealexhormozifanpage"
+      },
+      "id": "I6UoWlOKFfU",
+      "lengthInSeconds": 636,
+      "lengthText": "10:36",
+      "publishDate": "2026-08-20T10:37:37.247Z",
+      "publishDateText": "3 weeks ago",
+      "publishedTime": "2026-08-20T10:37:37.247Z",
+      "publishedTimeText": "3 weeks ago",
+      "thumbnail": "https://i.ytimg.com/vi/I6UoWlOKFfU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC6u8aIMKcFK36mEphjjviComAWrA",
+      "title": "Live Like You Have Nothing Left to Prove! | Alex Hormozi",
+      "videoUrl": "https://www.youtube.com/watch?v=I6UoWlOKFfU",
+      "viewCountInt": 257,
+      "viewCountText": "257 views"
+    },
+    {
+      "channel": {
+        "handle": "TheWizardOfWords",
+        "id": "UC5Zb02pmVD2VA7lnx8mV4gw",
+        "title": "The Wizard of Words ",
+        "url": "https://www.youtube.com/@TheWizardOfWords"
+      },
+      "id": "F5xlK-13jHM",
+      "lengthInSeconds": 801,
+      "lengthText": "13:21",
+      "publishDate": "2026-09-07T10:37:37.247Z",
+      "publishDateText": "3 days ago",
+      "publishedTime": "2026-09-07T10:37:37.247Z",
+      "publishedTimeText": "3 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/F5xlK-13jHM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD2N27YubJykGre8bNiWWHLVyZx2A",
+      "title": "Never Explain Yourself Again (Say This Instead)",
+      "videoUrl": "https://www.youtube.com/watch?v=F5xlK-13jHM",
+      "viewCountInt": 75000,
+      "viewCountText": "75K views"
+    },
+    {
+      "channel": {
+        "title": "The Diary Of A CEO and Alex Hormozi",
+        "url": "https://www.youtube.comundefined"
+      },
+      "id": "HwmwyBgzj8c",
+      "lengthInSeconds": 8558,
+      "lengthText": "2:22:38",
+      "publishDate": "2026-08-10T10:37:37.247Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-10T10:37:37.247Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/HwmwyBgzj8c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLChLnGf79sTsn9sq8TA5-fVrvA0fQ",
+      "title": "Alex Hormozi’s Warning: Stop Chasing AI, Build This Instead!",
+      "videoUrl": "https://www.youtube.com/watch?v=HwmwyBgzj8c",
+      "viewCountInt": 1600000,
+      "viewCountText": "1.6M views"
+    },
+    {
+      "channel": {
+        "handle": "thefutur",
+        "id": "UC-b3c7kxa5vU-bnmaROgvog",
+        "title": "The Futur",
+        "url": "https://www.youtube.com/@thefutur"
+      },
+      "id": "DmKgsjbWw8o",
+      "lengthInSeconds": 732,
+      "lengthText": "12:12",
+      "publishDate": "2025-12-10T10:37:37.247Z",
+      "publishDateText": "9 months ago",
+      "publishedTime": "2025-12-10T10:37:37.247Z",
+      "publishedTimeText": "9 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/DmKgsjbWw8o/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCVEUGMpu9m4nVDm9EFTFXCwHMheg",
+      "title": "The Scene Every Salesman Needs to See",
+      "videoUrl": "https://www.youtube.com/watch?v=DmKgsjbWw8o",
+      "viewCountInt": 1400000,
+      "viewCountText": "1.4M views"
+    },
+    {
+      "channel": {
+        "handle": "JimmyKimmelLive",
+        "id": "UCa6vGFO9ty8v5KZJXQxdhaw",
+        "title": "Jimmy Kimmel Live",
+        "url": "https://www.youtube.com/@JimmyKimmelLive"
+      },
+      "id": "o_qH0xDluOM",
+      "lengthInSeconds": 903,
+      "lengthText": "15:03",
+      "publishDate": "2026-09-09T10:37:37.247Z",
+      "publishDateText": "1 day ago",
+      "publishedTime": "2026-09-09T10:37:37.247Z",
+      "publishedTimeText": "1 day ago",
+      "thumbnail": "https://i.ytimg.com/vi/o_qH0xDluOM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA_A08Os02_5H24RggthSaHnfqSVw",
+      "title": "Jimmy Kimmel Recaps Trump’s Crazy Summer, Our Country Still Being a Mess & Our 4,000th Show",
+      "videoUrl": "https://www.youtube.com/watch?v=o_qH0xDluOM",
+      "viewCountInt": 3800000,
+      "viewCountText": "3.8M views"
+    },
+    {
+      "channel": {
+        "handle": "AlexHormozi",
+        "id": "UCUyDOdBWhC1MCxEjC46d-zw",
+        "title": "Alex Hormozi",
+        "url": "https://www.youtube.com/@AlexHormozi"
+      },
+      "id": "uaLNfijnp-8",
+      "lengthInSeconds": 2234,
+      "lengthText": "37:14",
+      "publishDate": "2026-09-05T10:37:37.247Z",
+      "publishDateText": "5 days ago",
+      "publishedTime": "2026-09-05T10:37:37.247Z",
+      "publishedTimeText": "5 days ago",
+      "thumbnail": "https://i.ytimg.com/vi/uaLNfijnp-8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3zwEIsaaclBD5PwqISYwvcDsY1w",
+      "title": "This Video Should Be Required Viewing for Business Owners",
+      "videoUrl": "https://www.youtube.com/watch?v=uaLNfijnp-8",
+      "viewCountInt": 349000,
+      "viewCountText": "349K views"
+    },
+    {
+      "channel": {
+        "handle": "BrainwaveWorkspace",
+        "id": "UCdOcUtbQiyEAAnps3Np61NQ",
+        "title": "Brainwave Workspace",
+        "url": "https://www.youtube.com/@BrainwaveWorkspace"
+      },
+      "id": "UDTmUzu05BE",
+      "lengthInSeconds": 7957,
+      "lengthText": "2:12:37",
+      "publishDate": "2026-04-10T10:37:37.247Z",
+      "publishDateText": "5 months ago",
+      "publishedTime": "2026-04-10T10:37:37.247Z",
+      "publishedTimeText": "5 months ago",
+      "thumbnail": "https://i.ytimg.com/vi/UDTmUzu05BE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCr-K3WkeURpZ2q5ySNxtA2t3MqhQ",
+      "title": "Uninterrupted Deep Work Mix ~ Immersive Productivity Soundscape ~ Neural Focus Study Music",
+      "videoUrl": "https://www.youtube.com/watch?v=UDTmUzu05BE",
+      "viewCountInt": 2600000,
+      "viewCountText": "2.6M views"
+    },
+    {
+      "channel": {
+        "handle": "MoreMozi",
+        "id": "UCrvchO1h6lWZAuGaa1LqX9Q",
+        "title": "MoreMozi",
+        "url": "https://www.youtube.com/@MoreMozi"
+      },
+      "id": "GT8lQuAfzVw",
+      "lengthInSeconds": 727,
+      "lengthText": "12:07",
+      "publishDate": "2026-08-10T10:37:37.247Z",
+      "publishDateText": "1 month ago",
+      "publishedTime": "2026-08-10T10:37:37.247Z",
+      "publishedTimeText": "1 month ago",
+      "thumbnail": "https://i.ytimg.com/vi/GT8lQuAfzVw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBLKD0wDw==&rs=AOn4CLBWf6Lb3mW4UyBeZKUWc-hDtJekdw",
+      "title": "How to Price Anything",
+      "videoUrl": "https://www.youtube.com/watch?v=GT8lQuAfzVw",
+      "viewCountInt": 20000,
+      "viewCountText": "20K views"
+    }
+  ]
+}

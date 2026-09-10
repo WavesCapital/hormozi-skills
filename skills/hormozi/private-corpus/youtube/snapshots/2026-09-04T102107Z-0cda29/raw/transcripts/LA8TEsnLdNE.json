@@ -1,0 +1,65 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "5200",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "If you ever played a video game whereyou you have the ultimate sword day one"
+    },
+    {
+      "endMs": "8840",
+      "startMs": "3360",
+      "startTimeText": "0:03",
+      "text": "and you know where every every monsteris and you can't lose because you have"
+    },
+    {
+      "endMs": "12520",
+      "startMs": "7160",
+      "startTimeText": "0:07",
+      "text": "an impenetrable shield on, it stopsbeing fun. And it's the same reason that"
+    },
+    {
+      "endMs": "16200",
+      "startMs": "10240",
+      "startTimeText": "0:10",
+      "text": "the Greek gods envied the mortals.Anything could happen, whereas the gods'"
+    },
+    {
+      "endMs": "19480",
+      "startMs": "14320",
+      "startTimeText": "0:14",
+      "text": "outcomes were guaranteed. And so we havethis perception that we want this thing,"
+    },
+    {
+      "endMs": "23200",
+      "startMs": "18080",
+      "startTimeText": "0:18",
+      "text": "but if we really were to have thatguarantee, it would circumvent the"
+    },
+    {
+      "endMs": "25560",
+      "startMs": "21840",
+      "startTimeText": "0:21",
+      "text": "reason it's worth pursuing to beginwith."
+    }
+  ],
+  "transcript_only_text": " If you ever played a video game where\nyou you have the ultimate sword day one and you know where every every monster\nis and you can't lose because you have an impenetrable shield on, it stops\nbeing fun. And it's the same reason that the Greek gods envied the mortals.\nAnything could happen, whereas the gods' outcomes were guaranteed. And so we have\nthis perception that we want this thing, but if we really were to have that\nguarantee, it would circumvent the reason it's worth pursuing to begin\nwith.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=LA8TEsnLdNE",
+  "videoId": "LA8TEsnLdNE"
+}

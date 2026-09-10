@@ -1,0 +1,83 @@
+{
+  "captionTracks": [
+    {
+      "isTranslatable": true,
+      "kind": "asr",
+      "languageCode": "en",
+      "name": {
+        "simpleText": "English (auto-generated)"
+      },
+      "trackName": "",
+      "vssId": "a.en"
+    }
+  ],
+  "credits_charged": 1,
+  "language": "English",
+  "success": true,
+  "transcript": [
+    {
+      "endMs": "3520",
+      "startMs": "0",
+      "startTimeText": "0:00",
+      "text": "Do you take weekends? Do you stop"
+    },
+    {
+      "endMs": "4680",
+      "startMs": "1440",
+      "startTimeText": "0:01",
+      "text": "working at 5? Great. Stop complaining"
+    },
+    {
+      "endMs": "6840",
+      "startMs": "3520",
+      "startTimeText": "0:03",
+      "text": "that you aren't making more. Friendly"
+    },
+    {
+      "endMs": "8760",
+      "startMs": "4680",
+      "startTimeText": "0:04",
+      "text": "reminder that it's okay to work on"
+    },
+    {
+      "endMs": "11600",
+      "startMs": "6840",
+      "startTimeText": "0:06",
+      "text": "weekends. Ordinary people will never"
+    },
+    {
+      "endMs": "13240",
+      "startMs": "8760",
+      "startTimeText": "0:08",
+      "text": "approve, applaud, or even understand why"
+    },
+    {
+      "endMs": "14840",
+      "startMs": "11600",
+      "startTimeText": "0:11",
+      "text": "you're working so hard. And you don't"
+    },
+    {
+      "endMs": "16520",
+      "startMs": "13240",
+      "startTimeText": "0:13",
+      "text": "need them to. You'd be amazed how much"
+    },
+    {
+      "endMs": "20800",
+      "startMs": "14840",
+      "startTimeText": "0:14",
+      "text": "faster you get to your goals when you"
+    },
+    {
+      "endMs": "20800",
+      "startMs": "16520",
+      "startTimeText": "0:16",
+      "text": "don't go backwards 104 days a year."
+    }
+  ],
+  "transcript_only_text": " Do  you  take  weekends?  Do  you  stop \n working  at  5?  Great.  Stop  complaining \n that  you  aren't  making  more.  Friendly \n reminder  that  it's  okay  to  work  on \n weekends.  Ordinary  people  will  never \n approve,  applaud,  or  even  understand  why \n you're  working  so  hard.  And  you  don't \n need  them  to.  You'd  be  amazed  how  much \n faster  you  get  to  your  goals  when  you \n don't  go  backwards  104  days  a  year.",
+  "type": "video",
+  "url": "https://www.youtube.com/watch?v=49t3bC9nIWs",
+  "videoId": "49t3bC9nIWs"
+}
