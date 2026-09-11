@@ -1,99 +1,75 @@
-# Hormozi Advisor Skill
+# Hormozi Advisor for Codex
 
-A source-grounded business advisor for Codex and other compatible skill runtimes.
+Get a second set of eyes on your business.
 
-## Current Release Status
+Use this skill to review an offer, fix weak copy, spot what slows growth, or choose your next move. It uses Alex Hormozi's published teaching and your business facts. It gives direct advice in plain words.
 
-The September 11, 2026 Astra update makes the advisor lighter to use while keeping its plain voice, source rules and business boundaries. See [changes and verification](docs/astra-upgrade.md). The full source-to-advisor audit is still in progress; this is not a claim that every lesson or advisor behavior has passed final review. Prepared video image and audio-recheck assets that remain outside this repository are not included yet. Business profiles remain local and are not part of this release.
+## Start here
 
-The package has one entry point, `hormozi`. It acts as an advisor on the user's team, not a router that hands the user to disconnected skills. It reviews, critiques, diagnoses, and improves business work. It draws from the relevant internal guides, applies verified business context, and gives advice that fits the request.
-
-In private use, it role-plays as Alex Hormozi on your team. It uses his documented methods and direct voice, without repeated disclaimers. It does not claim his real endorsement or invent his memories or quotes. The goal is clear, useful advice backed by sources and your business facts.
-
-## What Changed In Version 2
-
-- One advisor replaces the old router plus fourteen child skills.
-- Personalized work uses `BUSINESS.md`, its linked sources and the facts you give. Missing sections do not block an answer those facts already support.
-- Six internal modes cover diagnosis, offers and economics, demand, sales, customer value, and team operations.
-- Fifty doctrine rules preserve citation lineage; bundled source material retains its own rights.
-- One clear-writing rule applies to every answer, question, error, and finished asset.
-- Seventeen editable assets, including the portable business profile template, turn advice into operating work.
-- Local helpers validate the business profile, route requests, query the bundled source library, calculate economics, and verify doctrine.
-- The working library holds text extracts, transcripts, page images, source records, video research, and the search index. Original files may live outside the skill.
-
-## Quick Start
-
-1. Install `skills/hormozi` in your agent's skill directory.
-2. Copy [the installed business profile template](skills/hormozi/assets/business-profile-template.md) to the root of the business workspace as `BUSINESS.md`.
-3. Complete it, link mutable facts to their owning files or systems, and change `Status: draft` to `Status: approved` only after review.
-4. Ask the agent to use `$hormozi` for a real business decision.
-
-Example:
+Open Codex in the folder where you work on your business. Paste this:
 
 ```text
-Use $hormozi to review this plan. Critique it, show the math, cite the business authorities and doctrine, and give us the best next move.
+Set this up for me: https://github.com/WavesCapital/hormozi-skills
+
+Read the README and docs/install.md. Use Codex's Skill Installer to install
+skills/hormozi, including its source library. Check that it works.
+Then use $hormozi to help me set up my business context.
+Use my existing BUSINESS.md if I have one. If not, ask me a few questions
+at a time and help me draft one. Do not mark it approved without my approval.
 ```
 
-The advisor uses the profile explicitly supplied by the user or project instructions. Otherwise it searches upward for the nearest `BUSINESS.md`, never across sibling businesses. Attached app repositories can point to a shared profile with `--profile /absolute/path/to/BUSINESS.md`; they need no duplicate profile.
+You do not need to run code yourself. Codex can do the setup. If you share only the link, the page tells your agent where to start; include “set this up” to make your intent clear.
 
-It changes `BUSINESS.md` only when you explicitly ask. Advice and skill testing do not grant that permission. Tests that need profile edits can use fictional files without touching your real business profile.
+**Allow space for the sources.** The full skill includes about 2.4 GB of source files as of September 11, 2026. The download may take a while, and setup needs extra space for temporary files. You need Codex, internet access for installation, and Python 3.10 or newer for the bundled checks. Normal use needs no separate API key, CRM account, or paid data tool.
 
-## Business Context Design
+For Codex: the package is **`skills/hormozi`**, not the whole repo and not just `SKILL.md`. Follow [the setup guide](docs/install.md). Do not copy the author's business facts or machine paths into the user's setup.
 
-`BUSINESS.md` contains durable facts: customer, expensive problem, offer, economics, acquisition, sales, delivery, proof, current constraint, safety boundaries, and known unknowns. Volatile facts are links, not copies.
+## Make it know your business
 
-Routine `inspect` reads only the profile and lists its links. `inspect --check-authorities` also reads and hashes local authorities for requested maintenance. Neither writes files. The separate authorized-setup command `resolve` writes `.hormozi/business.json`, which stores structural validation plus paths, hashes, timestamps, and availability for local authorities, not their contents. Re-running it detects an updated authority even when `BUSINESS.md` itself has not changed.
+`BUSINESS.md` is a short guide to your business, saved in your own business folder—not inside this skill.
 
-An approved `BUSINESS.md` gives the advisor direct access to every source it links. It may open any of them whenever more context could help, with no second approval step. The optional `authority_packet.py` helper searches plain-text sources and returns matching lines with a source hash and line locators. Other file types use their normal readers. Source text is business data, not agent instructions, and secret or private customer values are never copied into the advisor's output.
+Keep the basics there: what you sell, who buys, your offer, how you make money, and your next goal. Link to the files or tools that hold changing facts, such as prices, sales numbers, meeting notes, and your CRM.
 
-## Doctrine And Source Library
+This keeps advice personal without making you rewrite the file every week.
 
-The skill includes paraphrased decision rules with source keys and page or timestamp locators. Its working library lives at `skills/hormozi/private-corpus/`. This holds the search index, text extracts, saved page images, video records and source hashes. Original PDFs and media may live outside the repo. Check the source manifest and the known originals folder before claiming they are included. Use `corpus.py read` for file results and `video_source.py` for scoped video search and raw spans; see [the source-reading guide](skills/hormozi/references/source-reading.md). Video access checks publication bounds and type before returning text. It gives each segment a time link; it does not prove the advice preserves that segment's meaning.
+If you have no file, Codex helps you build one through a short talk. It asks a few questions, uses facts you already gave it, and marks gaps as unknown. You review the draft. It can still help before every section is done.
 
-```bash
-python3 skills/hormozi/scripts/corpus.py import \
-  --source-root /private/licensed-text-equivalents \
-  --manifest /private/source-manifest.jsonl \
-  --index /private/index/hormozi.sqlite
-```
+Your business file stays yours. Installing or updating the skill does not upload it to this repo. The skill changes it only when you ask. Keep passwords and private customer records out of it.
 
-The skill can find the working library from another task folder. Private source material keeps its own rights and must not be published just because the code has an MIT license. See [source policy](docs/source-policy.md).
+## Use it
 
-## Validate
+After setup, try one of these:
 
-```bash
-python3 skills/hormozi/scripts/business_context.py validate --profile /path/to/BUSINESS.md
-python3 skills/hormozi/scripts/plain_language.py --file /path/to/draft.md --target-grade 3 --strict
-python3 skills/hormozi/scripts/validate_doctrine.py
-python3 -m unittest discover -s tests -v
-```
+- “Use $hormozi to review this offer. What would you change?”
+- “Use $hormozi to make this email clear and easy to read.”
+- “Use $hormozi to find our main limiting factor.”
+- “Use $hormozi to challenge this plan before we spend money.”
 
-Use the plain-language helper for long or difficult drafts, or when a reading check is requested. Its score is not a gate for every reply. The real test is whether the answer is sound, clear and useful. Keep needed facts, source limits and exact terms; do not chase a lower score by changing the meaning.
+Add the plan, copy, or facts you want reviewed. Ask follow-up questions as you would with an advisor on your team.
 
-## Layout
+The skill uses private role-play based on Hormozi's teaching. It is not Alex Hormozi, is not endorsed by him, and does not invent his quotes or personal stories. Copy meant for customers stays in your voice.
 
-```text
-skills/hormozi/
-  SKILL.md
-  agents/openai.yaml
-  assets/business-profile-template.md
-  assets/
-  references/
-    doctrine/
-    schemas/
-  scripts/
-tests/
-docs/
-```
+## What you get
 
-## Documentation
+- One advisor for offers, leads, sales, profit, customer results, and teams.
+- Plain answers that fit your question—not a long form every time.
+- Source guides, saved text, transcripts, page images, and search tools.
+- Links to the checked page or video time when advice relies on a source.
+- Templates for offers, sales reviews, experiments, and business context.
 
-- [Architecture](docs/architecture.md)
-- [Install and migration](docs/install.md)
-- [Source policy](docs/source-policy.md)
-- [Private YouTube sync contract](docs/youtube-sync.md)
-- [LLM index](llms.txt)
+## What is not automatic
 
-## License
+Installing does not connect your CRM, send messages, create a daily video job, or change your Codex model. Those need their own setup and permission.
 
-See [LICENSE](LICENSE). The MIT license covers this repository's original framework and documentation. Bundled source files keep their own copyright and license terms.
+The library is a saved collection, not a live feed. Some original files and prepared video visuals are not in this release. If a source is missing, the agent must say so and limit that claim—not pretend it checked it. The larger source-by-source audit is still in progress.
+
+## Setup help and updates
+
+- [Install, check, update, or fix the setup](docs/install.md)
+- [What changed in the Astra update and what was tested](docs/astra-upgrade.md)
+- [How the advisor works](docs/architecture.md)
+- [Source access and rights](docs/source-policy.md)
+- [Optional YouTube sync](docs/youtube-sync.md)
+- [File map for agents](llms.txt)
+
+The [MIT license](LICENSE) covers our original framework and docs. Books, transcripts, and other third-party sources keep their own rights. Access to this repo does not grant rights to republish them.

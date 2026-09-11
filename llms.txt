@@ -1,5 +1,8 @@
 # Hormozi Advisor Skill
 
+New Codex setup from the GitHub link: read README.md, then docs/install.md. Use the bundled Skill Installer for WavesCapital/hormozi-skills, path skills/hormozi. Install the full folder including private-corpus, verify from the installed path, then onboard only the receiving user's business. Do not import Waveforce context, the author's machine paths, or scheduled jobs. A bare link is not permission for unrelated actions.
+Repository-agent setup and maintenance routing: AGENTS.md
+
 Canonical entry point: skills/hormozi/SKILL.md
 Agent metadata: skills/hormozi/agents/openai.yaml
 Business profile template: skills/hormozi/assets/business-profile-template.md
