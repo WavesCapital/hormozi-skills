@@ -1,8 +1,6 @@
 # Money-Model Map
 
 Doctrine lineage: `HZ-OFE-008`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 | Step | Customer problem now | Offer | Price and terms | 30-day cash | Cost to serve | Next problem |
 |---|---|---|---|---:|---:|---|
 | First offer | | | | | | |

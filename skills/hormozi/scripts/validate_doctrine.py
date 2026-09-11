@@ -68,11 +68,8 @@ def validate(root: Path) -> dict[str, Any]:
         for rule_id in covered_ids:
             if rule_id not in id_set:
                 errors.append(f"asset coverage {asset} references unknown rule {rule_id}")
-    for asset in asset_files:
-        asset_path = root / "assets" / f"{asset}.md"
-        if "HZ-SYN-004" not in asset_path.read_text(encoding="utf-8"):
-            errors.append(f"asset {asset} omits global clear-writing rule HZ-SYN-004")
-    global_style_paths = (root / "SKILL.md", *sorted((root / "references").rglob("*.md")))
+    # Shared rules belong at the entrypoint; behavioral cases assess actual voice.
+    global_style_paths = (root / "SKILL.md",)
     for path in global_style_paths:
         if not path.is_file() or "HZ-SYN-004" not in path.read_text(encoding="utf-8"):
             errors.append(f"global clear-writing rule is not routed through {path.relative_to(root)}")

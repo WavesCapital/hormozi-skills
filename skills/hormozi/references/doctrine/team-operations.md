@@ -1,10 +1,10 @@
 # Team & Operations
 
-Writing rule: `HZ-SYN-004`. Make each task, note, score, and piece of feedback easy to act on.
-
 Repair a verified people, service, handoff, communication, or cadence constraint without importing premature overhead.
 
-## Workflow
+## Decision checks
+
+Use the checks that can change this decision. They are not required steps for every reply; recommend a test or implementation only when the request and uncertainty call for it.
 
 1. Prove that people, service, handoff, or cadence is the constraint.
 2. Define the observable behavior and customer or throughput outcome.
@@ -125,7 +125,3 @@ Citations:
 
 - `source:leila-hormozis-5-scaling-framework-sops:p0015` (primary)
 - `source:leila-hormozis-5-scaling-framework-sops:p0017` (primary)
-
-## Output Check
-
-Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

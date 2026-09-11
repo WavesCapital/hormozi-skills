@@ -1,7 +1,5 @@
 # Add the Right Product, Then Make It Work
 
-Writing rule: `HZ-SYN-004`. Use this to choose: add a product or improve what the firm sells now.
-
 ## Earn the Right to Add More
 
 The Stage 5 guide starts with a product that works. Buyers need another thing the firm can sell them. The firm needs more profit per buyer to fund growth.

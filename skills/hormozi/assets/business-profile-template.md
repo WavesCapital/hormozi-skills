@@ -1,7 +1,5 @@
 # Business Profile
 
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Status
 
 Status: draft

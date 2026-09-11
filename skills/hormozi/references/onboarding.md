@@ -1,7 +1,5 @@
 # Missing-Profile Onboarding
 
-Use `HZ-SYN-004` and [communication-standard.md](communication-standard.md) in every onboarding message.
-
 Onboarding is a short talk, not a long form. Check the user's business files before you ask a question they already answer.
 
 This is setup for the advisor, not proof that the business is starting from zero. A firm can be mature and have no profile. First learn what it does and what the owner wants help with. Do not reset its market, choose its first offer, or stop its existing work just because this file is missing.

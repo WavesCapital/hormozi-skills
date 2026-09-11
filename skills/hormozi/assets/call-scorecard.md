@@ -1,8 +1,6 @@
 # Call Scorecard
 
 Doctrine lineage: `HZ-SAL-001`, `HZ-SAL-004`, `HZ-SAL-007`, `HZ-SAL-008`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 Score what you can see or hear. Use 0 for missing, 1 for partial and 2 for strong. Mark an item not needed when it does not fit the call. A sale alone does not prove a good call.
 
 | Behavior | Score | Evidence / timestamp |

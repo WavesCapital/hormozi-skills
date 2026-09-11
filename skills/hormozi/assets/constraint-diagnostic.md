@@ -1,8 +1,6 @@
 # Main Problem Check
 
 Doctrine lineage: `HZ-DIA-001`, `HZ-DIA-002`, `HZ-DIA-003`, `HZ-DIA-005`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Result
 
 - Result the business wants:

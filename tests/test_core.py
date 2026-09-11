@@ -290,7 +290,6 @@ class RoutingTests(unittest.TestCase):
             "How does plate tectonics work?",
             "What is a sonnet?",
             "Describe sourdough baking",
-            "Use $hormozi. Summarize this unrelated article",
         ):
             with self.subTest(query=query):
                 result = route_module.route(query)
@@ -361,6 +360,10 @@ class RoutingTests(unittest.TestCase):
         ):
             with self.subTest(query=query):
                 self.assertEqual(route_module.route(query)["request_type"], "general_doctrine")
+
+    def test_explicit_invocation_accepts_a_contextual_followup(self):
+        result = route_module.route("Use $hormozi. Make it clearer.")
+        self.assertNotEqual(result["request_type"], "not_applicable")
 
     def test_generic_channel_work_is_allowed_when_hormozi_lens_is_explicit(self):
         for query in (
@@ -970,41 +973,6 @@ class PlainLanguageTests(unittest.TestCase):
         payload = json.loads(result.stdout)
         self.assertFalse(payload["ok"])
 
-    def test_skill_requires_meaning_review_with_situational_measurement(self):
-        # Instruction wiring only; real saved advisor cases grade meaning and voice.
-        # See the audit's meaning-first-writing-2026-09-05 decision for why the
-        # old mandatory shell/checker ritual is no longer the intended contract.
-        skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
-        for required in (
-            "quality requirement for every reply",
-            "--target-grade 3",
-            "The feedback itself must model the writing",
-            "Keep amounts with their units, people, conditions and time spans",
-            "Read the final answer as the user will see it",
-            "not a required shell step for every reply",
-            "cannot prove meaning or voice",
-        ):
-            self.assertIn(required, skill_text)
-
-        standard = (SKILL / "references" / "communication-standard.md").read_text(
-            encoding="utf-8"
-        )
-        for locator in (
-            # The full source review resolved these legacy aliases to exact
-            # named-file locators. Keep checking the same writing pages.
-            "file:100m-money-models-book-launch-blackbook-100m-money-models-master-doc:7a0c7a249ae8:p0224",
-            "file:100m-money-models-book-launch-blackbook-100m-money-models-master-doc:7a0c7a249ae8:p0225",
-            "source:100m-leads-how-to-get-strangers:p0011",
-        ):
-            self.assertIn(locator, standard)
-
-        for path in (SKILL / "references" / "doctrine").glob("*.md"):
-            self.assertNotIn(
-                "Return the constraint, evidence, prescription",
-                path.read_text(encoding="utf-8"),
-                path.name,
-            )
-
     def test_exact_term_can_stay_when_it_is_defined(self):
         result = plain_language.analyze(
             "Underwriting means a bank check. Waveforce does not do it.",
@@ -1021,22 +989,14 @@ class PlainLanguageTests(unittest.TestCase):
         )
         self.assertTrue(result["ok"], result)
 
-    def test_every_user_facing_asset_routes_through_clear_writing(self):
-        missing = [
-            path.name for path in (SKILL / "assets").glob("*.md")
-            if "HZ-SYN-004" not in path.read_text(encoding="utf-8")
-        ]
-        self.assertEqual(missing, [])
-
-    def test_every_user_facing_asset_passes_clear_writing_check(self):
-        failures = {}
+    def test_asset_reading_checks_are_hints_not_quality_verdicts(self):
         for path in (SKILL / "assets").glob("*.md"):
             result = plain_language.analyze(path.read_text(encoding="utf-8"), target_grade=3)
-            if not result["ok"]:
-                failures[path.name] = result
-        self.assertEqual(failures, {})
+            self.assertEqual(result["quality_status"], "not_assessed")
+            self.assertEqual(result["has_review_hints"], bool(result["review_hints"]))
+            self.assertIn(result["mechanical_status"], ("flags_to_review", "no_flags"))
 
-    def test_common_response_types_can_all_pass_the_same_gate(self):
+    def test_short_sample_prose_can_pass_the_optional_heuristic(self):
         samples = {
             "advice": "Fix the slow sales step first. Do not buy more ads yet.",
             "feedback": "This line is hard to read. Split it into two short lines.",
@@ -1055,16 +1015,6 @@ class PlainLanguageTests(unittest.TestCase):
             if not (result := plain_language.analyze(text, target_grade=3))["ok"]
         }
         self.assertEqual(failures, {})
-
-    def test_all_skill_response_paths_use_the_same_standard(self):
-        skill_text = (SKILL / "SKILL.md").read_text(encoding="utf-8")
-        for path_name in (
-            "advice", "feedback", "questions", "onboarding", "refusals",
-            "blocked messages", "errors", "source notes", "plans", "templates", "finished copy",
-        ):
-            self.assertIn(path_name, skill_text)
-        for path in (SKILL / "references").rglob("*.md"):
-            self.assertIn("HZ-SYN-004", path.read_text(encoding="utf-8"))
 
 
 class PackagingTests(unittest.TestCase):

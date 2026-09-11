@@ -1,7 +1,5 @@
 # Use the Right Scaling Roadmap
 
-Writing rule: `HZ-SYN-004`. Use this map for a named Scaling Roadmap or a question that spans its stages. The ten Scaling Roadmaps are not the six-stage [Marketing Roadmap](marketing-roadmap-review.md).
-
 ## Find the Named Source
 
 Each PDF teaches its named stage, then often repeats the prior stage and previews the next. Those repeats are not independent proof. Read the requested PDF when the user names it. Do not transfer page numbers from its neighbor.
@@ -56,6 +54,6 @@ Company counts, headcounts and leadership layers describe the model; they do not
 
 Skool and workshop offers are promotions, not required purchases. The one-in-two revenue claim, 35-day hiring claim and 90% hiring claim lack enough defined evidence here to become promises. Repeated ads and photos add no independent outcome proof.
 
-Familiar comparisons in Stages 6–8 can make a hard idea easy. Follow the [shared writing rule](../communication-standard.md#explain-hard-ideas); use a comparison only when it helps this reader. It explains a relationship, not proof of a result.
+Familiar comparisons in Stages 6–8 can make a hard idea easy. Follow the [shared writing rule](../communication-standard.md#write-copy); use a comparison only when it helps this reader. It explains a relationship, not proof of a result.
 
 Training links and video stills point to separate media. Reading a PDF does not mean those videos were reviewed. Apply the task's video date/type limits before opening them. The short legal, tax, security and investment rows name needs; they do not supply full professional methods or authorize changes.

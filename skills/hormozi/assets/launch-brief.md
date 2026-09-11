@@ -1,8 +1,6 @@
 # Launch Brief
 
 Doctrine lineage: `HZ-DEM-009`. Use only for a real launch.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 - Offer / customer / event:
 - Real reason for this date:
 - Checked date, time zone and source:

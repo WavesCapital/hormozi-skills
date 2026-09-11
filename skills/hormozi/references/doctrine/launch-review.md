@@ -2,8 +2,6 @@
 
 Use this guide for launch copy, event reminders or a partner kit. The Affiliate Blackbook is a kit for one 2025 event. It is not a full guide to every partner plan.
 
-Writing rule: `HZ-SYN-004`. Make the benefit, date and next step easy to grasp.
-
 For the full 338-page master document, use [the Blackbook source guide](launch-blackbook-review.md). It covers access fixes, customer groups, ad math and draft status. The master is not the same file as the 19-page affiliate kit.
 
 For the Run of Show workbook, use [the workbook guide](launch-workbook-review.md). It maps offers, buyer access, message timing and call flows. Its rows and diagrams need the original sheet, not just the split PDF pages.

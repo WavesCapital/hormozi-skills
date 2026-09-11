@@ -1,7 +1,5 @@
 # Doctrine Index
 
-Writing rule: `HZ-SYN-004`. Use each rule with short, plain words in the answer. Define any exact rule term the first time it appears.
-
 This map contains 50 material rules across six operating modes plus shared rules for clear writing, synthesis, and safety.
 
 This map holds guidance and source locators, not original pages or transcripts. Use `scripts/corpus.py` to find the checked source in the installed library or a supplied source folder.

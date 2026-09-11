@@ -1,7 +1,5 @@
 # Content, process and personal-brand choices
 
-Writing rule: `HZ-SYN-004`. Keep the words plain and the conditions intact.
-
 Use this guide for content workflow, quality versus volume, AI automation, creator proof or founder-brand questions. It is a map to Alex's [August 12, 2026 live session](https://www.youtube.com/watch?v=X39rITUMEPA), not a rule that every business should start making content. Open the relevant full source span with the scoped video reader before applying a lesson. Honor the current task's source limits.
 
 ## Improve useful work before automating it

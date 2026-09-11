@@ -1,10 +1,10 @@
 # Demand
 
-Writing rule: `HZ-SYN-004`. Use the buyer's words. Be clear before clever in all hooks, ads, plans, and feedback.
-
 Choose and exploit lead methods, then improve lead magnets, hooks, ads, brand association, or a real launch.
 
-## Workflow
+## Decision checks
+
+Use the checks that can change this decision. They are not required steps for every reply; recommend a test or implementation only when the request and uncertainty call for it.
 
 1. Confirm offer readiness and the actual lead constraint.
 2. Choose one Core Four path from resources and permissions.
@@ -209,7 +209,3 @@ Citations:
 - `file:affiliate-blackbook:93095e1104b6:p0007` (primary)
 - `file:affiliate-blackbook:93095e1104b6:p0011` (primary)
 - `file:affiliate-blackbook:93095e1104b6:p0016` (primary)
-
-## Output Check
-
-Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

@@ -1,7 +1,5 @@
 # Build the Next Useful Offer
 
-Writing rule: `HZ-SYN-004`. Keep the idea deep and the words plain.
-
 Use this guide for offer order, cash flow, trials, upsells, downsells and repeat sales. It draws on the full review of the 163-page *$100M Money Models*. These page numbers belong to that file. For paid workshops leading into a membership, see the [Secret Sticker Society case](#secret-sticker-society-case) below.
 
 Source key: `100m-money-models-ebook-audiobooks-100m-money-models-how-to-make-money:cdec4d05f538`.
@@ -109,7 +107,7 @@ Find the topic here, then read the relevant passage and nearby context. A range 
 | Waived fee | 161–165 | 25, 26 |
 | Build the model and full recap | 166–179 | 27, 28 |
 
-The EPUB's cover is section 42, first in reading order. “Pay Less Now” is section 1, sixteenth in reading order. Follow the reader's chapter titles and `spine_position`, not numerical section order. Filename codes are not chapter names. Keep native list order and crossed-out prices. In the Decoy chapter, $1,200 is crossed out beside the $900 offer; it is not another charge. See [e-book reading](../source-reading.md#read-an-e-book) for the original image links and extraction limits.
+The EPUB's cover is section 42, first in reading order. “Pay Less Now” is section 1, sixteenth in reading order. Follow the reader's chapter titles and `spine_position`, not numerical section order. Filename codes are not chapter names. Keep native list order and crossed-out prices. In the Decoy chapter, $1,200 is crossed out beside the $900 offer; it is not another charge. See [e-book reading](../reading-files.md#read-an-e-book) for the original image links and extraction limits.
 
 The source limits above apply in these editions too. Useful places to check specific examples:
 

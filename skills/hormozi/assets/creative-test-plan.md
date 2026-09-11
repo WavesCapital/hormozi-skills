@@ -1,8 +1,6 @@
 # Creative Test Plan
 
 Doctrine lineage: `HZ-DEM-005`, `HZ-DEM-006`, `HZ-DEM-007`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Test Setup
 
 - Audience / offer / channel:

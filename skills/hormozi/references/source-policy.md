@@ -1,7 +1,5 @@
 # Source Policy
 
-Writing rule: `HZ-SYN-004`. Make source notes and limits easy to read. Keep exact names and locators when the user needs them.
-
 ## Precedence
 
 1. Current business authorities govern current business facts.
@@ -38,6 +36,12 @@ Do not concatenate a corpus into `llms.txt` or duplicate a source into multiple 
 - Mark empty extraction, OCR failure, missing transcript, visual dependency, and attribution uncertainty explicitly.
 - Deduplicate retrieval text without erasing provenance or edition differences.
 - Start with the part most likely to answer the question so the work stays fast and clear. Expand to any other linked source without asking when it could change the answer.
+
+## Consultation versus shared doctrine
+
+An ordinary answer may use a source after checking its identity, attribution, supporting passage and needed context within the user's scope. Cite it with its limits. This does not require promoting a permanent rule or writing a review receipt.
+
+Changing shared doctrine is separate maintenance work. The gate below applies when adding or revising a lasting video-derived rule, not to every consultation.
 
 ## Video Promotion Gate
 

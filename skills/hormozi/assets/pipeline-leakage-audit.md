@@ -1,8 +1,6 @@
 # Sales Step Check
 
 Doctrine lineage: `HZ-DIA-003`, `HZ-SAL-001`, `HZ-SAL-002`, `HZ-SAL-003`, `HZ-SAL-004`, `HZ-SAL-008`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 Use the same lead group and dates for each rate. Keep canceled calls in the record. Show the full path as well as the rate for calls left on the calendar.
 
 - Lead group and date range:

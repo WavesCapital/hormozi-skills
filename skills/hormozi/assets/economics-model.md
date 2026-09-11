@@ -1,8 +1,6 @@
 # Money Check
 
 Doctrine lineage: `HZ-OFE-005`, `HZ-OFE-008`, `HZ-OFE-009`, `HZ-OFE-010`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 Run `python3 "$HORMOZI_SKILL_DIR/scripts/economics.py" --help` when you need the same math every time.
 
 The `unit` helper estimates gross profit, not cash flow. Use earned monthly sales for one buyer. Its upfront fields are for a separate one-time sale and its cost. Do not put prepaid monthly service there too. That would count the same sale twice. See `unit --help` for each input. JSON schema 2 names the revenue fields as earned, not collected.

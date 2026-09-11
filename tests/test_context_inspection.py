@@ -41,7 +41,9 @@ class ContextInspectionTests(unittest.TestCase):
             self.assertFalse(record["validation"]["valid"])
             self.assertFalse(record["facts_verified"])
             self.assertEqual(record["context_status"], "needs_review")
-            self.assertEqual([a["status"] for a in record["authorities"]], ["available", "missing"])
+            self.assertEqual(record["authorities"], [])
+            self.assertFalse(record["authorities_checked"])
+            self.assertEqual(len(record["authority_links"]), 2)
             self.assertNotIn("Draft price", result.stdout)
             self.assertEqual(before, {p.relative_to(root): p.read_bytes() for p in root.rglob("*") if p.is_file()})
             with self.assertRaises(context.ProfileError):
@@ -82,9 +84,9 @@ class ContextInspectionTests(unittest.TestCase):
             profile.write_text("# Draft\n[Rates](rates.md)\n")
             rates = root / "rates.md"
             rates.write_text("Old price")
-            first = json.loads(self.run_cli("--start", project).stdout)
+            first = json.loads(self.run_cli("--start", project, "--check-authorities").stdout)
             rates.write_text("New price")
-            second = json.loads(self.run_cli("--start", project).stdout)
+            second = json.loads(self.run_cli("--start", project, "--check-authorities").stdout)
             self.assertEqual(first["profile"]["path"], str(profile.resolve()))
             self.assertNotEqual(first["authorities"][0]["sha256"], second["authorities"][0]["sha256"])
             self.assertFalse((root / ".hormozi").exists())
@@ -105,10 +107,31 @@ class ContextInspectionTests(unittest.TestCase):
                 return real_record(path)
 
             with patch.object(context, "file_record", side_effect=read_record):
-                result = context.inspect_profile(profile)
+                result = context.inspect_profile(profile, check_authorities=True)
             self.assertEqual([a["status"] for a in result["authorities"]], ["unreadable", "available"])
             self.assertNotIn("sensitive error", json.dumps(result))
 
+
+    def test_light_inspection_never_opens_linked_files(self):
+        with tempfile.TemporaryDirectory() as raw:
+            profile = Path(raw) / "BUSINESS.md"
+            profile.write_text("# Draft\n[Rates](rates.md)\n")
+            with patch.object(context, "authority_records", side_effect=AssertionError("must not read links")):
+                result = context.inspect_profile(profile)
+            self.assertEqual(result["authority_links"][0]["target"], "rates.md")
+            self.assertFalse(result["authorities_checked"])
+
+    def test_explicit_profile_from_attached_repository(self):
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw)
+            workspace, app = root / "business", root / "app"
+            workspace.mkdir()
+            app.mkdir()
+            profile = workspace / "BUSINESS.md"
+            profile.write_text("# Business\nStatus: draft\n")
+            result = self.run_cli("--start", app, "--profile", profile)
+            self.assertEqual(json.loads(result.stdout)["profile"]["path"], str(profile.resolve()))
+            self.assertEqual(list(app.iterdir()), [])
 
 if __name__ == "__main__":
     unittest.main()

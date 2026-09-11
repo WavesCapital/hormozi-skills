@@ -1,8 +1,6 @@
 # Proof Plan
 
 Doctrine lineage: `HZ-SAL-005`, `HZ-SAL-006`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 | Claim or concern | Buyer type | Proof we have | Is it real? | Date | Size of result | Missing proof | Where to use it |
 |---|---|---|---|---|---|---|---|
 | | | | | | | | |

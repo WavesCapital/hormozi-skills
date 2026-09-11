@@ -1,7 +1,5 @@
 # Earn Trust and Keep It
 
-Writing rule: `HZ-SYN-004`. Explain the risk in plain words, not a label about someone's character.
-
 Use this for trust, private disclosures, promises and follow-through. It maps Alex's [How The Top 1% Actually Think About Trust](https://www.youtube.com/watch?v=k5-57282taI), published June 10, 2026. Read the relevant full span with the scoped video reader. This adds a way to think about trust; it does not replace team policy or grant access to private information.
 
 ## Name the Risk

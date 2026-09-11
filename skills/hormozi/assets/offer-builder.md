@@ -1,8 +1,6 @@
 # Offer Builder
 
 Doctrine lineage: `HZ-OFE-001`, `HZ-OFE-002`, `HZ-OFE-003`, `HZ-OFE-004`, `HZ-OFE-005`, `HZ-OFE-006`, `HZ-OFE-007`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Customer And Outcome
 
 - Buyer and why they buy now:

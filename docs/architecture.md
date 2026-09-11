@@ -13,7 +13,7 @@
 | Customer value | Activation, delivery, retention, expansion, lifetime gross profit | Assuming enrollment equals value realization |
 | Team operations | Capacity, roles, cadence, training, quality | Hiring around a broken process without evidence |
 
-`scripts/route.py` is deterministic inspection support. It never replaces the advisor's judgment or produces the answer.
+`scripts/route.py` is a legacy compatibility helper, retained for existing callers. Normal advice uses the topic index and model judgment, not keyword scoring. An explicit invocation is never rejected by that helper merely because the request is short.
 
 ## Request Classes
 

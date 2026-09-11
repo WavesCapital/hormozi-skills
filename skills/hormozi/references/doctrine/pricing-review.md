@@ -1,7 +1,5 @@
 # Choose a Price That Pays
 
-Writing rule: `HZ-SYN-004`. Keep the math exact and the words easy.
-
 Read this for prices, payment terms, fees, tiers or paid cover. These are choices to test, not ten steps every firm must take. Start with the buyer's need and the firm's main goal.
 
 For existing buyers and price-change notices, read [price-change.md](price-change.md). It covers testing, loyalty terms and the RAISE letter without invented promises.

@@ -1,7 +1,5 @@
 # Sales lessons in context
 
-Writing rule: `HZ-SYN-004`. Explain the choice, not a string of sales terms.
-
 Use this map for the five named videos below and the choices they clarify. Each source was fully reviewed within the fixed June–September 2026 non-Short window. This map helps choose raw spans; it does not replace them. Use the scoped video reader, then check required images when a board or slide settles the meaning. Examples, caller reports and forecasts are not universal rules or verified outcomes.
 
 ## Group sales and human support

@@ -1,8 +1,6 @@
 # Weekly Team Plan
 
 Doctrine lineage: `HZ-OPS-001`, `HZ-OPS-002`, `HZ-OPS-003`, `HZ-OPS-005`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Main Problem and Result
 
 - Proven main problem:

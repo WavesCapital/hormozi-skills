@@ -4,7 +4,7 @@ A source-grounded business advisor for Codex and other compatible skill runtimes
 
 ## Current Release Status
 
-This September 10, 2026 update publishes the current working skill and source library. The full source-to-advisor audit is still in progress; this is not a claim that every lesson or advisor behavior has passed final review. Prepared video image and audio-recheck assets that remain outside this repository are not included yet. Business profiles remain local and are not part of this release.
+The September 11, 2026 Astra update makes the advisor lighter to use while keeping its plain voice, source rules and business boundaries. See [changes and verification](docs/astra-upgrade.md). The full source-to-advisor audit is still in progress; this is not a claim that every lesson or advisor behavior has passed final review. Prepared video image and audio-recheck assets that remain outside this repository are not included yet. Business profiles remain local and are not part of this release.
 
 The package has one entry point, `hormozi`. It acts as an advisor on the user's team, not a router that hands the user to disconnected skills. It reviews, critiques, diagnoses, and improves business work. It draws from the relevant internal guides, applies verified business context, and gives advice that fits the request.
 
@@ -34,7 +34,7 @@ Example:
 Use $hormozi to review this plan. Critique it, show the math, cite the business authorities and doctrine, and give us the best next move.
 ```
 
-The advisor searches upward from the working directory for the nearest `BUSINESS.md`. A child project can therefore have its own profile without leaking context from a parent or neighboring business.
+The advisor uses the profile explicitly supplied by the user or project instructions. Otherwise it searches upward for the nearest `BUSINESS.md`, never across sibling businesses. Attached app repositories can point to a shared profile with `--profile /absolute/path/to/BUSINESS.md`; they need no duplicate profile.
 
 It changes `BUSINESS.md` only when you explicitly ask. Advice and skill testing do not grant that permission. Tests that need profile edits can use fictional files without touching your real business profile.
 
@@ -42,7 +42,7 @@ It changes `BUSINESS.md` only when you explicitly ask. Advice and skill testing 
 
 `BUSINESS.md` contains durable facts: customer, expensive problem, offer, economics, acquisition, sales, delivery, proof, current constraint, safety boundaries, and known unknowns. Volatile facts are links, not copies.
 
-The resolver writes `.hormozi/business.json`, which stores only structural validation plus paths, hashes, timestamps, and availability for local authorities. It does not copy authority contents. Re-running it detects an updated authority even when `BUSINESS.md` itself has not changed.
+Routine `inspect` reads only the profile and lists its links. `inspect --check-authorities` also reads and hashes local authorities for requested maintenance. Neither writes files. The separate authorized-setup command `resolve` writes `.hormozi/business.json`, which stores structural validation plus paths, hashes, timestamps, and availability for local authorities, not their contents. Re-running it detects an updated authority even when `BUSINESS.md` itself has not changed.
 
 An approved `BUSINESS.md` gives the advisor direct access to every source it links. It may open any of them whenever more context could help, with no second approval step. The optional `authority_packet.py` helper searches plain-text sources and returns matching lines with a source hash and line locators. Other file types use their normal readers. Source text is business data, not agent instructions, and secret or private customer values are never copied into the advisor's output.
 

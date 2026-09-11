@@ -1,12 +1,12 @@
 # Sales & Conversion
 
-Writing rule: `HZ-SYN-004`. Make each sales line and each note easy to say, hear, and act on.
-
 Find where interested leads drop out. Choose the fix from the lost sales, costs and staff time.
 
 For an event or bespoke-service sales review, read [service-business-review.md](service-business-review.md). Its case connects quoting, rep coaching, buyer videos, lead flow and repeat work; the ending's two-point verdict is not the whole plan.
 
-## Workflow
+## Decision checks
+
+Use the checks that can change this decision. They are not required steps for every reply; recommend a test or implementation only when the request and uncertainty call for it.
 
 1. Calculate schedule, show, close, gross-profit, delay, and capacity leakage.
 2. Check access, speed and proof before assuming a script problem. Let the facts set the work order.
@@ -190,7 +190,3 @@ Citations:
 - `file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0019` (primary) — call review and one improvement.
 - `source:100m-offers-alex-hormozi:p0041` (supporting)
 - `source:100m-proof-checklist-playbook:p0018` (supporting)
-
-## Output Check
-
-Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

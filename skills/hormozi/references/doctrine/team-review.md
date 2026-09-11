@@ -1,7 +1,5 @@
 # Help The Team Do Better Work
 
-Writing rule: `HZ-SYN-004`. Use plain words without losing the point.
-
 Use the part that fits the real problem. These methods come from Leila Hormozi's 2024 team guides. They are not direct quotes or personal stories from Alex. Her team's setup is a useful example, not a rule for every firm.
 
 For Alex's Performance Diamond, the Core Four applied to hiring, or maker time, read [Lost Chapters review](lost-chapters-review.md). It links the full text and work context. [Journal review](journal-review.md) links his earlier drawings. These are separate sources, not part of Leila's guide.

@@ -1,8 +1,6 @@
 # Demand-Channel Scorecard
 
 Doctrine lineage: `HZ-DIA-005`, `HZ-DEM-001`, `HZ-DEM-002`, `HZ-DEM-003`, `HZ-DEM-004`, `HZ-DEM-008`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 | Way to get leads | Can we reach them? | Time | Cash | Skill | Speed to learn | Consent or platform risk | Proof it works | Score |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | Warm outreach | | | | | | | | |

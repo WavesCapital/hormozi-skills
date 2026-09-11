@@ -1,7 +1,5 @@
 # Mode Index
 
-Writing rule: `HZ-SYN-004`. Do not copy hard internal labels into the answer. Use a plain name or define the exact term.
-
 Use these routes to find the right teaching, not to limit the answer. Start with the most relevant area and follow links that could change the choice. A full business audit should cover every material area. A short question need not end with a limiting-factor diagnosis or a new plan.
 
 | Mode | Use when the constraint is | Read | Assets |
@@ -19,7 +17,7 @@ Resolve these links from this file's directory, `references/`, not from the skil
 
 For the named *70 Profit Tactics* recording or its added ideas on peak-time pricing, feature pruning, useful follow-up and founder strain, read [the tactics map](doctrine/profit-tactics-review.md). It routes all 70 choices without making them mandatory. For the *Money Models* audiobook or print/audio differences, use [the audio edition map](doctrine/money-models-audio-review.md).
 
-When deterministic scores tie, do not pick by wording alone. Validate business context, compare the downstream economic gain and evidence for each candidate constraint, and select the mode that owns the binding step. If current evidence cannot break the tie, ask one short question whose answer would.
+Choose by the business question and evidence, not keyword scores. A question is useful only if its answer could change the route.
 
 - Low conversion plus repeated price objections: diagnose offer, proof, and lead quality before choosing closing.
 - More leads requested with poor show or close throughput: sales may bind before demand.

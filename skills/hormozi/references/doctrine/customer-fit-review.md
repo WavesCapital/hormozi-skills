@@ -1,7 +1,5 @@
 # Find Buyers You Can Help Most
 
-Writing rule: `HZ-SYN-004`. Keep the thought exact and the words easy.
-
 Use this guide for customer selection, lead filters, or choosing a free, discount or premium first offer. These are two distinct sources, not the full books or the larger Lost Chapters collection:
 
 - `$100M Offers — The Lost Chapter`: source key `100m-offers-the-lost-chapter-alex-hormozi-compressed:e7deb353acc7`. Its customer-selection chapter includes a no-customer starting point.

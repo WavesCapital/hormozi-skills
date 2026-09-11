@@ -1,10 +1,10 @@
 # Customer Value
 
-Writing rule: `HZ-SYN-004`. Explain each plan in the words a buyer or team member would use.
-
 Increase realized post-purchase value, retention, expansion, continuity, referrals, and safe fast-cash capacity.
 
-## Workflow
+## Decision checks
+
+Use the checks that can change this decision. They are not required steps for every reply; recommend a test or implementation only when the request and uncertainty call for it.
 
 1. Map first value, full value, retention, expansion, and gross profit by cohort.
 2. Identify whether activation, delivery, churn, price, or expansion binds.
@@ -156,7 +156,3 @@ Citations:
 - `file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0016` (primary) — value and cooled-off leads.
 - `file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0021` (primary) — deliver, collect results and cool down.
 - `file:100m-playbooks-100m-fast-cash-playbook:2a15a8dda0d2:p0024` (primary) — sold-out messages depend on actual sales.
-
-## Output Check
-
-Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

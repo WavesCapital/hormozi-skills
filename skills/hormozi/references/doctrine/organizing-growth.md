@@ -1,7 +1,5 @@
 # When Growth Makes Work Messy
 
-Writing rule: `HZ-SYN-004`. Keep the advice clear and easy to use.
-
 Use this when a big firm loses track of work or control of costs. First find which loss matters most. Fix that part of the work before adding a new layer of bosses. The source calls this stage Categorize: sort work into clear groups.
 
 ## Give Each Fix An Owner

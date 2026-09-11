@@ -20,6 +20,10 @@ Do not create runtime-specific copies of the doctrine or advisor logic. A runtim
 
 ## Business Setup
 
+Use an existing profile first. A user or project instruction can name a shared profile outside an app repository; pass its absolute path with `--profile`. Otherwise the advisor searches upward, not across sibling projects. Missing or draft context does not block advice supported by the facts already provided.
+
+Only when business setup is requested:
+
 Copy `skills/hormozi/assets/business-profile-template.md` into the root of the business workspace as `BUSINESS.md`. Complete and review it before setting `Status: approved`.
 
 The profile should link volatile details to current local authorities. Do not put credentials, protected customer data, or full operational exports in it.

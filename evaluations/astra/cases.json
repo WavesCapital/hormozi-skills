@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "id": "copy",
+      "turns": ["Rewrite this into a short email a merchant can read fast. This is fictional test data, not a claim about a real lender. Our tool lets shoppers ask to pay over time. The merchant enters the amount and sends a link. The fee is 3% on funded sales. There is no monthly fee. Buyers may not be approved. Funds reach the merchant 1–2 business days after the loan is booked, not when the buyer first applies. Do not send it."],
+      "checks": ["Ready-to-use email in sender voice", "Preserves 3%, funded basis, timing trigger and approval limit", "Plain natural prose, no forced experiment", "No sending or file writes"]
+    },
+    {
+      "id": "math",
+      "turns": ["Quick math check. On a $10,000 sale with a 3% merchant fee, how much is the fee and what is left? Then, separately, my firm earns $100 and my rep gets 35% of that. What do we each get?"],
+      "checks": ["$300 fee and $9,700 proceeds", "$35 rep and $65 firm", "Keeps fee and rep bases separate", "Direct answer without needless sources, profile setup or test plan"]
+    },
+    {
+      "id": "source_limit",
+      "turns": ["A coach's case note says a shop raised its price 10% and made more profit. That is all the evidence I have. Can I tell clients a 10% price rise always raises profit? Give me a short answer and a safer line I can use. Do not invent a source or say this is Hormozi's claim."],
+      "checks": ["Rejects universal claim without blocking useful work", "Separates one case from a rule", "Mentions demand, volume or costs can change the result", "No fabricated quote or source"]
+    },
+    {
+      "id": "changing_facts",
+      "turns": ["I have a new B2B firm and no BUSINESS.md yet. We can serve 20 clients per month but only reach out to 5 good-fit firms per week. I think we need to build a client portal first. What's the best next move? Keep it short. Do not create or change files.", "Correction: I gave you old numbers. Now we reach 500 good-fit firms a week, book 20 calls, and only 2 show up. Our service still has spare room. Does your advice change?"],
+      "checks": ["First turn challenges portal and prioritizes more useful outreach", "Second turn updates limiting factor to attendance and uses 2/20 = 10%", "Does not confuse cold first touch with reply speed", "No profile creation, identity claims, forced intake, or invented outcome"]
+    }
+  ]
+}

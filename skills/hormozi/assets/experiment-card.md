@@ -1,8 +1,6 @@
 # Small Test Card
 
 Doctrine lineage: `HZ-DIA-001`, `HZ-DIA-006`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 - Rule IDs:
 - Business authority:
 - What we think will happen:

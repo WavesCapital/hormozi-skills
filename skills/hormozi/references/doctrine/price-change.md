@@ -1,7 +1,5 @@
 # Explain a Price Change
 
-Writing rule: `HZ-SYN-004`. Be clear and direct. Keep the buyer's facts and terms exact.
-
 Use this when changing an existing buyer's price or writing the notice. Use [pricing-review.md](pricing-review.md) first if the price itself still needs work.
 
 ## Check the Change

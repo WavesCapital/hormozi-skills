@@ -1,7 +1,5 @@
 # Read Money Models in Audio
 
-Writing rule: `HZ-SYN-004`. Keep the choice and its reason easy to understand.
-
 Use this map when the user names the audiobook, asks about a spoken example, or needs a print/audio comparison. For the shared offer method, use [Money Models review](money-models-review.md). Do not load both whole guides for a simple question already settled by one source.
 
 Audio source ID: `100m-money-models-ebook-audiobooks-100m-money-models-audiobook:8064dbd3a82b`. Use the [original-audio reader](../source-reading.md#read-original-audio). This supplied MP4 contains audio only. Its checked `review_path` holds 66 saved lesson notes, `MM-A01` through `MM-A66`, with full-transcript segment ranges. They are a reading map, not spoken text. Read the needed raw span and related rechecks before citing the audio.

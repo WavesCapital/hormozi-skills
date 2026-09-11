@@ -206,7 +206,7 @@ def classify_request(query: str, business_name: str | None = None) -> str:
     ):
         return "not_applicable"
     if has_explicit_skill_invocation and not has_business_domain_signal:
-        return "not_applicable"
+        return "general_doctrine"
     if has_business_marker:
         return "personalized_consulting"
     if (

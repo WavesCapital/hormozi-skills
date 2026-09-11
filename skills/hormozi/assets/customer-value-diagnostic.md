@@ -1,8 +1,6 @@
 # Buyer Value Check
 
 Doctrine lineage: `HZ-CV-001`, `HZ-CV-002`, `HZ-CV-003`, `HZ-CV-007`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Money by Buyer Group
 
 | Buyer group | Buyers | Gross profit per sale | Sales per buyer | Total gross profit | Cost to get one buyer | Money left |

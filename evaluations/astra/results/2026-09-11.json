@@ -1,0 +1,312 @@
+{
+  "date": "2026-09-11",
+  "purpose": "Small paired regression sample; not a full corpus or independent quality benchmark",
+  "grader": "Maintainer reviewed each saved answer against the checks in cases.json; no human judge",
+  "variants": [
+    {
+      "name": "baseline",
+      "status": "completed",
+      "entry_sha256": "bce6624da07dc21c32df1dd86aeae1ddf7d5680515f513fb5a66864be834e1e3",
+      "cases_sha256": "c7ffbedda386d0fafc69d16e640851e550ead6a24bbc5559e33e8c2a0e09718f",
+      "native_events_sha256": "29684f35f7425bb4d6766bcbc9d3ae1ba1c7277b39f94e868f2296e4663c779f",
+      "runs": [
+        {
+          "case": "copy",
+          "turn": 1,
+          "thread_id": "01a091ef-4554-7373-8001-4059b4f4e35f",
+          "turn_id": "01a091ef-4679-7102-8b04-19784e51b456",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "Subject: Let shoppers apply to pay over time\n\nHi [Name],\n\nOur tool lets shoppers apply to pay over time. You enter the amount and send them a link. Buyers may not be approved.\n\nYou pay 3% on funded sales, with no monthly fee. Funds reach you 1–2 business days after the loan is booked—not when the buyer first applies.\n\nBest,\n[Your name]",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 12094,
+              "output_sha256": "bce6624da07dc21c32df1dd86aeae1ddf7d5680515f513fb5a66864be834e1e3"
+            },
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/references/communication-standard.md SKILL_ROOT/references/mode-index.md SKILL_ROOT/references/answer-contract.md'",
+              "status": "completed",
+              "output_characters": 23768,
+              "output_sha256": "2b22f112e340034ed2c033237cb72a707e7e9bd586c8e27d9f01be3b8e482b39"
+            }
+          ]
+        },
+        {
+          "case": "math",
+          "turn": 1,
+          "thread_id": "01a091ef-7b83-7f70-a79b-b0089887430e",
+          "turn_id": "01a091ef-7c23-74d2-adc1-e91d62d0b3a1",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "- On the **$10,000 sale**, the fee is $10,000 × 3% = **$300**. That leaves **$9,700 after the merchant fee**.\n- Separately, on the **$100 your firm earns**, your rep gets **$35** (35%), and your firm keeps **$65**.",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 12094,
+              "output_sha256": "bce6624da07dc21c32df1dd86aeae1ddf7d5680515f513fb5a66864be834e1e3"
+            },
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/references/communication-standard.md SKILL_ROOT/references/answer-contract.md SKILL_ROOT/references/mode-index.md'",
+              "status": "completed",
+              "output_characters": 23768,
+              "output_sha256": "e4296412b0b1860508a896011d443ea164354a9bc1c10b3d1280797bf6597dce"
+            }
+          ]
+        },
+        {
+          "case": "source_limit",
+          "turn": 1,
+          "thread_id": "01a091ef-c933-70d3-9a31-d515d1136ab5",
+          "turn_id": "01a091ef-c9b3-78e2-9cfa-96135531e326",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "No. One case does not prove “always,” or show that the price rise alone caused the gain. Profit can fall if sales drop enough or costs rise.\n\nSafer line: “One coach’s case note reports higher profit after a shop raised prices 10%. That result is not guaranteed; it depends on sales and costs.”",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 12094,
+              "output_sha256": "bce6624da07dc21c32df1dd86aeae1ddf7d5680515f513fb5a66864be834e1e3"
+            },
+            {
+              "command": "/bin/zsh -c 'cat SKILL_ROOT/references/communication-standard.md SKILL_ROOT/references/mode-index.md SKILL_ROOT/references/answer-contract.md'",
+              "status": "completed",
+              "output_characters": 23768,
+              "output_sha256": "2b22f112e340034ed2c033237cb72a707e7e9bd586c8e27d9f01be3b8e482b39"
+            }
+          ]
+        },
+        {
+          "case": "changing_facts",
+          "turn": 1,
+          "thread_id": "01a091ef-ff5b-7b00-bcd2-c436909cf00b",
+          "turn_id": "01a091ef-ffdd-7631-9f60-83d72afad931",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "I’d put the portal on hold and focus on reaching more good-fit firms.\n\nFive firms a week is about 20 in four weeks. To fill 20 client spots from that outreach alone, every firm would have to buy.\n\nSpend the portal time on outreach and follow-up. Track replies, calls, and sales to see where people drop off. Build the portal when a clear sales or service need calls for it.\n\nYou don’t need BUSINESS.md to make this call.",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 12094,
+              "output_sha256": "bce6624da07dc21c32df1dd86aeae1ddf7d5680515f513fb5a66864be834e1e3"
+            },
+            {
+              "command": "/bin/zsh -c 'cat SKILL_ROOT/references/communication-standard.md SKILL_ROOT/references/onboarding.md SKILL_ROOT/references/mode-index.md SKILL_ROOT/references/answer-contract.md'",
+              "status": "completed",
+              "output_characters": 28247,
+              "output_sha256": "ceb41e9094aa171682a0069d6fdc228a5c5e78133482062061eb6bf75af7f276"
+            },
+            {
+              "command": "/bin/zsh -c 'cat SKILL_ROOT/references/doctrine/diagnose.md'",
+              "status": "completed",
+              "output_characters": 7204,
+              "output_sha256": "7adb7624643054ff60057e98ba2139ad8c1bcdb26ff898eb004cb4289c2b7755"
+            }
+          ]
+        },
+        {
+          "case": "changing_facts",
+          "turn": 2,
+          "thread_id": "01a091ef-ff5b-7b00-bcd2-c436909cf00b",
+          "turn_id": "01a091f0-888d-7472-9a31-990347225187",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "Yes. I’d shift from more outreach to finding out why booked buyers miss calls. The portal still waits.\n\nIf those 20 calls were due to happen, only 2 attending means **10% show up**.\n\nCheck the missed bookings and ask buyers what got in the way. Look for long waits, unclear call purpose, or missing reminders. Fix the cause you find, then track attendance and sales. More outreach can wait until you understand this drop-off.",
+          "commands": [
+            {
+              "command": "/bin/zsh -c 'cat SKILL_ROOT/references/doctrine/sales.md'",
+              "status": "completed",
+              "output_characters": 11054,
+              "output_sha256": "48d641d874da3686c39afd3dc803352ef86fcf9a1dc47901281e7dc2cc3b8d3b"
+            },
+            {
+              "command": "/bin/zsh -c 'cat SKILL_ROOT/references/doctrine/lead-nurture-review.md'",
+              "status": "completed",
+              "output_characters": 7280,
+              "output_sha256": "7362587711d48e620b84e4ae103f6a3ca3c9382e8d8afc24a4a2f5a77974702d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "candidate",
+      "status": "completed",
+      "entry_sha256": "6cc285ea06d39b0e7e65269843094343d4f127e90d4f9be085d7b904c267712e",
+      "cases_sha256": "c7ffbedda386d0fafc69d16e640851e550ead6a24bbc5559e33e8c2a0e09718f",
+      "native_events_sha256": "cdb4101d7c5a145cc60b0a1d7c30711b421dd015c39817746b48ef06fbb3421c",
+      "runs": [
+        {
+          "case": "copy",
+          "turn": 1,
+          "thread_id": "01a091ef-83a6-7022-99c9-51505f97e739",
+          "turn_id": "01a091ef-8440-77c3-9c34-3280fc2448f9",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "**Subject: Let shoppers apply to pay over time**\n\nHi [Name],\n\nGive shoppers a way to ask to pay over time. Just enter the sale amount and send them a link to apply.\n\nYou pay 3% on funded sales, with no monthly fee. Buyer approval is not guaranteed.\n\nFunds reach you 1–2 business days after the loan is booked, not when the buyer first applies.\n\nBest,\n[Your name]",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 5127,
+              "output_sha256": "6cc285ea06d39b0e7e65269843094343d4f127e90d4f9be085d7b904c267712e"
+            }
+          ]
+        },
+        {
+          "case": "math",
+          "turn": 1,
+          "thread_id": "01a091ef-b6dd-7970-bcb6-8e7ec3548b55",
+          "turn_id": "01a091ef-b77a-74b2-a11a-6d3ef30b0a98",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "- On the **$10,000 sale**, the 3% merchant fee is **$300**, leaving **$9,700**.\n- Separately, of the **$100 your firm earns**, your rep gets **$35** and your firm keeps **$65**.",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 5127,
+              "output_sha256": "6cc285ea06d39b0e7e65269843094343d4f127e90d4f9be085d7b904c267712e"
+            }
+          ]
+        },
+        {
+          "case": "source_limit",
+          "turn": 1,
+          "thread_id": "01a091ef-d6f7-7833-aa09-9f488629b850",
+          "turn_id": "01a091ef-d780-7e80-81c9-2f301a144c04",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "No. One shop’s result does not prove a 10% price rise always raises profit. Profit could fall if enough customers buy less or leave.\n\nSafer line: “One coach’s case note reports higher profit after a shop raised prices 10%. Your results may differ, so test the change and track profit.”",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 5127,
+              "output_sha256": "6cc285ea06d39b0e7e65269843094343d4f127e90d4f9be085d7b904c267712e"
+            }
+          ]
+        },
+        {
+          "case": "changing_facts",
+          "turn": 1,
+          "thread_id": "01a091ef-fb49-7b00-9b9b-7b464189e0ce",
+          "turn_id": "01a091ef-fbd1-70e3-a868-2f0558a97848",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "I’d put the portal on hold and focus on reaching more good-fit firms.\n\nFive firms a week is about 20 a month. To fill 20 new client slots from that outreach alone, nearly every firm would need to buy. Your numbers point to too few sales chances.\n\nSet aside time for outreach and follow-up. Track replies, sales calls, and paying clients. Use simple tools to serve them, and build a portal when a clear client need justifies it.\n\nYou don’t need a BUSINESS.md to make this next move.",
+          "commands": [
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/SKILL.md'",
+              "status": "completed",
+              "output_characters": 5127,
+              "output_sha256": "6cc285ea06d39b0e7e65269843094343d4f127e90d4f9be085d7b904c267712e"
+            },
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/references/mode-index.md'",
+              "status": "completed",
+              "output_characters": 6504,
+              "output_sha256": "5c0adcdd3a9b3534fa88de1a8982d841bea10e8c4057ffaf8c9972cfdb1b3369"
+            },
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/references/doctrine/diagnose.md'",
+              "status": "completed",
+              "output_characters": 6955,
+              "output_sha256": "811e11903e0215ec7d5c6f98b015f2247fbf4d841432dd3491602041af541963"
+            },
+            {
+              "command": "/bin/zsh -lc 'cat SKILL_ROOT/references/doctrine/startup-stage.md'",
+              "status": "completed",
+              "output_characters": 4374,
+              "output_sha256": "28fe218d271cd2ba17a66fedbf2319266649c4962c6d8fc7a5f7851c78241018"
+            }
+          ]
+        },
+        {
+          "case": "changing_facts",
+          "turn": 2,
+          "thread_id": "01a091ef-fb49-7b00-9b9b-7b464189e0ce",
+          "turn_id": "01a091f0-7201-7d62-81fa-c35af2720e2c",
+          "setup": {
+            "model": "gpt-6-astra",
+            "reasoningEffort": "low",
+            "sandbox": {
+              "type": "readOnly",
+              "networkAccess": false
+            },
+            "approvalPolicy": "never"
+          },
+          "answer": "Yes. I’d shift the focus to getting booked prospects to attend.\n\nOnly 2 of 20 booked calls happen—a 10% show rate. More outreach isn’t the first fix, and the portal still comes later.\n\nCheck that invites arrive, time zones are right, and prospects know why the call matters. Ask recent no-shows what stopped them. Then test clearer confirmations, reminders, and an easy way to reschedule.\n\nTrack attendance on the next 20 bookings. Fix the biggest reason people miss calls before increasing outreach.",
+          "commands": []
+        }
+      ]
+    }
+  ]
+}

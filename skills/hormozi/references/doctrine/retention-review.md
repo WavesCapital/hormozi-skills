@@ -1,7 +1,5 @@
 # Help Buyers Get Value and Stay
 
-Writing rule: `HZ-SYN-004`. Use plain words without losing the cause, cost or condition.
-
 Read this for churn, onboarding, early value, renewal or a customer journey. Churn means buyers leaving over a set time. Help buyers want to stay while earning a profit. Low churn alone is not the goal.
 
 ## Find What Makes Buyers Stay

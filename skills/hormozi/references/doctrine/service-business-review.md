@@ -1,7 +1,5 @@
 # Service offers, sales and repeat work
 
-Writing rule: `HZ-SYN-004`. Keep the words plain without losing the deal's terms.
-
 Use this guide for the [service-business episode published August 22, 2026](https://www.youtube.com/watch?v=mRlSb0O5QNU), or when bespoke quotes, weak rep output and repeat jobs may be linked. It maps a reviewed case, not a formula for every service firm. Open the relevant raw spans with the scoped video reader before applying them. Respect the task's date and video-type limits.
 
 ## See the whole plan

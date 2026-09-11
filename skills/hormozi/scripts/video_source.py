@@ -168,6 +168,14 @@ def page_records(records: list[dict], offset: int, limit: int) -> list[dict]:
 
 
 def execute(args: argparse.Namespace) -> dict:
+    from source_handle import apply, encode
+    args = apply(args)
+    result = execute_checked(args)
+    result["source_handle"] = encode(args, result)
+    return result
+
+
+def execute_checked(args: argparse.Namespace) -> dict:
     if timestamp(args.after) > timestamp(args.before):
         raise ValueError("publication bounds are reversed")
     if not 1 <= args.limit <= 200 or args.offset < 0:
@@ -260,9 +268,10 @@ def parser() -> argparse.ArgumentParser:
     actions = result.add_subparsers(dest="action", required=True)
     for name in ("list", "search", "read", "media", "recheck"):
         command = actions.add_parser(name)
-        command.add_argument("--corpus-root", required=True)
-        command.add_argument("--after", required=True, help="Inclusive publication time with time zone")
-        command.add_argument("--before", required=True, help="Inclusive publication time with time zone")
+        command.add_argument("--handle", help="Reuse the checked source_handle returned by a prior call")
+        command.add_argument("--corpus-root")
+        command.add_argument("--after", help="Inclusive publication time with time zone")
+        command.add_argument("--before", help="Inclusive publication time with time zone")
         command.add_argument("--include-shorts", action="store_true", help="Use only if the task permits Shorts")
         command.add_argument("--snapshot-id")
         command.add_argument("--expected-manifest-sha256")
@@ -272,7 +281,7 @@ def parser() -> argparse.ArgumentParser:
             command.add_argument("--title", default="", help="Case-insensitive title substring; metadata only")
             command.add_argument("--video-id", help="Look up one exact video ID; metadata only")
         else:
-            command.add_argument("--video-id", required=True)
+            command.add_argument("--video-id")
             command.add_argument("--expected-raw-sha256")
         if name == "search":
             command.add_argument("--query", required=True)

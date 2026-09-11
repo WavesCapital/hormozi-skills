@@ -1,8 +1,6 @@
 # Keep and Grow Customers
 
 Doctrine lineage: `HZ-CV-002`, `HZ-CV-004`, `HZ-CV-005`, `HZ-CV-006`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 ## Value Journey
 
 | Step | What the customer does | Time | What feels hard | Proof of progress | Owner | Sign of failure |

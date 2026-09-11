@@ -1,7 +1,5 @@
 # Find the Next Step for a New Firm
 
-Writing rule: `HZ-SYN-004`. Keep the thought deep and the words plain.
-
 Use this when a firm has an idea, early users or its first sales. Check what has happened. Do not pick a stage from revenue or team size alone.
 
 ## No One Has Used It Yet

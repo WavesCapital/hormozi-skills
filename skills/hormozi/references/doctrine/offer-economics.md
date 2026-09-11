@@ -1,10 +1,10 @@
 # Offer & Economics
 
-Writing rule: `HZ-SYN-004`. Put exact money terms in plain words before you give advice or copy.
-
 Improve the promise, value, packaging, price, risk reversal, monetization sequence, and unit economics as one system.
 
-## Workflow
+## Decision checks
+
+Use the checks that can change this decision. They are not required steps for every reply; recommend a test or implementation only when the request and uncertainty call for it.
 
 1. Verify the market, customer outcome, current offer, and delivery economics.
 2. Apply the value equation and obstacle-to-solution process.
@@ -216,7 +216,3 @@ Citations:
 - `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0020` (primary)
 - `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0021` (primary)
 - `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0061` (primary)
-
-## Output Check
-
-Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

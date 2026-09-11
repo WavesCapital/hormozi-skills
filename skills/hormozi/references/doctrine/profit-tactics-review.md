@@ -1,7 +1,5 @@
 # Use the Right Profit Tactic
 
-Writing rule: `HZ-SYN-004`. Explain the useful idea in plain words, not a list of tactic names.
-
 Use this map for the named *70 Profit Tactics* audio or a problem below that needs its added detail. These are choices, not 70 steps for every firm. Choose from the business's facts. The source's examples, reported results and rough targets do not prove a result for this buyer.
 
 Source ID: `100m-money-models-ebook-audiobooks-100m-money-models-affiliate-70-1-minute-busin:d3ba4174e7aa`. Use the [original-audio reader](../source-reading.md#read-original-audio), not the YouTube reader. Its checked `review_path` contains one saved lesson per `tactic`, with exact `time_seconds`, meaning and limits. Read that entry to find the right span, then read the raw span and any relevant recheck. Saved notes are not spoken quotes. This is a separate source, not a chapter of the Money Models audiobook.

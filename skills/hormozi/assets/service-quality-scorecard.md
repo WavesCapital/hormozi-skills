@@ -1,8 +1,6 @@
 # Customer Care Score
 
 Doctrine lineage: `HZ-CV-005`, `HZ-OPS-004`, `HZ-OPS-006`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 Check real talks with buyers. Link to proof. Keep what the team sees separate from what buyers report.
 
 ## Buyer Scores

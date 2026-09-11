@@ -1,7 +1,5 @@
 # Raise Cash Without Breaking Delivery
 
-Writing rule: `HZ-SYN-004`. Give clear advice with the real cost and terms intact.
-
 Read this for a fast-cash offer or a deal to pay for a year at once. The book sells extra value to people who already know the firm. It is not a cold-list shortcut or a fix for work the team cannot do.
 
 ## Fit the Offer to the Buyers and Team

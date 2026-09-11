@@ -1,7 +1,5 @@
 # Pick the Next Marketing Move
 
-Writing rule: `HZ-SYN-004`. Use the stage names to think; explain the work in words the owner uses.
-
 Use this guide for the named **$100M Marketing Roadmap**, marketing stage, what to fix next, or when to do more, improve, or try a new channel. This40-page PDF is separate from the ten Scaling Roadmaps. Read the cited pages before relying on a specific claim.
 
 Source key: `100m-marketing-roadmap:eb0287c4cd72`. Physical page5 is `file:100m-marketing-roadmap:eb0287c4cd72:p0005`. Use `corpus.py read` with the installed corpus. This source has a checked bundled original, full page text, all40 page images and separate saved visual notes. The [official PDF](https://links.acquisition.com/hubfs/100M-Marketing-Roadmap.pdf) is another source route. Saved notes are interpretations, not verbatim text or proof of a fresh image view.

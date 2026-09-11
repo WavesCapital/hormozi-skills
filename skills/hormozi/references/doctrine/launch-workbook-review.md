@@ -2,8 +2,6 @@
 
 Use this for the Money Models Book Launch Run of Show Blackbook workbook. It is a plan for one 2025 launch. It is not the master DOCX or proof that its systems worked.
 
-Writing rule: `HZ-SYN-004`. Keep the thought deep and the words easy.
-
 Exact source key: `100m-money-models-book-launch-all-assets-100m-money-models-100m-money-models-boo:8928f8cce6a2`.
 
 Find the original XLSX through the file manifest or source reader. Cite its checked path and sheet cells. The PDF splits rows across pages and clips some cells. Read the native sheet when fields must stay together. Read the original embedded images for the call flows.

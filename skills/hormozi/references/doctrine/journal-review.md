@@ -1,7 +1,5 @@
 # Read the Journal as Working Notes
 
-Writing rule: `HZ-SYN-004`. Keep the thought deep and the words easy.
-
 Use this guide for the named `$100M Journal`, its sketches, or the history of an idea. It is not a daily planner. It shows how Offers and Leads took shape, including ideas that changed or were cut. Read the finished book for its full method. Do not turn each draft into a rule.
 
 Source key: `100m-journal:f8abebc0e3af`. Use this key with `corpus.py query --source-type file --source-key`. The supplied PDF has 266 pages. All page numbers here are physical PDF pages. The contents page drifts: its closing page 275 is actual266. Open the actual page image when the drawing matters; handwriting OCR loses labels and math. A link to a companion video does not prove that video was read or is in scope.

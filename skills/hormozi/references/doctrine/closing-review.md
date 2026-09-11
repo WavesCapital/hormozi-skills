@@ -1,7 +1,5 @@
 # Help The Buyer Decide
 
-Writing rule: `HZ-SYN-004`. Make the point clear and easy to say out loud.
-
 Read this for a sales call, a stalled deal or an objection. An objection is a concern that holds up the choice. Use the part that fits; do not run every buyer through every close.
 
 For applied cases and live questions, [sales video review](sales-video-review.md) separates group sales from support, qualification from education, and early guesses from later corrected advice. It also maps the moving and roofing cases; read the case's whole plan when that is what the user asks for.

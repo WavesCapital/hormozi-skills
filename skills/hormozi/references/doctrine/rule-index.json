@@ -448,7 +448,7 @@
       ],
       "decision_logic": [
         "State the rejected alternatives and why they are not binding.",
-        "Choose one owner, one observable leading indicator, and one decision date.",
+        "When a test is needed, identify its useful result and add an owner or decision date only when known or useful. Do not invent these to complete a form.",
         "Graduate, iterate, or stop from the measured result."
       ],
       "exceptions_and_limits": [],

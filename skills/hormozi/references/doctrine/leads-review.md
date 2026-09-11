@@ -1,7 +1,5 @@
 # Use the Full Leads Method
 
-Writing rule: `HZ-SYN-004`. Keep the thought exact and the words easy.
-
 Use this guide for lead flow, content, outreach, referrals, agencies, partner programs or the team that runs them. Read the part that could change the advice. It does not require a full review for each short question.
 
 Source: `$100M Leads: How to Get Strangers to Want to Buy Your Stuff`, supplied 385-page edition. The source key is `100m-leads-how-to-get-strangers:29823024eeb1`. Page numbers below are physical PDF pages. Use that exact key with `corpus.py query --source-key`; then open each result with `read`. A similarly named chapter or master file is not this book.

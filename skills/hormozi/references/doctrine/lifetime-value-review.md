@@ -1,7 +1,5 @@
 # Earn More by Helping Buyers More
 
-Writing rule: `HZ-SYN-004`. Keep the math exact and the words easy.
-
 Use this for repeat sales, upsells, downsells or a full customer-value review. Start with what the buyer needs and what the firm can deliver well.
 
 ## Count the Right Money

@@ -2,8 +2,6 @@
 
 Use this when a question concerns the full Money Models launch master. It holds plans, scripts, ads and working drafts for one 2025 launch. A planned tactic is not proof of a result.
 
-Writing rule: `HZ-SYN-004`. Keep the thought deep and the words easy.
-
 ## Find the Right Part
 
 Exact source key: `100m-money-models-book-launch-blackbook-100m-money-models-master-doc:7a0c7a249ae8`.

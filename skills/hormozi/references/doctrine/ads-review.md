@@ -2,8 +2,6 @@
 
 Use this guide for ad ideas, weak ads, new batches, or a plan to reach more buyers. It draws on the full GOATed Ads playbook. That book adds to the paid-ad chapters in Leads; it does not replace them.
 
-Writing rule: `HZ-SYN-004`. Use the buyer's words. Make the promise and next step clear.
-
 ## Start With What the Buyer Knows
 
 Cold contact does not mean the buyer knows nothing. They may know the problem and use a rival, yet know nothing about this firm.

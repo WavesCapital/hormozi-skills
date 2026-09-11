@@ -1,7 +1,5 @@
 # Use The Lost Chapters In Context
 
-Writing rule: `HZ-SYN-004`. Keep the thought deep and the words easy.
-
 Use this guide for the named `$100M Lost Chapters`, advanced offer choices, hiring limits, team training, or maker time. This is the 164-page collection, not the shorter `$100M Offers — The Lost Chapter`.
 
 Source key: `100m-lost-chapters-by-alex-hormozi:f885f34143f7`. All pages below are physical PDF pages. Use `file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0145`, for example, to read page145. Find the original through the file manifest and link the checked path. Read the relevant pages before citing them. View a drawing when it carries the claim; this guide is not proof you viewed it.

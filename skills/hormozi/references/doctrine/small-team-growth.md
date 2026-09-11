@@ -1,7 +1,5 @@
 # Help a Small Team Grow
 
-Writing rule: `HZ-SYN-004`. Keep the thought deep and the words plain.
-
 Use this when sales grow but the owner or team cannot keep up. Read the facts first. Team size alone does not tell you what to fix.
 
 ## Free the Owner to Do the Right Work

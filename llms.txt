@@ -16,6 +16,10 @@ Operating references:
 - skills/hormozi/references/communication-standard.md
 - skills/hormozi/references/source-policy.md
 - skills/hormozi/references/source-reading.md
+- skills/hormozi/references/reading-files.md
+- skills/hormozi/references/reading-video.md
+- skills/hormozi/references/reading-audio.md
+- skills/hormozi/references/writing-sources.md
 - skills/hormozi/references/mode-index.md
 
 Public doctrine:
@@ -25,7 +29,7 @@ Public doctrine:
 Deterministic helpers:
 - skills/hormozi/scripts/business_context.py
 - skills/hormozi/scripts/authority_packet.py
-- skills/hormozi/scripts/route.py
+- skills/hormozi/scripts/route.py (legacy compatibility, not the normal advisory route)
 - skills/hormozi/scripts/corpus.py
 - skills/hormozi/scripts/video_source.py
 - skills/hormozi/scripts/economics.py
@@ -33,7 +37,10 @@ Deterministic helpers:
 - skills/hormozi/scripts/validate_doctrine.py
 
 Core commands:
-- Resolve business context: python3 skills/hormozi/scripts/business_context.py resolve --start /path/to/business
+- Find business context: python3 skills/hormozi/scripts/business_context.py find --start /path/to/business
+- Inspect profile without linked-file reads: python3 skills/hormozi/scripts/business_context.py inspect --profile /path/to/BUSINESS.md
+- Full local authority health check when requested: add --check-authorities to inspect. Resolve/sidecar writes belong to authorized setup, not ordinary advice.
+- Authorized setup only: python3 skills/hormozi/scripts/business_context.py resolve --start /path/to/business
 - Import licensed text equivalents: python3 skills/hormozi/scripts/corpus.py import --source-root /path/to/source-root --manifest /path/to/source-manifest.jsonl --index skills/hormozi/private-corpus/index/hormozi.sqlite
 - Retrieve bounded file doctrine: python3 skills/hormozi/scripts/corpus.py query --corpus-root skills/hormozi/private-corpus --query "decision terms" --source-type file --limit 6
 - Find allowed video metadata: python3 skills/hormozi/scripts/video_source.py list --corpus-root skills/hormozi/private-corpus --after START_ISO --before END_ISO --title "title words"

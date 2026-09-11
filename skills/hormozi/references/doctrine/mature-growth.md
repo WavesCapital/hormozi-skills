@@ -1,7 +1,5 @@
 # Grow Without Breaking What Works
 
-Writing rule: `HZ-SYN-004`. Keep the ideas exact and the words plain.
-
 Use this when a mature firm needs deeper skills or its next large growth source. Stage8 is Specialize. Stage9 is Capitalize. Staff counts describe those stages; they do not prove which fix the firm needs.
 
 ## Keep The Value Buyers Came For

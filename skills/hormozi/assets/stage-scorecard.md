@@ -1,8 +1,6 @@
 # Business Stage Check
 
 Doctrine lineage: `HZ-DIA-004`.
-Writing rule: `HZ-SYN-004`. Use short words and short sentences. Explain any hard term.
-
 A stage helps us pick the next fix. It does not define the firm.
 
 | Stage | One key question | Proof it is done | Gap | Status |

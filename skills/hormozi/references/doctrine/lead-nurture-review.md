@@ -1,7 +1,5 @@
 # Help Interested Leads Take The Next Step
 
-Writing rule: `HZ-SYN-004`. Keep the thought exact and the words plain.
-
 Use this guide for the path from fresh interest to a sales call. It draws on the 2025 Lead Nurture Playbook. The book mainly covers the first 30 days, not all cold outreach. Its four parts are access, speed, personal care and repeat contact. Choose the fix from the actual loss; the parts are not a fixed work order.
 
 ## Count The Whole Path

@@ -1,19 +1,17 @@
 # Diagnose & Sequence
 
-Writing rule: `HZ-SYN-004`. Say **main problem** in the answer. Use **binding constraint** only when the exact term helps, then define it.
-
 Find the binding constraint, choose the correct stage and sequence, and define the smallest measurable intervention.
 
 For marketing stage or the next marketing move, use [Marketing Roadmap review](marketing-roadmap-review.md). Its six stages track marketing maturity, not company size. Check capacity and cash before more demand. This supplements the ten Scaling Roadmaps rather than replacing their operating-stage guidance.
 
 For a named Scaling Roadmap or a choice across operating stages, use [the exact-source map](scaling-roadmaps-review.md). Keep each main stage apart from its recap and preview; page numbers differ between PDFs.
 
-## Workflow
+## For a diagnosis that needs a test
 
 1. Resolve current business facts and the desired outcome.
 2. Map volume, rates, delay, capacity, and economics across the value flow.
 3. Call one binding constraint and reject non-binding work.
-4. Choose one experiment and graduation rule.
+4. If uncertainty needs measurement, choose a fitting experiment and decision rule. Otherwise give the supported answer or ask for the fact that changes it.
 
 ## Material Rules
 
@@ -126,14 +124,10 @@ Translate diagnosis into the smallest test that can relieve the constraint and d
 Decision logic:
 
 - State the rejected alternatives and why they are not binding.
-- Choose one owner, one observable leading indicator, and one decision date.
+- When a test is needed, identify its useful result and add an owner or decision date only when known or useful. Do not invent these to complete a form.
 - Graduate, iterate, or stop from the measured result.
 
 Citations:
 
 - `source:blackbook-100m-money-models-master-doc:p0170` (primary)
 - `source:100m-leads-how-to-get-strangers:p0244` (supporting)
-
-## Output Check
-
-Use [the answer contract](../answer-contract.md) when shaping the reply. Follow [the shared writing check](../communication-standard.md#final-check): check the final prose, facts, claim scope and sources. Fix real reading problems without losing meaning. A numeric score alone does not pass the answer.

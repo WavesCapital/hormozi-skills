@@ -1,7 +1,5 @@
 # Build An Offer Buyers Want
 
-Writing rule: `HZ-SYN-004`. Use [the shared writing check](../communication-standard.md#final-check) on the full answer. Keep the thought exact and the words plain.
-
 Use this guide to build or review an offer, its name, bonuses or guarantee. Read the part of the source that could change the choice. The page numbers below refer to the supplied 2021 `$100M Offers` PDF, not another edition.
 
 ## Start With The Buyer

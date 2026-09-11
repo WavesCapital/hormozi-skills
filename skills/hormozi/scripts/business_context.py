@@ -182,7 +182,7 @@ def authority_records(profile: Path, text: str) -> list[dict[str, Any]]:
     return records
 
 
-def inspect_profile(path: Path) -> dict[str, Any]:
+def inspect_profile(path: Path, *, check_authorities: bool = False) -> dict[str, Any]:
     """Report context and gaps without approval promotion or sidecar writes."""
     validation, text, _ = validate_profile(path)
     return {
@@ -193,7 +193,9 @@ def inspect_profile(path: Path) -> dict[str, Any]:
         "profile": file_record(path),
         "validation": validation,
         "context_status": "approved_complete" if validation["valid"] else "needs_review",
-        "authorities": authority_records(path, text),
+        "authorities": authority_records(path, text) if check_authorities else [],
+        "authorities_checked": check_authorities,
+        "authority_links": [{"label": label, "target": target} for label, target in LINK_RE.findall(text)],
         "facts_verified": False,
     }
 
@@ -253,6 +255,9 @@ def build_parser() -> argparse.ArgumentParser:
         command = subparsers.add_parser(name)
         command.add_argument("--profile")
         command.add_argument("--start", default=".")
+        if name == "inspect":
+            command.add_argument("--check-authorities", action="store_true",
+                                 help="Read and hash all local authority files for a maintenance check")
         if name == "resolve":
             command.add_argument("--sidecar")
             command.add_argument("--no-write", action="store_true", help="validate and resolve without writing the sidecar")
@@ -270,7 +275,7 @@ def main() -> int:
         elif args.command == "inspect":
             path = (Path(args.profile).expanduser().resolve() if args.profile
                     else find_profile(Path(args.start)))
-            result = inspect_profile(path) if path is not None else {
+            result = inspect_profile(path, check_authorities=args.check_authorities) if path is not None else {
                 "schema_version": 1,
                 "found": False,
                 "context_status": "missing",

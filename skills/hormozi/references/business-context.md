@@ -1,7 +1,5 @@
 # Business Context Contract
 
-Writing rule: `HZ-SYN-004`. Use short words in all user-facing profile help. Define any exact profile term in plain words.
-
 `BUSINESS.md` is the human source of truth for durable business context. `.hormozi/business.json` is generated state; never ask a human to maintain both.
 
 ## Complete Profile Sections
@@ -43,7 +41,7 @@ Edit the profile only when the user explicitly asks. A request for advice or a s
 1. An explicit `--profile` wins.
 2. Otherwise search from the working directory upward for the nearest `BUSINESS.md`.
 3. Do not search sibling or child businesses implicitly.
-4. Inspect without writing. Generate a sidecar beside the selected profile only during an authorized setup or refresh.
+4. Inspect without writing. Default `inspect` reads only the profile and returns unverified link targets without opening them. Use `inspect --check-authorities` for an explicit full local-link health check. Generate a sidecar beside the selected profile only during an authorized setup or refresh.
 5. Recheck relevant facts before a material decision so a changed authority changes the next answer. Do not confuse the file's existence, hash or approval with verification of a claim.
 6. If an authority needed for the question is missing, unreachable, stale, or conflicting, label the issue and stop only the affected conclusion.
 
