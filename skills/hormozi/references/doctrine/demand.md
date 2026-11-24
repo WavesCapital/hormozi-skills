@@ -209,3 +209,47 @@ Citations:
 - `file:affiliate-blackbook:93095e1104b6:p0007` (primary)
 - `file:affiliate-blackbook:93095e1104b6:p0011` (primary)
 - `file:affiliate-blackbook:93095e1104b6:p0016` (primary)
+
+### HZ-DEM-010 — Warm outreach: get an interaction, then a call
+
+Reach people who already follow or engage with you through a trusted profile. The first message only seeks a reply. Keep the talk going with Acknowledge-Compliment-Ask, then ask for a quick call. Volume wins.
+
+Decision logic:
+
+- Start with people who followed, liked or responded; open with first name, how you found them, a personal compliment and one question, sent as separate short messages.
+- Respond with A-C-A: restate what they said, compliment a real trait, then ask a question that moves toward the problem you solve.
+- When time is short, use the one-line referral ask: 'I help (ideal customer) get (dream outcome) in (time) without (effort) ... Does anyone you like come to mind?'
+- Ask for the call as soon as they respond. Follow up with light touches such as story replies or a simple '^^'. The source target is 100 reach-outs a day.
+
+Limits:
+
+- Follow platform rules and the contact's consent. The source script tells users to check local laws.
+
+Citations:
+
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0010` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0011` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0012` (primary)
+
+### HZ-DEM-011 — Turn long recordings into many checked clips
+
+To publish more short-form content without more editors, run long videos through a repeatable clipping pipeline that applies the brand once and blocks any clip that fails a quality check.
+
+Decision logic:
+
+- Record long-form once; cut it into vertical clips and ranked horizontal highlights for subscriber growth.
+- Set brand fonts, colors, logo, music and how clips open and end up front so every clip matches without re-deciding.
+- Keep automatic checks for framing, audio, captions and weak cuts; a failing clip does not ship.
+- Acquisition.com's free kit runs in Claude Code on a Mac with a paid Claude plan and links the repo github.com/maddexritter-rgb/vibe-editing. Install only with the user's go-ahead.
+
+Limits:
+
+- This is a setup guide for a tool, not a study of content results. Use HZ-DEM-005 and HZ-DEM-006 for what to say in each clip.
+- The guide links a GitHub account outside Acquisition.com's domain; verify the repo before installing.
+
+Citations:
+
+- `file:acq-vibe-editing-playbook:ff266bfc6118:p0002` (primary)
+- `file:acq-vibe-editing-playbook:ff266bfc6118:p0003` (primary)
+- `file:acq-vibe-editing-playbook:ff266bfc6118:p0004` (supporting)
+- `file:acq-vibe-editing-playbook:ff266bfc6118:p0005` (primary)

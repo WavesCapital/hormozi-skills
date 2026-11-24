@@ -122,7 +122,9 @@
         "HZ-OFE-002",
         "HZ-OFE-004",
         "HZ-DEM-003",
-        "HZ-CV-006"
+        "HZ-CV-006",
+        "HZ-OFE-011",
+        "HZ-OFE-012"
       ]
     },
     {
@@ -148,7 +150,12 @@
         "HZ-SAL-005",
         "HZ-SAL-006",
         "HZ-SAL-007",
-        "HZ-SAL-008"
+        "HZ-SAL-008",
+        "HZ-DEM-010",
+        "HZ-DEM-011",
+        "HZ-SAL-009",
+        "HZ-SAL-010",
+        "HZ-SAL-011"
       ]
     },
     {
@@ -186,7 +193,11 @@
         "HZ-OPS-003",
         "HZ-OPS-004",
         "HZ-OPS-005",
-        "HZ-OPS-006"
+        "HZ-OPS-006",
+        "HZ-OPS-007",
+        "HZ-OPS-008",
+        "HZ-OPS-009",
+        "HZ-OPS-010"
       ]
     },
     {
@@ -593,13 +604,24 @@
           "evidence_role": "primary",
           "locator": "source:100m-offers-alex-hormozi:p0121",
           "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-offer-creation-checklist:eecaa1856915:p0002",
+          "source_key": "acq-offer-creation-checklist"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-offer-creation-checklist:eecaa1856915:p0003",
+          "source_key": "acq-offer-creation-checklist"
         }
       ],
       "decision_logic": [
         "Diverge before judging delivery options.",
         "Remove high-cost low-value, then low-cost low-value items.",
         "Retain low-cost high-value and justified high-cost high-value items.",
-        "Step back toward a scalable version without destroying the value driver."
+        "Step back toward a scalable version without destroying the value driver.",
+        "Use the Offers course delivery cube to diverge: group ratio, effort level (DIY, DWY, DFY), support type, consumption type, speed. Run the 10x and 1/10th price test."
       ],
       "exceptions_and_limits": [],
       "kind": "decision_rule",
@@ -618,12 +640,18 @@
           "evidence_role": "primary",
           "locator": "source:100m-offers-alex-hormozi:p0140",
           "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-scarcity-urgency-checklist:838e49923ac6:p0001",
+          "source_key": "acq-scarcity-urgency-checklist"
         }
       ],
       "decision_logic": [
         "Validate the core outcome and delivery first.",
         "Tie every enhancer to a real operational condition.",
-        "Remove fabricated deadlines, false scarcity, and unsupported guarantees."
+        "Remove fabricated deadlines, false scarcity, and unsupported guarantees.",
+        "Real scarcity is a cap (total, per week or per class). Real urgency is cohort, rolling seasonal, price or bonus expiry, or an opportunity that shrinks."
       ],
       "exceptions_and_limits": [
         "Legal, regulatory, platform, and claims constraints override persuasion tactics."
@@ -659,6 +687,16 @@
           "evidence_role": "primary",
           "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0183",
           "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-unbeatable-guarantee-checklist:0e8bcbd63501:p0001",
+          "source_key": "acq-unbeatable-guarantee-checklist"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-unbeatable-guarantee-checklist:0e8bcbd63501:p0002",
+          "source_key": "acq-unbeatable-guarantee-checklist"
         }
       ],
       "decision_logic": [
@@ -666,7 +704,8 @@
         "Choose a conditional, unconditional, anti-guarantee, or implied structure appropriate to delivery.",
         "Specify customer responsibilities and the remedy without hiding material terms.",
         "Count delivery, refunds and any extra work owed. More kept sales do not always mean more profit.",
-        "For pay tied to results, define the measured event, pay basis, floor and collection path."
+        "For pay tied to results, define the measured event, pay basis, floor and collection path.",
+        "Match conditional guarantee terms to the activation points a customer must complete to succeed. Stacked options: conditional plus unconditional, small and big outcome, or short and long timeline."
       ],
       "exceptions_and_limits": [
         "Do not guarantee lender approvals, financing outcomes, health, legal, financial, or other outcomes outside the business's control."
@@ -776,12 +815,30 @@
       "title": "Optimize price for total gross profit"
     },
     {
-      "asset_consumers": ["economics-model"],
+      "asset_consumers": [
+        "economics-model"
+      ],
       "citations": [
-        {"evidence_role": "primary", "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0040", "source_key": "100m-offers-alex-hormozi"},
-        {"evidence_role": "primary", "locator": "file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0047", "source_key": "100m-lost-chapters-by-alex-hormozi"},
-        {"evidence_role": "primary", "locator": "file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0048", "source_key": "100m-lost-chapters-by-alex-hormozi"},
-        {"evidence_role": "primary", "locator": "file:100m-leads-how-to-get-strangers:29823024eeb1:p0218", "source_key": "100m-leads-how-to-get-strangers"}
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-offers-alex-hormozi:9cd213f3194e:p0040",
+          "source_key": "100m-offers-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0047",
+          "source_key": "100m-lost-chapters-by-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-lost-chapters-by-alex-hormozi:f885f34143f7:p0048",
+          "source_key": "100m-lost-chapters-by-alex-hormozi"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:100m-leads-how-to-get-strangers:29823024eeb1:p0218",
+          "source_key": "100m-leads-how-to-get-strangers"
+        }
       ],
       "decision_logic": [
         "Count pay for serving buyers in delivery cost. Count pay for getting buyers in acquisition cost. Keep other business costs separate until calculating the firm's profit.",
@@ -795,10 +852,89 @@
       ],
       "kind": "decision_rule",
       "mode": "offer-economics",
-      "related_rule_ids": ["HZ-OFE-009"],
+      "related_rule_ids": [
+        "HZ-OFE-009"
+      ],
       "rule_id": "HZ-OFE-010",
       "statement": "Classify costs by the work they pay for, not just their name. A cost called payroll can pay for delivery, sales or running the firm.",
       "title": "Match profit labels to the costs counted"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-pick-your-niche-checklist:1957d7972256:p0001",
+          "source_key": "acq-pick-your-niche-checklist"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-pricing-value-checklist:620bb75832de:p0001",
+          "source_key": "acq-pricing-value-checklist"
+        }
+      ],
+      "decision_logic": [
+        "Check all four market traits before narrowing; a sharp niche in a market that cannot pay still fails.",
+        "Narrow by who, situation and method (for example health, weight loss, new mothers, keto) until the buyer recognizes themselves.",
+        "Set a price higher than the alternatives buyers compare, then raise dream outcome and believability and cut time and effort to justify it.",
+        "Treat the higher price as a test of value, not a substitute for it."
+      ],
+      "exceptions_and_limits": [
+        "The checklist's claim that higher prices get better results is a belief to test against the business's own delivery data, not proof for every market."
+      ],
+      "kind": "decision_rule",
+      "mode": "offer-economics",
+      "related_rule_ids": [
+        "HZ-OFE-001",
+        "HZ-OFE-003",
+        "HZ-OFE-009"
+      ],
+      "rule_id": "HZ-OFE-011",
+      "statement": "Choose a market in pain, with purchasing power, easy to target and growing. Narrow it three or four levels. Then price above the market by enough to make buyers pause, and earn that price with the value equation.",
+      "title": "Pick a market that can buy, niche down, then price above it"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-bonus-creation-checklist:8bd99a9792e9:p0001",
+          "source_key": "acq-bonus-creation-checklist"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-bonus-creation-checklist:8bd99a9792e9:p0002",
+          "source_key": "acq-bonus-creation-checklist"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-product-naming-checklist:fb25da586425:p0001",
+          "source_key": "acq-product-naming-checklist"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-product-naming-checklist:fb25da586425:p0002",
+          "source_key": "acq-product-naming-checklist"
+        }
+      ],
+      "decision_logic": [
+        "List the problems a buyer still sees after the core offer; give each a bonus. Prefer tools and checklists over more training because they cost the buyer less time and effort.",
+        "For each bonus say how it relates to their issue, what it is, what it does and how it makes things faster or easier, with a stat, past client or personal proof.",
+        "Consider other companies' products as bonuses, ideally with negotiated discounts, exclusive terms and an affiliate commission.",
+        "Name with M-A-G-I-C: a magnetic reason why, the avatar, a goal, a time interval and a container word. Use shorter intervals for bonuses.",
+        "When results fade, refresh in reverse order of difficulty: creative, then body copy, then headline, then duration, then the free or discount enhancer, then the monetization structure."
+      ],
+      "exceptions_and_limits": [
+        "Every stated bonus value must be supportable. Do not invent price tags or scarcity on bonuses (HZ-OFE-006)."
+      ],
+      "kind": "decision_rule",
+      "mode": "offer-economics",
+      "related_rule_ids": [
+        "HZ-OFE-006"
+      ],
+      "rule_id": "HZ-OFE-012",
+      "statement": "Add bonuses after the price is said, each solving a perceived problem or the buyer's next problem, named with a benefit and given a justified price tag. Stack bonuses rather than cut price. Name the offer with M-A-G-I-C and refresh it by changing the cheapest parts first.",
+      "title": "Stack named bonuses instead of discounting"
     },
     {
       "asset_consumers": [
@@ -1146,6 +1282,88 @@
       "rule_id": "HZ-DEM-009",
       "statement": "For a real launch, align the offer, audience, date, partner terms and delivery plan. Use event urgency only while it is true. A launch kit does not make affiliates launch-only.",
       "title": "Launch mechanics are conditional"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0010",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0011",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0012",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        }
+      ],
+      "decision_logic": [
+        "Start with people who followed, liked or responded; open with first name, how you found them, a personal compliment and one question, sent as separate short messages.",
+        "Respond with A-C-A: restate what they said, compliment a real trait, then ask a question that moves toward the problem you solve.",
+        "When time is short, use the one-line referral ask: 'I help (ideal customer) get (dream outcome) in (time) without (effort) ... Does anyone you like come to mind?'",
+        "Ask for the call as soon as they respond. Follow up with light touches such as story replies or a simple '^^'. The source target is 100 reach-outs a day."
+      ],
+      "exceptions_and_limits": [
+        "Follow platform rules and the contact's consent. The source script tells users to check local laws."
+      ],
+      "kind": "decision_rule",
+      "mode": "demand",
+      "related_rule_ids": [
+        "HZ-DEM-001",
+        "HZ-DEM-002"
+      ],
+      "rule_id": "HZ-DEM-010",
+      "statement": "Reach people who already follow or engage with you through a trusted profile. The first message only seeks a reply. Keep the talk going with Acknowledge-Compliment-Ask, then ask for a quick call. Volume wins.",
+      "title": "Warm outreach: get an interaction, then a call"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-vibe-editing-playbook:ff266bfc6118:p0002",
+          "source_key": "acq-vibe-editing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-vibe-editing-playbook:ff266bfc6118:p0003",
+          "source_key": "acq-vibe-editing-playbook"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-vibe-editing-playbook:ff266bfc6118:p0004",
+          "source_key": "acq-vibe-editing-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-vibe-editing-playbook:ff266bfc6118:p0005",
+          "source_key": "acq-vibe-editing-playbook"
+        }
+      ],
+      "decision_logic": [
+        "Record long-form once; cut it into vertical clips and ranked horizontal highlights for subscriber growth.",
+        "Set brand fonts, colors, logo, music and how clips open and end up front so every clip matches without re-deciding.",
+        "Keep automatic checks for framing, audio, captions and weak cuts; a failing clip does not ship.",
+        "Acquisition.com's free kit runs in Claude Code on a Mac with a paid Claude plan and links the repo github.com/maddexritter-rgb/vibe-editing. Install only with the user's go-ahead."
+      ],
+      "exceptions_and_limits": [
+        "This is a setup guide for a tool, not a study of content results. Use HZ-DEM-005 and HZ-DEM-006 for what to say in each clip.",
+        "The guide links a GitHub account outside Acquisition.com's domain; verify the repo before installing."
+      ],
+      "kind": "decision_rule",
+      "mode": "demand",
+      "related_rule_ids": [
+        "HZ-DEM-005",
+        "HZ-DEM-006"
+      ],
+      "rule_id": "HZ-DEM-011",
+      "statement": "To publish more short-form content without more editors, run long videos through a repeatable clipping pipeline that applies the brand once and blocks any clip that fails a quality check.",
+      "title": "Turn long recordings into many checked clips"
     },
     {
       "asset_consumers": [
@@ -1505,6 +1723,163 @@
       "rule_id": "HZ-SAL-008",
       "statement": "A close cannot sustainably repair a weak offer, poor-fit lead, absent proof, or delivery risk; diagnose those causes before escalating objection handling.",
       "title": "Fix upstream causes before adding closes"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-discovery-playbook:a5d5bb9f8c8f:p0002",
+          "source_key": "acq-discovery-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-discovery-playbook:a5d5bb9f8c8f:p0003",
+          "source_key": "acq-discovery-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-discovery-playbook:a5d5bb9f8c8f:p0004",
+          "source_key": "acq-discovery-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-discovery-playbook:a5d5bb9f8c8f:p0005",
+          "source_key": "acq-discovery-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-discovery-playbook:a5d5bb9f8c8f:p0006",
+          "source_key": "acq-discovery-playbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-discovery-playbook:a5d5bb9f8c8f:p0007",
+          "source_key": "acq-discovery-playbook"
+        }
+      ],
+      "decision_logic": [
+        "Ask current result and goal first; this takes about a minute but cannot be skipped.",
+        "Only ask about results you can deliver. Every reason they lack the result is a reason to buy.",
+        "For vague, confusing or incomplete answers use the same two prompts: 'Can you tell me more about that?' then 'Can you give me an example?'",
+        "Recap in their words, label in yours using Marketing, Sales, Product/Delivery, People or Profit, then confirm. Repeat with 'What else is holding you back?' only if needed.",
+        "End with a final recap that stacks the problems, then confirm before making the offer."
+      ],
+      "exceptions_and_limits": [
+        "The five labels fit a business-owner sale. Rename them to the categories your own offer solves."
+      ],
+      "kind": "decision_rule",
+      "mode": "sales",
+      "related_rule_ids": [
+        "HZ-SAL-004",
+        "HZ-SAL-007"
+      ],
+      "rule_id": "HZ-SAL-009",
+      "statement": "Before the offer, set the gap between where the prospect is and wants to be. Then cycle obstacle, reason, pull teeth, recap, label and confirm until you hold problems you can solve. Finish by stacking all recaps and getting agreement.",
+      "title": "Run discovery as a pain cycle mapped to five labels"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-tone-that-converts:e637a8b8e046:p0002",
+          "source_key": "acq-tone-that-converts"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-tone-that-converts:e637a8b8e046:p0003",
+          "source_key": "acq-tone-that-converts"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-tone-that-converts:e637a8b8e046:p0005",
+          "source_key": "acq-tone-that-converts"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-tone-that-converts:e637a8b8e046:p0007",
+          "source_key": "acq-tone-that-converts"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-tone-that-converts:e637a8b8e046:p0009",
+          "source_key": "acq-tone-that-converts"
+        }
+      ],
+      "decision_logic": [
+        "Measure talk speed; reps speed up when excited or stressed.",
+        "Mark questions in the script and raise pitch at their end so the prospect hears a request.",
+        "Use short, medium and long pauses to focus attention on key words, such as 'fit... and—if so—'.",
+        "After asking for the sale, stop talking. The source cites studies tying 8+ second pauses to 23 to 40 percent higher close rates.",
+        "Know the script so well it sounds natural instead of training to sound natural."
+      ],
+      "exceptions_and_limits": [
+        "The source does not name the studies; treat the 23 to 40 percent figure as the source's claim, not a verified benchmark."
+      ],
+      "kind": "decision_rule",
+      "mode": "sales",
+      "related_rule_ids": [
+        "HZ-SAL-009"
+      ],
+      "rule_id": "HZ-SAL-010",
+      "statement": "Keep speed, volume and clarity constant: about 150 to 170 words a minute, loud enough to hear, crisp. Change only pitch and pauses, as the script directs. Raise pitch at the end of questions and put the longest pause after the buying question.",
+      "title": "Tone makes each scripted word do its job"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0001",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0002",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0003",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0004",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0005",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0007",
+          "source_key": "acq-leads-warm-outreach-downloads"
+        }
+      ],
+      "decision_logic": [
+        "Open as if you have the right person ('John?'), state why you are calling and confirm timing.",
+        "Get their overview, what prompted the reply, what they tried, the big goal and by when; the 'by when' is the lever for urgency.",
+        "Share a short '.02' that names why the current approach is not working and hints at the fix.",
+        "Offer the explainer video now or on the call so the prospect owns watching it, then book within 36 hours and add co-founders or partners.",
+        "If they answer, finish the conversation. If no answer, double dial right away."
+      ],
+      "exceptions_and_limits": [
+        "The local-business script takes a card on file to hold a discounted appointment. Use that only with clear terms and lawful, consented payment handling.",
+        "Respect calling and texting consent rules. The source says to check with legal counsel."
+      ],
+      "kind": "decision_rule",
+      "mode": "sales",
+      "related_rule_ids": [
+        "HZ-SAL-003",
+        "HZ-SAL-009"
+      ],
+      "rule_id": "HZ-SAL-011",
+      "statement": "A setter call learns the prospect's situation, goal, timeline and pain, gives a short point of view, then books the next call within about 36 hours. Invite every decision maker and assign pre-call homework the prospect chooses to take.",
+      "title": "Setter calls book the next step while intent is high"
     },
     {
       "asset_consumers": [
@@ -1980,6 +2355,184 @@
       "citations": [
         {
           "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0002",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0004",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0005",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0006",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0007",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0008",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        }
+      ],
+      "decision_logic": [
+        "More process (brand, education, offer, script) means less rep skill and lower pay; no process needs a costly rainmaker.",
+        "Source anchors: setter about $75K OTE, closer $120K to $150K, specialized closer $200K+. Adjust for ticket, process and replaceability.",
+        "Commission rate = monthly variable target / monthly cash collected at target. Add volume tiers with the biggest last jump.",
+        "Try to break the plan, review it with two top closers, then sell it to the team like an offer.",
+        "The one test: can this pay attract the caliber of rep the role needs?"
+      ],
+      "exceptions_and_limits": [
+        "Do not pick a percentage first; cutting comp after a big week is the costly trap. Start conservative.",
+        "Figures are training examples, not market rates for every role."
+      ],
+      "kind": "decision_rule",
+      "mode": "team-operations",
+      "related_rule_ids": [
+        "HZ-OPS-008"
+      ],
+      "rule_id": "HZ-OPS-007",
+      "statement": "Decide comp after the role's skill level. Self-generating reps get pure commission; lead-fed reps get about 50 percent base and 50 percent variable. Set on-target earnings first, back into the commission rate, and pay on cash collected.",
+      "title": "Set sales pay last: OTE first, paid on cash"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0010",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0011",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0012",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0014",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "supporting",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0016",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-job-ads-that-convert:cab695033e1f:p0001",
+          "source_key": "acq-job-ads-that-convert"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-reviewing-resumes:0249272d79b6:p0001",
+          "source_key": "acq-reviewing-resumes"
+        }
+      ],
+      "decision_logic": [
+        "Compute gross profit per rep per year and ask what you would pay for an asset with that return; that is the budget per hire.",
+        "Run at least three of: organic posts, job boards, LinkedIn outreach, sales groups, recruiting agencies, team referrals.",
+        "Referral example: $5K at start, $45K at month six if the hire stays, so the referrer coaches them.",
+        "Job ads: pick the platform where the audience is, choose a title that signals the right level, then hook, retain with values, and describe the work.",
+        "Screen resumes for data-backed achievements and self-awareness; reject badmouthing and typos. Phone screen fast.",
+        "For SDRs: script excerpt, 60-second video, weekly group role play, live feedback, then one-on-one and offer."
+      ],
+      "exceptions_and_limits": [
+        "If sales capacity is not the constraint, recruiting can wait (HZ-OPS-001). Follow employment law in hiring and screening."
+      ],
+      "kind": "decision_rule",
+      "mode": "team-operations",
+      "related_rule_ids": [
+        "HZ-OPS-001",
+        "HZ-OPS-007"
+      ],
+      "rule_id": "HZ-OPS-008",
+      "statement": "Treat hiring as marketing. Set the recruiting budget from what a proven rep is worth in yearly gross profit, run at least three channels, pay team referrals mostly at month six, write the job ad as an ad, and screen high-volume roles in standing group sessions.",
+      "title": "Recruit like you market: budget from rep value, always interviewing"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0018",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0019",
+          "source_key": "acq-sales-team-scaling-kit-workbook"
+        }
+      ],
+      "decision_logic": [
+        "Build tracks such as Junior SDR to SDR Manager and Junior Closer to Closer Manager.",
+        "Tie rungs to cumulative volume (example 25, 50, 100, 200 deals).",
+        "Use perks such as better leads or better hours where a raise is not needed.",
+        "Hitting the number qualifies someone; it does not entitle them. Write the contribution and culture standard and who decides."
+      ],
+      "exceptions_and_limits": [
+        "Not everyone should aim for manager; you cannot have as many managers as reps."
+      ],
+      "kind": "decision_rule",
+      "mode": "team-operations",
+      "related_rule_ids": [
+        "HZ-OPS-007"
+      ],
+      "rule_id": "HZ-OPS-009",
+      "statement": "Roles with many people doing the same work need frequent, earned steps: junior, title and senior, each with a comp bump, so someone can earn a step about every 12 weeks. Steps come from cumulative output plus contribution and culture.",
+      "title": "Give repetitive roles more rungs"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-when-to-fire-someone:6583cf020c86:p0001",
+          "source_key": "acq-when-to-fire-someone"
+        },
+        {
+          "evidence_role": "primary",
+          "locator": "file:acq-how-to-fire-101:b71ac3251627:p0001",
+          "source_key": "acq-how-to-fire-101"
+        }
+      ],
+      "decision_logic": [
+        "Make the gap and the training plain; use a performance plan with regular check-ins and targets.",
+        "Plan coverage first; recruit before terminating if needed. Pick the day and time on purpose.",
+        "Skip small talk, state the reason in one or two sentences, use past tense: 'Your employment has been terminated.'",
+        "Do not debate. Cover pay, benefits, unused time, references and projects, and remove the person from systems within 60 minutes."
+      ],
+      "exceptions_and_limits": [
+        "Severe misconduct such as theft can skip the plan. Follow employment law and get legal or HR advice for terminations."
+      ],
+      "kind": "decision_rule",
+      "mode": "team-operations",
+      "related_rule_ids": [
+        "HZ-OPS-005"
+      ],
+      "rule_id": "HZ-OPS-010",
+      "statement": "Fire for missed standards, values that harm the team, repeated rule breaking, apathy or drama, after clear coaching and a performance plan so it is never a surprise. Then end it briefly, cover next steps, and remove access within an hour.",
+      "title": "Manage up or out, and fire with a plan"
+    },
+    {
+      "asset_consumers": [],
+      "citations": [
+        {
+          "evidence_role": "primary",
           "locator": "source:blackbook-100m-money-models-master-doc:p0170",
           "source_key": "blackbook-100m-money-models-master-doc"
         },
@@ -2325,22 +2878,134 @@
       "source_key": "your-acq-100mscalingroadmap-stage09",
       "source_type": "user_supplied_file",
       "title": "Your_ACQ_100MScalingRoadmap-Stage09_.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-vibe-editing-playbook",
+      "source_type": "public_download",
+      "title": "Vibe Editing Playbook.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-discovery-playbook",
+      "source_type": "public_download",
+      "title": "Discovery Playbook.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-tone-that-converts",
+      "source_type": "public_download",
+      "title": "Use Tone That Converts.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-sales-team-scaling-kit-workbook",
+      "source_type": "public_download",
+      "title": "Sales Team Scaling Kit Workbook.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-leads-warm-outreach-downloads",
+      "source_type": "public_download",
+      "title": "$100M Leads Warm Outreach Downloads.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-pick-your-niche-checklist",
+      "source_type": "public_download",
+      "title": "Pick Your Niche Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-pricing-value-checklist",
+      "source_type": "public_download",
+      "title": "Pricing and Value Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-offer-creation-checklist",
+      "source_type": "public_download",
+      "title": "Offer Creation Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-scarcity-urgency-checklist",
+      "source_type": "public_download",
+      "title": "Scarcity and Urgency Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-bonus-creation-checklist",
+      "source_type": "public_download",
+      "title": "Bonus Creation Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-unbeatable-guarantee-checklist",
+      "source_type": "public_download",
+      "title": "Unbeatable Guarantee Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-product-naming-checklist",
+      "source_type": "public_download",
+      "title": "Product Naming Checklist.pdf"
+    },
+    {
+      "format": "pdf",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-when-to-fire-someone",
+      "source_type": "public_download",
+      "title": "When to Fire Someone.pdf"
+    },
+    {
+      "format": "google_doc",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-how-to-fire-101",
+      "source_type": "public_download",
+      "title": "How to Fire 101 (Google Doc)"
+    },
+    {
+      "format": "google_doc",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-job-ads-that-convert",
+      "source_type": "public_download",
+      "title": "How To Make Job Ads That Convert (Google Doc)"
+    },
+    {
+      "format": "google_doc",
+      "rights": "Free public download from Acquisition.com, bundled for private review; the repository license grants no new rights to third-party material.",
+      "source_key": "acq-reviewing-resumes",
+      "source_type": "public_download",
+      "title": "When Reviewing Resumes (Google Doc)"
     }
   ],
   "status": "reviewed_release_candidate",
   "summary": {
     "accepted_video_decision_count": 0,
     "citation_resolution": "Source checks are required; structural validation alone does not prove citation support.",
-    "cited_source_count": 30,
-    "material_rule_count": 50,
+    "cited_source_count": 46,
+    "material_rule_count": 61,
     "mode_counts": {
-      "diagnose": 6,
-      "offer-economics": 10,
-      "demand": 9,
-      "sales": 8,
       "customer-value": 7,
-      "team-operations": 6,
-      "shared": 4
+      "demand": 11,
+      "diagnose": 6,
+      "offer-economics": 12,
+      "sales": 11,
+      "shared": 4,
+      "team-operations": 10
     },
     "rejected_video_decision_count": 1
   }

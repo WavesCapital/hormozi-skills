@@ -125,3 +125,96 @@ Citations:
 
 - `source:leila-hormozis-5-scaling-framework-sops:p0015` (primary)
 - `source:leila-hormozis-5-scaling-framework-sops:p0017` (primary)
+
+### HZ-OPS-007 — Set sales pay last: OTE first, paid on cash
+
+Decide comp after the role's skill level. Self-generating reps get pure commission; lead-fed reps get about 50 percent base and 50 percent variable. Set on-target earnings first, back into the commission rate, and pay on cash collected.
+
+Decision logic:
+
+- More process (brand, education, offer, script) means less rep skill and lower pay; no process needs a costly rainmaker.
+- Source anchors: setter about $75K OTE, closer $120K to $150K, specialized closer $200K+. Adjust for ticket, process and replaceability.
+- Commission rate = monthly variable target / monthly cash collected at target. Add volume tiers with the biggest last jump.
+- Try to break the plan, review it with two top closers, then sell it to the team like an offer.
+- The one test: can this pay attract the caliber of rep the role needs?
+
+Limits:
+
+- Do not pick a percentage first; cutting comp after a big week is the costly trap. Start conservative.
+- Figures are training examples, not market rates for every role.
+
+Citations:
+
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0002` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0004` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0005` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0006` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0007` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0008` (primary)
+
+### HZ-OPS-008 — Recruit like you market: budget from rep value, always interviewing
+
+Treat hiring as marketing. Set the recruiting budget from what a proven rep is worth in yearly gross profit, run at least three channels, pay team referrals mostly at month six, write the job ad as an ad, and screen high-volume roles in standing group sessions.
+
+Decision logic:
+
+- Compute gross profit per rep per year and ask what you would pay for an asset with that return; that is the budget per hire.
+- Run at least three of: organic posts, job boards, LinkedIn outreach, sales groups, recruiting agencies, team referrals.
+- Referral example: $5K at start, $45K at month six if the hire stays, so the referrer coaches them.
+- Job ads: pick the platform where the audience is, choose a title that signals the right level, then hook, retain with values, and describe the work.
+- Screen resumes for data-backed achievements and self-awareness; reject badmouthing and typos. Phone screen fast.
+- For SDRs: script excerpt, 60-second video, weekly group role play, live feedback, then one-on-one and offer.
+
+Limits:
+
+- If sales capacity is not the constraint, recruiting can wait (HZ-OPS-001). Follow employment law in hiring and screening.
+
+Citations:
+
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0010` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0011` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0012` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0014` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0016` (supporting)
+- `file:acq-job-ads-that-convert:cab695033e1f:p0001` (primary)
+- `file:acq-reviewing-resumes:0249272d79b6:p0001` (primary)
+
+### HZ-OPS-009 — Give repetitive roles more rungs
+
+Roles with many people doing the same work need frequent, earned steps: junior, title and senior, each with a comp bump, so someone can earn a step about every 12 weeks. Steps come from cumulative output plus contribution and culture.
+
+Decision logic:
+
+- Build tracks such as Junior SDR to SDR Manager and Junior Closer to Closer Manager.
+- Tie rungs to cumulative volume (example 25, 50, 100, 200 deals).
+- Use perks such as better leads or better hours where a raise is not needed.
+- Hitting the number qualifies someone; it does not entitle them. Write the contribution and culture standard and who decides.
+
+Limits:
+
+- Not everyone should aim for manager; you cannot have as many managers as reps.
+
+Citations:
+
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0018` (primary)
+- `file:acq-sales-team-scaling-kit-workbook:78b90a1e1572:p0019` (primary)
+
+### HZ-OPS-010 — Manage up or out, and fire with a plan
+
+Fire for missed standards, values that harm the team, repeated rule breaking, apathy or drama, after clear coaching and a performance plan so it is never a surprise. Then end it briefly, cover next steps, and remove access within an hour.
+
+Decision logic:
+
+- Make the gap and the training plain; use a performance plan with regular check-ins and targets.
+- Plan coverage first; recruit before terminating if needed. Pick the day and time on purpose.
+- Skip small talk, state the reason in one or two sentences, use past tense: 'Your employment has been terminated.'
+- Do not debate. Cover pay, benefits, unused time, references and projects, and remove the person from systems within 60 minutes.
+
+Limits:
+
+- Severe misconduct such as theft can skip the plan. Follow employment law and get legal or HR advice for terminations.
+
+Citations:
+
+- `file:acq-when-to-fire-someone:6583cf020c86:p0001` (primary)
+- `file:acq-how-to-fire-101:b71ac3251627:p0001` (primary)

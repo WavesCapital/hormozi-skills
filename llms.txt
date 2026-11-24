@@ -38,6 +38,7 @@ Deterministic helpers:
 - skills/hormozi/scripts/economics.py
 - skills/hormozi/scripts/plain_language.py
 - skills/hormozi/scripts/validate_doctrine.py
+- skills/hormozi/scripts/add_bundled_sources.py (maintenance: add approved public downloads to the bundled corpus)
 
 Core commands:
 - Find business context: python3 skills/hormozi/scripts/business_context.py find --start /path/to/business

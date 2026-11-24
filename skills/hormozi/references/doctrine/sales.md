@@ -190,3 +190,78 @@ Citations:
 - `file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0019` (primary) — call review and one improvement.
 - `source:100m-offers-alex-hormozi:p0041` (supporting)
 - `source:100m-proof-checklist-playbook:p0018` (supporting)
+
+### HZ-SAL-009 — Run discovery as a pain cycle mapped to five labels
+
+Before the offer, set the gap between where the prospect is and wants to be. Then cycle obstacle, reason, pull teeth, recap, label and confirm until you hold problems you can solve. Finish by stacking all recaps and getting agreement.
+
+Decision logic:
+
+- Ask current result and goal first; this takes about a minute but cannot be skipped.
+- Only ask about results you can deliver. Every reason they lack the result is a reason to buy.
+- For vague, confusing or incomplete answers use the same two prompts: 'Can you tell me more about that?' then 'Can you give me an example?'
+- Recap in their words, label in yours using Marketing, Sales, Product/Delivery, People or Profit, then confirm. Repeat with 'What else is holding you back?' only if needed.
+- End with a final recap that stacks the problems, then confirm before making the offer.
+
+Limits:
+
+- The five labels fit a business-owner sale. Rename them to the categories your own offer solves.
+
+Citations:
+
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0002` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0003` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0004` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0005` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0006` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0007` (primary)
+
+### HZ-SAL-010 — Tone makes each scripted word do its job
+
+Keep speed, volume and clarity constant: about 150 to 170 words a minute, loud enough to hear, crisp. Change only pitch and pauses, as the script directs. Raise pitch at the end of questions and put the longest pause after the buying question.
+
+Decision logic:
+
+- Measure talk speed; reps speed up when excited or stressed.
+- Mark questions in the script and raise pitch at their end so the prospect hears a request.
+- Use short, medium and long pauses to focus attention on key words, such as 'fit... and—if so—'.
+- After asking for the sale, stop talking. The source cites studies tying 8+ second pauses to 23 to 40 percent higher close rates.
+- Know the script so well it sounds natural instead of training to sound natural.
+
+Limits:
+
+- The source does not name the studies; treat the 23 to 40 percent figure as the source's claim, not a verified benchmark.
+
+Citations:
+
+- `file:acq-tone-that-converts:e637a8b8e046:p0002` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0003` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0005` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0007` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0009` (primary)
+
+### HZ-SAL-011 — Setter calls book the next step while intent is high
+
+A setter call learns the prospect's situation, goal, timeline and pain, gives a short point of view, then books the next call within about 36 hours. Invite every decision maker and assign pre-call homework the prospect chooses to take.
+
+Decision logic:
+
+- Open as if you have the right person ('John?'), state why you are calling and confirm timing.
+- Get their overview, what prompted the reply, what they tried, the big goal and by when; the 'by when' is the lever for urgency.
+- Share a short '.02' that names why the current approach is not working and hints at the fix.
+- Offer the explainer video now or on the call so the prospect owns watching it, then book within 36 hours and add co-founders or partners.
+- If they answer, finish the conversation. If no answer, double dial right away.
+
+Limits:
+
+- The local-business script takes a card on file to hold a discounted appointment. Use that only with clear terms and lawful, consented payment handling.
+- Respect calling and texting consent rules. The source says to check with legal counsel.
+
+Citations:
+
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0001` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0002` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0003` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0004` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0005` (supporting)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0007` (supporting)
