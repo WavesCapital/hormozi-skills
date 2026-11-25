@@ -1,19 +1,19 @@
 {
   "counts": {
-    "chunk_count": 7671,
+    "chunk_count": 7764,
     "duplicate_chunk_count": 521,
     "failed_source_count": 0,
     "page_image_count": 1239,
-    "page_or_section_record_count": 5577,
-    "processed_source_count": 60,
+    "page_or_section_record_count": 5662,
+    "processed_source_count": 80,
     "unique_chunk_hash_count": 7150,
     "unresolved_empty_record_count": 26,
-    "verified_file_source_count": 60,
+    "verified_file_source_count": 80,
     "visual_review_pending_count": 1192
   },
   "lineage": {
-    "chunks_sha256": "4b3927d86950d5dfc51520f7271684c916618a8e7adc8735afec00add84ede0a",
-    "manifest_sha256": "0b1b696c07f743842090d640209a5b8ae9663b617677e27b017f52cd3f486999",
+    "chunks_sha256": "5082089ce623ead73e6ec3211e97126ea2fae6e738a30b2b830688fdd0c926c9",
+    "manifest_sha256": "cc615cd06928d0e8bab6148bb9b88b28848aa4a430e18aed2ee0ec0c0bfc4f10",
     "source_path_policy": "$HORMOZI_SOURCE_ROOT for original59; $HORMOZI_CORPUS/files/originals for approved bundled additions"
   },
   "privacy": "Full extracted text, OCR, and chunks remain in the ignored private corpus.",

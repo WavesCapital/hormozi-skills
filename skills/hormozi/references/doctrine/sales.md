@@ -190,3 +190,125 @@ Citations:
 - `file:100m-playbooks-100m-closing-playbook:e7c34cd48078:p0019` (primary) — call review and one improvement.
 - `source:100m-offers-alex-hormozi:p0041` (supporting)
 - `source:100m-proof-checklist-playbook:p0018` (supporting)
+
+### HZ-SAL-009 — Run discovery as a pain cycle mapped to five labels
+
+Before the offer, set the gap between where the prospect is and wants to be. Then cycle obstacle, reason, pull teeth, recap, label and confirm until you hold problems you can solve. Finish by stacking all recaps and getting agreement.
+
+Decision logic:
+
+- Ask current result and goal first; this takes about a minute but cannot be skipped.
+- Only ask about results you can deliver. Every reason they lack the result is a reason to buy.
+- For vague, confusing or incomplete answers use the same two prompts: 'Can you tell me more about that?' then 'Can you give me an example?'
+- Recap in their words, label in yours using Marketing, Sales, Product/Delivery, People or Profit, then confirm. Repeat with 'What else is holding you back?' only if needed.
+- End with a final recap that stacks the problems, then confirm before making the offer.
+
+Limits:
+
+- The five labels fit a business-owner sale. Rename them to the categories your own offer solves.
+
+Citations:
+
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0002` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0003` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0004` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0005` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0006` (primary)
+- `file:acq-discovery-playbook:a5d5bb9f8c8f:p0007` (primary)
+
+### HZ-SAL-010 — Tone makes each scripted word do its job
+
+Keep speed, volume and clarity constant: about 150 to 170 words a minute, loud enough to hear, crisp. Change only pitch and pauses, as the script directs. Raise pitch at the end of questions and put the longest pause after the buying question.
+
+Decision logic:
+
+- Measure talk speed; reps speed up when excited or stressed.
+- Mark questions in the script and raise pitch at their end so the prospect hears a request.
+- Use short, medium and long pauses to focus attention on key words, such as 'fit... and—if so—'.
+- After asking for the sale, stop talking. The source cites studies tying 8+ second pauses to 23 to 40 percent higher close rates.
+- Know the script so well it sounds natural instead of training to sound natural.
+
+Limits:
+
+- The source does not name the studies; treat the 23 to 40 percent figure as the source's claim, not a verified benchmark.
+
+Citations:
+
+- `file:acq-tone-that-converts:e637a8b8e046:p0002` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0003` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0005` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0007` (primary)
+- `file:acq-tone-that-converts:e637a8b8e046:p0009` (primary)
+
+### HZ-SAL-011 — Setter calls book the next step while intent is high
+
+A setter call learns the prospect's situation, goal, timeline and pain, gives a short point of view, then books the next call within about 36 hours. Invite every decision maker and assign pre-call homework the prospect chooses to take.
+
+Decision logic:
+
+- Open as if you have the right person ('John?'), state why you are calling and confirm timing.
+- Get their overview, what prompted the reply, what they tried, the big goal and by when; the 'by when' is the lever for urgency.
+- Share a short '.02' that names why the current approach is not working and hints at the fix.
+- Offer the explainer video now or on the call so the prospect owns watching it, then book within 36 hours and add co-founders or partners.
+- If they answer, finish the conversation. If no answer, double dial right away.
+
+Limits:
+
+- The local-business script takes a card on file to hold a discounted appointment. Use that only with clear terms and lawful, consented payment handling.
+- Respect calling and texting consent rules. The source says to check with legal counsel.
+
+Citations:
+
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0001` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0002` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0003` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0004` (primary)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0005` (supporting)
+- `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0007` (supporting)
+
+### HZ-SAL-012 — Grade each call's decision against BANT and the script
+
+Review a recorded sales or setter call by scoring Budget, Authority, Need and Timing from what the prospect actually said, then judge whether the rep was right to move forward or stop. Each gap gets one fix tied to the script section the rep skipped, and the biggest gap gets one roleplay drill.
+
+Decision logic:
+
+- Mark each letter strong (meets the bar or the concern was resolved), weak (asked but vague), failed (clearly below the bar, even if volunteered) or never asked.
+- Default bars: can afford the price; every decision maker is on this call or the next; a specific goal plus a real obstacle; wants it solved now.
+- Moved forward with all strong is right; with weak or unasked letters it is underqualified; with any failed letter it should not have moved forward. Stopped with a failed letter is right; stopped with none is too early.
+- Fix gaps in the order Need, Authority, Budget, Timing, at most four, and start the drill on the first one.
+- If the rep stopped too early, the first fix is the ask itself: ask directly, handle the objection and ask again, or find the real concern behind a stall.
+- Booking the next call is not Timing, and business urgency is Need, not Timing.
+
+Limits:
+
+- Score only what the transcript proves; never tone, pace or guessed numbers.
+- The grade is only as good as the script and bars you give it; set the business's own bars before trusting the verdict.
+- Calls with no discovery (reschedules, confirmations, voicemails) are not scored.
+
+Citations:
+
+- `file:acq-bant-coach-skill:8ce49f2f13cb:p0001` (primary)
+- `file:acq-bant-coach-setup-guide:acf5489c40db:p0002` (supporting)
+
+### HZ-SAL-013 — Hand off every call in the same six-field note
+
+After every sales call, write handoff notes in one fixed format so the next person understands the prospect in 30 seconds without re-listening or making the prospect repeat themselves: Who, Current to Goal, Problem, Decision, Objections, Extra Notes, plus a Missing line.
+
+Decision logic:
+
+- Who: the business or situation in a few words. Current to Goal: where they are, where they want to be and by when, in numbers.
+- Problem: one category tag, what is stopping them, their exact quote, and what it costs them. Name only the most important problem.
+- Decision: who decides and who else must be on the next call. Objections: the real one, tagged Time, Money, Authority, Trust, Preference or Stall.
+- Extra Notes: up to three lines, deal breakers first.
+- Missing: list every field the call did not cover so the next call fills it in.
+- Only the prospect's statements count; newest information wins when combining calls.
+
+Limits:
+
+- Never guess or invent numbers; an uncovered field is a dash and goes on the Missing line.
+- Leave scheduling out; the calendar tracks it.
+
+Citations:
+
+- `file:acq-call-notes-skill:660638edc967:p0001` (primary)
+- `file:acq-call-notes-setup-guide:9c9410a192d7:p0002` (supporting)

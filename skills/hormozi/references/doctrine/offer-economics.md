@@ -125,11 +125,14 @@ Decision logic:
 - Remove high-cost low-value, then low-cost low-value items.
 - Retain low-cost high-value and justified high-cost high-value items.
 - Step back toward a scalable version without destroying the value driver.
+- Use the Offers course delivery cube to diverge: group ratio, effort level (DIY, DWY, DFY), support type, consumption type, speed. Run the 10x and 1/10th price test.
 
 Citations:
 
 - `source:100m-offers-alex-hormozi:p0116` (primary)
 - `source:100m-offers-alex-hormozi:p0121` (primary)
+- `file:acq-offer-creation-checklist:eecaa1856915:p0002` (supporting) — Offers course checklist.
+- `file:acq-offer-creation-checklist:eecaa1856915:p0003` (supporting) — Offers course checklist.
 
 ### HZ-OFE-006 — Enhancers amplify a real offer
 
@@ -144,10 +147,12 @@ Decision logic:
 Limits:
 
 - Legal, regulatory, platform, and claims constraints override persuasion tactics.
+- Real scarcity is a cap (total, per week or per class). Real urgency is cohort, rolling seasonal, price or bonus expiry, or an opportunity that shrinks.
 
 Citations:
 
 - `source:100m-offers-alex-hormozi:p0140` (primary)
+- `file:acq-scarcity-urgency-checklist:838e49923ac6:p0001` (supporting) — Offers course checklist.
 
 ### HZ-OFE-007 — Reverse the specific risk
 
@@ -164,6 +169,7 @@ Decision logic:
 Limits:
 
 - Do not guarantee lender approvals, financing outcomes, health, legal, financial, or other outcomes outside the business's control.
+- Match conditional guarantee terms to the activation points a customer must complete to succeed. Stacked options: conditional plus unconditional, small and big outcome, or short and long timeline.
 
 Citations:
 
@@ -171,6 +177,8 @@ Citations:
 - `file:100m-offers-alex-hormozi:9cd213f3194e:p0171` (primary)
 - `file:100m-offers-alex-hormozi:9cd213f3194e:p0178` (primary)
 - `file:100m-offers-alex-hormozi:9cd213f3194e:p0183` (primary)
+- `file:acq-unbeatable-guarantee-checklist:0e8bcbd63501:p0001` (supporting) — Offers course checklist.
+- `file:acq-unbeatable-guarantee-checklist:0e8bcbd63501:p0002` (supporting) — Offers course checklist.
 
 ### HZ-OFE-008 — Build a sequenced money model
 
@@ -216,3 +224,46 @@ Citations:
 - `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0020` (primary)
 - `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0021` (primary)
 - `file:100m-playbooks-100m-pricing-playbook:2c28f77f93ca:p0061` (primary)
+
+### HZ-OFE-011 — Pick a market that can buy, niche down, then price above it
+
+Choose a market in pain, with purchasing power, easy to target and growing. Narrow it three or four levels. Then price above the market by enough to make buyers pause, and earn that price with the value equation.
+
+Decision logic:
+
+- Check all four market traits before narrowing; a sharp niche in a market that cannot pay still fails.
+- Narrow by who, situation and method (for example health, weight loss, new mothers, keto) until the buyer recognizes themselves.
+- Set a price higher than the alternatives buyers compare, then raise dream outcome and believability and cut time and effort to justify it.
+- Treat the higher price as a test of value, not a substitute for it.
+
+Limits:
+
+- The checklist's claim that higher prices get better results is a belief to test against the business's own delivery data, not proof for every market.
+
+Citations:
+
+- `file:acq-pick-your-niche-checklist:1957d7972256:p0001` (primary)
+- `file:acq-pricing-value-checklist:620bb75832de:p0001` (primary)
+
+### HZ-OFE-012 — Stack named bonuses instead of discounting
+
+Add bonuses after the price is said, each solving a perceived problem or the buyer's next problem, named with a benefit and given a justified price tag. Stack bonuses rather than cut price. Name the offer with M-A-G-I-C and refresh it by changing the cheapest parts first.
+
+Decision logic:
+
+- List the problems a buyer still sees after the core offer; give each a bonus. Prefer tools and checklists over more training because they cost the buyer less time and effort.
+- For each bonus say how it relates to their issue, what it is, what it does and how it makes things faster or easier, with a stat, past client or personal proof.
+- Consider other companies' products as bonuses, ideally with negotiated discounts, exclusive terms and an affiliate commission.
+- Name with M-A-G-I-C: a magnetic reason why, the avatar, a goal, a time interval and a container word. Use shorter intervals for bonuses.
+- When results fade, refresh in reverse order of difficulty: creative, then body copy, then headline, then duration, then the free or discount enhancer, then the monetization structure.
+
+Limits:
+
+- Every stated bonus value must be supportable. Do not invent price tags or scarcity on bonuses (HZ-OFE-006).
+
+Citations:
+
+- `file:acq-bonus-creation-checklist:8bd99a9792e9:p0001` (primary)
+- `file:acq-bonus-creation-checklist:8bd99a9792e9:p0002` (supporting)
+- `file:acq-product-naming-checklist:fb25da586425:p0001` (primary)
+- `file:acq-product-naming-checklist:fb25da586425:p0002` (primary)

@@ -1,17 +1,21 @@
 # Doctrine Index
 
-This map contains 50 material rules across six operating modes plus shared rules for clear writing, synthesis, and safety.
+This map contains 63 material rules across six operating modes plus shared rules for clear writing, synthesis, and safety.
 
 This map holds guidance and source locators, not original pages or transcripts. Use `scripts/corpus.py` to find the checked source in the installed library or a supplied source folder.
 
 ## Modes
 
 - [Diagnose & Sequence](diagnose.md): 6 material rules
-- [Offer & Economics](offer-economics.md): 10 material rules
-- [Demand](demand.md): 9 material rules
-- [Sales & Conversion](sales.md): 8 material rules
+- [Offer & Economics](offer-economics.md): 12 material rules
+- [Demand](demand.md): 11 material rules
+- [Sales & Conversion](sales.md): 13 material rules
 - [Customer Value](customer-value.md): 7 material rules
-- [Team & Operations](team-operations.md): 6 material rules
+- [Team & Operations](team-operations.md): 10 material rules
+
+## Free Acquisition.com Resources
+
+For the free playbooks, Offers course checklists, Sales Team Scaling Kit, hiring and firing docs, the BANT Coach and Call Notes skills and the Vibe Editing guide, read [the free resources map](acquisition-free-resources-review.md). It lists each source key, page range, link and rule.
 
 ## Shared Rules
 
