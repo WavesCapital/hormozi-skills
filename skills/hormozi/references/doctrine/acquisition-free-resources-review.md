@@ -9,6 +9,8 @@ These are short lead magnets and course handouts. Most end with a workshop pitch
 - **Discovery Playbook** — `acq-discovery-playbook:a5d5bb9f8c8f`, 7 pages. How closers run discovery: set the gap, then a pain cycle of obstacle, reason, pull teeth, recap, label, confirm, repeat. Five labels: Marketing, Sales, Product/Delivery, People, Profit. Rule [HZ-SAL-009](sales.md). [Source](https://www.acquisition.com/hubfs/%5BLead%20Magnet%5D%20Discovery%20Playbook_%20How%20the%20Best%20Closers%20Run%20a%20Discovery%20Call.pdf).
 - **Use Tone That Converts** — `acq-tone-that-converts:e637a8b8e046`, 9 pages. Keep speed (150 to 170 words a minute), volume and clarity fixed. Use pitch to mark questions and pauses to focus words. The longest pause goes after the buying question. Rule [HZ-SAL-010](sales.md). [Source](https://www.acquisition.com/hubfs/%5BLead%20Magnet%5D%20Free%20Sales%20Team%20Training_%20Use%20Tone%20That%20Converts.pdf).
 - **$100M Leads Warm Outreach Downloads** — `acq-leads-warm-outreach-downloads:955dfcd6c322`, 12 pages (page 9 is blank). Three pieces: a B2B setter script (p1–4), a local-business booking script with card-on-file overcomes (p5–8), and an organic DM strategy with A-C-A and the "anyone you like?" referral ask (p10–12). Rules [HZ-SAL-011](sales.md) and [HZ-DEM-010](demand.md). [Source](https://www.acquisition.com/files/$100M-leads-warm-outreach-downloads.pdf).
+- **BANT Coach skill** — `acq-bant-coach-skill:8ce49f2f13cb` (the SKILL.md) and `acq-bant-coach-setup-guide:acf5489c40db` (6-page setup guide). A Claude skill that grades a call transcript against your script and BANT, says if the rep was right to book, sell or stop, gives up to four fixes and one drill. It ships with a blank `script.md` you fill in; that template was not bundled. Sent by email after a signup form on November 25, 2026. Rule [HZ-SAL-012](sales.md). [Skill zip](https://links.acquisition.com/hubfs/Lead%20Magnets/100M%20Sales%20Teams%20-%20Skills/bant-coach.zip).
+- **Call Notes skill** — `acq-call-notes-skill:660638edc967` (the SKILL.md) and `acq-call-notes-setup-guide:9c9410a192d7` (6-page setup guide). A Claude skill that turns a call transcript into six-field handoff notes plus a Missing line. Sent by email the same way. Rule [HZ-SAL-013](sales.md). [Skill zip](https://links.acquisition.com/hubfs/Lead%20Magnets/100M%20Sales%20Teams%20-%20Skills/call-notes.zip).
 
 ## Team
 
@@ -44,7 +46,6 @@ These free Acquisition.com downloads were already bundled before this pass: the 
 
 ## Not collected
 
-- **BANT Coach skill** and **Call Notes skill** (acquisition.com/bant-coach-skill, /call-notes-skill). Free Claude skills, but sent only by email after a name, email and phone form.
 - **Sales Team Scaling Kit** email bundle. The workbook and training are public; the emailed copy was not requested.
 - Workshop itineraries, FAQs and event guides (`Vegas Unlocked`, `VAM Prework Guide`). Attendee logistics, not business methods.
 - Paid books, courses and workshops.

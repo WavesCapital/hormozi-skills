@@ -265,3 +265,50 @@ Citations:
 - `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0004` (primary)
 - `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0005` (supporting)
 - `file:acq-leads-warm-outreach-downloads:955dfcd6c322:p0007` (supporting)
+
+### HZ-SAL-012 — Grade each call's decision against BANT and the script
+
+Review a recorded sales or setter call by scoring Budget, Authority, Need and Timing from what the prospect actually said, then judge whether the rep was right to move forward or stop. Each gap gets one fix tied to the script section the rep skipped, and the biggest gap gets one roleplay drill.
+
+Decision logic:
+
+- Mark each letter strong (meets the bar or the concern was resolved), weak (asked but vague), failed (clearly below the bar, even if volunteered) or never asked.
+- Default bars: can afford the price; every decision maker is on this call or the next; a specific goal plus a real obstacle; wants it solved now.
+- Moved forward with all strong is right; with weak or unasked letters it is underqualified; with any failed letter it should not have moved forward. Stopped with a failed letter is right; stopped with none is too early.
+- Fix gaps in the order Need, Authority, Budget, Timing, at most four, and start the drill on the first one.
+- If the rep stopped too early, the first fix is the ask itself: ask directly, handle the objection and ask again, or find the real concern behind a stall.
+- Booking the next call is not Timing, and business urgency is Need, not Timing.
+
+Limits:
+
+- Score only what the transcript proves; never tone, pace or guessed numbers.
+- The grade is only as good as the script and bars you give it; set the business's own bars before trusting the verdict.
+- Calls with no discovery (reschedules, confirmations, voicemails) are not scored.
+
+Citations:
+
+- `file:acq-bant-coach-skill:8ce49f2f13cb:p0001` (primary)
+- `file:acq-bant-coach-setup-guide:acf5489c40db:p0002` (supporting)
+
+### HZ-SAL-013 — Hand off every call in the same six-field note
+
+After every sales call, write handoff notes in one fixed format so the next person understands the prospect in 30 seconds without re-listening or making the prospect repeat themselves: Who, Current to Goal, Problem, Decision, Objections, Extra Notes, plus a Missing line.
+
+Decision logic:
+
+- Who: the business or situation in a few words. Current to Goal: where they are, where they want to be and by when, in numbers.
+- Problem: one category tag, what is stopping them, their exact quote, and what it costs them. Name only the most important problem.
+- Decision: who decides and who else must be on the next call. Objections: the real one, tagged Time, Money, Authority, Trust, Preference or Stall.
+- Extra Notes: up to three lines, deal breakers first.
+- Missing: list every field the call did not cover so the next call fills it in.
+- Only the prospect's statements count; newest information wins when combining calls.
+
+Limits:
+
+- Never guess or invent numbers; an uncovered field is a dash and goes on the Missing line.
+- Leave scheduling out; the calendar tracks it.
+
+Citations:
+
+- `file:acq-call-notes-skill:660638edc967:p0001` (primary)
+- `file:acq-call-notes-setup-guide:9c9410a192d7:p0002` (supporting)

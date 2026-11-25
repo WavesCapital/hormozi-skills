@@ -8,8 +8,8 @@ index. Re-running with the same spec skips sources that are already present.
 
 Spec fields per entry: ``path`` (local file), ``bundled_original`` (relative path
 under originals), ``slug``, ``title``, ``category``, ``canonical_url``,
-``baseline_owner``. PDFs are split with ``pdftotext``; ``.txt`` files become one
-record.
+``baseline_owner``. PDFs are split with ``pdftotext``; ``.txt`` and ``.md`` files become
+one record.
 """
 
 from __future__ import annotations
